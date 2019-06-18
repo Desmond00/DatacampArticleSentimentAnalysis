@@ -1,0 +1,27 @@
+﻿commentedBy,commentMessage,upvotes,commentDate
+Samuel Victor Medeiros Macêdo,I have to say: thank you.  It's a great tutorial :),4,13/03/2018 07:51 AM
+Alejandro Salcido,Thanks!  This tutorial is quite understandable!,2,14/03/2018 09:52 PM
+Bruno Coelho,"This tutorial looks great, but keras package is not installed in the examples:",3,15/03/2018 12:51 AM
+Rahma MEDDEB,"hi,",2,02/04/2018 09:22 PM
+metroac,"Hello,",1,03/04/2018 03:05 AM
+Manal ali,Thanks Karlijn for great effort. ,3,07/04/2018 06:21 PM
+MARCOS GRZECA,"Congratulations, very good.",1,11/04/2018 06:31 AM
+Wenfang Cai,"Hi,  this is a extremely great tutorial, I have learned a lot from this tutorial.",1,14/04/2018 11:42 PM
+Mahfoud Sidi Ali Mebarek,"Note that normalization will result in shrinking the matrix to 4 columns, which will erase the labels (5th column) and result in errors when getting the training and test targets, I did the following to solve it :",4,21/04/2018 02:57 AM
+Jan Eite Bullema," A little error in this line, should be save_model_weights_hdf5(model, ""my_model_weights.h5"", but otherwise an excellent tutorial",1,22/05/2018 02:25 PM
+Riddhi Dutta,Hi. Thanks for sharing this wonderful tutorial. ,1,12/07/2018 04:01 AM
+Arpit Yadav, I am getting error like:,2,25/07/2018 08:02 PM
+Alex Toussant,"I used this with a different data set that has unbalanced outcomes. I am having trouble getting the mlp to predict outside of the largest set of outcomes (ie it only predicts false for all rows, when there are 43 trues in 12,243 cases). Anyone have thoughts? ",1,03/08/2018 01:36 AM
+Caterina Cevallos,It would be amazing if you did a keras cheat sheet for R version!,1,05/09/2018 11:34 AM
+Steven Njuki,A great article thanks a lot!! ,1,04/10/2018 11:45 PM
+Marcel Steiner-Curtis,"Very good tutorial! Thanks a lot.
+If you normalise the data would it not be better to normalise the trainingset and the testset individually?
+Otherwise (I  belive) you mix information from the whole dataset which contains the testset into the trainingset.
+What is a comon practice?
+",1,13/01/2019 08:27 PM
+Jiaxiang Li,I get this error when I choose install keras from github.,1,21/01/2019 04:17 PM
+Bunyod Tusmatov,"Thank you for the article. Very easy to understand!  There seems to be an error with the normalization part. It gives Error in iris[ind == 1, 5] : subscript out of bounds  because ",1,04/02/2019 07:49 AM
+ibu int,"Hi,",1,20/02/2019 03:10 PM
+Nicky Hekster,The tutorial exhibits a lot of errors: from the normalize() exercise: ,1,28/03/2019 01:00 AM
+Robert Pack,Error message there is no keras,2,24/05/2019 03:30 AM
+mounica Revuru,"How do we assign weights? assiging of weights initially also plays a major role. so, how are they assigned using keras?",1,12/06/2019 03:40 PM

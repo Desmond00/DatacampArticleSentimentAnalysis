@@ -1,0 +1,8 @@
+﻿commentedBy,commentMessage,upvotes,commentDate
+Zhongshuai Cao,Great article! Wish DataCamp can have e a text analysis python course!,3,15/10/2018 07:31 PM
+Hira Asim,"I am new to python and using Spyder. I am unable to install and import 'gensim' and I am getting this error  ""No module named 'gensim' whenever I try to run the command ""from gensim import corpora"". Kindly help me with this. Thanks and Regards.",2,04/12/2018 01:29 PM
+Mark Kan,Isn't it ,3,21/02/2019 08:01 AM
+Che Be,I have a problem when I want to plot topics  and compute the coehrence  compute_coherence_values and plot ,3,23/03/2019 06:03 PM
+Devin Gonier,Lets say I want to do sentiment analysis on the topics identified. How do I then identify the topics with my model in a new corpus?,2,14/04/2019 09:18 PM
+VISHWANATH DODDAMANI,How do I compare this with vector space in terms of document similarity?,1,29/04/2019 10:34 PM
+Bibek Mishra,"Great Article on Topic Identification. While running the data load step, I encountered issues as there are unrecognized characters in the input file.  Converting the input to 'utf-8' solved the issue for me. Just wanted to let you know.",1,27/05/2019 12:14 AM

@@ -1,0 +1,19 @@
+﻿commentedBy,commentMessage,upvotes,commentDate
+Yzat Abd,Thanks for your work,4,21/10/2018 04:24 AM
+fadili driss,Good job,4,23/10/2018 09:59 PM
+Enes POLAT,Awesome ,4,23/10/2018 10:39 PM
+Vinicius D'Moura,Very good content! Thanks,4,25/10/2018 04:33 AM
+Kgabe Ronald Molepo,It was very informative as I’ve always wanted to explore GUI in python but didn’t know how,4,29/10/2018 04:09 AM
+,"Hello!
+I'm only familiar with the basics of python , so my question is ; is that enough to dive in to this tutorial or I should work more on my skills regarding python ?!",2,05/11/2018 12:13 AM
+Branko Nikolic,GREAT Informations,2,06/11/2018 11:13 PM
+Luis Rivas,"Wow, this is an AMAZING tutorial! Thank you so much!",2,12/11/2018 02:57 AM
+Fabio Classo,"Nice job, thank's!",2,12/12/2018 11:22 PM
+Enes POLAT,First of all this is amazing tutorial. Thanks,1,13/12/2018 02:56 PM
+Nilesh Rajpurohit,i have error in my code for mouse clicking event topic ,1,01/01/2019 07:25 PM
+NEHA SAWANT,My question is how to add a label on a image in python,1,05/02/2019 07:54 PM
+Raguram Sathasivam,how to insert an image in the top right corner of the window in grid layout,1,21/02/2019 02:45 PM
+Kensuke Saito,"In the Classes chapter, there are some errors in __init__ function and say_hi function. You'll need to put self.window = window in __init__ function and call self.window instead of window at the tkinter.Label in the say_hi function.",1,27/03/2019 02:42 PM
+Christian Hernandez,What is the code editor you're using?,1,22/04/2019 04:45 AM
+Illia Kuksenko,"Hi , I'm using Python 3.7.1 and when I tried the example from the paragraph 11. Alert Box , particularly  this  piece  of code:",1,03/05/2019 12:19 AM
+Sai Prasanth,In calculator program  what is the use of lambda. Why it is not working is the function is a normal function(not lambda function),1,14/06/2019 10:57 AM

@@ -1,0 +1,4 @@
+﻿commentedBy,commentMessage,upvotes,commentDate
+Eric Strew,Elaborating  the use of _ as a placeholder / temp variable in the article would have been a  good addition. If I'm not mistaken the Python REPL also stores the result of the last expression it evaluated in a variable called _. If you can then please do update the article. walking for weight loss,1,27/11/2018 07:40 PM
+Reza Sugiarto,great article about underscore!,1,13/02/2019 10:48 AM
+Liangzhi Tang,"The usage is explained very well.  However,  the motivation of the design for Double Pre Underscore is not that clear",2,31/05/2019 02:15 PM

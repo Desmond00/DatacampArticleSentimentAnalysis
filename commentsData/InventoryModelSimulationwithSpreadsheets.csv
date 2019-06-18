@@ -1,0 +1,3 @@
+﻿commentedBy,commentMessage,upvotes,commentDate
+Rajashekar Reddy,  Good  ,1,29/05/2019 08:27 AM
+Tym Burman,"Great article, thanks. I am new to Inventory Management and am struggling to model a SKU sold to multiple customers. The SKU has approximately 6-week supplier lead-time and 'lumpy' customer demand. In my case, EOQ does not cover average demand during supplier lead-time. Additionally, there is a risk of customers surprising us with large orders which could cause stock-out for other customers of same SKU. Can anyone suggest a good primer to get me started without drowning me in detail? Thanks.",1,03/06/2019 07:54 PM

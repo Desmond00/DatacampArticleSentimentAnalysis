@@ -1,0 +1,13 @@
+﻿commentedBy,commentMessage,upvotes,commentDate
+Ashik Shafi,"You mentioned Random Forest  in the ""Model Generation"" paragraph at the bottom while discussing NB. Was it a typo or you actually mean RF? Are RF and NB same thing?",4,11/12/2018 09:13 PM
+Samuel S,"Thanks, interesting tutorial. The ""Zero Probability Problem"" is a good hint.",2,13/12/2018 04:22 AM
+Abhishri Medewar,doesnt work for python3??,2,15/12/2018 01:52 PM
+Agustín Guíñez Reyes,"Thanks for the tutorial, It's very useful!  I am new here, so I was wondering if there is a way to download directly the whole python script or it is necessary to copy and paste the entire code chunk by chunk.",1,17/12/2018 05:43 AM
+Nithya Grace Nexo,"I get an  error while executing model.fit(features,label) in the weather forecast data. Please help me fix it.",2,26/01/2019 10:47 AM
+suwarna choudhary,"Hi Avinash Ji, I have gone through many tutorials of your. All have been fantastic and very helpful. I really want to thank you . It is a great  community service you have been doing. All the tutorials are very easy to understand and immensely informative.",2,07/02/2019 04:28 PM
+Odalys Paz Mendoza,sklearn  applies Laplace smoothing by default when you train a GaussianNB  ??????,1,11/02/2019 10:14 PM
+久 宇,If you use that,3,18/03/2019 08:36 AM
+Daniel R Matos,"Hi, in Naive Bayes with Multiple Labels, the correct model are MultinomialNB? Why did You used GaussianNB.",2,24/03/2019 07:34 AM
+Noris Junior,"Good article. But in ""Probability of not playing"":  ""2. Calculate Posterior Probabilities: P(Weather=Overcast |Play=No) = 0/9 = 0"", although the result is correct, the math is 0 / 5 not 0 / 9.",2,28/03/2019 12:35 AM
+Ritik Ranjan Baidyanath,"Fine tutorial, easy to learn and well understood. ",2,24/04/2019 09:42 PM
+rohit kamboj,Very good Tutorial,1,01/06/2019 07:17 AM

@@ -1,0 +1,5 @@
+﻿commentedBy,commentMessage,upvotes,commentDate
+Laurent Stanevich,"I think it would be really valuable to wrap up with comparative time-space analyses of the recursive and iterative solutions, to help people understand why -- if recursive algorithms are so much more elegant -- they'll very rarely (if ever) see them in a professional development context.",2,07/01/2019 07:59 PM
+Prajwal Gangadhar,Shouldn't the termination relation for the first code snippet be n<1 and not n<=1 ?,1,19/02/2019 02:26 PM
+Prajwal Gangadhar,"ahttps://res.cloudinary.com/dyd911kmh/image/upload/f_auto,q_auto:best/v1545231369/graphic-1_s2iath.png",1,19/02/2019 02:34 PM
+Prajwal Gangadhar," ""Whenever you see a function call for the second time you are going to pop it. """,1,19/02/2019 04:10 PM

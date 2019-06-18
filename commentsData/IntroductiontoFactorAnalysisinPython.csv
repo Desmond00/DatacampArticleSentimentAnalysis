@@ -1,0 +1,3 @@
+﻿commentedBy,commentMessage,upvotes,commentDate
+shantanu oak,I am getting this error :  AttributeError: 'FactorAnalyzer' object has no attribute 'analyze',8,13/04/2019 01:37 PM
+Eduardo Cruz,"since ev is a DataFrame, I had to use plt.scatter(range(1,df.shape[1]+1),ev['Original_Eigenvalues']) so I could get the scree plot to show correctly, otherwise the y axis ticks would take on the actual values of the 'Original Eigenvalues' series. Not sure if this is just an issue on my machine/system.",1,01/05/2019 07:22 PM

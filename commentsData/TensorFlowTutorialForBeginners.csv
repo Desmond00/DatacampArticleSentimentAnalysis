@@ -1,0 +1,55 @@
+﻿commentedBy,commentMessage,upvotes,commentDate
+Mofakharul Islam,"Having a bit of trouble, perhaps my understanding isn't quite there. While I attempted to import Belgian Traffic Signs datasets into my tensorflow workspace getting the following error message;",3,19/02/2018 03:55 PM
+zimborodger,Hi.,1,21/02/2018 05:02 PM
+Eirik Lid,"Hi,",2,28/02/2018 07:05 PM
+Radu Paul Mondescu,"The skimage.data,imread - cannot find in any package - I guess we need scikit-image ? but what version ? ",2,02/03/2018 12:03 AM
+Radu Paul Mondescu,you are transforming labels between np.array and list - I think is a bit confusing,2,02/03/2018 01:12 AM
+Anu V Vivin,For asp.net check below url will help,1,16/03/2018 11:09 AM
+M NF,I am new to this field . will this classifier works for other object(any word or character) ?    ,2,20/03/2018 10:05 PM
+Reinaldo Cevallos,I am new to neural networks and trying to conceptualize this code. There is no hidden layer here right? ,4,28/03/2018 10:15 PM
+milicakovjanic89,Hi.,1,03/04/2018 03:41 AM
+Ariyo Apakama,insightful,3,03/04/2018 08:57 PM
+brostami,"I am new to tensorflow. I tried the code but I got the error ""undefined name skimage"". I think I should install that package? am I right? But I could not find how to download the package! would you please provide some hint? Also, I read some parts of the notebook is linked at the start of the tutorial. Thank you. ",1,13/04/2018 12:10 AM
+himansu odedra,"Hi, was wondering if you could help me with the following. Just trying to load the data into python (i'm using anaconda) and everything goes well however I have noticed that my images list only contains 15 files. This is really odd my code is somewhat identical to yours as well. Please help thank you ",1,24/04/2018 01:50 AM
+Bruno Gonçalves,"Hello, in the last part when I try to run the test set , it returns the following error:  ",1,25/04/2018 01:03 AM
+Jae Duk Seo,Great tutorial!,1,10/05/2018 03:48 AM
+Björn Lindqvist,"One line of one code sample should be changed from print(""Loss: "", loss) to print(""Loss: "", loss_value)",2,11/05/2018 06:18 PM
+long xie,非常棒的入门教程，谢谢楼主分享,1,16/05/2018 09:26 AM
+Marias Mo,"Hi Karlijn,",4,31/05/2018 02:48 AM
+S Rao,Thought it was a free tutorial.,1,31/05/2018 11:09 AM
+Nickolai Hazen,"I don't quite understand how np.array() is supposed to function. I can use the LoadData function fine, but when I run the next code snippet in IDLE, I get this error:",3,01/06/2018 08:53 PM
+Sourabh Kulkarni,"Hi Karlijn,",2,03/06/2018 07:30 PM
+Soumyadip Majumder," logits = tf.contrib.layers.fully_connected(images_flat, 62, tf.nn.relu) ",1,04/06/2018 05:43 PM
+Mohammad Sharifi,"very helpful, thank you",1,06/06/2018 03:54 PM
+Harshali Patel,Really nice and in depth article on Tensorflow. Tensors were explained in very detail. You can read more on tensorflow applications for more clarity. ,1,11/06/2018 03:07 PM
+Jon Mateo,"Hi Karlijn, ",1,20/06/2018 11:12 PM
+Gowtham R,,1,01/07/2018 05:26 PM
+saroj kumar, Great Tutorial. Thanks for taking us through tensorflow. I can write ablog like tensorflow  interview questions ,1,05/07/2018 02:35 PM
+Vova Kuzmenkov,"Hello Karlijn,",1,17/07/2018 10:22 PM
+Jaan Olev,Nice project. Thanks!,1,23/07/2018 03:13 PM
+Giri Annamalai,"At ""Loading And Exploring The Data"", in the load_data() ",2,26/07/2018 06:41 PM
+vinay TURPATI,colaboratory it was showing errors,1,06/08/2018 05:58 PM
+ASEEM GOYAL,How did we reach the conclusion that `epochs` will be `201`?,3,19/08/2018 01:27 PM
+KISHORE K,Very nice.Can you tell me how can we increase the accuracy by changing any parameters?,2,17/09/2018 07:02 PM
+Dwight Foster,I am getting this error when I try to run my code,0,19/09/2018 04:08 AM
+Jiwoo Lee,"Hi, thank you for the wonderful tutorial. I am very new to TF, and this tutorial helps me a lot to get insight. One question I have is, following the tutorial, at the end I get Acurracy as 0.0, not sure if it is supposed to be. Thank you.",1,10/10/2018 10:58 AM
+Yao Boxu,Full Code partI:,1,11/10/2018 06:45 AM
+Yao Boxu,"x = tf.placeholder(dtype = tf.float32, shape=[None, 28, 28])",1,11/10/2018 06:53 AM
+Yao Boxu,for i in range(201):,1,11/10/2018 06:54 AM
+Yao Boxu,for i in range(201):,1,11/10/2018 06:54 AM
+Yao Boxu,"test_images, test_labels = load_data(test_data_directory)",1,11/10/2018 06:55 AM
+Onur Can Yücedağ,"Karlijn, it is great tutorial thanks for sharing it.",1,15/10/2018 06:46 PM
+Samer Choudhary,Where do we get the data set for use in this tuitorial,1,26/10/2018 12:14 PM
+Shila Liao,Hi ,2,31/10/2018 09:13 PM
+JiangBo Shi,"when I try to use the LDA to implement the Dimension reduction on the training data, my accuray is down to 0.157 .",1,26/11/2018 12:27 PM
+Erlend Nikolaisen,The menu apear an disapear randomly and the page then moves up and down with it on my Samsung Galaxy tab. That make this page unreadable.,1,20/12/2018 08:47 PM
+Agostino Bruno,"Hi, ",1,08/01/2019 08:47 PM
+john choi,"This might be very useful in understanding Tensorflow. However, if I would like to run the program in file form, like runing C programs, instead of Interactive form, I have to learn the ways to do programming in file form, creating, modifying, and running the tensorflow program. How can I do it? Long time ago I was working as a 'C' programmer",1,19/01/2019 11:40 PM
+Sumit Kumar,easy to understand!!!!,1,09/04/2019 12:01 PM
+Bikramaditya Padhi,Awesome,1,11/04/2019 06:45 PM
+Konark Nigam,name 'skimage' is not defined,1,23/04/2019 10:11 AM
+RAJESH SAHU,good explanation for the new comer to tensorflow,1,10/05/2019 03:57 PM
+Raja Sekar,"Hi,",1,24/05/2019 07:12 PM
+Matteo Drusiani,"Hi! When I try to run the section "" Modeling The Neural Network"" of the Jupyter Notebook related to this tutorial I get ",1,11/06/2019 08:36 PM
+Aamira Abid,Check out the interesting private fb downloader  https://vidflu.com/private-downloader.php ,1,13/06/2019 12:02 PM
+Oskar Paulsson,"When I try to run the script for the load_data function I get an error message saying ""NameError: name 'os' is not defined"" at the line:",1,15/06/2019 03:29 PM
