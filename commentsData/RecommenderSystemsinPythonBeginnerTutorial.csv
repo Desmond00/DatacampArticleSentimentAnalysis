@@ -1,0 +1,29 @@
+﻿commentedBy,commentMessage,upvotes,commentDate
+nxmohamad,Where can I get the dataset? the movies csv,12,11/03/2018 11:31 AM
+Leonardo Vilela Ribeiro,dude! that's great. thank you a lot !,2,15/03/2018 05:57 AM
+Abbas Zahid,"I am not able to get pass through
+tfidf_matrix.shape
+out[] : (45466, 75827)
+cosine_sim = cosine_similarity(tfidf_matrix,tfidf_matrix)
+This cosine_sim give me an error:  array is too big; `arr.size * arr.dtype.itemsize` is larger than the maximum possible size.
+Any idea whats wrong with this ?",2,21/03/2018 07:08 PM
+Morgan Murphy,"This article was very helpful- thank you, Data Camp! I used the code to create a recommender for wines based on wine descriptions, so content-based all the way. I also included an option for a fuzzy wuzzy search since users would need to enter wine titles exactly, which is probably unlikely.  ",1,07/04/2018 12:42 AM
+Raman Prabhakar,"I got memory error when i tried to implement the linear_kernel(tfidf_matrix, tfidf_matrix). I have an 8gb ram i5 computer. Wonder why this is happening.",2,09/04/2018 03:39 PM
+Suryakant Tomar,Please tell me that from where.. I can find this data set,2,11/06/2018 09:36 AM
+Anurag Mittal,How can i download this dataset??,6,26/06/2018 12:09 PM
+Zuriati Wenger,Great tutorial.!,2,29/06/2018 03:30 PM
+Saikat Biswas," ValueError: invalid literal for int() with base 10: '1997-08-20'   , i am getting this error when i am going to typecast all id  to int...How to fix it..",0,04/08/2018 01:42 PM
+John Fedinandi,this documment is so good ....l proud to learn it,1,15/08/2018 02:40 PM
+Ghulam Mehmood,kindly share dataset link,1,13/10/2018 11:17 AM
+Kavya Ramachandra,where can we find the dataset for this ? ,1,03/11/2018 04:49 AM
+Prikshit Setia,Great Work,1,11/11/2018 11:41 PM
+Narendra Chintala,"Great Article, Thanks. I would like to know how to develop these algorithms in real time and deploy them for real time projects? ",1,26/11/2018 11:18 AM
+Saad Farhan,Can you provide the data set you used?,3,05/12/2018 05:52 PM
+Ch Ahmad,Can you please tell me why i am getting this error in Content base algorithm?,1,06/12/2018 05:38 AM
+Konrad Borowiec,You can get the data in JSON format by streaming it through API:,1,01/01/2019 05:05 AM
+Dhruv Bishnoi,Can you please share the data ? ,1,20/01/2019 11:28 PM
+androidapps nexus,"Hi, Can you please explain why did you use  ""tfidf_matrix "" in multiplying with itself in linear kernel("" cosine_sim = linear_kernel(tfidf_matrix, tfidf_matrix) "") ? As per my understanding we should use another matrix to find the similarity between the documents. ",1,24/01/2019 11:23 AM
+Bharat Satija,"How to Implement Collaborative filtering when user doesn't give the rating. And instead of rating user provide feedback which can either be ""liked the book"", ""disliked the book"" or ""not interested"" ?",1,14/04/2019 06:44 PM
+Olivia Wang,Great article! I followed the tutorial and successfully built a small recommender system for books. I encountered two problems as I tried to improve my recommender system.,1,09/05/2019 03:05 PM
+Nandan Pandya,This is a great article....I have build a recommender using the steps shown here. but i have an issue with key error as the search is case sensitive. What should i do make it run with any case i.e lower or upper. For ex. It gives me a key Error if i use 'the dark knight'. Please let me know your thoughts,1,13/05/2019 07:04 AM
+Ian de Oliveira,Where do I find the data for this tutorial?,1,22/05/2019 05:51 AM

@@ -1,0 +1,32 @@
+﻿commentedBy,commentMessage,upvotes,commentDate
+Aritra Chatterjee,This is amazing. I really liked the tutorial. Very few articles written like this for topic modelling. Thank you for such upload.,6,23/06/2018 10:06 AM
+Xuezhou Liu,"great  article, amazing at topic models visualizing.",4,25/06/2018 06:16 AM
+syntereo,"Hi Debbie, wonderful series. I did not find downloads for the data files?",3,27/06/2018 12:36 AM
+RUBEN ADAD,"
+
+
+
+
+50/5000
+",3,27/06/2018 04:57 AM
+Billy Hall,great tutorial! Thank you for such detailed and carefully prepared explanations. I would like to try some of these techniques but can't seem to find any link so I can see the structure and format of your source files. Are you planning on adding access to those files?,3,27/06/2018 08:22 AM
+ryantgreenlaw,"Hey, this series is great, thanks for writing all of this! Would you mind editing the old articles and adding links to the new ones as you go? It took some digging to find this one",4,27/06/2018 08:19 PM
+達立 楊," Hi Debbie, ",3,28/06/2018 08:11 AM
+Vlad Simion,"Hi Debbie, ",3,28/06/2018 01:40 PM
+Lorre Atlan," Hi Debbie, great tutorial! Can you describe how you created the balanced documents? Also, did you try this exercise with unbalanced word counts across documents, if so what shortcomings/repercussions did you see? Thanks! ",3,29/06/2018 01:44 AM
+Debbie Liske,"Hoping to get the links to the data files posted on Monday, July 2nd. Will keep you posted here.",3,30/06/2018 01:11 PM
+Muhammad Haad Bodla,Excellent series of articles. Thank You so much.,3,02/07/2018 01:36 AM
+Debbie Liske,Here are the links to the data files:,4,02/07/2018 11:27 PM
+Leon Schelhase,"Thank you Debbie. This series of articles is excellent and hugely helpful. I have been dabbling in text analytics for a year or so now, and your tutorials together with the tidytext package have been the most informative and presented in a way that its easy to follow along and adapt if necessary.",3,14/07/2018 08:22 PM
+Vikas Kumar Dwivedi,"Hi Debbie,",4,24/07/2018 11:03 PM
+Srinivas Pradeep,"Hi Debbie, This is wonderful. I have been hunting for the article on topic modeling . This was one of the best. ",2,22/08/2018 10:43 AM
+Tobias Buchmann,"Great tutorial, liked it a lot! Do you already know when you will publish the next chapter?",2,11/09/2018 04:36 PM
+Leon Schelhase,"Hi Debbie,",2,18/09/2018 10:08 PM
+Laura C.,"Hi Debbie, thank you so much for these informative and well-researched tutorials! They actually inspired me to start my own work on text mining and topic modelling, currently I'm trying it on a dataset with over 20,000 songs of various genres. I was having some trouble setting up the clean NLP package for POS-tagging, though and was wondering whether you might have any tips or recommendations how to properly connect to the Python or Java back-end? (since for some reason it won't work for me yet, I tried the Spacy library from Python...) ",2,28/09/2018 08:56 PM
+Ahmed Khan,"Hello Debbie,",2,13/10/2018 06:53 AM
+Nivesh Tayal,"Hi Debbie,",2,16/10/2018 11:06 PM
+Debbie Liske,Scheduled release date for Part 3 is November 26!,1,18/10/2018 02:46 PM
+Ecology iDiv,I have tried to create the just for fun image.   This can be found at the top of this tutorial.  I created my own images because I could not find prepared images for this tutorial.  All the images are JPEGs and the same dimension.    I get this error: Error in .CELL.DATA[[1]] : subscript out of bounds.,2,18/10/2018 05:25 PM
+Ecology iDiv,"Why is it important that the ""data such that each writer (source) has the same number of words .""  This is the early in this tutorial.",1,19/10/2018 05:55 PM
+Debbie Liske,Part 3 published today: https://www.datacamp.com/community/tutorials/predictive-analytics-machine-learning,1,09/01/2019 08:08 PM
+Workneh Yilma Ayele,"Hi Dear,  I have the following error Kmeans",3,10/02/2019 03:05 AM

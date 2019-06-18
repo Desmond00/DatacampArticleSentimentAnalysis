@@ -1,0 +1,19 @@
+﻿commentedBy,commentMessage,upvotes,commentDate
+Fernando Augusto Deheza Zambrana,Genial!!! Gracias.,2,01/05/2018 08:50 PM
+Alejandro Jaramillo,"Nice introduction. Just a small typo in the example: Before the first figure the text has different probabilities than below, it should be instead   "" When she is sad and goes for a run, there is a 60% chances she'll go for a run the next day, 30% she gorges on icecream and only 10% chances she'll spend sleeping the next day. "" ",2,02/05/2018 08:13 PM
+Abdoulaye Diallo,"Thanks, in verification of the sum, The third transition matrix should be index 2. ",3,03/05/2018 02:44 AM
+antoniomario,Great tutorial. Keep'em coming! Thanks.,1,28/05/2018 07:04 PM
+Daniel de Aguiar,"Are the Run values correct? In the text and in the transitionMatrix you defined the the Run probabilities as RR = 0.3; RS = 0.1; RI = 0.3, but in the code you defined the those values as RR = 0.5; RS = 0.2 and RI = 0.3. Thank you in advance and great article!!",1,30/05/2018 11:23 PM
+imanditerlumun,Wonderful model. Very educational. ,1,01/06/2018 04:19 AM
+John Xu,"Why the range excludes 10000? It seems more reasonable to do the experiments 10000 times, and then percentage = count/10000.",1,13/06/2018 11:08 AM
+Walter Henrique,"Awesome, by now I can try to implement a model to predict missing values in a dataset, with Markov and Python",1,17/06/2018 03:00 AM
+鹏飞 杨,excellent! easy to understand,1,19/06/2018 04:40 PM
+Josua Mwanyekange,Interesting. Any good notes on Continuous time Semi-Markov process? One can consider time spent in each transient state before an absorbing state in a case of absorbing Markov chain.,2,15/07/2018 01:04 PM
+Fernando Augusto Deheza Zambrana,Excelente trabajo. Gracias por compartirlo.,1,16/07/2018 08:53 PM
+Moukassa Souli,This is what I was looking for. Excellent. Thank you!,2,05/09/2018 05:59 PM
+Daniel Čupak,"Great article, I would love to create a Markov attribution model in Python such as here https://www.r-bloggers.com/attribution-model-with-r-part-1-markov-chains-concept/ but I am lost...",3,11/09/2018 01:05 PM
+Anita Ward,"Thanks for sharing! You did a great job to put it in simple words.
+I read a salary research and it keeps me motivated and makes me work even harder on mastering my Python skills.",1,13/09/2018 07:36 PM
+Jeremiah James,Thanks for this tutorial!,1,02/10/2018 12:17 AM
+Daniel Čupak,I found a Python version here: https://github.com/jerednel/markov-chain-attribution,2,16/11/2018 09:19 PM
+Josip Lazarevski,Markov chains is not really useful without having a way to calculate the transition matrix and removal effect using Python.,1,14/01/2019 06:30 PM

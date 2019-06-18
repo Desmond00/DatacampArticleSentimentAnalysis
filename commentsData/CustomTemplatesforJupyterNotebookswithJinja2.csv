@@ -1,0 +1,5 @@
+﻿commentedBy,commentMessage,upvotes,commentDate
+Tony Luo,"Thank you Steph for the wonderful article! If I already have a template (.tplx file), how to let jupyter notebook use it as the default template whenever I convert a notebook into PDF using File|Download as PDF?",1,12/06/2018 02:17 PM
+Rooholah Hadadi,"Thanks Steph. Sometimes when I create a pdf file using nbconvert (latex), it creates very wide tables that goes that breaks into miltiple pages or goes out side of printing margin. Is there anyway that I can change the template to put the table in a box and scake it down?",2,22/07/2018 06:59 AM
+Abdullah Alhadab,thank you so much for this great tutorial.  I am trying to generate a template that remove the In[]/Out[] column in the html file. how can I remove this column ?,1,28/12/2018 11:27 PM
+Samsun Rock,"If you are thinking about how to delete bing history search in device then you are required to know about this function after using this tutorial, that the fantastic way to understand in this history removing.",1,31/01/2019 01:29 PM

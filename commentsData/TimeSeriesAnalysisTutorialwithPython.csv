@@ -1,0 +1,8 @@
+﻿commentedBy,commentMessage,upvotes,commentDate
+Nitish M S,"While we were doing that skiprow = 1,why did we get data of just the 2004 year and not rest years?  ",2,16/02/2018 12:55 PM
+Wilson Lam,"Hello. What is the time period for lag (on the x-axis) and how do we find out? Is it in days, weeks, months, etc?",3,05/08/2018 10:52 PM
+Victor Cesar Martins de Aguiar,"Is it possible to apply the same methodology to yearly time series? For instance, I have yearly data (1945, 1946... 1990) and I want to check low frequency periodicity, to compare with climate oscillations such as ENSO and so on.",1,19/08/2018 03:04 AM
+Gürkan Çekiç,"Dear Hugo,",1,01/09/2018 06:47 PM
+,Very useful,1,03/09/2018 08:29 PM
+Nadiia Lazhevska,"Why nothing about forecasting? I would love to see an advanced tutorial on time series in python. Especially, taking into account that the actual DataCamp courses on time series in python are also very basic.",6,06/10/2018 08:35 PM
+Vinay Gautam,"Hi, I am having  a time series data of financial market. How can I handle the negative values in ""price"" field? ",1,15/10/2018 04:51 PM

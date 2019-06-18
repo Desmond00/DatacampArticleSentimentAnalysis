@@ -1,0 +1,7 @@
+﻿commentedBy,commentMessage,upvotes,commentDate
+Jae Duk Seo,Thank you for the tutorial!,6,06/04/2018 11:29 PM
+Piotr Swierczynski,"First of all, thank you for the tutorial. It is indeed a very good introduction. However, I have some questions:",16,07/04/2018 12:51 AM
+Marianna Kovalova,"Thanks for tutorial!
+I have a question: how can we get vector for example of conv3? ",2,17/10/2018 12:35 AM
+Pradip Adword,"Hi Aditya, Thanks for sharing article on autoencoders. I am trying to predict age and gender on biological data. For age, I am using regression algorithm and for gender, I am using classification algorithm. I am trying to combine both algorithm in neural network to get prediction of age and gender at same instance but not sure how to do that. But by using autoencoders it is possible to do predict both in same instance (not sure). Can you please share example or link for the mentioned problem??",2,04/02/2019 05:04 PM
+Mohamed Bakr,"I ask about CAE, if the pooling layers exchanged by MLP like ELM (Network in Network), so haw about training process as the ELM not using BP algorithm?. Could you provide me with some pseudo-code for this network?",3,06/02/2019 02:25 PM

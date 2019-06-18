@@ -1,0 +1,40 @@
+﻿commentedBy,commentMessage,upvotes,commentDate
+Jon Burrell,"Good tutorial, when can we expect parts 2 & 3 ?",8,13/02/2018 04:23 PM
+Scott Drabenstot,This is a fun an interesting example of text analysis.  I am looking forward to your next part!,4,14/02/2018 01:54 AM
+Frank Hernandes,I simply cannot wait for the next parts! Hope they come soon.  I love how thoroughly you explain each step! Makes it very easy to analyze my own texts.,3,16/02/2018 02:10 AM
+Burhan Khan,"Thank you for this, very useful. Great artist choice as well :)",3,17/02/2018 08:56 PM
+Nitish Sahay,Amazing tutorial... Cant wait for Part 2 ans 3... Great work!!,2,24/02/2018 11:51 PM
+Bruno Marques,Great tutorial Debbie! Congrats!,2,25/02/2018 06:45 PM
+shabeer821,Thanks Debbie for the comprehensive tutorial ! Can we have a python version of this as well. ,3,07/03/2018 09:46 PM
+Debbie Liske,Next tutorial is just around the corner!,4,08/03/2018 04:00 PM
+Chris Caudill,"For the sake of sharing, I was only able to get the word length portion to work properly by removing distinct() when creating prince_word_lengths.
+
+I'm not an expert in R though, so it may be an issue on my end.",2,22/03/2018 10:49 AM
+Debbie Liske,Next part is here! https://www.datacamp.com/community/tutorials/sentiment-analysis-R,5,29/03/2018 05:21 PM
+Foodies Food,I'm trying to change the color of charted and uncharted released songs but i'm not able to change. can you tell me the any suggestion for that?,1,04/04/2018 06:48 PM
+Rajesh Dorbala,It was an amazing tutorial Debbie. I found an issue though very small but thought I could seek some help. I am not able to make a wordcloud in the shapes (guitar) and I am not even able to produce a letter word cloud. Can you please help me out in this issue.,2,23/04/2018 12:09 PM
+Dharmendra Singh,Excellent tutorial,2,04/05/2018 06:54 AM
+i883736,"For anyone struggeling with the unnest function, getting the error, Input must be a character vector of any length or a list of character
+ vectors, each of which has a length of 1., if you have closed you workspace, you need to once again declare stringsAsFactors = FALSE when reading in your csv, this is not automatically written to the newly saved csv",1,30/05/2018 04:01 AM
+i883736,"Just a note on the use of TF-IDF here. This method is useful to distinguish how important a word is to a document (song in this  case) in relation to the corpus. Using it like here tells us very little, except for that there is a single song that uses purple a lot, or a single song that uses hide a lot",1,31/05/2018 02:01 AM
+ashy Grace,WOW!!!!! so detailed..,2,18/06/2018 01:40 PM
+ashy Grace,"Hey,",1,18/06/2018 02:32 PM
+Debbie Liske,"Hi everyone, here are the links to the next articles...",3,28/06/2018 03:50 PM
+Siegfred Balona,Fantastic tutorial! On to the next one.,2,04/07/2018 01:10 AM
+Debbie Liske,"Republished with permission on R-bloggers, an awesome blogging site about everything R.",2,07/07/2018 04:27 PM
+kvantor1,"Excellent tutorial, thank you!",2,09/07/2018 03:19 PM
+balaji ganesan,very nice tutorial... lot of info... ,2,12/07/2018 01:04 PM
+Paul Reiners,Excellent article!  I used the same techniques on Bob Dylan's lyrics and did a quick write-up.,2,22/07/2018 02:56 AM
+Cheryl Tan,"Hi Debbie, this is a really interesting tutorial! I'm just getting started and this is probably a very basic question, but may I ask the difference between the following codes: ",1,14/08/2018 08:54 PM
+Johan BLOMME,dfdfdfdfdfdfdffd,1,08/11/2018 04:27 PM
+Sarasati Palawita,"Hi Debbie,",2,02/01/2019 05:36 AM
+Debbie Liske,Part 3 published today:  https://www.datacamp.com/community/tutorials/predictive-analytics-machine-learning,2,09/01/2019 08:07 PM
+Cesar Augusto Ferreira,Awesome! Thnx for share.,2,16/01/2019 03:28 AM
+Rayana Souza,Good afternoon,3,16/01/2019 11:35 PM
+Lovemore Chipindu,I cant wait ……. I really need this . You are doing a great job . Thanks !!!!!,2,17/01/2019 12:49 PM
+donrodrigue2002,tres bon tuto.je vous dit merci,2,19/01/2019 12:33 AM
+yutyurt tkiuk,can you send me the code?,2,28/01/2019 10:36 AM
+Ali Y,The CSV file is no longer accessible (prince_raw_data.csv). Is there any other source available?,1,29/01/2019 05:25 AM
+divine abeti,"Hey Debbie, your superb tutorial is an inspiration for me and since I'm a lover of the rather infamous rap music genre and a big fan of  the lateTupac Shakur, I'm gonna try to dig up some insights about him using your techniques.  Exciting!!",2,28/03/2019 05:58 PM
+Phillip Hayes,"Great idea for app! I'm a junior Java developer and my huge challenge to myself in the field of development is just the creation of a program of learning to play the guitar, but not like not one. The advantage is that I myself am a beginner guitarist and just bought the best capo for acoustic guitar and the latest model of acoustic guitar for self-study. I believe that the process of self-education and the development of simultaneous software itself will provide a huge return on the development of a modern game for all who want to learn how to play the instrument.",2,01/05/2019 02:07 PM
+Ankit Bhargava,"Hi Debbie,",2,22/05/2019 10:01 PM

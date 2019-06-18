@@ -1,0 +1,15 @@
+﻿commentedBy,commentMessage,upvotes,commentDate
+Rohan Kadakia,"When I import keras in ipython, I get something different.",7,13/02/2018 06:49 AM
+Rohan Kadakia,"Nowhere does it say ""successfully opened CUDA library.""",1,13/02/2018 06:54 AM
+Soukaina Abelhad,Hey there! thnx yu for this helpful article. I'm actually working on a project where I should set jupyter notebook on AWS for multiple users who can  authenticate using their google account but I'm getting troubles when it comes to create servers for those users. Can you help with this?,5,19/02/2018 09:55 PM
+Manish Nath Choudhary,nice article.,2,04/03/2018 09:54 PM
+Dénes Csala,"Hey Dan - Deep Learning DataCamp course took me here. Awesome stuff, keep it up! Applying deep learning to building energy data ;)",2,05/03/2018 03:47 AM
+Hugo Sánchez Sobrón,Hi thank you Dan for an amazing course.,3,06/03/2018 04:52 PM
+Romell Domínguez,"Worked, Best tutorial ever!, i hope someday make a JupyterHub Tutorial",2,26/04/2018 07:44 AM
+Joe Chong,"Unable to get the Jupyter on browser to work. I get the connection refused issue, even though I already had specified the custom TCP rule of port 8888 during the security configuration.  Anyone encounter the same issue?",2,16/05/2018 07:08 PM
+sagar yadav,can i run keras on cpu?,2,04/07/2018 04:01 PM
+Paul Gureghian,Can I just use a Jupyter notebook locally or hosted ? Do I need AWS ? ,1,18/07/2018 05:47 AM
+Gozie Okafor,I tried running the tutorial but the AWS machine image (AMI) that allows for a p2.xLarge EC2 instance and configured for deep learning has been removed. Are there any other ways to run the tutorial?,1,26/09/2018 11:15 PM
+Saz Petro,"It was a lot of work to set up, but hopefully, you will get a lot of use out of this as you keep practicing and doing more exciting deep learning projects. Need assistance to fix server error 3219, Suggestion required.",3,31/10/2018 02:56 PM
+Yiting Xue,"I am lost from the ""Connecting to Your Server"" session. Can the author give a detailed description for Windows users? Thanks!",1,28/03/2019 05:11 PM
+Yilun Zhang,"I feel by this day, most people learning this stuff at least own a GTX 1060.",1,17/04/2019 11:08 AM
