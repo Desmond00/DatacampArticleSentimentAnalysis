@@ -1,0 +1,64 @@
+﻿commentedBy,commentMessage,upvotes,commentDate
+Justin Chan,"Hi Steph Howson,
+
+
+
+
+Thank you for this tutorial and appreciate it very much!
+
+It really help me in accomplishing what I wanted to do.
+
+Thanks once again...
+
+Justin",1,03/05/2018 12:28 PM
+Terry Phillips,Where can the XML file be found?,2,21/05/2018 04:02 AM
+Jayakumar Sengottuvel,Thanks for this tutorial. short and clear!,1,26/05/2018 04:05 PM
+Gizelle Assaly,Thank you for this Tutorial. Great Help.,2,29/05/2018 07:15 PM
+Mutlu Suna,"Hi Steph,
+
+thx for the great tut! it helped me really.
+there is one more thing I would like to try... maybe you can help me with that.
+
+as example if I found an element in the path  ""./genre/decade/movie/
+
+I found that element and pointed on that one... is it possible to query the path? I would like to find the path """"./genre/decade/movie/"" back from my element. 
+
+is that possible?
+",3,26/07/2018 06:44 PM
+Prasenjit Dutta,"How can I install ""elementtree""? I tried with pip, but could able to do that",1,09/08/2018 04:38 PM
+Funti zzle,"Nicely done. Thumbs up for a job well done. You demystified most parts of the Elementtree.
+
+
+
+
+Thank you!",2,21/08/2018 08:53 AM
+Robert Wermouth,The </collection> closing tag is missing.,5,25/09/2018 09:27 PM
+Lena Dochez,"Thank you for this page, it helped me from 0 to start parsing tmx right away.",3,17/10/2018 04:35 AM
+Milo Fultz,"For anyone looking for the whole XML document, I found it under ""print(ET.tostring(root, encoding='utf8').decode('utf8'))"":",3,23/10/2018 09:31 AM
+Dipesh Walte,Thank You so much for this!!! ,1,30/03/2019 11:29 AM
+Muralidhar Bn,"Very useful guide for understanding ET.
+
+ Can you help me to delete an element inside  <movie> tag ? Ex : i  want to remove element ""<rating>PG-13</rating> "" from X-Men Movie . How do i do it ?",1,03/04/2019 01:23 PM
+diego zulian,esiste una funzione che mi dice il percorso di un tag che li passo? (parentela),1,24/05/2019 08:05 PM
+Dongliang Wu,"I am beginner of XML, i found this very helpful, thank you very much! ",1,29/05/2019 03:58 PM
+Mohammed Lotf-el-ilah,"Best tutorial about xml file i could find, keep providing high quality content you are the best.",1,30/05/2019 07:46 PM
+Steven C. Howell,"If I want to create an XML file using ElementTree, how do you get the result to have the newline characters and indentation?  I tried building an XML file using ET.Element()` and ET.SubElement()` and the result after using `f.write(ET.tostring(root, encoding='utf8').decode('utf8'))` everything is smashed together on a single line.  
+
+I noticed that your `tree` object is an `xml.etree.ElementTree.ElementTree` object and my root object is only a `xml.etree.ElementTree.Element` object, so the `write()` method is not available.  Does that method actually add in the space and newline characters?  I assume it must because in the article you move elements around, so the indentation should change, right?  Do you only change them to other places at the same indentation level?",1,08/06/2019 01:03 AM
+mythrirao007,"Hi...
+
+if how can i get the value of a particular attribute? 
+
+for ex: ./genre/decade/movie/[@year] here how i can get the value present in year...
+
+i am getting when i am trying the below code  for my particular input file
+
+tree = ET.parse(filename)
+root = tree.getroot()
+for item in root.findall(xpath1):
+   docid = item.text
+
+
+
+
+Thanks...",1,18/06/2019 05:25 PM

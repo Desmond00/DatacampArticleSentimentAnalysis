@@ -1,0 +1,35 @@
+﻿commentedBy,commentMessage,upvotes,commentDate
+Jermaine Davis,Where to get the Data set please?,2,22/08/2018 02:14 AM
+Daniel Prol,"Thank you for doing the hard work of writing this amazing analysis, Avinash!",2,22/08/2018 02:27 AM
+Hernan Leon Herrera,"Dear Avinash, thanks for the tutorial... I'd like to know how to actually apply the model to employees that have not left the company; I believe that after the model has been trained one can call the gb.predict() passing the data set of the active employees ... in that case, how is the time variable applied? i.e. if an employee will leave what is the period of time that is considered? in the next 3 months, next 6 months, next year? 
+
+Thanks again.",2,23/08/2018 03:41 PM
+Harshal Hajare,"superb avinash, Im new to this and found really helpful. Learnt and Understood Exploratory,Visualization ,classification and predictive analysis in single post. Keep it up!!!!",3,24/08/2018 12:29 AM
+Bill Mutoro,Superb!Thanks alot for this amazing work,2,13/09/2018 06:09 PM
+Jano Nuñez Zapata,"Nice tutorial, I enjoyed with each step and explanations. Thank you very much.",2,27/09/2018 02:50 PM
+aim T,"Hi. thanks for the tutorial. it was really helpful. i tried using the same method on the data that was available with me(approx 35000 observation). and got these results:
+
+Accuracy: 0.918102328802701
+
+Precision: 0.0
+
+Recall: 0.0
+
+Precision is ill-defined and being set to 0.0 due to no predicted samples. 'precision', 'predicted', average, warn_for).
+
+i am not able to understand why my precision and recall is 0??
+
+also i want to know how to use and compare different models for prediction. please let me know how to proceed with this.
+
+thanks",2,04/10/2018 05:50 PM
+Bharath kumar TAMATAMALA,Thank you for the tutorial . Good explanation!! that every cone can understand.,2,19/12/2018 03:36 AM
+n m,"Hi Avinash,
+
+Can you share a bit more about where the dataset comes from? If you created it can you tell me a bit more about how you decided the data you'd input? Thanks! I'm enjoying analyzing this but would like to know what I can say about it.
+
+Nathan",3,06/02/2019 08:50 AM
+mareen phil,"Hi Avinash, I am getting  below issue while creating sns model. I tried adding it as column as groupby make the column as index. still issue . please help?
+
+Could not interpret input 'number_project'",2,28/03/2019 07:07 PM
+Vibhaas Kotwal,Amazing tutorial to get started on Churn model! this helped me to get started. ,1,11/05/2019 05:33 PM
+Yatharth Sant,how to predict like which employee is about to leave next?,0,19/06/2019 01:26 AM

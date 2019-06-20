@@ -1,0 +1,49 @@
+﻿commentedBy,commentMessage,upvotes,commentDate
+Harsh Vardhan Sharma,"Hey Aditya, your tutorials are great. However, I am unable to load MINC data format in Python. Can you help me regarding it? http://brainweb.bic.mni.mcgill.ca/brainweb/about_data_formats.html",5,01/07/2018 02:10 PM
+Sayak Paul,Hello Aditya. This tutorial is a gem. Thanks for covering so much that too in so short. Lovely and keep up the good work! ,3,31/08/2018 05:46 PM
+MANU B.N,"Thanks for the tutorial.
+
+The dataset is not available for download at the link.
+
+Can you please give link to any other data that can be used?",5,11/10/2018 08:37 AM
+Elaheh Amini," 
+
+Thank you for the tutorial, however my input images and also my masks are RGB, I don't have any problem 'till predicting my validation data but when I try to plot one of my predictions, the figure it give me is just white.
+
+pred = model.predict(X_valid)  
+
+plt.figure(figsize=(4, 4)) 
+
+plt.imshow(pred[4]) 
+
+plt.show()
+
+the shape of my prediction data is 250*128*128*3 
+
+how can I plot one of my predictions?",1,29/12/2018 07:57 PM
+Brian Droncheff,"Really, a huge thanks for making this tutorial.
+
+I did notice that when it is said ""It's time to check the shape of the numpy array, the first dimension of the array should be 207 x 30 = 6210 respectively and the remaining two dimensions will be 173 x 173. ""  it should be:  ""...  51 x 30 = 1530 respectively and the remaining two dimensions will be 173 x 173"". Just in case anyone gets confused. Note above only 51 of the 207 slices were taken.",3,22/04/2019 02:45 AM
+Benjamin kluGah-Brown,"wow great work. Please i have some question.
+
+Shouldn't the the image dimension be 173x173x207  rather?...173x173 the pixel 207 number of slice. instead of 173x207x173
+
+Thanks",1,09/05/2019 11:48 AM
+arjunbrom,"Hey Adithya, 
+
+Great post. This tutorial is really helpful. 
+
+Could you let me know how to modify the code if I need to use training and labels for each of the MRI image instead of the images used here.
+
+As in, for each of the 51 slices taken in this example, how to assign the same label , which I am taking from the filename of the input Nifti file.
+
+Below is the question posted with code that I have tried. 
+
+As I have tried here I am able to get the labels for the number of images taken as the dataset, but its not matching with the image dimension as it is ""no.of images * slices""
+
+ https://stackoverflow.com/questions/56502341/how-to-label-corresponding-to-the-individual-slices-of-3d-images-for-training-2d 
+
+Thanks ",1,08/06/2019 03:43 PM
+Subhadeep Dutta,"Need some brain MRI images .
+
+-Subhadeep Dutta M.tech BCREC Durgapur",1,19/06/2019 03:06 PM

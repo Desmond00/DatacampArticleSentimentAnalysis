@@ -1,0 +1,56 @@
+﻿commentedBy,commentMessage,upvotes,commentDate
+Hansee Han,I really enjoy this tutorial. Thanks for sharing!,1,26/09/2018 10:13 AM
+Robert Chestnutt,"Thanks very much, really helpful tutorial!!",1,26/09/2018 02:24 PM
+Jeremy Loscheider,"I appreciate this thorough discussion, but I found this paragraph a little confusing:
+
+""Simply speaking, you should include the feature selection step before feeding the data to the model for training especially when you are using accuracy estimation methods such as cross-validation. This ensures that feature selection is performed on the data fold right before the model is trained. But if you perform feature selection first to prepare your data, then perform model selection and training on the selected features then it would be a blunder. ""
+
+I didn't understand quite what you meant until I re-read a section from ESL (p 245):
+"" The problem is that the predictors have an unfair advantage, as they were chosen in step (1) on the basis of all of the samples. Leaving samples out after the variables have been selected does not correctly mimic the application of the classifier to a completely independent test set, since these predictors “have already seen” the left out samples. """,2,03/10/2018 03:10 AM
+Antoine Fontaine,"Great tutorial!
+
+It's really appreciated.",2,04/10/2018 09:57 PM
+MARK MONTANANA,"I have really enjoyed the tutorial. Is there a way for the Chi Square and RFE to actually print the most important features names rather than the index?
+
+Many Thanks,
+
+Mark",1,11/10/2018 03:03 AM
+Inna Gorsky,"Thanks for informative tutorial.  But some things are quite confusing, for instance:  
+
+""You can see the scores for each attribute and the 4 attributes chosen (those with the highest scores): plas, test, mass, and age"".  
+
+Where those attributes (i.e. plas, test, mass and age) came from ?  ",1,24/10/2018 03:57 AM
+SUAT BULDANLIOGLU,"Thanx a lot for the spotless job! Greetings from Istanbul, Turkey.",2,28/10/2018 06:37 PM
+Rahul Vaish,"Regarding features of the  diabetic  dataset (  'preg', 'plas', 'pres', 'skin', 'test', 'mass', 'pedi', 'age', 'class' ) I understand that 'class' is categorical, why are others considered categorical ? I see we have  used CHI2 for Feature Selection. Why ?",1,06/01/2019 06:50 PM
+Bassam Tork,NA,1,07/01/2019 08:00 PM
+SUMAN KUMAR SINHA,"Thanks Sayak for nice and clear explanation.
+
+I have one doubt though : In chi-square and RFE feature selection method how do we decide what should be count of feature passed as parameter?
+
+for example:
+
+ rfe = RFE(model, 3) 
+
+ test = SelectKBest(score_func=chi2, k=4) 
+
+in the above example how do we decide 3 and 4?",1,18/01/2019 10:17 PM
+Debasis Patra,"Hi Sayak,
+
+This is a very good article & it thoroughly clarified Feature Selection concept. Just one doubt, here above in python case study, we have applied 3 techniques to do feature selections and we received different features as important feature as outcome. So how to decide which one to consider for model building? or i mean to say which feature selection techniques is robust enough?",2,29/03/2019 03:25 PM
+Steve Walter,"Hello, this has been very helpful. As I am very new to anything related to Python, would you mind explaining what exactly is happening here: 
+
+array = dataframe.values 
+
+X = array[:,0:8] 
+
+Y = array[:,8] 
+
+
+
+
+Since I am trying to learn and understand this, could you explain what each thing is inside the [:,0:8] and [:,8] please?",1,20/04/2019 09:22 PM
+Sisy Zou,"Hi,  firstly very helpful tutorial for real-case python programming. In the article, you mentioned that feature extraction is not a method for dimensionality reduction. How did you resource this argument?  ",1,24/04/2019 03:46 PM
+Aman Verma,"Hey,  how can you choose 4 features to select ? In case of a large dataset of more than 100 features, I don't think so It would be a great thing to randomly select the number of features to get selected. Can you explain any other process to handle this thing. It would be  a great help.  ",1,01/06/2019 08:56 PM
+Vlad Pivovarov,"Hi Sayak, great introduction for feature selection!
+
+Keep posting!",2,07/06/2019 06:36 PM

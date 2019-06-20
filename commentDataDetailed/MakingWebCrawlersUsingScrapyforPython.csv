@@ -1,0 +1,18 @@
+﻿commentedBy,commentMessage,upvotes,commentDate
+Vincent DI GIUSTO,"excellent article, just a little remark
+
+ in the first image on top (under SCRAPY OVERVIEW), the world on the left is the ""web"" not a ""web browser"".",1,16/01/2019 01:05 AM
+Giuseppe Miragliotta,"Very nice tutorial, I like it. The only thing that bothered me is that the code starting from NEXT_PAGE_SELECTOR should be placed outside the for loop. Am I wrong?",2,10/02/2019 04:48 AM
+Azeem Arshad, https://apkmama.com/micromax-a106-flash-file-kitkat/ ,1,27/03/2019 12:14 AM
+Karina Delcheva,"Awesome, thanks! What if I wanted to load many websites from a list (hundreds) into the start_urls variable? Could I do it somehow with a for loop?",2,27/03/2019 04:59 PM
+Guru Prasath K N, Are there limitations in terms of which container types to use to copy the results from a spider? Can I assign the results of a spider to a list object defined outside in the general code instead of a dictionary? Any help would be appreciated. ,1,22/04/2019 08:48 PM
+darryl lee,"The URL cannot fetched  because it redirects to a login page. How can this be avoided?
+
+fetch('https://www.aliexpress.com/category/200216607/tablets.html')
+
+
+",1,10/05/2019 11:53 AM
+Mohamad Fariz Syazwan Jailani,"I encountered the import error when i run the shell command. It does not display the same output as in the article. How to solve this problem?
+
+
+",1,28/05/2019 12:57 PM

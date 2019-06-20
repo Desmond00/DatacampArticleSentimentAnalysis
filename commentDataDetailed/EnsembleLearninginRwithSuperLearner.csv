@@ -1,0 +1,17 @@
+﻿commentedBy,commentMessage,upvotes,commentDate
+Jiaxiang Li,"Hi, I just confuse how to calculate risk factor?",2,01/03/2018 02:25 AM
+Ajay Jadhav,"after building a regression model, I am getting error while predicition.
+
+predictionsSuperLearner <- predict.SuperLearner(cv.model, DataModelTesting[,c(SelectedColumnsForEnsemble)])
+
+Error in !object
+control
+control
+saveFitLibrary : invalid argument type
+
+
+",2,20/03/2018 03:01 PM
+yinlong,"Hi,
+
+When I do prediction after getting the model, because of having a single value factor column in the test, it reports error.  Actually in my training set, the factor column has two levels, while when split, the test set gets identical value for the column, so it reports ' contrasts can be applied only to factors with 2 or more levels',  how can we solve it?",2,06/09/2018 09:44 AM
+Claire Malley,Typo in the tutorial -- ifelse() is from base. dplyr has if_else().,1,18/01/2019 11:47 PM

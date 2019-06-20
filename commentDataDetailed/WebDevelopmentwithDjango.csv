@@ -1,0 +1,89 @@
+﻿commentedBy,commentMessage,upvotes,commentDate
+parth bhardwaj,"Great tutorial OP; I have this error:
+
+question = models.ForeignKey(Question, no_delete = models.CASCADE)
+
+TypeError: __init__() missing 1 required positional argument: 'on_delete' 
+
+Please help
+
+
+",1,15/09/2018 05:45 PM
+Jason Baxter,"I was following this tutorial fine until we went through the building the html templates and i got to  
+
+Removing HardCore URLs
+
+Hardcore URLs looks like this...
+
+i just didnt understand in which file/s i needed to make these changes, i tried to carry on by updating the templates and the functions and now i'm stuck..",1,18/09/2018 09:00 PM
+Abdourahamane Sank Bah,"@Hafeezul Kareem Shaik, 
+
+Thanks for the tutorial!!
+
+But there is a lot of typo and mismatching. Indeed sometime you use Statement in lieu of Question.
+
+Please fix it for the new comers, it is great starting point. 
+
+
+",1,19/09/2018 04:16 PM
+Seraphin Vandegar,"Hi ! 
+
+
+Thank you for this tutorial. I think it would be useful to correct the different typos and mismatch as it's really hard to follow by a newbie. 
+
+Beside of this I'm stuck at two points : 
+
+I cannot figure out where you define Question.objects method. My IDE is raising an error when I write it in views.py, in the index definition>
+Same question for Choice.DoesNotExists in the vote definition. 
+
+I assume it should be defined in models.py but I can't find any explanation of this.
+
+Could you please help me ?
+",1,24/09/2018 02:48 AM
+Darrell Hall,"Hello:
+
+Thanks for this tutorial.  I can read and follow it better than the tutorial on the Django site.  The screen shots help quite a bit.  However, on the Django web  site and in this tutorial , we're asked to create a URLConf file called ""urls.py"".    But my reactions were the same each time, ""...HOW?"", And where in the instructions preceding this task is creating this file in  this directory, explained?"".  I'm  thinking that this is a simple task to code, but somehow I missed it in both tutorials.  Could you point me in the right direction please?  Thanks.",1,06/10/2018 11:52 PM
+Darrell Hall,"Okay, this was as easy as I thought it'd be.  Created files in Jupiter IDE using iPy, but had to specify directories when writing views and so forth.  Used "" . "" while working in bash.  ",1,09/10/2018 04:15 AM
+Ben Leonid,"Thanks for this tutorial.
+
+On namespace names
+
+ app_name = 'votings' 
+
+What is app_name? Can't see app_name is used in other parts of the code?",1,23/10/2018 09:38 AM
+John Smith,"you will need to change the router’s default username and Netgear Router Password, customizing your network prefer, strong network security, and enable features like parental control. The default login credentials are the similar for all the Netgear routers.",1,26/10/2018 11:30 AM
+Akonya John,thank you for the tutorial... just got started.. but i have a problem..  why am i seeing [ pylint ] unable to import  django.http,1,30/10/2018 02:00 AM
+dule martins,A,1,19/11/2018 02:23 AM
+Rhea Verma,"Hello,
+
+The tutorial is great and smooth but I am facing problem at the step ""  Remove the register() for Choice and modify the Question registration code. ""
+
+after running the code , the page not found error occurs after many error lines it says ""  The current path, admin/votings/choice/add/, didn't match any of these. ""
+
+
+
+
+Can you please help I am stuck at the last step.
+
+ ",1,18/12/2018 04:18 PM
+Rajneesh Kumar,"for running the command to see ""Wow! Writing First Web App In Django!"" i am getting the following error:  
+
+Using the URLconf defined in first_site.urls, Django tried these URL patterns, in this order:
+
+admin/
+
+The current path, votings/, didn't match any of these. 
+
+
+
+
+How to Fix it?",4,21/12/2018 01:54 PM
+Aswin Kumar Chintalapudi,in 9.8 : under Question class it should return self.question_text,1,31/01/2019 08:53 PM
+zahid adam," 
+
+Write these new views into the votings/urls.py file by adding the path.
+
+detail(request = <HttpRequest object>, question_id = 7)
+
+I am stuck on this part,  Like what do i have to do now . I get attribute error on 'detail' after completing  ""writing more views"" What do i have to do after writing more views. .",1,07/02/2019 04:45 PM
+S. Imran,"Lost all the motivation to work here in Datacamp, after reading so many negative reviews, before I even start 'Web Development with Django'.",1,25/03/2019 12:32 PM

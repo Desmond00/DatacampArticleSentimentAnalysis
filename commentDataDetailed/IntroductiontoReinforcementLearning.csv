@@ -1,0 +1,19 @@
+﻿commentedBy,commentMessage,upvotes,commentDate
+Ved Sengupta,Great one @Anubhav. ,3,01/12/2018 09:05 AM
+Suprabhat Das,"Great, Anubhav. Keep it coming! :) ",2,01/12/2018 09:32 AM
+Simin K,"nice post, jus 1 simple qn: how to read the scatterplot?",2,05/12/2018 02:25 PM
+Christoph Haene,"Thanks a lot. Very nice introduction. Would be nice, if you could go deeper in this topic next.",2,06/12/2018 03:28 PM
+Suvhradip Ghosh,Nice Explanation. ,2,23/01/2019 12:29 AM
+Ghaith Habboub,Nice explanation.  I find the main challenge with reinforcement learning is converting the problem into an agent-environment to solve. Every explanation I have read is usually on how to solve a pre-defined problem but not on how to define the problem. How would you recommend approach designing the environment (other than already pre-made ones) and any resources I can use to help with this ? ,2,03/04/2019 07:17 AM
+Pramodh Rachuri,"Hey Anubhav! Your explanation was very good. I was initially thinking to go with very big frameworks like TF or sklearn. Then I later stumbled upon your article and I liked it very much.
+
+Just a small thing, in the code of ""bestArm(a)"". Instead of iterating over 'av', its better to iterate over range(n). 
+
+Also, make av global, sending it as a parameter to bestArm makes programmers think it other way.
+
+
+
+
+Good work!",1,18/05/2019 09:21 PM
+Derick Ehiobu,Why do datacamp not have a course on this?,1,27/05/2019 02:08 PM
+Steven Jacob," Guys, hello everyone. Very interesting article, the author of great respect. Tell me please, did you read the book ""Game Theory""? Your theory of probability and the theory of strategic thinking in the book are very different. I recently started trying your theory on casino sites  https://大吉カジノ.jp/オンラインカジノ-ボーナス/ .   Specially selected for this Japanese traffic. I will describe the results of the experiment in my blog and in the comments below. Thanks. ",1,14/06/2019 08:06 PM

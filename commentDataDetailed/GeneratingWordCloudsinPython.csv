@@ -1,0 +1,145 @@
+﻿commentedBy,commentMessage,upvotes,commentDate
+Jean Saint Hilaire,I wanna be able to design something like that,5,08/08/2018 02:18 AM
+Duong Vu,"Dear Zheng tzer lee, 
+
+Yes, you can do it using nltk library. First, you create a frequency distribution using the function ""nltk.FreqDist"" and then using the plot method of that FreqDist() object to see the weight. 
+
+I will soon have another tutorials on using some simple Natural Language Processing techniques that will include that as well. Please stay tune and let me know which part that you want me to include.",3,10/08/2018 05:41 AM
+Rich Kaplan,"Cannot see m to be able to use mask with Python3. The contour_width and contour_color parameters are not present with anaconda distribution..
+
+The function:
+def transform_format(val):    if val == 0:
+
+        return 255
+
+    else:
+
+        return val 
+
+Function does not seem to work with val as get error message:
+
+      ---------------------------------------------------------------------------
+ValueError                                Traceback (most recent call last)
+<ipython-input-129-c95d4463f09b> in <module>()
+     5
+     6 for i in range(len(wine_mask)):
+----> 7      transformed_wine_mask[i] = list(map(transform_format, wine_mask[i]))
+
+<ipython-input-127-d975958b5210> in transform_format(val)
+     1 def transform_format(val):
+----> 2     if val == 0:
+     3         return 255
+     4     else:
+     5         return val
+
+ValueError: The truth value of an array with more than one element is ambiguous. Use a.any() or a.all()
+
+Please clarify how this can be done. ",2,11/08/2018 07:34 AM
+Joe Chong,"Great tutorial. Am good all the way till putting the word clouds into an image. Instead of getting a 2-D array like seen i your sample codes, I seem to have obtained a 3-D array. How should I flatten this?
+
+wine_mask = np.array(Image.open(""img/wine_mask.png""))
+
+wine_mask
+
+array([[[0, 0, 0, 0],
+       [0, 0, 0, 0],
+       [0, 0, 0, 0],
+       ...,
+       [0, 0, 0, 0],
+       [0, 0, 0, 0],
+       [0, 0, 0, 0]],",1,15/08/2018 08:02 AM
+Roman Vasilev,"Hi Duong!
+
+Followed along your tutorial with my data (safety observations from drilling rig) - some nice insights! Has a potential to kill the boredom of safety meetings.
+
+Thank you for your effort!
+
+
+",2,16/08/2018 05:29 AM
+Hansee Han,this is very interesting and useful!! Thank you!,2,07/10/2018 12:28 AM
+Kevin Murphy,"Thanks for this tutorial! I am trying to use it to generate a wordcloud with a csv file dumped from a support ticketing system's database. The system dumps a plain text utf-8 csv. I'm able to load the dataframe if I use:
+
+df = pd.read_csv(""data/test.csv"")
+
+However if I use:
+
+df = pd.read_csv(""data/test.csv"", index_col=0)
+
+Or if I use:
+
+df = pd.read_csv(""data/test.csv"", index_col=TicketID)
+
+I get an error: ""KeyError = 0""
+
+If I simply remove the index_col=0, the dataframe loads. All good... Until I get to the next steps...
+
+When I try and join all the fields in column ""Title"" (or any other column) with:
+
+text = "" "".join(review for review in df.Title)
+
+print (""There are {} words in the combination of all review."".format(len(text)))
+
+I get the following error:
+
+TypeError: sequence item 556: expected str instance, float found
+
+Any ideas on what could be causing these errors?  Perhpas some strange characters in the csv? Is there a directive to treat everything as a string?
+
+Thanks!",1,15/10/2018 11:18 AM
+Alberto Rubiales Borrego,"Hi!
+
+How can I get a bar chart with the number of times each word is repeated from wordcloud object?
+
+Thanks!",2,28/11/2018 05:49 PM
+Daniel G Perico Sánchez,"Thank you so much for the amazing tutorial.
+
+I think it's important to empathize that the image has to be on  RGB mode.
+
+We can easily change the mode with a free software such as GIMP or online resources. ",1,07/12/2018 11:53 PM
+8328f83b483ea893d131ee48bb9ac194,"Hey people, 
+
+
+
+
+I have a pandas data frame with all words I want to include in the word cloud. Depending on the counting per word the size should be in the word cloud. I have trouble to convert the data frame so that WordCloud().generate(text) is able to work with it. 
+
+
+
+
+Can someone help?
+
+
+
+
+The pandas data frame has this structure: 
+
+
+
+
+0   hello
+
+1   i
+
+2  am
+
+3  looking
+
+4  for 
+
+5  help
+
+Also the function ""description[0]"" does not work on my data frame.
+
+
+
+
+Thank you in advance!",2,13/12/2018 09:38 PM
+Raghavender Koltur,Very usefull Thanks,2,22/01/2019 04:53 PM
+Pengyuan Li,Thanks for this amazing tutorial!!!,2,26/03/2019 12:25 AM
+Alice Andley,The tutorial is really very informative and provide some useful information about the wordcloud python but in case if anybody face issue regarding email then also check https://emailsupports.net/yandex-mail-support/  for the solution.,1,12/04/2019 04:03 PM
+Ryhab Jlassi,thaks for this amazing tutorial,0,11/06/2019 06:37 PM
+Emilio Abrego,"Hello to all! and thanks for this tutorial! I'm the total noob in Python, but I'm trying to learn it. I tried to run this code in Spyder from the anaconda navigator but it gives me an error in  this line:
+
+ % matplotlib inline 
+
+I searched for it and it is called line magic. But I don't know what to do for my IDE to recognize it. Please help me.",1,17/06/2019 08:20 PM

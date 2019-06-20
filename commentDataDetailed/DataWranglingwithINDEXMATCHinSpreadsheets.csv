@@ -1,0 +1,6 @@
+﻿commentedBy,commentMessage,upvotes,commentDate
+Jonathan Griffin,"This is really useful info! I've never used EXACT before.
+
+For the multiple criteria example, I've grown accustomed to using in-formula concatenation with the '&' like  {=INDEX(column_range, MATCH(Value1&Value2&...&Value_n, lookup_column_range_1&lookup_column_range_2&...&lookup_column_range_n), match_type))}. As always, would need to use the Ctrl+Shift+Enter for the array formula. Is there a benefit to using one of these over the other? I know sometimes on really large data sets with multiple criteria, this method can be slow to calculate, so it may be better to concatenate in a helper column and use that first.
+
+Also not touched on here, Index-Match works well for cross-tabbed data where you may have two matches, the first for, say, sales reps vertically and a second match for months horizontally.",2,11/06/2019 09:32 PM

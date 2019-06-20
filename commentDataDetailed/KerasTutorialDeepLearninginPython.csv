@@ -1,0 +1,103 @@
+﻿commentedBy,commentMessage,upvotes,commentDate
+Adrian Gralak,"Hey Karlijn, great tutorial! Had one question though, I'm really confused on why you would want to use k-fold Cross Validation.  Why are we taking the average of the different models - as far as I see these models are working completely independently of each other. Are we meant to average the weights of the individual models to get a better result? Thanks in advance, Adrian.",2,12/02/2018 11:15 PM
+haithamy25,Good tutorial . Thank you ,2,06/03/2018 12:50 PM
+ramouh,very good tutorial,2,27/03/2018 04:15 PM
+Nisha Muthukumaran,This is great stuff! Honestly it is really helpful!,2,01/04/2018 02:17 AM
+Bin (Vince) Wang,Great tutorial! is  'treshold'  a typo of the word 'threshold' ?,1,08/04/2018 10:28 AM
+Prabin Rath,awesome explanation.,1,30/04/2018 08:00 PM
+Anjli S Karimpil,Been searching for an intuitive tutorial which is not based on MNIST or image data.. Thanks for this !,2,19/05/2018 02:08 AM
+"Chiraz BenAbdelkader, PhD","Nice tutorial, thanks!",1,28/05/2018 01:45 PM
+zhuowang,"Really awesome program. But I face a problem when run line
+
+""y_pred = model.predict(X_test)
+
+y_pred[:5]""
+
+I got the results of  continuous number and the data type is float32. Where should I modify to change the data type to int? Thank you",3,29/05/2018 11:14 PM
+David Bloom,"Thanks for the tutorial! Really nice walk through. However, one bit of intuition I'm missing is how to choose the number of hidden units. In the first model, the input layer had a size of 12 and the second layer had 8 hidden units. The second model had 64 and you suggest increasing it to 128 as a possible way to improve the model. Do they need to be multiples of 8? I don't see any other connection. Any guidance would be great. Thanks!",3,10/06/2018 10:50 AM
+Sanjay Arumugam Jaganmohan,"There's a typo. Here the model takes in input of (11,) in the first dense layer, not (12,) like mentioned in the paragraph. ",4,11/06/2018 09:46 PM
+Alexandre George Lustosa,Tks for Share! Realy nice how you explain complex themes in the easy way!!! ,2,21/06/2018 01:19 AM
+rutgerquee,"Hello Karlijn,
+ 
+
+A great tutorial!
+When importing the confusion matrix I get the following error message:
+ValueError: Rating statistics can not handle a mix of binary and continuous targets.
+I have searched google for a solution but I can not find one.
+can you tell me what I'm doing wrong?
+
+I hope to hear from you, thanks in advance!
+
+Kind regards,
+
+
+Rutger",6,24/06/2018 03:02 PM
+Andreas Christopoulos,how can we do the preprocessing with tensorflow,1,11/08/2018 05:09 PM
+Mukharbek Organokov,Thank you very much!,1,05/09/2018 11:13 PM
+Сергей Раскин,Please fix link to wine data set,1,10/09/2018 08:22 PM
+Abhinav Ankur,"I believe you want to link the text ""wine quality data set"" under to heading ""Predicting Wine Types: Red or White?"" to https://archive.ics.uci.edu/ml/datasets/wine+quality rather than this page itself (https://www.datacamp.com/community/tutorials/deep-learning-python).",3,06/10/2018 04:22 PM
+Nicola Masarone,"Hi Karlijn,
+
+great tutorial !
+
+By the way, it seems there is a typo in the code to plot the correlation matrix: sns.plt.show() doesn't work while plt.show() works well.
+
+Regards
+
+Nicola",2,03/11/2018 05:07 PM
+Don Lee,"Karlijn, thank you very much for your sharing this great tutorial, I have two questions, could you please help?
+
+1: It seems to me that I don't need call np.ravel for y value when fitting the second Regression model, which is definitely needed for the first Classification model, any explanation why?
+
+2: it seems that the ""for loop"" for  kfold.split() , doesn't build/accumulate up the training knowledge, as model is created within each loop, is this understanding right? then how to fix? 
+
+Thanks in advance for your explanation. ",2,28/11/2018 10:19 PM
+Andrew Dover,"I got an error when trying to run the confusion matrix:
+
+```
+Classification metrics can't handle a mix of binary and continuous targets
+```
+
+This stack overflow article fixed it for me https://stackoverflow.com/a/43945086",3,23/12/2018 09:33 AM
+Im én,"Thanks for this tutorial.
+
+I have a problem when i try to compile and fit my model.   It return value error : ValueError: could not convert string to float: '24, 26, 99, 31, 623, 863, 77, 32, 362, 998, 1315, 33, 291, 14123, 39, 8, 335, 2308, 349, 403, 409, 1250, 417, 47, 1945, 50, 188, 51, 4493, 3343, 13419, 6107, 84, 18292, 339, 9655, 22498, 1871, 782, 1276, 2328, 56, 17633, 24004, 24236, 1901, 6112, 22506, 26397, 816, 502, 352, 24238, 18330, 7285, 2160, 220, 511, 17680, 68, 5137, 26398, 875, 542, 354, 2045, 555, 2145, 93, 327, 26399, 3158, 7501, 26400, 8215' . 
+
+ Can someone  help me please.",0,28/12/2018 05:56 PM
+Alexander Baker,"Great tutorial, I've read through tons, and this is by far the best one I've seen yet.  I actually have it bookmarked. 
+
+I do have one question:
+
+The algorithm you presented outputs probabilities, do we just code them to 1's and 0's ourselves or is there a step I missed?",1,03/01/2019 07:41 AM
+Raghava Reddy,"y_pred array in confusion_matrix(y_test, y_pred) expecting 0s or 1s.  So I used   y_pred = y_pred >= 0.13 to make 0s or 1s. But confusion matrix  gave the result   array([[1564,   24],
+
+      [  27,  530]])
+
+
+
+
+But as per your tutorial array([[1585,    3],
+
+      [   8,  549]])
+
+could please explain
+
+
+",0,10/02/2019 04:18 PM
+Vicky R Caldwell,"Thanks for sharing this information. You give a depth knowledge about Python.
+
+If anyone face any issue regarding AOL so don't be panic just dial AOL Phone Number.",1,23/05/2019 03:35 PM
+kesavarao b,"Hi madam well explained..
+
+may i know how to convert speech dataset to .csv files.
+
+i am working in speech emotion recognition . i had the dataset of .wav type.
+
+can i load the .wav files directly using Keras...
+
+Thanks inadvance
+
+regards,
+
+kesav",1,27/05/2019 03:31 AM
+tedit mod,thanks for this detailed guide. Terraria ios free download good work. ,1,30/05/2019 11:07 AM

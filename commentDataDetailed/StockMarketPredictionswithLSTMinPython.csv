@@ -1,0 +1,432 @@
+﻿commentedBy,commentMessage,upvotes,commentDate
+maysamkhorsand,"Hello awesome tutorial thank you!
+
+Anywhere we can download the full code by any chance?
+
+
+
+
+Thanks in advance!
+
+
+
+
+Sam",4,05/05/2018 01:37 AM
+Satnam Singh,Will something similar work for crypto market?,2,05/05/2018 04:01 PM
+CARL GOODIER,"Name df not defined
+
+sorry if super noob, but can't figure it out ",3,05/05/2018 09:01 PM
+Gabriel Mocan,Do you think that is possible to apply these techniques to Forex market? Feeding the system with real time data from let's say five minutes candles from the last month or so trying to predict the direction of the market for the next hours or so... Reducing the time frame a little bit but still having lots of data to feed the learning process.,2,06/05/2018 10:04 AM
+Yaser Abdelaziz,"Hello Thushan Ganegedara,
+
+First, thanks so much for this great tutorial, the other thing, could you recheck this part?
+
+batch_labels[b]= self._prices[self._cursor[b]+np.random.randint(0,5)]
+
+looks like it should use np.random.randint(1,5), as equations stated before (in this case N = 6).
+
+Also I don't think this could be used for a real trading, it seems just predicting stock price going up if it was going up in the recent period, and vise-versa, is this observation right? are there an interesting observation about this I can't notice?",2,07/05/2018 01:58 PM
+annabee97,"Hello, 
+
+First of all, thank you! This post is a perfect combination of what I have been looking for! That being said, I am somewhat new to python (I have been using it for the past 5 months or so but sometimes the same things still stump me). For example, just trying to run the beginning/import the libraries I am getting errors with matplotlib.pyplot and pandas_reader. Any idea why? I really want to go through this tutorial but I can't even get past the first part!",1,08/05/2018 10:54 PM
+Hani Mounla,Awesome one !,2,09/05/2018 10:00 AM
+Jae Duk Seo,One of the most informative tutorials I ever saw,3,31/05/2018 02:48 AM
+Diederik Van Houten,"Really nice tutorial - However I am having issues running this right from the beginning: Getting Import errors (i.e. ImportError: cannot import name 'is_list_like'
+
+) when trying to import pandas - datareader. I understand that this is a bug and the development version of datareader has fixed this. However being quite new to Python I have not figured out a way to fix this.  pip install will not fix this. Appreciate any help.",3,03/06/2018 01:05 AM
+Dhanunjaya Lakshmi,"I observed that the alphavantage is returning only 3195 data points now. Not sure if they have updated their API after this tutorial got published. So, we may need to modify the test and train data sets split accordingly.",3,07/06/2018 10:35 AM
+Vedh Tishk,"Hi, i have done a similar to predict the stock price with parameters open, low, high, volume, petroleum price, dollar price etc . But getting out of shape error can u please check my code if i post it
+
+
+",2,20/06/2018 11:01 AM
+tongtong tong,"Hi Thushan Ganegedara  ,thanks for this paper ,i am new in python ,what you are writing here is something about my study ,i want to learn more from you ,so can we be friends?can you add me on wechat ?my id is 18741354965",2,20/06/2018 06:05 PM
+Ariana Lema-Driscoll,"Hi,
+
+I was wondering if you could provide an explanation or interpretation of the visualizations. How would someone less familiar with these models explain what is being portrayed in the first versus second graph and what the red versus blue lines mean, particularly from a ""business"" perspective? 
+
+Also, thank you for posting this tutorial. The only bug I found was with ""maintaining LSTM state for the prediction stage"" section. I added the last line to avoid issues with reuse of variables. I received an error re. variable scope without the last line below:
+
+
+
+
+for li in range(n_layers):
+   sample_c.append(tf.Variable(tf.zeros([1, num_nodes[li]]), trainable=False))
+   sample_h.append(tf.Variable(tf.zeros([1, num_nodes[li]]), trainable=False))
+   initial_sample_state.append(tf.contrib.rnn.LSTMStateTuple(sample_c[li],sample_h[li]))
+   tf.get_variable_scope().reuse_variables()",3,20/06/2018 08:23 PM
+Marina Longnickel,"Could you please explain what all these variable are?
+
+
+def __init__(self,prices,batch_size,num_unroll):
+
+         self._prices = prices
+
+         self._prices_length = len(self._prices) - num_unroll
+
+         self._batch_size = batch_size
+
+         self._num_unroll = num_unroll
+
+         self._segments = self._prices_length //self._batch_size
+
+
+I'm guessing prices is the total number of price entries
+Not sure what price_length is. I thought maybe it's number of prices per batch, but it doesn't look like it... Like if you have a set [1,2,3,4,5] with batch size = 2, then you have 4 batches, each with two elements. Where you get the number of batches from (num of prices - num of prices per batch + 1)
+Isn't num_unroll just the number of batches? At least that's what it looks like from the example. But then you also have segments, which is what?
+
+
+Also, where is it predicting the future price exactly? The graphs seem to just show the current days' prices. Unless it's just plotted a day back.
+
+And lastly, how do I get back the original prices? I tried doing inverse_transform but it didn't quite work.
+
+
+Thanks for help!",3,27/06/2018 09:28 PM
+Adu Mudaliar,"Hello Thusan,
+
+                                      Thank you for this incredible post. I had been looking for smethign similar for some time.
+
+I copied the code step by step , as I went through the tutorial.
+
+
+
+
+I am getting an error at this line scaler.fit(train_data[di:di+smoothing_window_size,:])
+
+
+
+
+
+
+
+  File ""<ipython-input-32-1b2a20035e0a>"", line 5, in <module>
+
+    scaler.fit(train_data[di:di+smoothing_window_size,:])
+
+
+
+
+  File ""C:\Anaconda\lib\site-packages\sklearn\preprocessing\data.py"", line 308, in fit
+
+    return self.partial_fit(X, y)
+
+
+
+
+  File ""C:\Anaconda\lib\site-packages\sklearn\preprocessing\data.py"", line 334, in partial_fit
+
+    estimator=self, dtype=FLOAT_DTYPES)
+
+
+
+
+  File ""C:\Anaconda\lib\site-packages\sklearn\utils\validation.py"", line 462, in check_array
+
+    context))
+
+
+
+
+ValueError: Found array with 0 sample(s) (shape=(0, 1)) while a minimum of 1 is required by MinMaxScaler.
+
+
+
+
+
+
+
+Can you please guide me ?
+
+
+
+
+Thanks,
+
+Adu",9,06/07/2018 01:44 AM
+Sri Nath Dwivedi,"how to create a  LSTM for sentence classification
+
+
+",2,06/07/2018 06:34 PM
+nsundeepdavid,"HI Thushan,   
+
+Wonderful post! However a quick question, let us say i want to forecast sales of a product(y) three months into future based on historical monthly sales, and If i wanted to use multiple variables like price (x1) + discount given (x2) + lag times of previous sales …Xn as inputs. Is there a way I can  model this problem to forecast future with all inputs considered ? Most of the times I see univariate forecasts into future, I wanted to know if LSTM's can be extended having  multiple  input variables ? Is it even valid ?",3,17/07/2018 06:07 AM
+Emmanuel Manana,"Hello.
+
+
+
+
+i am stuck at this error 
+
+
+
+
+\Local\Programs\Python\Python35\lib\site-packages\sklearn\utils\validation.py"", line 462, in check_array
+
+    context))
+
+ValueError: Found array with 0 sample(s) (shape=(0, 1)) while a minimum of 1 is required by MinMaxScaler.
+
+>>> 
+
+
+",4,27/07/2018 01:22 PM
+Do Nguyen Tien,"this tutorial doesn;'t work i have error at :
+ 
+
+---------------------------------------------------------------------------
+TypeError                                 Traceback (most recent call last)
+<ipython-input-32-9218594f4d1e> in <module>()
+      6  for li in range(n_layers)]
+      7 
+----> 8 drop_lstm_cells = [tf.contrib.rnn.DropoutWrapper(lstm, input_keep_prob=1.0,output_keep_prob=1.0-dropout, state_keep_prob=1.0-dropout) for lstm in lstm_cells]
+      9 drop_multi_cell = tf.contrib.rnn.MultiRNNCell(drop_lstm_cells)
+     10 multi_cell = tf.contrib.rnn.MultiRNNCell(lstm_cells)
+
+<ipython-input-32-9218594f4d1e> in <listcomp>(.0)
+      6  for li in range(n_layers)]
+      7 
+----> 8 drop_lstm_cells = [tf.contrib.rnn.DropoutWrapper(lstm, input_keep_prob=1.0,output_keep_prob=1.0-dropout, state_keep_prob=1.0-dropout) for lstm in lstm_cells]
+      9 drop_multi_cell = tf.contrib.rnn.MultiRNNCell(drop_lstm_cells)
+     10 multi_cell = tf.contrib.rnn.MultiRNNCell(lstm_cells)
+
+TypeError: __init__() got an unexpected keyword argument 'state_keep_prob'
+
+dont know what is the problem....a different version of api of tensorflow? i thought "" tf.contrib.rnn.DropoutWrapper"" has such an argument.....why does it throw such an error?",2,11/08/2018 08:20 PM
+Joe Damuth,"As someone who has been developing for a few years but is pretty new to python I've found this work to be very insightful and well explained! Oddly enough the only thing I can't figure out is how to read the graph at the very end.  Would you be able to explain what the lines creating the graph are doing?  
+
+For example the last red line in the Best Predictions overtime graph starts at a high and dips down mirroring the actual price movement direction. Do I interpret that as it knew there was going to be a drop but not necessarily what the price would be? Lastly after point 12,000 there are no red lines. Is that because they weren't graphed or they overlap so well with the blue lines that we just don't visually see them?
+
+ Any help would be great I've got my own mini project going on pulling heavily from this tutorial and I just can't decide if it performed well or not by reading the graph!",1,11/08/2018 09:08 PM
+Quan Ri,"Thanks for sharing your idea and code.
+
+Thank you for your effort.
+
+As a Python developer with knowledge in Data Science, I consulted your code.
+
+I tried using that but even with whole month work, I can't improve it's accuracy.
+
+The code is messy and I am confusing more and more when I look at those.
+
+You are not probably experienced in tensorflow, so you made custom operations and variables that are very hard to get their meanings.
+
+Sorry for criticizing...
+
+I hope you have improved your code with proper tensorflow standard functions.",1,26/08/2018 10:20 PM
+Wang Yi,"Hey I have to make a comment here: your explanation after LSTM section is kinda a mess and I don't think people can follow you and your code (as complained by others in the comment section). And I found the reference repository you listed did a way better job explaining the process and the result! Even the code using Keras is way simpler and easier to follow. I don't know what you're trying to say about the final visualization, did you even describe what the graph is?",2,27/08/2018 12:00 PM
+Gong Huan,"Great tutorial and I found it very informative.
+
+One question is why you did not put volume into consideration, since it provides a lot important info in Stock market?",2,31/08/2018 12:11 PM
+Mehdi Pira,"Hi Thushan,
+
+Thank you for your great tutorial.
+
+I'm trying to run the code but I keep getting this error:
+
+ Thanks.
+
+ValueError: Variable rnn/multi_rnn_cell/cell_0/lstm_cell/weights already exists, disallowed. Did you mean to set reuse=True in VarScope? Originally defined at:
+
+  File ""/home/nbuser/anaconda3_501/lib/python3.6/site-packages/tensorflow/contrib/rnn/python/ops/core_rnn_cell_impl.py"", line 1044, in _linear
+    _WEIGHTS_VARIABLE_NAME, [total_arg_size, output_size], dtype=dtype)
+  File ""/home/nbuser/anaconda3_501/lib/python3.6/site-packages/tensorflow/contrib/rnn/python/ops/core_rnn_cell_impl.py"", line 404, in __call__
+    lstm_matrix = _linear([inputs, m_prev], 4 * self._num_units, bias=True)
+  File ""/home/nbuser/anaconda3_501/lib/python3.6/site-packages/tensorflow/contrib/rnn/python/ops/core_rnn_cell_impl.py"", line 713, in __call__
+    output, new_state = self._cell(inputs, state, scope)",1,14/09/2018 12:07 PM
+PRATEEK GOYAL,"are u really predicting time series by randomly creating input and output arrays....
+
+
+",1,22/09/2018 12:31 AM
+Shine Hg,"Hello. Thanks for your tutorial. I tried to implement the code above but I find a problem. For the following line
+
+reset_sample_states = tf.group(*[tf.assign(sample_c[li],tf.zeros([1, num_nodes[li]])) for li in range(n_layers)],
+                              *[tf.assign(sample_h[li],tf.zeros([1, num_nodes[li]])) for li in range(n_layers)])
+
+
+It treated the second * as an invalid syntax. I don't know how to fix it. ",1,01/10/2018 07:06 PM
+Dhrubo Saha,"Hello,
+
+I was trying to run your algorithm for the corn community data. My epoch is showing like that :
+
+Average loss at step 1: 2.219780
+
+Test MSE: 0.33012
+
+Finished Predictions
+
+Average loss at step 2: 0.139264
+
+Test MSE: 0.32127
+
+Finished Predictions
+
+Average loss at step 3: 0.108050
+
+Test MSE: 0.35991
+
+Finished Predictions
+
+Average loss at step 4: 0.091426
+
+Test MSE: 0.48555
+
+Finished Predictions
+
+Average loss at step 5: 0.079735
+
+Decreasing learning rate by 0.5
+
+Test MSE: 0.62430
+
+Finished Predictions
+
+Average loss at step 6: 0.073052
+
+Test MSE: 0.60835
+
+Finished Predictions
+
+Average loss at step 7: 0.068038
+
+Test MSE: 0.61910
+
+Finished Predictions
+
+Average loss at step 8: 0.068114
+
+Decreasing learning rate by 0.5
+
+Test MSE: 0.53155
+
+Finished Predictions
+
+
+
+
+
+
+
+While average loss is decreasing, Test MSE is increasing. What should I decide based on that? Is that unusual?",1,11/10/2018 03:10 AM
+Muhammad Ali,Which version of python you are using: 2 or 3?,1,27/10/2018 01:44 PM
+David Rodríguez Segado,"Why normalize the Data using different arbitrary batches?
+Have you considered working with variations day by day, in order to be able to predict when is going to increase or decrease the value.
+
+
+
+
+Could you please explain again what's the hyperparameter ""num_unrolling"", I'm quite confused of it's use.
+
+
+
+
+Thanks! Great job!",1,29/10/2018 03:32 PM
+Shlomi Golubev,"This is really great! well done! Trying to predict a time series based on EURO/USD forex index using last 100 days (~130K samples) took roughly 6 hours using 8 cores and and 8GB RAM ubuntu system. Any chance to serialize tensorflow object using pickle after training is done so the training can be skipped and I won't need to repeat the training process every run?  regardless of that, this is really great you shared your knowledge and code - you made a difference! you made the world a better place!",2,09/11/2018 02:19 AM
+Emma McArdle,How can i adjust the LSTM parameters to make it only predict one step ahead so I can compare it to other models directly in that capacity? I've tried setting n_predict_once = 1 and/or num_unrollings but the MSE results are discouraging by comparison.,2,17/11/2018 08:25 PM
+Sa Ar,"Hi , Thank you so much for your tutorial. 
+
+I want to know if it is possible to input a multi dimensional time series signal to this model and get a multidimensional (multiple features) output signal from this model? if so how would be the configuration of the tensorflow ?  I guess the last layer which is a regression layer can be set up to give a multidimensional output but I wnt to know how the configuration of the batches and these sort of things would change regarding to many-many configuration.
+
+Also I want to know if it is possible to train the model with several time-series signals as training data?
+
+Thank you so much",1,05/12/2018 03:20 PM
+Anish Miya,"any one this method ues in django website?
+
+please give a link",0,12/12/2018 10:44 PM
+Dienal Xie," Hi Thushan:
+
+I was wondering  that the plotting of the 'Best Test Predictions ' maybe :
+
+                      for xval,yval in zip(x_axis_seq,predictions_over_time [best_prediction_epoch-1]):    
+
+                                       plt.plot(xval,yval,color='r')   ,
+
+if  ' best_prediction_epoch ' is the best results showing  above .
+
+
+
+
+
+",1,18/12/2018 08:19 PM
+Richa Handa,"Hello sir I have one doubt that in this example u have taken 3 hidden layers, but if I want to increase the layers into 20 then how to code that.  I will be thankful if u answer this ",1,18/12/2018 11:49 PM
+Abdennacer Abdo,"Thank you.
+
+
+",1,25/12/2018 08:11 PM
+Lyn Cheese,"Hi Sir !
+Thank you for your tutorial
+
+I have some doubt that maybe you can clear out.
+
+Firstly, after I read your explanation, I though the code will predict the 50 steps ahead of time.
+But, I think your code is in the end just predicting a one step-ahead.
+
+Your num_unrolling is how many steps back you run to get info from training data, to predict the one step ahead thing.
+From there you run prediction to the future for n_predict_once times.
+At this point, maybe this is what you mean by predicting 50 steps ahead, because n_predict_once is 50
+But, if it work that way, then your prediction is hardly to even reach 50% accuracy.
+Since we predict n_predict_once ahead, then I should observe only the tail from the red line, which is the 50th prediction ahead.
+This value is in the end the 50th steps ahead prediction which we want.
+
+So, if we compare the tail of each red line with the real price movement.
+There are many times, where the red tail is going down while the price movement is up, and so the opposite.
+
+In short, I wonder, what exactly you mean by ""able to predict stock price behavior correctly most of the time"" ?
+Because it was not so.
+Am I missing something ?
+",4,24/01/2019 02:40 PM
+Navjot Makkar,"After step I am getting test mse =0
+
+Average loss at step 2: 0.141111
+Test MSE: 0.00000
+Finished Predictions
+Average loss at step 3: 0.068305
+Test MSE: 0.00000
+Finished Predictions
+
+...",1,29/01/2019 02:16 PM
+Govind chand,"Hey, I am still novice at Data Science, so pardon me, but in the examples of MAs above you are using min max to scale the entire train data and then using a ema/ma of same to predict and calc mse. this is introducing look-ahead bias, isn't it",1,06/02/2019 01:47 AM
+Mohamed Gamal,"Thanks a lot for this tutorial! It is really helpful.
+
+I have a question, though. I got lost in the many error evaluation steps. I want to compute the F1 score for this model. Any idea how I could do that?
+
+
+",1,18/03/2019 11:36 PM
+nguyen bac,It's really nice. But currently I don't know how deploy it on tensorflow serving. It's nicer to have a tutorial about how to deploy it. ,1,25/03/2019 09:27 AM
+Morgan Weiss,Where in the code could we tell the computer to use our GPU when running the algorithm?,1,26/03/2019 11:24 AM
+Joe Doe,"It's obviously a lag, not a prediction. A total failure. Are you all reta*ded? ""Data scientists"" my a**.  Why do you think this guy has to write articles for a living and not becoming a trillionaire with such an edge?",1,02/04/2019 03:20 AM
+Jerry Pan,"Hi Thushan,
+
+First of all. thanks for your tutorial.
+
+And I wonder that Can we apply this model to the future dates that are not even included in testing data?
+
+
+
+
+I mean, for example, 
+
+now is April 3rd, so the testing data is only until April 3rd from real stock market.
+
+
+
+
+But Can I predict the stock price in May or June?
+
+and What code should I change to predict the far future? 
+
+(Stock price in May, which is not even in the testing data)
+
+Thank you so much.",3,04/04/2019 05:12 AM
+maheshbhosale24051996 bhosale,"Thanks for the write up. I have been working on time series prediction for around year now,.
+
+I have some questions in your current implementation:
+
+
+When you have compared the results noted as predicted and actual data in the graphs, was true data given as input for the future predictions? I mean for the future predictions, as you are doing single step prediction, say to predict values of a day after tomorrow I will have to have tomorrow's data (assuming each time step interval is a day), but in practice we don't really have the true data of tomorrow, though we can obviously use predictions of tomorrow from the today's data but there would be some error in it, which dramatically increases as we go farther in the future to predict. Though multi step predictions work better but are not as good as when we do predictions based on true data, also results are not really robust and are very much depend upon the step size. ",1,26/05/2019 03:20 PM
+Gaurav Misra,"Hii Thushan, I was doing stock market forecasting using your code. It shows only vertical lines while predicting data for each span of 50 days, can you tell me where I could have gone wrong? Kindly suggest me some solution. Thanks!
+
+
+",1,01/06/2019 04:24 PM
+Service Number,"Thanks for the tutorial. 
+
+Pack your baggage and get ready for the most amazing experience with JetBlue Airlines. You do not need to worry about anything due to our JetBlue Airlines Customer Service Number. Our customer support executives are available 365 days and ready to help you in every possible way.",1,06/06/2019 04:14 AM
+Gaurav Misra,"I want to ask if anyone have applied this implementation using more than just mid data like separately using close, high and low prices as features to predict close price. Kindly provide some idea at least. I am quite stuck at this point.",1,06/06/2019 05:10 PM
+Service Number,If you are planning for a trip then why are you waiting for? At American Airlines Flights Reservations number you will get best offers or deals on both domestic and international flights booking. ,1,12/06/2019 05:03 AM

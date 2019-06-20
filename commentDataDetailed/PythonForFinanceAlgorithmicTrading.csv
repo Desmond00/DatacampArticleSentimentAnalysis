@@ -1,0 +1,189 @@
+﻿commentedBy,commentMessage,upvotes,commentDate
+Matthew Papes,I just came across this and wanted to download the Jupyter notebook but it is not there. Can you provide a link to it?,1,17/02/2018 10:07 PM
+Hicham Kerkri,Is there any data source other than quandl where I can import the adjusted closing price?,1,20/02/2018 11:37 PM
+Tanmoy Sen,How do I find the total number of  peaks in a graph?,3,21/02/2018 11:02 PM
+Weng Hoe Lee,why are we using  100*signals['signal']  instead of  100*signals['positions']? ,1,12/03/2018 07:55 PM
+slacoai,"I have excess of 8 years experience in programming and a couple of years of experience in financial engineering, but I wished that many write the way you do. People like you make art out of quite  complicated, and sometimes boring topics. Well done!",10,15/03/2018 09:18 PM
+Sam Presnal,Appears that  'Adj Close' has been renamed to 'AdjClose',1,18/03/2018 09:30 PM
+Nick Wong,"Nice tutorial!
+
+For the fuel (data), you can try  Quantapi which provide commodities, currencies, market index and crypto data api.
+
+https://quantapi.co/
+
+
+",1,22/03/2018 01:46 PM
+Dan Snyder,"cum_monthly_return should be 
+
+cum_daily_return.resample(""M"").last() 
+
+instead of 
+
+cum_daily_return.resample(""M"").mean()",3,29/03/2018 10:40 PM
+Victor Montanez,"any great book to buy regarding this tutorial? 
+
+syracusepro@thinkscriptcode.com
+
+Thanks.",2,07/04/2018 11:48 AM
+Mohamed Ayman,The Yahoo API doesn't work?,1,10/04/2018 09:04 PM
+Phil Smithens,"Great Tutorial, thank you!
+
+When coding the simple trading strategy you refer to it as the moving average crossover. But aren't actually implementing the dual moving average crossover ?
+
+
+
+
+
+",1,11/04/2018 04:59 PM
+Inna Gorsky,Why to use datetime.datetime and not datetime.date  in this case when only date is  in use  ?,1,24/04/2018 07:37 AM
+Pedro Torres,"Nice intro
+
+
+",1,27/04/2018 03:34 AM
+jorgeog96,"First, congratulations for this amazing article which is really helpful! It´s been written in a fantastic structure! I have a general question...maybe u can answer me...Is there any python library specific for technical analys? I mean a library to implement different indicators with the data that I obtain. For instance..create a RSI or a Stochastic indicator in a fast manner. Do u know any library like that which is legit and reliable? Thanks a lot!",4,06/05/2018 01:38 AM
+Muhammad Bilal,"Hi, Please solve this issue i am unable to find the reason of error
+
+ 
+
+---------------------------------------------------------------------------
+ValueError                                Traceback (most recent call last)
+<ipython-input-117-08d90e4f2036> in <module>()
+     31 ax1.plot(signals.loc[signals.positions == 1.0].index, 
+     32          signals.short_mavg[signals.positions == 1.0],
+---> 33          '^', markersize=10, color='m')
+     34 
+
+ 
+
+ValueError: Buffer has wrong number of dimensions (expected 1, got 2)",4,17/05/2018 01:29 PM
+Krisan Haria,The data reader no longer works to access stock prices from yahoo or google. How can we use this? ,2,27/05/2018 09:33 PM
+Neila MOUSSI,nice,1,29/05/2018 08:48 AM
+Mehdi El Hamzaoui,"Going short: ""or you sell your stock, expecting that you can buy it back at a lower price and realize a profit"". Isn't going short selling a stock you don't own and buying it back at a lower price in order to make a profit?",3,03/06/2018 01:05 PM
+William Lee,"I need help. With this code ↓
+
+import pandas_datareader as pdr
+
+import datetime 
+
+aapl = pdr.get_data_yahoo('AAPL', 
+
+                          start=datetime.datetime(2006, 10, 1), 
+
+                          end=datetime.datetime(2012, 1, 1)), 
+
+
+
+
+I got this ↓
+
+  File ""/anaconda3/lib/python3.6/site-packages/pandas_datareader/fred.py"", line 3, in <module>
+
+    aapl = pdr.get_data_yahoo('AAPL',
+
+AttributeError: module 'pandas_datareader' has no attribute 'get_data_yahoo'",1,23/06/2018 05:01 AM
+Lizi Zhu,"The ""loc"" line doesn't work in my case and it keeps showing ''level mismatch ""error and "" label is not the index'"" erro. I think there's something fishy going on with the indexing of aapl dataframe, but I cannot place it. ",1,09/07/2018 12:02 AM
+seo a4,"I am going to share with you one very simple strategy based on a strong and 
+
+easily noticeable candlestick pattern. 
+
+They call it ""Lucky Spike"". Everyone can learn it, use it and make money with 
+
+it.There are traders who make a living trading just this pattern. 
+
+Just check out this ebook I am giving you for free:==> 
+
+http://www.forexmystery.com?hgd4h84gdh",1,30/07/2018 11:58 AM
+Ambrish Raman,"Hi 
+
+I am new for python and Linux .but I have 10 years experiences in trading and developing algo strategy .
+
+ How to use this program to Linux .Its same or we do some other things?
+
+
+",1,13/08/2018 09:23 PM
+Greg Pascaran,"Karlijn, great tutorial, but I had a question: I am following this tutorial using my own environment, and up until the Big DataFrame section, it was all working fine. I am encountering an error when executing this line of code: ().pivot('Date', 'Ticker', 'Adj Close')  
+
+This works fine when using the embedded code window, but unsure why it doesn't work in an environment that has been working perfectly until now.
+
+Do you have any tips?",1,14/08/2018 09:16 AM
+Tom Detzel,"Hi folks,  I'm having a similar problem to Greg -- this line of code: 
+
+daily_close_px = all_data[['Adj Close']].reset_index().pivot('Date', 'Ticker', 'Adj Close')
+
+Not working. I'm getting a bad result -- identical closing values for each Ticker on each Date.
+
+I've tried multiple fixes and the pivot (or pivot_table) reproduces the same mistake. 
+
+What gives?
+
+
+
+
+
+",2,30/08/2018 07:23 AM
+chois good,"""Note that, in the code chunk below, you’ll see that you consider days, so your 1 is adjusted to 365 days (which is equal to 1 year).""  => I think that we have to use 250 days instead of 364 for CAGR (business days)",1,06/09/2018 06:47 AM
+awqattyb,"Small typo in the Time Series section:
+
+""The 'successive equally spaced points in time' in this case means that the days that are featured on the x-axis are 14 days apart: note the difference between 3/7/2005 and the next point, 3/31/2005, and 4/5/2005 and 4/19/2005.""
+
+It should be instead, 3/21/2005, not 31.",1,19/09/2018 10:38 PM
+Elias Ben,!,1,25/09/2018 04:28 AM
+Nattapone Buagaw,"note the difference between 3/7/2005 and the next point, 3/31/2005, and 4/5/2005 and 4/19/2005.
+
+3/31/2005 incorrect must be 3/21/2005.",1,08/10/2018 05:16 AM
+Ashley adrias,Thanks for this tut!,1,15/10/2018 10:42 AM
+Luca Giacomelli,"BIG MISTAKE: in the Quantopian section you skip 300 minutes and consider history windows of 300 days.
+The comment says explicitly that you skip the first 300 days, but the function 'handle_data' is called every minute.",2,02/12/2018 05:19 PM
+Omar Musaev,your i-python shell does not work ,1,26/12/2018 07:58 AM
+Falco Peregrinus,"You said:
+
+""Another object that you see in the code chunk above is the portfolio, which stores important information about…. Your portfolio. As you can see in the piece of code context.portfolio.positions""
+
+But, portfolio is nowhere in your code in quantopian, or this line ""context.portfolio.positions"".
+
+Is some of the code missing?",1,27/12/2018 02:56 PM
+XF Chapa,"In the section Importing Financial Data Into Python it reads ""you can also make use of libraries such as Quandl, for example, to get data from Google Finance:"" while the sample code is for Apple data in Quandl.",1,25/01/2019 04:24 AM
+Francesco Tabani,"Hi, I have downloaded the Jupyter notebook, but I cannot open it (tried on 2 different boxes), it seem there's something wrong (it seems it's not a JSON file):
+
+this is the error message:
+
+"" Unreadable Notebook: C:\Users\Francesco\Documents\DATACAMP\Python For  Finance Beginners Tutorial.ipynb NotJSONError(""Notebook does not appear  to be JSON: '\\n\\n\\n\\n\\n\\n<!DOCTYPE html>\\n<html  lang..."") 
+
+how can I fix this?
+
+thanks
+
+Francesco",1,01/02/2019 09:58 PM
+Shreshth Saxena,what's the significance of sqrt(252) in sharpe ratio ?,1,18/02/2019 08:10 PM
+Egor Epishin,"Great tutorial, very helpful!
+
+But why we take into consideration only buy signals when performing backtesting?
+
+Your help is greatly appreciated.",1,31/03/2019 04:15 AM
+Hitendra Vasudeo,"Hello,  can you backrest a system for me,  on Indian,  ",1,21/04/2019 06:41 PM
+Hitendra Vasudeo,"Hello,  I will provide nifty data and buy sell logic I will provide can contact 919820219664",1,21/04/2019 06:46 PM
+Martin Qualls,"What a cool programming language! Python is one of my favourite language. It's hard and old, but it's very multifaceted. You can use it in diiferent spheres. Fantastic!",1,27/04/2019 10:56 PM
+Oliver Johnson,"The instability of a stock is an estimation of the adjustment in difference in the profits of a stock over a particular timeframe. Usually to contrast the instability of a stock and another stock to discover which may have less hazard or to a market record to inspect the stock's unpredictability in the general market.
+
+  
+
+https://www.epsonprintersupport247.com/epson-connect-server-error-fix/   ",1,02/05/2019 09:58 AM
+Bruce Hank,  Excellent and nice post. This is such a great resource that you are providing and you give it away for free. I love seeing a blog that understands the value. I'm glad to have found this post as its such an interesting one! I have also something very interesting for you. Visit our blog post-  How to Fix mac internal server error 500? Call +1-888-209-3034 Toll-Free ,1,10/05/2019 04:06 PM
+archer smith,"  Excellent and nice post. This is such a great resource that you are providing and you give it away for free.  if  you are phase any problem  you can visit our site <a href="" https://www.epsonprintersupport247.com/steps-to-fix-error-code-0x10-of-epson-printer/ "">epson error code 0x10</a>",1,11/05/2019 10:50 AM
+dhekitha kutty,"     Your   good knowledge and kindness in playing with all the pieces were very useful.   I don’t know what I would have done if I had not encountered such a step like   this.    
+
+Python online training
+
+Microsoft azure online training",1,20/05/2019 01:02 PM
+Erica Turner,Thank you for posting such a great blog! I found your website perfect for my needs. It contains wonderful and helpful posts. Keep up the good work. Thank you for this wonderful Blog!  canon printer offline ,1,22/05/2019 10:42 AM
+siva sundari,"This is   very good content you share on this blog. it's very informative and provide   me future related information.    
+
+Software testing online training
+
+VBA online training",1,23/05/2019 03:35 PM
+kate winfield," 
+
+It is a great post.It's been such a wonderful experience while reading your blog.If facing any problem related to printer please visit  Brother Printer Installation and call us on toll free no. USA: +1-888-633-7151; UK: +44-808-164-5280 for any technical support assistance.",1,28/05/2019 12:15 PM
+Helen Shiu,Thank you for this incredibly informative article! It makes a compelling case for learning Python.,1,29/05/2019 07:43 PM
+Airlines Phone Numbers," If you want to get an amazing travel experience at a low cost, dial Allegiant Airlines Phone Number and book your tickets instantly at a high discount. The experts at Allegiant Airlines Phone Number provides the best offers and deals according to customer’s requirement. To know more, visit here:  https://airlinesphonenumbers.blogspot.com/2019/05/get-instant-help-at-allegiant-airlines.html ",1,05/06/2019 01:55 PM
+Ronny Washington,Excellent and nice post. This is such a great resource that you are providing and you give it away for free. I love seeing that understands the value. I'm glad to have found this is post as its such an interesting one! I have also something very interesting for you. Visit our blog post-   Dell Error Code 2000-0511 ,1,19/06/2019 04:08 PM

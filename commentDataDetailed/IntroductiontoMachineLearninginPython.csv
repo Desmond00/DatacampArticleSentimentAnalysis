@@ -1,0 +1,64 @@
+﻿commentedBy,commentMessage,upvotes,commentDate
+Jason Rathgeber,"Great article thank you. 
+
+Just one missing line I needed to add to run the whole tutorial w/o error : 
+
+from sklearn.metrics import confusion_matrix
+
+The tutorial produced very nice looking graphics and is an easy to understand treatment of this well known dataset. 
+
+Jason
+
+
+",6,05/12/2018 07:50 PM
+Yuri Silva,"Very good tutorial! Intuitive and practical lessons!
+
+
+
+
+I just had one doubt about the histogram part.
+
+According to the author there were only unimodal distributions.
+
+However, I believe the distribution of petal-length is multimodal.",1,27/12/2018 10:12 PM
+Yanhui Yuan,"Nice and easy introductory tutorial, very good for beginners like me.
+
+One issue:
+
+ ""With just a few lines of code, you were able to train an ML model that  is now able to tell you the flower name by using only four features with  96.66% accuracy. ""
+
+Actually only three features were used in the model.
+
+ 
+
+train_data,test_data,train_label,test_label = train_test_split(dataset.iloc[:,:3], dataset.iloc[:,4], test_size=0.2, random_state=42)
+
+ 
+
+train_data.shape,train_label.shape,test_data.shape,test_label.shape
+
+ 
+
+((120, 3), (120,), (30, 3), (30,))
+
+When the last feature is included, the accuracy plot looks very different. ",2,17/02/2019 01:45 PM
+Dhruv Upadhyay,"Great Article! This was a really comprehensive, detailed, and helpful tutorial, especially as an introduction to machine learning. I was wondering, when choosing the k-value for optimization, why did you not use k=9? Based on my graph, k=9 seems to exhibit most accurate results, and when I run the algorithm with k=9 upon the test-set, it exhibits 100% accuracy. Is it because both test_accuracy=training_accuracy when k=3?
+
+Thank you,
+
+Dhruv",2,24/03/2019 06:13 AM
+mastan paruchuri,"Hi Team,
+
+This is Mastan.Paruchuri. first of all thanks for the post.it is very useful for beginners.
+
+please let me know ,how to check correlation for the iris-versicolor and virginica in pandas.
+
+I tried below one.is it correct?
+
+Input:-
+
+iris.iloc[50:100,:].corr() + iris.iloc[100:,:].corr()
+
+Thanks,
+
+Mastan.",1,05/05/2019 02:12 PM

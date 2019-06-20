@@ -1,0 +1,22 @@
+﻿commentedBy,commentMessage,upvotes,commentDate
+abhishekgupta,query is not valid for Silver.1 or Gold.1 kind of column name. ,1,10/10/2018 07:03 PM
+Bhishan Poudel,"To find the similarity we can also do this:
+
+top_5_df.groupby('year').apply(lambda x: x.university_name[x.university_name.duplicated()].shape[0] / 5 * 100).rename('set_similarity').reset_index()",1,12/02/2019 10:45 AM
+Larry Smith,"  
+
+A simple and stylish tip well completed. Thanks!
+
+While have getting the issues in the Adobe, users can join with the experts through Adobe reader support and acquire immediate solutions for the issues of the users. ",1,12/02/2019 11:50 AM
+Larry Smith,"  
+
+Seattle Airport Limo Service provides you in every manner and supplier you pick and drop service from the airport to the destination you want to visit. ",1,12/02/2019 12:30 PM
+Larry Smith,"  
+
+Felt so hopeless looking for answers to my questions until now.
+
+To obtain the assist for these issues, acquire in touch with our team of experts through TomTom GPS Customer Support Number who are available round the clock and they have complete information to help the customers.",1,12/02/2019 12:54 PM
+James Hathword,"So, by following the process of Incredimail Download and Install, you can ensure that Incredimail Setup on Windows Computer.
+
+
+",1,25/03/2019 11:27 AM

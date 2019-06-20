@@ -1,0 +1,6 @@
+﻿commentedBy,commentMessage,upvotes,commentDate
+Joseph Walker,"the https://www.datacamp.com/community/tutorials/Dockerfile redirects to https://www.datacamp.com/community/tutorials, which is infuriating! Please fix!
+
+and on another tack, the article is not so well structured in that dependencies are sprinkled throughout the text, instead of being explicitly stated right at the start. The whole idea of Docker and the universe it has constructed is that there are zero undocumented assumptions, and dependencies are completely rigorously defined and protected.
+
+Having said that, thanks for your efforts, I hope they don't go in vain...",1,14/03/2018 09:39 AM

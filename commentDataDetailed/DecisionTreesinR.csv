@@ -1,0 +1,29 @@
+﻿commentedBy,commentMessage,upvotes,commentDate
+Peter Sofronas,"Great read. I've used decision trees a few times for classification problems. The greatest strength of the trees is their readability, in comparison to other models. However, the biggest problem I've run into is trying to train decision trees using datasets with lots of categorical data. Is there any way to better train trees on datasets with lots of string data (eg: country/company names)?",4,06/07/2018 11:52 PM
+William Petrosino,This is a great article - I like the content a lot - well done. I have one quick question. Isn't it the test error in this case that is at 26 and the oob that is at 20 with 1 tree? The way I read the article it seems flipped.,0,23/08/2018 08:05 PM
+Teresiah Karumba,"Awesome, however i got an error  while using the text function. this is the error.
+
+Error in text.default(xy
+x[ind],xy
+x[ind],xy
+y[ind] + 0.5 * charht, rows[ind], : plot.new has not been called yet
+
+How do i solve it?",3,01/10/2018 03:47 PM
+anqiclement,"after the step of evaluate the error  by using a misclassification table, shouldn't the error rate be 0.24? the 0.76 would be the accuracy?",1,29/11/2018 08:25 PM
+Ngan Nguyen,Cross entropy formula is wrong,6,03/12/2018 01:43 PM
+Tram Ly,"Dear ,
+
+
+
+
+I would like to ask , the condition to stop  when using  recursive binary splititng to grow a large tree on the training data, stopping only when each terminal node has fewer than some minimum number of observations  --> what is a minimum number of observations 
+
+I am so appreciate if you answer me 
+
+
+
+
+Regards 
+
+
+",2,06/12/2018 03:07 AM

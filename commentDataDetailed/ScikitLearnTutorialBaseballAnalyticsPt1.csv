@@ -1,0 +1,32 @@
+﻿commentedBy,commentMessage,upvotes,commentDate
+Daron Prater,"This is a great tutorial and I found it very helpful! 
+
+One question, when doing the K-means clustering, would it be advantageous to scale the data prior to running the algorithm? I ask because some of the data like batting average are anywhere from 0-.5 where as hits and runs can range from 370-1067 and because this calculates the euclidian distance the different magnitudes in data would impact the clustering results.
+
+Overall great stuff, thanks for putting this together",3,06/10/2018 08:03 AM
+Christian Johansson,"Great turorial, I have a question though.
+
+Why did you split thae data like 
+
+""""""
+
+Split data DataFrame into train and test sets
+
+train = data.sample(frac=0.75, random_state=1)
+
+test = data.loc[~data.index.isin(train.index)]
+
+X_train = train[attributes]
+
+y_train = train['W']
+
+X_test = test[attributes]
+
+y_test = test['W']
+
+""""""
+
+And not with a train_test_split?
+
+
+",1,08/10/2018 11:02 PM

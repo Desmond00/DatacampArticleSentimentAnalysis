@@ -1,0 +1,150 @@
+﻿commentedBy,commentMessage,upvotes,commentDate
+Milos Basaraba,",",4,27/07/2018 03:45 AM
+shikun chen,fantastic job! Thanks,2,27/07/2018 03:07 PM
+alf mail,"amazing job, thanks for sharing",3,29/07/2018 08:14 PM
+Stephen Sanwo,"Hi, I am confused at Beautiful Soup. You said it is not advisable to use Reg Exp. But you used it. If I want to use only beautiful soup how do I go abount it?",8,31/07/2018 03:00 AM
+Srinivasan S,"What should be done, in case the web site asks you to enter a ""search"" string/ parameter first (for example product category or country) and then shows the results. How can we pass such parameters to the website using python and then extract the data?
+
+any hints on the above will be much appreciated.",1,31/07/2018 12:18 PM
+Nick Nurimbetov,"With method based in this article, you can only grab static HTML pages. To get JavaScript enabled pages, you need some parser (PhantomJS or headless chrome browser). Since nowadays, most websites are react-native, javascript-native or whatever-native, to do really good scraping you need to go different route. ",5,31/07/2018 07:40 PM
+steven d,"What parts of Python do I need to use to be able to simulate clicking through assorted web pages to select the criteria for the data to be downloaded and then trigger the download?
+This it to get around a very poorly designed interface that requires me to re-drive the interface for each subgroup to collect the data I need to analyze each month. Manually it takes me over a days work to collect the data, a task that is repetitive, mind numbingly  boring and prone to errors.
+",2,31/07/2018 11:03 PM
+SMEET CHITALIA,"When I try to split split column ""0"" into multiple columns at the comma position for all rows, it only gives me Place in column 0 as output and nothing else
+Any solution for that?",1,01/08/2018 10:27 PM
+Mirko Savasta,"Converting time to minutes can be done more efficiently using the apply method on a datetime series.
+
+code:
+
+df[""mins""] = df[""Time""].apply(lambda x: x.hour*60 + x.minute)",1,05/08/2018 06:18 PM
+Abhishek Kumar,"I learnt alot..
+
+.",1,06/08/2018 12:25 AM
+Thiago Melo,"Excellent Article!! By the way, is there any way to bypass a proxy server using Jupyter and Anaconda? I've got an error while trying to connect to the url if i was behind a proxy.",1,08/08/2018 02:34 AM
+Divya Thakur," This ain't working for me  :-|
+
+Getting a SettingWithCopyWarning 
+
+Please help!
+
+df7['Runner_mins'] = time_mins
+df7.head()",1,08/08/2018 03:39 AM
+Brian Cartwright,"In this tutorial you did the scraping, cleaning and analyzing in one pass. I do a lot of scraping and prefer to take them one at a time, with the first step downloading the web data in a local database where I can refer to it at anytime for analysis. But connecting to a db is another topic...
+
+I also want to leave a tip about explicitly identifying wanted data in the html. You were find various tags from the entire soup, but most of the time there are multiple tables as well as other tags. Looking at the example html (which, as you point out, the reader can access by right licking and selecting 'inspect') I quickly noticed that the table of interest was assigned an id with a value of 'individualResults'. Reading only this table saves headaches of unwittingly grabbing data from the wrong table. Once the intended table has been isolated the rows and columns can be looped through. 
+
+table = soup.find('table', {'id':'individualResults'})
+
+for row in table.findAll('tr'):
+
+  for col in row.findAll('td'):
+
+
+I want to thank you for some Pandas examples. I need to learn more about these packages so I can simplify and expand my analysis.
+",2,08/08/2018 04:26 AM
+joseangelbp,"Very well explane it, step by step. For beginners like me is a wonderful source to understand data manipulation with Python, Pandas, Matplotlib, etc.",1,08/08/2018 07:56 AM
+acodar2,"Thank you so much for in-depth describing the web scraping using Python, ",1,09/08/2018 01:24 PM
+Murilo Garcia,"Awesome tutorial, very clear and detailed, congratulations!",2,09/08/2018 07:05 PM
+Marcelo Arizaga,great job!!! tanks a lot,2,11/08/2018 10:55 PM
+Abhinav Kumar,"The picture after this code 
+
+
+
+
+ not been modified to reflect the changes mad
+
+e. [0] = df1[0].str.strip('[') df1.head(10)",1,13/08/2018 03:38 PM
+Sunu Daniel,Good job! Thanks,1,14/08/2018 10:11 PM
+Adams Brain,"Thank you for sharing! This is really an excellent article.
+
+In addition to using Python, it is very convenient to use the web scraping software. I recently used ScrapeStorm and I feel that it is doing a good job of scraping data.
+
+
+",1,04/09/2018 07:35 AM
+Zeel Shah,"Hello There, 
+
+Thank you for providing point-to-point details of how can we scrap data using python. It could be useful for beginners like me.  I am working on my first project in which I am using this technology. You have also provided images of how it will results as output and how to organise it later.  Hoping that, You will provide such nice articles for us. Before this article, I have gone through very useful article here:  webdata-scraping. ",1,11/09/2018 02:11 PM
+Anil Thakur,"HI can you please tell how to scrape multi  page website or how to go about pagination types such as simple 1,2,3,4 pages or press next button  or push button to load more,thanks",1,24/10/2018 03:17 PM
+Xolani Dastile,"Enkosi Sicelo ndoda, this is great work!!!!!",1,25/10/2018 03:32 AM
+Akshay Lungare,"Explained very well.
+
+I am using the .dropna(), after that the formatting of the data-frame was removing, it was showing the data-frame in the list style.
+
+Also, when I am splitting the value on ',' it was splitting single string containing comma. Let me explain I have a column whose value is ""test first word, test second word"". I want this column value as single bug it was still splitting single value also. Please advise. ",1,28/10/2018 05:16 PM
+Anass Alhyar,Thank you very much for this article!,1,01/11/2018 11:18 PM
+Ajeet Ojha,"Great article, I have a slightly different requirement.  I want to extract the news articles from different news web sites. can you please advise the best way to do the same",1,25/11/2018 03:49 PM
+Parajuli Ram Prasad,it is soo great to  find this article and can you please explain how to scrap login required websites in python or in R am really struck with it ... if you could provide me the similar kind of explanation it would be soo helpful to all ,2,08/01/2019 03:03 PM
+subbu a,"Is there any way to convert this data in to RDF format in place of a data frame ,I have a requirement where i need to convert the web scraped data in to RDF format is this possible? ",1,31/01/2019 12:14 PM
+Neeraj Sharma," 
+
+from urllib.request import urlopen
+
+from bs4 import BeautifulSoup as BS
+
+url = ""https://www.imdb.com/chart/top?ref_=nv_mv_250""
+
+html = urlopen(url)
+
+url_list = BS(html, 'lxml')
+
+type(url_list)
+
+all_links = url_list.find_all('a', href=re.compile(""/title/tt""))
+
+for link in all_links:
+
+  print(link.get(""href""))
+
+all_urls = link.get(""href"")
+
+url_test = 'http://www.imdb.com/{}/'
+
+for i in all_urls:
+
+    urls = url_test.format(i)
+
+    print(urls)
+
+this is the code to scrape the urls of all the 250 movies from the main url.
+but the code gives the result as ------
+
+http://www.imdb.com/// 
+
+http://www.imdb.com/t/ 
+
+http://www.imdb.com/i/ 
+
+http://www.imdb.com/t/ 
+
+http://www.imdb.com/l/ 
+
+and so on ...
+
+
+how can i split 'all_urls' using a comma, or how can I make a list of urls in 'all_urls'....",1,04/02/2019 02:40 PM
+Foodies Food,"Hi, Your article is very helpful for me. I am trying to scrape this website http://medicalkerala.com/general-practitioner/specialist/doctors/173 "". I am having a problem to click on link one by one. My code is working for only first link then it's stop. Here is a sample of my code: 
+
+element0 = wait.until(EC.visibility_of_element_located((By.CSS_SELECTOR, ""div.sub-listing"")))
+
+soup = BeautifulSoup(browser.page_source, 'html.parser')
+
+allTitles = soup.find_all('a', class_='active')
+
+for title in allTitles:
+
+    first_link = browser.find_element_by_link_text(title.get_text())
+
+    element0 = wait.until(EC.element_to_be_clickable((By.LINK_TEXT, title.get_text())))
+
+    browser.execute_script(""arguments[0].click();"", first_link)
+
+    browser.execute_script(""window.history.go(-1)"")
+
+can you suggest me any soultion for this?",1,10/04/2019 10:14 PM
+abhijith chandran,"Hey!
+How can I do this for downloading a large number of images. So I was making a classifier for players of English Premier League. How do I download the images of each player and make a Panda's Data Frame out of it?",1,11/05/2019 01:32 PM
+Maximilian Thedoros,"  Hello! Thank for this course, good job. Everything is described step by step  and looking suitable for beginners. So my question is why there some troubles with xml uploads? And next to my level will be such as https://scrapy.org/. Scripe some information from https://mydataprovider.com/ will see what happened. ",1,22/05/2019 01:08 PM
+John M Young,"Good job and thanks for sharing this post.
+
+If you are facing some technical issues regarding SBCGlobal so don't panic just call SBCGlobal Customer Service Number.",1,23/05/2019 04:25 PM
+yadu ac,Whether we can run all these codes in jupyter notebook.,1,30/05/2019 03:11 PM

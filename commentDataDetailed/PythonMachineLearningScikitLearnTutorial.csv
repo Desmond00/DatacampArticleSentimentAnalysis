@@ -1,0 +1,96 @@
+﻿commentedBy,commentMessage,upvotes,commentDate
+vivekvscool,Excellent tutorial! Learned a ton and explanation is understandable for someone new to machine learning.,3,23/02/2018 11:33 AM
+hawkra,"I am very unclear on the section 
+
+for i in range(len(colors)):
+	x = reduced_data_rpca[:, 0][digits.target == i]
+	y = reduced_data_rpca[:, 1][digits.target == i]
+	plt.scatter(x, y, c=colors[i])
+
+Unsure of the significane of the [:, 0] and [:, 1].  Overall this explanation was unclear to me, any clarification would be very appreciated.  Thanks and you write great tutorials!",1,01/03/2018 12:05 PM
+hawkra,"In the following section: 
+
+You’ll see that the training set X_train now contains 1347  samples, which is exactly 2/3d of the samples that the original data set  contained, and 64 features, which hasn’t changed. The y_train training set also contains 2/3d of the labels of the original data set. This means that the test sets X_train and y_train contain 450 samples.
+
+for the X_train and y_train containing 450 samples, did you mean the X_test/y_test?  ",1,02/03/2018 01:34 AM
+Hansee Han,"Was following : randomized_pca = RandomizedPCA(n_components=2)
+
+Class RandomizedPCA is deprecated; RandomizedPCA was deprecated in 0.18 and will be removed in 0.20. Use PCA(svd_solver='randomized') instead. The new implementation DOES NOT store whiten ``components_``. Apply transform to get them.
+
+
+",1,15/03/2018 10:56 PM
+Manohar Sri,"A jupyter notebook of the same can help!
+
+
+
+
+For some reason, i tried recreating the same in my local machine but it didn't work out!",1,27/03/2018 10:44 PM
+Manohar Sri,"@Karlijn Willems : 
+
+I tried recreating the same in my local machine, it doesn't seem to work? 
+
+Any thoughts, please.
+
+
+
+
+
+",1,05/04/2018 10:14 PM
+Isaac Benchetrit," As your use case was one for clustering, you can follow the path on the map towards “KMeans”. You’ll see the use case that you have just thought about requires you to have more than 50 samples (“check!”), to have labeled data (“check!”), to know the number of categories that you want to predict (“check!”) and to have less than 10K samples (“check!”). 
+
+KMeans works without labeled data .
+
+
+",4,22/04/2018 03:16 PM
+Isaac Benchetrit," You’ll see that the training set X_train now contains 1347 samples, which is exactly 2/3d of the samples that the original data set contained, and 64 features, which hasn’t changed. The y_traintraining set also contains 2/3d of the labels of the original data set. This means that the test sets X_test and y_test contain 450 samples. 
+
+1347 samples correspond to approximately  3/4 of the 1797 initial samples : the test_size = 0.25 so the train_size = 0.75=3/4 not 2/3.
+
+The same for the y_train size...
+
+
+
+
+
+",5,22/04/2018 04:24 PM
+ranjanint07,"Hi,
+
+Excellent article for beginner to ML.
+
+I have one question,
+
+
+
+
+We can visualize the training and test set data using various python libraries.But if i have to show the attributes of a particular data point say for example i have an Employee table with columns 'Employee Name', 'Experience' and 'Salary' and i use may be logistic regression to find out what would be the salary when a new employee joins.
+
+
+
+
+I want to present this in a board room meeting.I got the data point distributions and all using logistic regression but i need to show them the attributes 'Employee Name' ,'Experience' and the 'salary' that is predicted when i hover my mouse on any data point.
+
+Is there a way to show these attribute details anyhow?",1,29/05/2018 08:14 PM
+Jay Pagnis,"The link to the kaggle website in the third para of the section at the top ""Loading your dataset"" is incorrect.",2,12/06/2018 10:35 AM
+Shubhangi Agrawal,"Hi Karlijn, 
+
+Thanks so much for the great tutorial! I had a question about the preprocessing stage where you normalized the data. Why wasn't the data normalized before applying the PCA? I assume, depending on the data set, that if the data is on a different scale for different features, the PCA may be heavily biased towards towards features that are on a bigger scale? In this case, is it because we can assume that the data for each of the 64 features (assuming each feature corresponds to pixel intensity) in the digits.data array falls in the same scale? ",1,16/06/2018 01:20 AM
+Sanjay Sane,Very Nicely explained steps,1,30/07/2018 11:11 PM
+Jonathan Kaija,"I think the train test split you used is 3/4 and I/4 respectively since test_size = 0.25.
+
+i.e. for the train_test_split() module, and thus it is not 2/3 and 1/3",1,12/08/2018 01:20 PM
+Hajar Merizak,didn't understand the meaning of target an keys attribute ? ,2,15/11/2018 10:21 PM
+vidyad sagar,very nicely written. thank you so much to share this .,1,17/03/2019 02:18 AM
+Gabriel Voiculescu,Very bad explained ...     :(,1,01/05/2019 01:14 PM
+Zhao xudong,"randomized_pca = RandomizedPCA(n_components=2)
+
+hello！ teacher. In this code! I find a question . this function is only can run in 0.17, and i can't run it in 0.21.2
+
+and my solution is 
+
+```
+
+from sklearn.decomposition import PCA
+
+randomized_pca = PCA(n_components=2,svd_solver='randomized')
+
+```",1,11/06/2019 02:53 PM

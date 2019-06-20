@@ -1,0 +1,13 @@
+﻿commentedBy,commentMessage,upvotes,commentDate
+Piyush Agarwal," I am getting error with this url:
+
+error:  
+
+ 
+
+IOPub data rate exceeded.
+The notebook server will temporarily stop sending output
+to the client in order to avoid crashing it.
+To change this limit, set the config variable
+`--NotebookApp.iopub_data_rate_limit`.",1,31/05/2018 04:34 PM
+Max Coplan,"In the first script in ""Loading Data In Your Python Dictionary"", what does the 'for line in lines:' loop do?  Won't it just make 'l' the last line in 'lines'?  If so, why the loop?",1,06/07/2018 11:52 PM

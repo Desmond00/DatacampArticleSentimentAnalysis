@@ -1,0 +1,12 @@
+﻿commentedBy,commentMessage,upvotes,commentDate
+Bob Bear,Mauricio - good useful article. Thks!,2,28/08/2018 10:00 PM
+Leon Hartman,"I have no idea how it works it what it's supposed to do, but Homebrew turned package installations in R Studio into an absolute nightmare for me.",1,31/08/2018 07:42 AM
+Chuck Burks,"My biggest ""gottchas"" as a lone R user in an institutional Windows shop are: 1) Making R and RStudio work together when I usually don't have administrative privelages; and 2) making Git and Github work smoothly with RStudio (some influential bloggers convinced me that I should be using version control). I deal with the former by installing R in C:\R\ (e.g., C:\R\R-3.5.1) (as opposed to a default universal naming convention server location to which ""My Documents""  is re-routed) and by doing a lot of tweaking of .Rprofile and other settings files. I make sure that I do NOT obtain admin privelages when installing upgrading R, since I don't want to install in any subdirectory that I will not be able to access on a normal day-to-day basis. Git, Github, and version control are great when they work, but a bear when I have to figure out why it's not working. ",1,01/09/2018 04:15 AM
+C Zhu,"For installing R on macOS, you recommend to compile using openblas for higher performance. ""I highly recommend to install R with OpenBLAS. In plain terms, OpenBLAS will boost some operations and I want you to be a happy user."" Can you back up your claim?",1,01/09/2018 08:20 AM
+Ian Chong,Minor correction for the RStudio installation. In bold is an incorrect version number sudo apt-get install gdebi cd ~/Downloads wget https://download1.rstudio.org/rstudio-xenial-1.1.419-amd64.deb sudo gdebi rstudio-xenial-1.1.379-amd64.deb,2,12/11/2018 10:07 PM
+Peng He,The last command of Step 3 for ubuntu was wrong. Please make sure you install exactly the version you downloaded.,1,21/12/2018 11:31 AM
+Juan Pablo Ripamonti,"Hi Mauricio, thank you so much for this article. It was super useful. It is in my bookmarks now, ready to be shared with whoever might need it.",2,26/01/2019 06:26 AM
+Ashwin chetri,Step 3: Install RStudio,1,28/04/2019 08:56 AM
+Greg Stasko,Your videos no longer seem to be available on this page.,1,05/05/2019 09:05 AM
+Gavin Alexander,"Videos are unavailable :-(
+I'm in Norway. Is that bad?",1,14/06/2019 02:34 PM

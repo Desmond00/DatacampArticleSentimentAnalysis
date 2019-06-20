@@ -1,0 +1,25 @@
+﻿commentedBy,commentMessage,upvotes,commentDate
+Pramodhini Swain,"code for prime number is wrong
+
+
+
+
+The correct code is:
+
+def is_prime(n):
+
+    for i in range(2,n):
+
+        if n%i == 0:
+
+            return False
+
+    return True
+
+
+",1,15/10/2018 03:27 PM
+Manohar S Rajputana,"We can read 'prime' as 'even' in the above tutorial. 
+
+ 
+
+Pramodhini Swain - you are correct. :)",1,23/10/2018 03:02 PM

@@ -1,0 +1,677 @@
+﻿commentedBy,commentMessage,upvotes,commentDate
+Mofakharul Islam,"Having a bit of trouble, perhaps my understanding isn't quite there. While I attempted to import Belgian Traffic Signs datasets into my tensorflow workspace getting the following error message;
+
+
+
+
+...: ROOT_PATH = ""C:\Users\Mofakharul\Documents\DeepLearningLiteratures""
+
+train_data_directory = os.path.join(ROOT_PATH, ""TrafficSigns/Training"")
+
+test_data_directory = os.path.join(ROOT_PATH, ""TrafficSigns/Testing"")
+
+
+
+
+images, labels = load_data(train_data_directory)
+
+  File ""<ipython-input-15-44b277681a5a>"", line 17
+
+    ROOT_PATH = ""C:\Users\Mofakharul\Documents\DeepLearningLiteratures""
+
+               ^
+
+SyntaxError: (unicode error) 'unicodeescape' codec can't decode bytes in position 2-3: truncated \UXXXXXXXX escape
+
+
+
+
+
+
+
+I simply copied the following code (your code) with replacing ""/your/root/path"" with my one ""C:\Users\Mofakharul\Documents\DeepLearningLiteratures"";
+
+
+
+
+def load_data(data_directory):
+
+    directories = [d for d in os.listdir(data_directory) 
+
+                   if os.path.isdir(os.path.join(data_directory, d))]
+
+    labels = []
+
+    images = []
+
+    for d in directories:
+
+        label_directory = os.path.join(data_directory, d)
+
+        file_names = [os.path.join(label_directory, f) 
+
+                      for f in os.listdir(label_directory) 
+
+                      if f.endswith("".ppm"")]
+
+        for f in file_names:
+
+            images.append(skimage.data.imread(f))
+
+            labels.append(int(d))
+
+    return images, labels
+
+
+
+
+ROOT_PATH = ""/your/root/path""
+
+train_data_directory = os.path.join(ROOT_PATH, ""TrafficSigns/Training"")
+
+test_data_directory = os.path.join(ROOT_PATH, ""TrafficSigns/Testing"")
+
+
+
+
+images, labels = load_data(train_data_directory)
+
+
+
+
+I am unable to figure out what went wrong. Your help and assistance in this regards would be much appreciated. 
+
+
+
+
+
+",3,19/02/2018 03:55 PM
+zimborodger,"Hi.
+
+Could you please share the source code of your tutorial on github",1,21/02/2018 05:02 PM
+Eirik Lid,"Hi,
+
+i get a wrong shape from 
+
+images28 = rgb2gray(images28)
+
+The shape is:
+
+(4575, 28, 3)
+
+
+
+
+Before running rgb2gray() the shape is (4575, 28, 28, 3)
+
+Is there a way to fix this?",2,28/02/2018 07:05 PM
+Radu Paul Mondescu,"The skimage.data,imread - cannot find in any package - I guess we need scikit-image ? but what version ? ",2,02/03/2018 12:03 AM
+Radu Paul Mondescu,you are transforming labels between np.array and list - I think is a bit confusing,2,02/03/2018 01:12 AM
+Anu V Vivin,"For asp.net check below url will help
+
+http://tensorflowapi.blogspot.in/2018/03/integrating-tensor-flow-api-into-aspnet.html",1,16/03/2018 11:09 AM
+M NF,I am new to this field . will this classifier works for other object(any word or character) ?    ,2,20/03/2018 10:05 PM
+Reinaldo Cevallos,"I am new to neural networks and trying to conceptualize this code. There is no hidden layer here right? 
+
+The network just flows from the flattened images, to the output of the ""tf.contrib.layers.fully_connected"" output? I guess we use the argmax function to convert that output back to labels but that's not a layer.",4,28/03/2018 10:15 PM
+milicakovjanic89,"Hi.
+
+Great tutorial! But can I use this code on my own dataset of images that are jpg. format? Do I need to convert them into .ppm format?  ",1,03/04/2018 03:41 AM
+Ariyo Apakama,insightful,3,03/04/2018 08:57 PM
+brostami,"I am new to tensorflow. I tried the code but I got the error ""undefined name skimage"". I think I should install that package? am I right? But I could not find how to download the package! would you please provide some hint? Also, I read some parts of the notebook is linked at the start of the tutorial. Thank you. ",1,13/04/2018 12:10 AM
+himansu odedra,"Hi, was wondering if you could help me with the following. Just trying to load the data into python (i'm using anaconda) and everything goes well however I have noticed that my images list only contains 15 files. This is really odd my code is somewhat identical to yours as well. Please help thank you ",1,24/04/2018 01:50 AM
+Bruno Gonçalves,"Hello, in the last part when I try to run the test set , it returns the following error:  
+
+the input array must be have a shape == (.., ..,[ ..,] 3)), got (0)
+
+
+And it points to
+
+test_images28 = rgb2gray(np.array(test_images28))
+
+Any help would be nice, thank u :) ",1,25/04/2018 01:03 AM
+Jae Duk Seo,Great tutorial!,1,10/05/2018 03:48 AM
+Björn Lindqvist,"One line of one code sample should be changed from print(""Loss: "", loss) to print(""Loss: "", loss_value)",2,11/05/2018 06:18 PM
+long xie,非常棒的入门教程，谢谢楼主分享,1,16/05/2018 09:26 AM
+Marias Mo,"Hi Karlijn,
+
+Great article. Question. So you mentioned graph. But I dont see you using the tf.Graph() anywhere in your code. Is that optional??
+
+Thanks",4,31/05/2018 02:48 AM
+S Rao,Thought it was a free tutorial.,1,31/05/2018 11:09 AM
+Nickolai Hazen,"I don't quite understand how np.array() is supposed to function. I can use the LoadData function fine, but when I run the next code snippet in IDLE, I get this error:
+
+
+
+
+File ""C:\Users\User\source\repos\N2-2\N2-2\N2_2.py"", line 35, in <module>
+
+    print(images.ndim)
+
+AttributeError: 'list' object has no attribute 'ndim'
+
+
+
+
+I appreciate your help in advance.",3,01/06/2018 08:53 PM
+Sourabh Kulkarni,"Hi Karlijn,
+
+Thanks for the great tutorial. I am new to Tensorflow. I tried the code, it is working absolutely fine. But I have a doubt like how many hidden layers are involved here in training the model?
+
+Thanks in advance!",2,03/06/2018 07:30 PM
+Soumyadip Majumder," logits = tf.contrib.layers.fully_connected(images_flat, 62, tf.nn.relu) 
+
+What is the logic of calculating ""62""? Can anyone explain this to me? I am completely new to this field.  Thanks in advance!",1,04/06/2018 05:43 PM
+Mohammad Sharifi,"very helpful, thank you",1,06/06/2018 03:54 PM
+Harshali Patel,Really nice and in depth article on Tensorflow. Tensors were explained in very detail. You can read more on tensorflow applications for more clarity. ,1,11/06/2018 03:07 PM
+Jon Mateo,"Hi Karlijn, 
+
+Thanks for the tutorial.
+
+Im getting  'AttributeError: module 'skimage' has no attribute 'data''  - i have installed scikit-image and scikit-learn (as recommended in the notebook), but still get the same issue. 
+
+Would be great if you could give me some tips.
+
+Thanks,
+
+Jon",1,20/06/2018 11:12 PM
+Gowtham R,"
+
+
+Great Tutorial. Thanks for taking us through tensorflow. I have a few doubts.
+
+1. What are all the Loss Functions & Optimizing Algorithms. How to select one based on the task (i.e.) where to use which ?
+
+2. Graph Function - where to define it ?
+
+3. How many layers are there in this ? can we increase or decrease the number of layers?
+
+4. I am getting an error as ""Not enough dimensions"" while trying to plot the image using ""plt.imshow(image, cmap=""gray"")"". This error occurs only when i use ""images28 = rgb2gray(images28)""
+
+5. I tried using the same example, changed the images to my images and tried. I am getting Memory Error. Any help is much Appreciated!!
+
+Thanks again for a wonderful tutorial.",1,01/07/2018 05:26 PM
+saroj kumar," Great Tutorial. Thanks for taking us through tensorflow. I can write ablog like tensorflow  interview questions 
+
+Thanks ! ",1,05/07/2018 02:35 PM
+Vova Kuzmenkov,"Hello Karlijn,
+
+Great tutorial, thank you!
+
+A question please: how do I print actual loss, when training the network. Current version prints the tensor description rather than the loss:
+
+DONE WITH EPOCH
+EPOCH 189
+DONE WITH EPOCH
+EPOCH 190
+Loss:  Tensor(""Mean:0"", shape=(), dtype=float32)
+DONE WITH EPOCH
+EPOCH 191
+
+Kindly advise,
+
+Thank you!",1,17/07/2018 10:22 PM
+Jaan Olev,"Nice project. Thanks!
+
+How can we make this model more accurate? 
+
+- Do we have to add more images for training ? or train longer, better ? ",1,23/07/2018 03:13 PM
+Giri Annamalai,"At ""Loading And Exploring The Data"", in the load_data() 
+
+In python3, skimage.data.imread(f) shoudl be io.imread(f)
+and ""from skimage import io""",2,26/07/2018 06:41 PM
+vinay TURPATI,colaboratory it was showing errors,1,06/08/2018 05:58 PM
+ASEEM GOYAL,How did we reach the conclusion that `epochs` will be `201`?,3,19/08/2018 01:27 PM
+KISHORE K,Very nice.Can you tell me how can we increase the accuracy by changing any parameters?,2,17/09/2018 07:02 PM
+Dwight Foster,"I am getting this error when I try to run my code
+
+
+
+
+
+
+
+images.append(skimage.data.imread(f))
+
+
+
+
+AttributeError: 'module' object has no attribute 'data'
+
+import skimage
+
+import tensorflow as tf
+
+import os
+
+v1 = tf.constant([2,3,5,6])
+
+v2 = tf.constant([2,3,1,9])
+
+result = tf.multiply(v1, v2)
+
+with tf.Session() as sess:
+
+    output = sess.run(result)
+
+    config = tf.ConfigProto(log_device_placement = True)
+
+    print(output)
+
+    
+
+sess.close()
+
+def load_data(data_directory):
+
+    directories = [d for d in os.listdir(data_directory) if os.path.isdir(os.path.join(data_directory,d))]
+
+    labels = []
+
+    images = []
+
+    for d in directories:
+
+        label_directory = os.path.join(data_directory, d)
+
+        file_names = [os.path.join(label_directory, f) for f in os.listdir(label_directory) if f.endswith("".ppm"")]
+
+        for f in file_names:
+
+            images.append(skimage.data.imread(f))
+
+            labels.append(int(d))
+
+        return images, labels
+
+    
+
+    
+
+ROOT_PATH = ""/Users/Dwight/Downloads""
+
+train_data_directory = os.path.join(ROOT_PATH, ""Training"")
+
+test_data_directory = os.path.join(ROOT_PATH, ""Testing"")
+
+images, labels = load_data(train_data_directory)
+
+print(images.ndim)
+
+
+
+
+        
+
+can someone help me I am really confused
+
+    
+
+    ",0,19/09/2018 04:08 AM
+Jiwoo Lee,"Hi, thank you for the wonderful tutorial. I am very new to TF, and this tutorial helps me a lot to get insight. One question I have is, following the tutorial, at the end I get Acurracy as 0.0, not sure if it is supposed to be. Thank you.",1,10/10/2018 10:58 AM
+Yao Boxu,"Full Code partI:
+
+import os
+from skimage import data
+import numpy as np
+import matplotlib.pyplot as plt
+from skimage import transform
+from skimage.color import rgb2gray
+import tensorflow as tf
+import random
+
+
+def load_data(data_directory):
+   directories = [d for d in os.listdir(data_directory)
+                  if os.path.isdir(os.path.join(data_directory, d))]
+   labels = []
+   images = []
+   for d in directories:
+       label_directory = os.path.join(data_directory, d)
+       file_names = [os.path.join(label_directory, f)
+                     for f in os.listdir(label_directory)
+                     if f.endswith("".ppm"")]
+       for f in file_names:
+           images.append(data.imread(f))
+           labels.append(int(d))
+   return images, labels",1,11/10/2018 06:45 AM
+Yao Boxu,"x = tf.placeholder(dtype = tf.float32, shape=[None, 28, 28])
+
+y = tf.placeholder(dtype = tf.int32, shape=[None])
+
+images_flat = tf.contrib.layers.flatten(x)
+
+logits = tf.contrib.layers.fully_connected(images_flat, 62, tf.nn.relu)
+
+loss = tf.reduce_mean(tf.nn.sparse_softmax_cross_entropy_with_logits(labels=y, logits=logits))
+
+train_op = tf.train.AdamOptimizer(learning_rate=0.001).minimize(loss)
+
+correct_pred = tf.argmax(logits, 1)
+
+accuracy = tf.reduce_mean(tf.cast(correct_pred, tf.float32))
+
+sess = tf.Session()
+
+sess.run(tf.global_variables_initializer())",1,11/10/2018 06:53 AM
+Yao Boxu,"for i in range(201):
+
+        print('EPOCH', i)
+
+        _, accuracy_val = sess.run([train_op, accuracy], feed_dict={x: images, y: labels})
+
+        if i % 10 == 0:
+
+            print(""Loss: "", loss)
+
+sample_indexes = random.sample (range(len(images)), 10)
+
+sample_images = [images[i] for i in sample_indexes]
+
+sample_labels = [labels[i] for i in sample_indexes]
+
+predicted = sess.run ([correct_pred], feed_dict={x: sample_images})[0]
+
+print (sample_labels)
+
+print (predicted)
+
+fig = plt.figure(figsize=(10, 10))
+
+for i in range (len (sample_images)):
+
+    truth = sample_labels[i]
+
+    prediction = predicted[i]
+
+    plt.subplot (5, 2, 1 + i)
+
+    plt.axis ('off')
+
+    color = 'green' if truth == prediction else 'red'
+
+    plt.text(40, 10, ""Truth:  {0}\nPrediction: {1}"".format(truth, prediction), fontsize=12, color=color)
+
+    plt.imshow (sample_images[i], cmap=""gray"")
+
+plt.show ()",1,11/10/2018 06:54 AM
+Yao Boxu,"for i in range(201):
+
+        print('EPOCH', i)
+
+        _, accuracy_val = sess.run([train_op, accuracy], feed_dict={x: images, y: labels})
+
+        if i % 10 == 0:
+
+            print(""Loss: "", loss)
+
+sample_indexes = random.sample (range(len(images)), 10)
+
+sample_images = [images[i] for i in sample_indexes]
+
+sample_labels = [labels[i] for i in sample_indexes]
+
+predicted = sess.run ([correct_pred], feed_dict={x: sample_images})[0]
+
+print (sample_labels)
+
+print (predicted)
+
+fig = plt.figure(figsize=(10, 10))
+
+for i in range (len (sample_images)):
+
+    truth = sample_labels[i]
+
+    prediction = predicted[i]
+
+    plt.subplot (5, 2, 1 + i)
+
+    plt.axis ('off')
+
+    color = 'green' if truth == prediction else 'red'
+
+    plt.text(40, 10, ""Truth:  {0}\nPrediction: {1}"".format(truth, prediction), fontsize=12, color=color)
+
+    plt.imshow (sample_images[i], cmap=""gray"")
+
+plt.show ()",1,11/10/2018 06:54 AM
+Yao Boxu,"test_images, test_labels = load_data(test_data_directory)
+
+test_images28 = [transform.resize(image, (28, 28)) for image in test_images]
+
+test_images28 = rgb2gray(np.array(test_images28))
+
+predicted = sess.run([correct_pred], feed_dict={x: test_images28})[0]
+
+match_count = sum([int(y == y_) for y, y_ in zip(test_labels, predicted)])
+
+accuracy = match_count / len(test_labels)
+
+print(""Accuracy: {:.3f}"".format(accuracy))",1,11/10/2018 06:55 AM
+Onur Can Yücedağ,"Karlijn, it is great tutorial thanks for sharing it.",1,15/10/2018 06:46 PM
+Samer Choudhary,Where do we get the data set for use in this tuitorial,1,26/10/2018 12:14 PM
+Shila Liao,"Hi 
+
+I'm beginner
+
+I stop in  skimage  import.
+
+Can you teach me how to install  skimage  package correctly?
+
+ After install ""pip install -U scikit-image"" 
+
+""import skimage "" in python is error
+
+
+
+
+Here is my error message:
+
+Traceback (most recent call last):
+
+  File "".\test.py"", line 6, in <module>
+
+    import skimage
+
+  File ""C:\Users\THU -27\AppData\Local\Programs\Python\Python36\lib\site-packages\skimage\__init__.py"", line 167, in <module>
+
+    from .util.dtype import (img_as_float32,
+
+  File ""C:\Users\THU -27\AppData\Local\Programs\Python\Python36\lib\site-packages\skimage\util\__init__.py"", line 12, in <module>
+
+    from ._montage import montage, montage2d
+
+  File ""C:\Users\THU -27\AppData\Local\Programs\Python\Python36\lib\site-packages\skimage\util\_montage.py"", line 2, in <module>
+
+    from .. import exposure
+
+  File ""C:\Users\THU -27\AppData\Local\Programs\Python\Python36\lib\site-packages\skimage\exposure\__init__.py"", line 1, in <module>
+
+    from .exposure import histogram, equalize_hist, \
+
+  File ""C:\Users\THU -27\AppData\Local\Programs\Python\Python36\lib\site-packages\skimage\exposure\exposure.py"", line 4, in <module>
+
+    from ..color import rgb2gray
+
+  File ""C:\Users\THU -27\AppData\Local\Programs\Python\Python36\lib\site-packages\skimage\color\__init__.py"", line 1, in <module>
+
+    from .colorconv import (convert_colorspace,
+
+  File ""C:\Users\THU -27\AppData\Local\Programs\Python\Python36\lib\site-packages\skimage\color\colorconv.py"", line 59, in <module>
+
+    from scipy import linalg
+
+ModuleNotFoundError: No module named 'scipy'
+
+
+
+
+Thank you",2,31/10/2018 09:13 PM
+JiangBo Shi,"when I try to use the LDA to implement the Dimension reduction on the training data, my accuray is down to 0.157 .
+
+here is the process of Dimension reduction:
+
+images32_tmp=np.array([image.flatten() for image in images32])
+
+from sklearn.discriminant_analysis import LinearDiscriminantAnalysis as LDA
+
+lda=LDA(n_components=49) 
+
+images32_tmp=lda.fit_transform(images32_tmp, labels)
+
+images32_tmp = [transform.resize(image, (7,7)) for image in images32_tmp]
+
+images32_tmp=np.array(images32_tmp)
+
+what is the problem?  Why the accuray is decreaing ?
+
+
+",1,26/11/2018 12:27 PM
+Erlend Nikolaisen,The menu apear an disapear randomly and the page then moves up and down with it on my Samsung Galaxy tab. That make this page unreadable.,1,20/12/2018 08:47 PM
+Agostino Bruno,"Hi, 
+
+
+
+
+i tried to follow the tutorial, and i just go through until the script reported below. I do not understand why I didn't get back any output, neither an error message.
+
+
+
+
+import tensorflow as tf
+
+import numpy as np
+
+import os
+
+import skimage
+
+
+
+
+
+
+
+def load_data(data_directory):
+
+    directories=[d for d in os.listdir(data_directory)
+
+                 if os.path.isdir(os.path.join(data_directory,d))]
+
+    labels=[]
+
+    images=[]
+
+
+
+
+    for d in directories:
+
+        label_directory=os.path.join(data_directory,d)
+
+        file_names=[os.path.join(label_directory,f)
+
+                    for f in os.listdir(label_directory)
+
+                    if f.endswith("".ppm"")]
+
+        for f in file_names:
+
+            images.append(skimage.data.imread(f))
+
+            labels.append(int(d))
+
+        return images,labels
+
+
+
+
+    ROOT_PATH=""/Ago/ProgettiPersonali/TensorFlow/tutorial""
+
+    train_data_directory=os.path.join(ROOT_PATH,""TrafficSigns/Training"")
+
+    test_data_directory=os.path.join(ROOT_PATH,""TrafficSigns/Testing"")
+
+
+
+
+    images,labels = load_data(train_data_directory)
+
+
+
+
+    images=np.array(images)
+
+
+
+
+    
+
+    print(images.ndim)",1,08/01/2019 08:47 PM
+john choi,"This might be very useful in understanding Tensorflow. However, if I would like to run the program in file form, like runing C programs, instead of Interactive form, I have to learn the ways to do programming in file form, creating, modifying, and running the tensorflow program. How can I do it? Long time ago I was working as a 'C' programmer",1,19/01/2019 11:40 PM
+Sumit Kumar,"easy to understand!!!!
+
+
+",1,09/04/2019 12:01 PM
+Bikramaditya Padhi,Awesome,1,11/04/2019 06:45 PM
+Konark Nigam,"name 'skimage' is not defined
+
+please help 
+
+
+",1,23/04/2019 10:11 AM
+RAJESH SAHU,"good explanation for the new comer to tensorflow
+
+
+",1,10/05/2019 03:57 PM
+Raja Sekar,"Hi,
+
+Thank you for this nice tutorial. I am new to Machine Learning.
+
+How can we export the .tf/.tflite files from python?
+
+I have asked the same question here : https://stackoverflow.com/questions/56293855/how-to-generate-tf-tflite-files-from-python.
+
+Thanks in advance.",1,24/05/2019 07:12 PM
+Matteo Drusiani,"Hi! When I try to run the section "" Modeling The Neural Network"" of the Jupyter Notebook related to this tutorial I get 
+
+images_flat:  Tensor(""Flatten_16/flatten/Reshape:0"", shape=(?, 784), dtype=float32)
+logits:  Tensor(""fully_connected_7/Relu:0"", shape=(?, 62), dtype=float32)
+loss:  Tensor(""Mean_14:0"", shape=(), dtype=float32)
+predicted_labels: Tensor(""ArgMax_7:0"", shape=(?,), dtype=int64)
+
+as results of the instructions
+
+print(""images_flat: "", images_flat) 
+
+print(""logits: "", logits)
+
+print(""loss: "", loss)
+
+print(""predicted_labels:"", correct_pred)
+
+I would like to visualize the real values of images_flat, logits, loss, correct_pred. I tried to move the ""print"" instructions after the instruction ""sess.run(tf.global_variables_initializer())"" of the ""Running The Neural Network"" but I got the same results.
+What is wrong? I didn't modify the code of the Jupyter Notebook",1,11/06/2019 08:36 PM
+Aamira Abid,Check out the interesting private fb downloader  https://vidflu.com/private-downloader.php ,1,13/06/2019 12:02 PM
+Oskar Paulsson,"When I try to run the script for the load_data function I get an error message saying ""NameError: name 'os' is not defined"" at the line:
+
+ train_data_directory = os.path.join(ROOT_PATH, ""TrafficSigns/Training"") 
+
+Please help!",1,15/06/2019 03:29 PM
+Andrea Ciufo,"I still receive this error mes sage ""Impossible to see the specified path"" 
+
+both using :
+
+ROOT_PATH = r""C:\\Users\AndreaCiufo\PythonProject\Tensorflow""
+
+ROOT_PATH = ""C:\\Users\AndreaCiufo\PythonProject\Tensorflow""
+
+I tried to figure out the problem before asking, without useful results. 
+
+Thanks Andrea 
+
+
+
+
+FileNotFoundError: [WinError 3] Impossibile trovare il percorso specificato: 'C:\\\\Users\\AndreaCiufo\\PythonProject\\Tensorflow\\TrafficSigns\\Training'sage ",1,19/06/2019 04:41 AM

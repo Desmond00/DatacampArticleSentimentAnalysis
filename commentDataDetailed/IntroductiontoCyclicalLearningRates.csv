@@ -1,0 +1,13 @@
+﻿commentedBy,commentMessage,upvotes,commentDate
+Dan Shawul,"I don't think this is correct. The CLR run, without running the training & inference with no CLR, gives pretty bad accuracy of 98.65% and a baseline error of 2.32%. Something is passed on from the first training run without CLR if you have both tests at the same time.
+
+Result with CLR code  and then non-CLR code commented out:
+---------------------------------------------------------------------------
+Epoch 10/10
+ - 2s - loss: 0.0517 - acc: 0.9865 - val_loss: 0.0775 - val_acc: 0.9768
+('Time taken for the Network to train : ', 22.441668033599854)
+Baseline Error: 2.32%
+
+
+",2,12/02/2019 11:06 AM
+Arpit Sisodia,What is the need of window( optimal learning rate range)  for learning rate when you have already plotted all learning rate vs/ accuracy plot. ,0,29/03/2019 05:36 PM

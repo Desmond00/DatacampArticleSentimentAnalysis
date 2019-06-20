@@ -1,0 +1,19 @@
+﻿commentedBy,commentMessage,upvotes,commentDate
+Daniel de Aguiar,Great post. Thank you!,3,28/02/2018 03:45 AM
+Jon Burrell,"The following line was giving a file not found error for me:
+
+ df = pd.read_csv('data/chasewillden-netflix-shows/data/netflix.csv') 
+
+ However, the data can be accessed via:
+
+df = pd.read_csv('https://raw.githubusercontent.com/datacamp/community-groupby/master/data/chasewillden-netflix-shows/data/netflix.csv')
+
+
+",3,25/04/2018 04:23 PM
+Alex Izotov,"I'm an absolute beginner in Python, and I'm wondering, is not it better to use sql for such tasks? With all that useful bunch of index, optimization etc.",2,24/07/2018 04:52 PM
+MALLIKARJUN BENDIGERI,"Hi Anderson,
+
+"" You'd need to leverage some more sophisticated statistics to convince me of the trend in general ""
+
+Can you share the complete working for this dataset with goal "" do Netflix subscribers prefer older or newer movies """,4,27/07/2018 08:34 PM
+Vladimir Dimitrijevic,Excellent intro! Bravissimo!,1,03/02/2019 03:15 PM

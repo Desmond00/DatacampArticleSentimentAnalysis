@@ -1,0 +1,19 @@
+﻿commentedBy,commentMessage,upvotes,commentDate
+Naveksha Sood,good work! :),4,25/07/2018 03:14 PM
+Oscar Mauriaca Flores,"Amazing !
+
+
+
+
+Your tutorial is very helpful to me, since im doing a classification task but with an variational autoencoder instead of a regular autoencoder. Thanks for doing this :D",3,03/12/2018 11:49 PM
+Midiriya Izuku,What an amazing tutoria!Thanks XD  牛逼,2,04/12/2018 09:38 PM
+Harshula Tulapurkar,why Do we retrain the model with all layers as trainable? ,3,06/12/2018 07:52 AM
+Inthiyaz Basha Kattubadi,Autoencoders comes under unsupervised learning while training we don't give labels but in  the code you have given labels also.  We will train our network to get the decoded output as our original image. I hope i will get the Answer.,1,29/12/2018 03:17 PM
+somit mittal,Such an amazing tutorial. Thank you Aditya :) ,1,27/01/2019 11:18 PM
+Jenny Gao,"Hi, I copied your code and ran it. However, I found out the classification accuracy does not change no matter layer.trainable = False or True. You said the validation accuracy can go up to 99% when set layer.trainable =False. But it never happen for me. Could you let me know what details should I focus on? Thank you very much! Your tutorial help me very much! ",1,09/02/2019 01:33 AM
+Jenny Gao,"I think I got it now. In the first step, we set layer.trainable=False to train fully connected layer, then we set layer.trainable=True to train whole model. The second step as ""fine tune"". That is why when we set False, the validation acc is ~91% and ~92% when we set true. If we do not use weights from auto encoder model, it will have slow convergence compared with using auto encoder information. Am I right?",1,09/02/2019 02:09 AM
+Van Thanh,"Thank for your great post.
+
+I am confused the way you set weight to full_model,  can you explain detail the layers[0:19] in full_model
+
+Thank you",1,21/02/2019 08:20 AM

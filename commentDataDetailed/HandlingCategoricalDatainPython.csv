@@ -1,0 +1,50 @@
+﻿commentedBy,commentMessage,upvotes,commentDate
+Xuezhou Liu,leanred something  new ,1,23/05/2018 05:15 AM
+Dung Doan,Good!,1,23/05/2018 05:40 AM
+Michal Lasak,"I believe there's an error in the one-hot encoding/ LabelBinarizer part:  it should be lb_results_df = pd.DataFrame(lb_results, columns=lb.classes_) , as lb_style is not defined anywhere before.
+
+Apart from that, great tutorial!",2,24/05/2018 08:50 PM
+Joe Bloggs,Some discussion  of categorical embedding using neural networks would help round out the picture.  This was applied successfully in a third place solution to the Rossmann stores competition.  Seems like a great alternative to one-hot with the added benefit of dimensionality reduction.,1,28/05/2018 03:25 PM
+Sheshenderr Goswami,"Hi 
+
+I'm getting a value error:  fill value must be in categories. When i use binary encoding. The column to be coded has no missing values.",1,21/06/2018 12:41 PM
+Heba Mazhar,"Could someone help me with downloading categorical_encoders??
+When I use pip install categorical_encoders -- I get this error message  ""error: Microsoft Visual C++ 14.0 is required. Get it with ""Microsoft Visual C++ Build Tools"": http://landinghub.visualstudio.com/visual-cpp-build-tools""
+
+And when I download and unzip the file, and run my code it says failed to import library ""categorical_encoders""
+Please help !!!",1,09/08/2018 07:41 PM
+Matthew Walker,"So, once you have your categorical data encoded, what next?  What about these questions:
+
+inferential statistics can then be performed?  
+
+Can those features now be treated as continuous datatypes?  Or, do  they still get treated differently, with different statistics applied to them?
+
+Do their dtypes need to be changed (or are automatically changed) to int/float dtypes?  ",1,20/09/2018 09:40 PM
+RAHUL KUMAR,Good !!! I have just one query ....Which IDE u have used ??,1,29/09/2018 12:55 PM
+sangilimurugan s,good,1,13/10/2018 11:51 AM
+Özkan Akyüz,"hello, very useful article
+
+I have a got a problem with the dataset I am working on a capstone project. I got a dataframe which has the following shape  
+
+(1006090, 79)
+
+Can I use a encoding machanism which don't results in many columns. For a much smaller subset (about 2500 rows x 79 columns), I used pandas get_dummies() function, and this resulted in about 12000 news columsn. 
+
+Also, I want to apply ML algorithms like decision trees and logistic regression. Is it possible to encode my feature set X without specifying which columns to be encoded? What is the best way to avoid adding many new columns like (one-hot-encoding), but still keeping the advantage of not weighing the categorical features (like LabelEncoding)? 
+
+I am looking forward for guidance. ",3,01/01/2019 11:22 AM
+Karishma Saikia,This is so great!! i was struggling so hard dealing with categorical values for my model. Thanks a ton!!,1,26/03/2019 10:41 PM
+Tharika Weerakoon,"Hi great guide for categorical data handling. I am wondering whether we can re-convert those encoded categorical data back to original format for the purpose of final result presentation after training the model. 
+
+I am a newbie and I can't find a way to have a meaningful representation. Here I have used Binary Encoding. 
+
+Looking for a great insight.",1,30/04/2019 03:28 PM
+Anuka Pradhan,"since in my dataset there are categorical fearures that is project type and the type are (A, P, C, Pr....) but in this column there is the symbol like ? so how would i know which type is this or how can i replace this using python program?",1,01/05/2019 04:41 PM
+omveer chaudhary,good article,1,21/05/2019 07:09 PM
+Rafał Piotrowicz,Great !!!,1,26/05/2019 12:43 AM
+Rafał Piotrowicz,"Great article.
+
+
+
+
+I had a question. Why in binary encoder we have only for type of carrier ???",1,06/06/2019 03:18 PM

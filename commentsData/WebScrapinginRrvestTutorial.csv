@@ -1,0 +1,37 @@
+﻿commentedBy,commentMessage,upvotes,commentDate
+Daniel Deidda,"In the amazon example, I get the following error:",9,05/03/2018 12:40 AM
+Vasim Shaikh,Phew!! Interesting stuff,1,05/03/2018 05:20 PM
+notsoslimshaddy91,Good tutorial. I want to scrape Glassdoor Reviews of IBM. How can I do that?,3,06/03/2018 10:41 PM
+Hayden MacDonald,"Thank you for this excellently thorough example. This is definitely a technique I hope to employ in the future, so having this article as a resource is excellent.",3,06/03/2018 11:37 PM
+David Stroud,Fantastic job!! I was able to reproduce and this is an excellent learning tool.  Thanks again. ,2,07/03/2018 02:16 AM
+Anastasia Reusova,"Hey, thanks for the tutorial, should it be something like ",0,07/03/2018 12:32 PM
+Robert Chestnutt,Great article! Thanks so much. ,2,07/03/2018 11:53 PM
+banjadesuraj,This is just awesome. Thank you guys for sharing your wisdom. Really appreciate it,2,16/03/2018 10:30 AM
+sijo,how to deal with missing values while scraping?,2,03/04/2018 03:52 PM
+G M,A great way to get the CSS class selectors (tags in the above example) would be to use a selector gadget - it's an easier way for beginners to quickly identify the tags they need. More info can be found here: http://selectorgadget.com ,3,29/04/2018 06:48 AM
+Rachel Zhang,Could anyone please have a look at what's going on here? ,1,06/06/2018 07:36 PM
+Ammar Alkhaldi,"Hi, i'm trying to scrape a paged table with rvest and i was successful to scrape the first page.",1,08/07/2018 03:44 PM
+Paola Prieto,"Hi, thank you for this exercise. I worked with the copy from your github, and found out that the ratings were not being captured. Then I checked the page and they change the ""count"" for ""star-rating""",3,18/07/2018 07:20 AM
+bradley phillips,"I think you need to change the line ""pattern = 'count-'%R% capture(DIGIT)"" on line 74 on github to pattern = 'star-rating-'%R% capture(DIGIT) as the source code appears to have changed. this grabs 2 extra elements to the start on the vector I just removed with vector <- tail(vector,-2). Perhaps you have a neater way to fix this?",1,19/07/2018 03:05 AM
+Heber Nielsen,I am struggling with learning the basic setup for parsing the material I scrape and formatting it into a tibble. I hoped this tutorial would help in that. After entering all the functions and confirming that they work (individually) I run into an error message that I cannot debug when I try to run the full material:,1,24/07/2018 02:47 AM
+pogeneral,Brilliant - many thanks,1,22/08/2018 02:40 PM
+Robert Sommer,"This looks like a great resource for when I learn more R! For now, I think I will try to scrape data with a Chrome extension.",1,22/08/2018 08:36 PM
+Jordan Simonov,"Dear  Arvid,",1,22/08/2018 10:34 PM
+jtariku,I am new to R but was able to scrape names for my research following rvest tutorials but was unable to figure out how to scrape images. Is it possible to scrape images using R at all? Want to assemble all the licensed designers from well known manufacturers from sites like https://www.hermanmiller.com/designers/ and https://www.knoll.com/discover-knoll/designers,1,23/08/2018 09:59 AM
+R TP,I am new to r and I keep getting 'numeric(0)' when I execute the following:,1,14/09/2018 02:29 AM
+Matthew Kaplan,"Arvid,",0,14/09/2018 10:42 PM
+R TP,"Hi All, I keep getting this error message hen triggering the function:",1,16/09/2018 03:27 AM
+Louis Leventer,Thank you very much Arvid Kingl for such a splendid tutorial.,1,27/09/2018 05:14 PM
+Ngonidzashe Fungura,Hi Arvid Kingl. Thank you for the tutorial. May you kindly help me on this one. I would like to do web scraping on the link https://www.proudlysa.co.za/members.php and I would like to extract all the companies listed there and all their respective information and put it into an excel file. Which code can I use in R,1,19/10/2018 12:57 AM
+Priyanshu sangal,"Hi Arvid,  Thank you for the Tutorial.",1,31/10/2018 07:49 PM
+Joan Farre," Hi Arvid, ",1,12/11/2018 02:09 AM
+Tanmayee Waghmare,"Hi Arvid, thanks for the brilliant tutorial! I tried to reproduce the code from your github and ran into the following error.",1,18/11/2018 11:34 PM
+Bilikisu Aderinto,"This code:   first_page <- read_html(url)     (latest_page_number <- get_last_page(first_page)) , only returned 5. This happens because there are only  6 button with pagination-page class on the landing page. Is there a way to get the total number of review pages?",2,24/11/2018 07:10 PM
+Edgar John,"In step 1 after you wrote the first function of code, you didn't say how to RUN THE CODE and as.numeric() didn't work at first. I added an arg, pages_data and at least the error was gone but I still haven't been ale to get past this. Is this tutorial not designed for beginner/intermediate r users?",1,25/11/2018 09:24 PM
+Rahma Ben Romdhane,"Hello, ",1,01/01/2019 08:00 PM
+Mohammad Mohammad,"hi, thanks for this article.",1,18/01/2019 12:46 AM
+ramya yanamadala,"Hi all,",1,10/02/2019 01:31 PM
+Richard Deus," Error in write_delim(x, path, delim = ""\t"", na = na, append = append,  : ",1,11/02/2019 04:58 PM
+David Brami,"Hey, ",1,15/02/2019 03:58 PM
+Emilie Da Silva,"I tried applying this tutorial to another web page but I was not successful. After the command (latest_page_number <- get_last_page(first_page)) I get ""Warning message: In function_list[[k]](value) : NAs introduced by coercion"". What does it mean? What should I do?",1,14/05/2019 06:07 PM
+Yasmin Al-mandawi,"Hi Arvid,",1,27/05/2019 05:36 PM

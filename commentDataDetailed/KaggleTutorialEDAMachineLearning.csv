@@ -1,0 +1,16 @@
+﻿commentedBy,commentMessage,upvotes,commentDate
+DaeWoong David Son,"Thank you very much Hugo, your work really helps me to get into EDA :)",4,14/02/2018 06:19 PM
+Wahid Contractor,Thanks for this great tutorial!  I really love the live coding and submissions to Kaggle awesome format!  ,3,18/02/2018 08:53 AM
+niyatijasani6,Thanks for the tutorial Hugo! appreciate the live coding sessions,1,08/03/2018 05:10 PM
+Manohar Sri,Datasets used for this tutorial?,2,05/04/2018 09:55 PM
+Nitika Kamboj,"can anyone explain me these lines of code
+
+ 
+
+df_test['Survived']=df_test.Sex=='female'
+df_test['Survived']=df_test.Survived.apply(lambda x:int(x))
+
+
+",3,24/04/2018 01:14 AM
+Anubhav Tiwari,"Why not build basic models using other features like its done with the survived column  spit over the gender column( i.e . all the women survived and men didn't ) . Maybe other features would give better accuracy before starting with machine learning . for example : PC class shows that passengers who traveled in first class were more likely to survive so we could build a model that all 1st class passengers survived and  rest didn't , similarly with other features .",1,02/06/2018 04:39 PM
+Saffet Gokcen Sen,Thanks Hugo for the great tutorial!,1,18/08/2018 02:44 PM

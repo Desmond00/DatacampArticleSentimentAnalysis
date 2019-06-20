@@ -1,0 +1,33 @@
+﻿commentedBy,commentMessage,upvotes,commentDate
+Santhiya Santhiya,it is possible to use the dictionary method combine or use with if method?,3,25/05/2018 10:39 AM
+Max Coplan,"When using dictionary comprehension on the fahrenheit to celsius converter, it should say print(celsius), not print(celsius_dict)",3,09/07/2018 07:02 PM
+James Langbein,"Thanks for the great examples here, they're very clear and well explained, I learned something.
+
+I do have a question...
+
+In the ""Multiple If Conditions"" section the  multi-ifs in the dict comprehension are written as:
+
+ ... if v>2 if v%2 == 0 if v%3 == 0} 
+
+and then in the for loop example the equivalent is written as:
+
+if (v>=2 and v%2 == 0 and v%3 == 0):
+
+The first 'v' condition in the for loop has a '>=', but not in the comprehension, which just has the '>'... is this correct? Am I missing something in terms of a difference in the logic?
+Thanks",1,18/08/2018 06:35 PM
+Fabio Classo,"Awesome tutorial, I would like to say Thank you for your help!!
+
+Fabio from Brazil.",2,31/08/2018 01:07 AM
+Nick Chepurniy,"Small typo - nothing serious but would look nicer:
+
+dict_variable = {key:value for (key,value) in dictonary.items()}
+
+                                                                                                   ^
+
+ SHOULD BE:
+
+dict_variable = {key:value for (key,value) in dictionary.items()}
+
+
+",2,06/12/2018 09:43 AM
+Shërin Chüsh,"Quite impressive. This is the most well-explained, comprehensive tutorial on how to use dictionary comprehension.",1,08/05/2019 02:49 PM

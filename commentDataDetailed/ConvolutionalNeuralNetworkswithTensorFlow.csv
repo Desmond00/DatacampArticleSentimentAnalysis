@@ -1,0 +1,45 @@
+﻿commentedBy,commentMessage,upvotes,commentDate
+Houssam Zakaria Addad,Hi aditya i really loved your explanation but i really find a problem when i want to process my own dataset if you could advice me a tutorial to follow thank you so much for this great post ,1,16/03/2018 04:09 AM
+Ali Farooq,"Sir
+
+I have  gone through your tutorial and I have learned a lot form it specially how to build the CNN in tensorflow. But i have one query that how to use own dataset which is only in the form of images such as kaggle dataset compromising of cat and dogs images.
+
+Thank you",3,18/04/2018 12:12 PM
+Akash Ranpal,"how can we label our own  image?
+
+Is there any way of building label for specific image?
+
+
+
+
+
+",1,24/05/2018 03:16 PM
+Manish Bhobe,Excellent article. Pretty lucidly explained.,1,12/07/2018 05:44 PM
+gnana sekar,"Hi Mate, The way you explained about the blog was fantastic, I have learnt a lot about Tensorflow . This is going help most of our friends like me. Once again thanks!!Keep  Sharing ",1,12/09/2018 09:54 AM
+Ecem Bozkurt,"Very helpful.
+
+There is a typo in this part: 
+
+""If you can recall from the above figure that the first convolution layer has 32-3x3 filters, so the first key (wc1) in the weight dictionary has an argument shape that takes a tuple with 4 values: the first and the second are the filter size, while the third is the number of channels in the input image and the last represents the number of convolution filters you want in the first convolution layer. The first key in biases dictionary, bc1, will have 32 bias parameters. """,1,09/10/2018 02:10 PM
+ABEY R HURTIS,"why do we reshape the data like below
+
+ train_X = data.train.images.reshape(-1, 28, 28, 1) 
+
+test_X = data.test.images.reshape(-1,28,28,1) ",1,09/10/2018 11:50 PM
+yuan hu,"When I tried to execute the code, it achieved 100% training accuracy and more than 97% testing accuracy on the first run:
+
+ Iter 0, Loss= 0.012246, Training Accuracy= 1.00000 Optimization Finished! Testing Accuracy: 0.97510 
+
+Another strange thing is when I tried to execute this line of code "" curr_img = np.reshape(data.train.images[0], (28,28)) "", it shows a hand-written number 7 instead of a 'sneaker'.
+
+Still this is a fantastic paper and I really benefited significantly.",1,14/10/2018 12:51 PM
+Abraham Opanfo Abbam,"Hi, i'm new to cnn and i'm following your tutorials but i'm having some challenges. First, I've successfully loaded the fashion-mnist-dataset but i can't display the images like you have. By the way, i'm using a CPU and not a GPU. I will be very glad to be assisted. Thank you
+
+
+",0,28/10/2018 09:32 PM
+Sandeep Pandey,"Hello,
+
+Thanks for the nicely written tutorial.  I want to request you to put up a tutorial on writing  a custom layer in tensorflow  with trainable weights. The layer takes 2D/3D tensors as input, perform some operations and gives 2D/3D tensor as output. Thanks in advance.",1,20/12/2018 02:22 PM
+Srinath Tangudu,.....,1,17/03/2019 10:47 PM
+Sanjay Krishnamurthy,Excellent article Sharma!!,1,20/03/2019 01:29 PM
+Ankita parashar,Hi.... I started running the code line by line... but when i tried to print the first vector of an image it give me an image of digit 7.... Could you tell me how can i use the mnist fashion data instead of mnist digits data... ? Thanks in advance.,1,04/04/2019 09:18 PM

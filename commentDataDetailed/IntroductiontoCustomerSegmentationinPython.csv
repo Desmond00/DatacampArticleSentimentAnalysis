@@ -1,0 +1,93 @@
+﻿commentedBy,commentMessage,upvotes,commentDate
+Justin Tanguay,Tutorial looks great!  Having a hard time finding the data.  Could you post the data link?,7,02/10/2018 08:18 PM
+Teddo van Mierle,Great article! Would like to start with it. The link to the dataset would be helpful for learning. ,4,02/10/2018 08:28 PM
+Laura Kirchner,"Great tutorial, but where is the link to the dataset?",2,02/10/2018 09:27 PM
+Thibatsane Mahlelebe,"I think it's this one:
+
+
+
+
+https://archive.ics.uci.edu/ml/machine-learning-databases/00352/",3,02/10/2018 09:35 PM
+Madhusudhan Reddy,good article with example.,2,03/10/2018 07:42 AM
+Crespin allan,"Hello, thank you for the article, there is one point i don't get, when you aggregate the frequency, you use len() returning the size of the list of InvoiceNo right ? The frequency being the total of invoice if i read your post correctly, you should end up with a round number then ? I may have missed something but i can't find what. Still a very useful and well written post ! ",2,03/10/2018 04:51 PM
+VENKATA PAVAN,"Great article. But, small doubt. Why is this used?
+
+ PRESENT = dt.datetime(2011,12,10) 
+
+Is it not hard coded?",2,03/10/2018 08:39 PM
+Tao Kang,Thank you for putting this together! Great tutorial!,2,09/10/2018 04:57 AM
+Amir Rafieian,"Hi Avinash,
+
+Thanks for this great article,  It was really useful to get the concept of RFM.  Nonetheless there was an error in the middle of your script and escalated through the rest of analysis.
+
+When you do the aggregation, your columns will be:
+
+
+
+
+ rfm.columns 
+
+Index(['InvoiceDate', 'InvoiceNo', 'TotalPrice'], dtype='object')
+
+
+
+
+Then when you change the column names,  the order of new column names should tally with the original names, but in your code the order is different,  for example. according to my code above, the new column name should be:
+
+rfm.columns=['recency','frequency','monetary']
+
+
+
+
+Because of this error, your dataframe shows monetary:325, freq:77183.60, recency:1 for customer 12346, but the correct values for this customer are: monetary: 77183.60, freq:1, recency: 325
+
+
+
+
+I thinks it affected how you set the quartiles too, but anyway, I`m not sure why you changed the quartile names from [1,2,3,4] for recency to [4,3,2,1] for frequency for example:
+
+rfm['r_quartile'] = pd.qcut(rfm['recency'], 4, ['1','2','3','4']) 
+
+rfm['f_quartile'] = pd.qcut(rfm['frequency'], 4, ['4','3','2','1']) 
+
+rfm['m_quartile'] = pd.qcut(rfm['monetary'], 4, ['4','3','2','1']) 
+
+My interpretation was that our preference is lower recency and quartile 1 is showing lower recency, in the same manner we like higher freq and monetary, so we assign q1 to them, as  1 is higher rank for us. am I right on this? 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+",3,11/10/2018 12:46 PM
+Abhishek Mani,Thanks a lot for this  great information...,2,12/11/2018 03:32 AM
+Abhishek Mani,"How we can use this RFM analysis in Excel downloaded report from Cognos or BI if we have only the information of  Purchase and Repurchase, I am already showing the percentage of purchase and repurchase by different brand wise but i wanted to know is there is any effective way of doing this process in Excel reporting as  we dont use R stats..",2,12/11/2018 03:41 AM
+Xiaonan D,"Hi Avinash,
+
+Thanks for the post. I have one question on what customer should be included. How long  do customers need to start purchase in order to be included in RFM analysis? For example, if RFM is based on last 12 months' data and  a new customer just  started first purchase two days ago, should this new customer be included into analysis? If so, there will be low frequency and low moneytery value, but this customer could belong to a potential high value segment, since it is hard to know his behavior yet. Thanks!",2,16/01/2019 03:28 AM
+sachin jagtap,could you please elaborate how weights are assigned (e.g what '1' signifies ? in RFM score ),2,04/04/2019 06:06 PM
+Akshay Sharma, Thanks for this great article in such a simple language ,2,18/04/2019 04:09 PM
+Kamal Kant,so you have created 64 segments.right?,1,16/05/2019 04:32 PM
+Private Account,"I think you are doing something wrong in aggregation.
+
+Frequency is total number of purchases as you have explained.
+
+In (   'InvoiceNo': lambda num: len(num) ), You should not take length. Instead you should take length of unique 'InvoiceNo' of a customer.
+
+The problem with your approach is:
+
+If a customer buys 100 items in 1 time, his frequency is according to your code is 100
+If another customer buys 100 items in 10 different times, his frequency is also 100.
+
+What actually should be is for the first customer frequency should be 1, as he has visited only once. For the second customer, the frequency should be 10 as he has visited 10 times and he has 10 unique invoice numbers.",1,18/06/2019 12:46 PM

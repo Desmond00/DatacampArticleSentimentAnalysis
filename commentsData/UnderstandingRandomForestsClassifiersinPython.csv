@@ -1,0 +1,18 @@
+﻿commentedBy,commentMessage,upvotes,commentDate
+Fernando Fernandez,"Avinash,",6,23/05/2018 02:30 AM
+Oghenekome Williams,Please send me message @blessedkome2@gmail.,2,23/05/2018 10:01 PM
+Nehmy FORBIN,"Hello Avinash,
+First of all : thank you for this tutorial very accurate and receptive!
+Then, I have a question : once you have got the feature importances, it could good to know in which way those features affect the target.
+To be more clear a little ex : ""more the petal with is great, more the iris could be a setosa"".
+
+Do you think, it's relevant to use a linear model (ex : logistic regression) to define that?
+",5,24/07/2018 08:31 PM
+Naval Gupta,Can you please put some light on now to train with missing values rather than imputing with mean values,2,03/08/2018 10:32 AM
+Malaya Swain,very good article for the beginners in machine learning. very well explained.,3,30/08/2018 07:51 AM
+Martin Bertheau,"Nice tutorial, thank you.",2,16/11/2018 08:47 PM
+Ana Caballero Herrera,"Hi!
+When I try ",1,18/12/2018 04:45 PM
+ch praveen,i want random forest code in R ,2,19/03/2019 06:14 PM
+raj kumar,I need to build a model to find credit risk of a customer. My dataset contains 1000 rows out of which only 30 rows are having credit risk as 0 while other 970 has value as 1. So now my question is do i need to do anything in data preprocessing since data is more biased towards one side.. anyone can help?,2,24/03/2019 06:21 PM
+Dev Bondre,Hello i want random forest code in Python for crop prediction pls help me ,1,07/05/2019 01:17 PM

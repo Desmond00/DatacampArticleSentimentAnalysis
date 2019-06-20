@@ -1,0 +1,136 @@
+﻿commentedBy,commentMessage,upvotes,commentDate
+dthboyd,"35.192.42.58 refused to connect.
+
+Please ",1,13/02/2018 01:46 PM
+Jean-Claude Razafindrakoto,"HI @alexisp, did you try to train a ML model, even a very simple one on GCP ? ",3,15/02/2018 10:53 PM
+Tomislav Gelo,"Thank you for sharing this!
+
+
+
+
+While installing the miniconda/anaconda package I get the following error.
+
+
+
+
+ Miniconda3-latest-Linux-x86_64.sh: line 333: bunzip2: command not found
+tar: This does not look like a tar archive
+tar: Exiting with failure status due to previous errors 
+
+
+
+
+Do I need to install some kind of unzip tool first? Did you also had this issue?
+
+
+
+
+Thanks,
+
+Tomi",2,17/02/2018 04:48 PM
+Javed Halani,Thanks for the great article !!,2,21/02/2018 12:17 AM
+oadeyemi,"Hi Alexis, when I run the command  gcloud compute --project=my_project_name firewall-rules create jupyter-rule --direction=INGRESS --priority=1000 --network=default --action=ALLOW --rules=tcp:8888 --source-ranges=0.0.0.0/0 , I get the error below
+
+ ERROR: (gcloud.compute.firewall-rules.create) Could not fetch resource: - Insufficient Permission .
+
+Can you please advise on what I'm doing wrong
+
+Thanks",2,22/02/2018 03:22 AM
+Євген Захарченко,Great! Thanks for the work,2,25/02/2018 04:54 PM
+Jeff Hendricks,source .bahsrc should be .bashrc,2,08/03/2018 06:49 AM
+Tong Tat Chua,"Hi,
+
+How do i upload my data files into Google Cloud?
+
+And how to i download my output files from Google Cloud?",3,08/04/2018 12:26 PM
+suhha987,"Hi  @alexisp, Thank you for this tutorial, I now can run some python jobs in Compute Engine. Now I wonder if I can schedule some jobs to run regularly(like cron job) in Compute Engine? I googled, but the solution I've found so far doesn't look easy to me, do you have any suggestion? ",1,08/05/2018 01:19 AM
+Chandra Sutrisno Tjhong,"Hi, 
+
+
+
+
+Thank you for providing this tutorial. After all the setup, do you know how can I access files uploaded in Google Cloud Storage from Jupyter Notebook?
+
+
+
+
+
+",2,15/06/2018 07:04 AM
+Jose Torres,Can you contrast this process with just using Cloud Datalab to set up the instance and notebook environment?,2,17/06/2018 11:14 PM
+yi xie,I've got my jupyter notebook ready and try to work with keras. I am wondering how to upload datasets to the vm?,1,04/07/2018 12:14 PM
+John Davis,"Two questions.  1. How do we tag a tutorial for future reference?  ie. in our datacamp accoount is there anyway to save this particular tutorial?  2. How to add a package to a google cloud datalabvm?  I'm asking this because tensorflow has ffmpeg support if the underlying binary is installed on the vm.  I've found notes about how to use apt inside of a datalab cell and it has supposedly installed ffmpeg, but when I ssh to the instance I do not find ffmpeg in my path.",1,09/07/2018 06:47 PM
+瑜隆 蔡,"Hi @alexisp Thanks for this tutorial. I am wondering is possible install python 3.6 and jupyter notebook then work with BigQuery module.
+
+I just new on GCD. I used a datalab method. but it was a bad experience when I try to plot using seaborn.
+
+Any suggests? ",1,18/07/2018 08:44 PM
+Rolando Villena,"Hi Alexis. This is a very useful article. Is it possible to run the Julia Language with Jupiter Notebook in GCP? If it is possible, could you please provide some overall steps. Thank you!   ",1,03/08/2018 09:54 AM
+Sayak Paul,This tutorial is a gem. ,2,22/08/2018 06:36 PM
+Jose Torres,Awesome tutorial.  FYI c.NotebookApp.ip = '*' yielded warnings when i initiated the jupyter server; specifying the VM's internal IP address instead of * fixed the issue.,3,06/09/2018 03:05 AM
+Bin (Vince) Wang,Great  tutorial !,2,12/09/2018 09:35 AM
+Andrey Arroyo,"Hi,
+
+I don't seem to get this part to work ""(to switch to edit mode in vim, just type the i character). Quit and save with the following sequence ESC:wq.""
+
+
+
+
+Thank you",2,28/09/2018 04:55 PM
+Himanshu Agarwal,"When opening in browser, it says, this site cant be reached!",1,14/10/2018 09:06 AM
+a boran,"Firstly great tutorial, many thanks,
+
+something wrong with  jupyter I think. Found this fix tho:
+https://github.com/jupyter/notebook/issues/3946
+
+
+",1,23/10/2018 01:39 AM
+Lawrence Krukrubo,"refused to connect,   
+
+This site can’t be reached
+
+refused to connect.
+
+Try:",1,08/11/2018 01:05 AM
+Jesper Termansen,"Great tutorial - thank you. 
+
+Would it be possible to execute all the steps in the tutorial  via scripts ? I mean - there is a lot of GUI steps that I would like to bypass with a smart setup involving scripts. 
+
+How would that work ?  Can you recommend a blog on this topic or would it be possible to show how you do it ?
+
+Thank you. 
+
+Cheers, Jesper.",1,31/12/2018 03:19 PM
+jihao yu,Jupyter notebook refuse to connect.,1,08/01/2019 03:03 PM
+Bean Smith,"  Many people are facing issue with email and maximum time the email issue is happening due to the server problem such as  Gmail error 007 and to solve this issue you need to disable Email Signature from antivirus, use Disk Cleanup.",1,22/01/2019 03:59 PM
+Rodrigo Ferreira,"when I try to run  
+
+gcloud compute ssh <instance name> 
+
+I get the error:
+
+  gcloud crashed (OSError): [Errno 28] No space left on device: '/home/********/.ssh'  
+
+(**** identify my account)
+
+Any idea why this could be happeniing? It is the same error I get everytime I try to use Datalab",1,19/02/2019 03:33 PM
+Moses Njenga,"Thanks for the steps.
+How do you read local files using Jupyter notebooks on GCP?
+Thanks",1,13/04/2019 04:46 PM
+Lakshmanan Subramanian,"Hi,
+
+when I issue command in the google cloud to launch the jupyter notebook  ( $ jupyter-notebook --no-browser --port=8888 ) , I got the error message as below
+
+Error Summary :
+
+ValueError: '' does not appear to be an IPv4 or IPv6 address
+
+ During handling of the above exception, another exception occurred: 
+
+ socket.gaierror: [Errno -2] Name or service not known 
+
+Detailed Error Message from the Console :
+
+
+
+
+  File ""/home/messagetolakshman/miniconda3/lib/python3.7/site-packages/notebook/notebookapp.py"", line 864, in _default_allow_remote    addr = ipaddress.ip_address(self.ip)  File ""/home/messagetolakshman/miniconda3/lib/python3.7/ipaddress.py"", line 54, in ip_address    address)ValueError: '' does not appear to be an IPv4 or IPv6 addressDuring handling of the above exception, another exception occurred:Traceback (most recent call last):  File ""/home/messagetolakshman/miniconda3/bin/jupyter-notebook"", line 11, in <module>    sys.exit(main())  File ""/home/messagetolakshman/miniconda3/lib/python3.7/site-packages/jupyter_core/application.py"", line 266, in launch_instance    return super(JupyterApp, cls).launch_instance(argv=argv, **kwargs)  File ""/home/messagetolakshman/miniconda3/lib/python3.7/site-packages/traitlets/config/application.py"", line 657, in launch_instance    app.initialize(argv)  File ""</home/messagetolakshman/miniconda3/lib/python3.7/site-packages/decorator.py:decorator-gen-7>"", line 2, in initialize  File ""/home/messagetolakshman/miniconda3/lib/python3.7/site-packages/traitlets/config/application.py"", line 87, in catch_config_error    return method(app, *args, **kwargs)  File ""/home/messagetolakshman/miniconda3/lib/python3.7/site-packages/notebook/notebookapp.py"", line 1630, in initialize    self.init_webapp()  File ""/home/messagetolakshman/miniconda3/lib/python3.7/site-packages/notebook/notebookapp.py"", line 1378, in init_webapp    self.jinja_environment_options,  File ""/home/messagetolakshman/miniconda3/lib/python3.7/site-packages/notebook/notebookapp.py"", line 159, in __init__    default_url, settings_overrides, jinja_env_options)  File ""/home/messagetolakshman/miniconda3/lib/python3.7/site-packages/notebook/notebookapp.py"", line 252, in init_settings    allow_remote_access=jupyter_app.allow_remote_access,  File ""/home/messagetolakshman/miniconda3/lib/python3.7/site-packages/traitlets/traitlets.py"", line 556, in __get__    return self.get(obj, cls)  File ""/home/messagetolakshman/miniconda3/lib/python3.7/site-packages/traitlets/traitlets.py"", line 535, in get    value = self._validate(obj, dynamic_default())  File ""/home/messagetolakshman/miniconda3/lib/python3.7/site-packages/notebook/notebookapp.py"", line 867, in _default_allow_remote    for info in socket.getaddrinfo(self.ip, self.port, 0, socket.SOCK_STREAM):  File ""/home/messagetolakshman/miniconda3/lib/python3.7/socket.py"", line 748, in getaddrinfo    for res in _socket.getaddrinfo(host, port, family, type, proto, flags):socket.gaierror: [Errno -2] Name or service not known ",1,04/05/2019 06:47 PM

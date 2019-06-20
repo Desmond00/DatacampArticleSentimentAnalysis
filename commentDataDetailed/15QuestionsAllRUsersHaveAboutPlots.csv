@@ -1,0 +1,35 @@
+﻿commentedBy,commentMessage,upvotes,commentDate
+bilal3819md,how to customize the distance between x-axis and the sub-title (not xlab) on the x-axis in R programme. ,1,01/03/2018 05:24 PM
+Virendra Kumar,"hi,
+
+I am using an R package muma (available at CRAN). It generated graphs and plots, and some of them are displayed on the ""plots"" window of Rstudio and some are automatically stored as pdf in a folder in working directory.
+
+However, these graphs are not publication quality. How could I edit these graphs?
+
+thanks
+
+regards,
+
+Virendra",1,25/03/2018 08:34 PM
+mcwoodr,"when I try to execute code that employs the ggplot function, I've continuously failed to generate a plot (a blank graph is all that appears). Am I doing something wrong? ",1,14/06/2018 08:54 PM
+Moein Farahnak,"How we can remove sub ticks and labels in a biplot? should we use xaxt.sub= 'n', yaxt.sub='n'",1,24/09/2018 08:33 AM
+Maitri Paul,"I am facing one problem in coding. Any thoughts or suggestions are welcome.
+
+This is my code
+
+a=read.csv(""C:/Users/Documents/R/nan.csv"")
+
+poly_fit_norm = lm(yaxis[1:4] ~ poly(xaxis[1:4],degree=deg),data=a)
+
+poly_fit_rev = lm(zaxis[1:4] ~ poly(xaxis[1:4],degree=deg),data=a)
+
+plot(yaxis[1:4] ~ xaxis[1:4], a,col=""blue"",xlab=""distance"",ylab="" speed"",type='p',ylim=c(-0.1,0.8),xlim=c(-2,0.2))
+
+lines(fitted(poly_fit_norm) ~ xaxis[1:4], a, col = ""blue"")
+
+points(zaxis[1:4]~xaxis[1:4,a,col=""red"")
+
+lines(fitted(poly_fit_rev) ~ xaxis[1:4], a, col = ""red"")
+
+Now i want the equation to be displayed in the plot. How to that?",1,04/10/2018 09:53 AM
+Paul DeRolf,"Regarding X-Axis values, I have nine histograms that are stacked in one column. All have the same value range for the X-Axis. How do I tell R to remove the values for the upper eight graphs and leave the values for the bottom graph only? I want to keep the X-Axis with tick marks for the upper eight, but remove the values that are associated with them to open up the spacing ",1,12/12/2018 01:58 AM

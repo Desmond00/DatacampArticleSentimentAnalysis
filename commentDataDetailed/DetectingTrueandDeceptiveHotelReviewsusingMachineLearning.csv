@@ -1,0 +1,65 @@
+﻿commentedBy,commentMessage,upvotes,commentDate
+Alex T,"Hi, great work, great tut. 
+
+I noticed that you have twice the following import:   from nltk.corpus import stopwords 
+
+Is that correct or you just typed it accidentally? ",2,21/07/2018 01:06 AM
+Marconi Vieira,"Hi, Aditya, greetings from Brazil!
+
+Sorry but I can't run this cool tutorial because there is an error message on line 3: 
+
+---------------------------------------------------------------------------
+
+ModuleNotFoundError                       Traceback (most recent call last)
+
+<ipython-input-4-beb514e823a4> in <module>()
+
+----> 1 from textblob import TextBlob
+
+ModuleNotFoundError: No module named 'textblob'
+
+---------------------------------------------------------------------------
+
+Could you please give me some help?
+
+Thank you!",1,24/07/2018 08:53 PM
+Morten Bjoernsvik,where is the requirement.txt holding the modules needed and their version. sklearn is now at v0.18 and lots of the imports are deprecated,1,24/07/2018 09:59 PM
+Villa Horacio Luis,"I run the tutorial and by its end (Test the model with two reviews from Yelp) I got ""truth"" both times.
+
+
+",1,25/07/2018 06:31 AM
+Naveksha Sood,helpful article !,1,25/07/2018 03:14 PM
+Florian Geerken,"Hi! I keep hitting a wall here:
+
+---------------------------------------------------------------------------
+AttributeError                            Traceback (most recent call last)
+<ipython-input-2-dcc119b1013e> in <module>()
+    11 for f in configfiles:
+    12     c = re.search('(trut|deceptiv)\w',f)
+---> 13     save1.append(c.group())
+    14
+    15 labels = pd.DataFrame(save1, columns = ['Labels'])
+
+AttributeError: 'NoneType' object has no attribute 'group'
+
+---------------------------------------------------------------------------
+
+Help would be great! Thanks!",1,25/07/2018 05:47 PM
+Jonathan Mallia,"Do you keep the POS tags when doing TfIDF, for example grant/NN ? 
+
+How does it help the model to use grant/NN instead of just grant?
+
+Thanks",1,28/07/2018 04:10 PM
+Siggy H,"Great tutorial - thanks!
+
+I ran this with jupyter notebook from my machine.  I am wondering if anyone has tried it in colabratory and how they tackled loading in the review data. ",1,28/07/2018 10:29 PM
+SMEET CHITALIA,"I'm getting 0 as the output for len(configfiles). I have done it exactly as shown in the tutorial. what might be the issue?
+
+
+",1,01/08/2018 01:28 AM
+Sicelo Masango,Nice work. Thanks for the tutorial!,1,05/08/2018 02:10 AM
+Saleh Alsubari,"good and nice tutorial. one thing i want to ask ,how i can implement the same data set in naive bays approach
+
+
+",1,07/10/2018 11:28 PM
+Bonnie Miller,"Thanks for the helpful hint, this is exactly what I was looking for. Junior similar functionality is still complex. The perfect example for me is https://planetofhotels.com/en/. Excellent usability and clean code, and the functionality itself works very quickly and responsively. Also, functions on the choice of the price of a filter and the type of hotel / room are very interestingly worked",1,10/05/2019 08:30 PM

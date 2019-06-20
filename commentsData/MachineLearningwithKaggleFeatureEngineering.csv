@@ -1,0 +1,4 @@
+﻿commentedBy,commentMessage,upvotes,commentDate
+Fauzan Taufik, ,3,27/04/2018 07:05 PM
+Diva Jain," data = pd.concat([df_train.drop(['Survived'], axis=1), df_test])
+ ",1,11/05/2019 03:36 PM

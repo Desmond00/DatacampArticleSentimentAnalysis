@@ -1,0 +1,14 @@
+﻿commentedBy,commentMessage,upvotes,commentDate
+Deepak Kumar,isna().sum() is not working with pandas data frame,2,13/08/2018 10:32 AM
+Deepak Kumar,after droping survived and putting the values in x,1,13/08/2018 11:24 AM
+RAHUL KUMAR,Hello @Sayak Paul,1,04/09/2018 01:38 PM
+RAHUL KUMAR,Done,1,11/09/2018 09:30 AM
+Mustafa Ghafouri,The best practice is to impute missing values in the test set using mean/median of the train set.,2,25/10/2018 09:02 PM
+Khushbu Rai,for i in range(len(X)): chunk of code is throwing error for me. The error is as follow,1,27/11/2018 05:08 PM
+Isaac Zarzuri,"How could i graph that result, i mean the k-mean clustering in a graph?, because i only see numbers :S. Thanks!!",2,27/11/2018 11:28 PM
+test test,Thanks for your article. ,3,13/12/2018 01:37 PM
+vamshi bhukya,"how can i show the result of clusters in a graph ,i mean with outliers for each cluster after prediction",1,18/01/2019 02:42 AM
+Anastasios Kyriakidis,Great article!,3,02/02/2019 05:26 PM
+Bilal Bhatti,Amazing and Easy... ,2,12/04/2019 11:01 PM
+Chirag Patel,What if I don't have the labels and I still want to get the accuracy scores.,1,28/04/2019 11:17 PM
+Rishika Malik,but how do i know which person has been classified correctly? can i export the result to excel?,1,30/05/2019 03:11 PM

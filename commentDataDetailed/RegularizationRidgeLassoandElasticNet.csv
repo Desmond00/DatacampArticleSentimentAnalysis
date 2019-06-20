@@ -1,0 +1,26 @@
+﻿commentedBy,commentMessage,upvotes,commentDate
+Yashi (Kate) Bu,The example is quite helpful!,2,08/12/2018 05:10 AM
+Ming Zhong,Great article. ,1,03/01/2019 06:29 AM
+Ningxin Wang,"Thanks so much for this article! it‘s very helpful. I need to test regression suitability for my data, and my teammates suggests me read about elastic net techniques. Your article clearly explains why these methods are helpful in analyzing large predictor data. I’ll try to test these methods using python. ",3,11/01/2019 11:29 PM
+Lazola Ngcengula,"How can I put some restrictions on my regression coefficients ( betas), I want them to range between (0,1), and sum to 1. How can I build such a model, preferably for both Ridge and Lasso? Many thanks.",0,29/01/2019 07:32 PM
+Tobias Zwingmann,Great article. Thanks for sharing! :-),1,05/02/2019 02:26 PM
+Daniel Alejandro Oropeza Pérez,Thank you so much for this,1,06/02/2019 09:00 PM
+Roberto Olmos,"So we would use Ridge regression when, we have many predictor variables correalted with the response variable, creating colinearity? What if we add polynomial features?",3,10/02/2019 12:01 PM
+Jerry Yu,"Doeos regularization always improve the R-squared value?
+
+I just finished a project, where we ran a multivariate linear regression and we ended up with a lower R-squared after performing both Lasso and Ridge. It wasn't much smaller, it was a 1% difference, nevertheless, it was still smaller.",1,12/02/2019 11:34 PM
+Arham Choudhury,Is there a course or an explainer about using Lasso regression for time-series data? Thanks!,1,22/03/2019 02:49 AM
+Jens Peder Meldgaard,"Hi,
+
+Thanks for a great tutorial - always interesting to see other ways of measuring performance of hyperparameter tuning then simple using cross-validation metrics, i.e. MSE or the like!
+
+I have one clarification though,  which i strongly suggest that you change in the programming. When initiating the vector to hold the AIC/BIC values, you are growing the vector - a death sin in R. Therefore I suggest that you change 
+
+aic <- c() to aic <- vector(""numeric"", length(lambdas_to_try))
+
+and similarly for bic.
+
+
+
+
+When that is said I really enojyed your tutorial and have found it to provide quite interesting results in that its results differ significantly from those obtained by using cv.glmnet with ""mse"" as performance metric. ",1,12/06/2019 10:38 AM

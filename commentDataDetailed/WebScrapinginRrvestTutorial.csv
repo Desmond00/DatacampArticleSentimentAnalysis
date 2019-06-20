@@ -1,0 +1,280 @@
+﻿commentedBy,commentMessage,upvotes,commentDate
+Daniel Deidda,"In the amazon example, I get the following error:
+
+ Error: Columns `reviewer`, `date`, `review` must be length 1 or 20, not 0, 0, 0 
+
+
+
+
+this happens when I call  scrape_write_table(url, 'amazon') ",9,05/03/2018 12:40 AM
+Vasim Shaikh,"Phew!! Interesting stuff
+
+
+
+
+Something that I may be spending weeks on!",1,05/03/2018 05:20 PM
+notsoslimshaddy91,Good tutorial. I want to scrape Glassdoor Reviews of IBM. How can I do that?,3,06/03/2018 10:41 PM
+Hayden MacDonald,"Thank you for this excellently thorough example. This is definitely a technique I hope to employ in the future, so having this article as a resource is excellent.",3,06/03/2018 11:37 PM
+David Stroud,"Fantastic job!! I was able to reproduce and this is an excellent learning tool.  Thanks again. 
+
+With the aid of the 'class names change' feedback, I was able to get through the code and reproduce. ",2,07/03/2018 02:16 AM
+Anastasia Reusova,"Hey, thanks for the tutorial, should it be something like 
+
+url <- read_html('https://www.trustpilot.com/review/amazon.com') 
+
+though?
+
+url <- 'https://www.trustpilot.com/review/amazon.com' 
+
+passed to throws an error 
+
+Error in UseMethod(""xml_find_all"") :  no applicable method for 'xml_find_all' applied to an object of class ""character""
+
+Or could there be any other reason?",0,07/03/2018 12:32 PM
+Robert Chestnutt,Great article! Thanks so much. ,2,07/03/2018 11:53 PM
+banjadesuraj,This is just awesome. Thank you guys for sharing your wisdom. Really appreciate it,2,16/03/2018 10:30 AM
+sijo,"how to deal with missing values while scraping?
+
+
+",2,03/04/2018 03:52 PM
+G M,"A great way to get the CSS class selectors (tags in the above example) would be to use a selector gadget - it's an easier way for beginners to quickly identify the tags they need. More info can be found here: http://selectorgadget.com 
+
+Not sponsored by anyone, just figure I'd share my adventure with web scraping here. ",3,29/04/2018 06:48 AM
+Rachel Zhang,"Could anyone please have a look at what's going on here? 
+
+>length_reviews = length(get_reviews(html))
+
+Error in UseMethod(""xml_find_all"") : 
+
+  no applicable method for 'xml_find_all' applied to an object of class ""function""
+
+
+
+
+Btw: Fantastic tutorial! ",1,06/06/2018 07:36 PM
+Ammar Alkhaldi,"Hi, i'm trying to scrape a paged table with rvest and i was successful to scrape the first page.
+
+ the next page triggered by javascript:__doPostBack. 
+
+is there is any workaround this issue ?
+
+the site: http://qiyas.sa/ar/Statistics-Data/Schools/Pages/DetResults.aspx",1,08/07/2018 03:44 PM
+Paola Prieto,"Hi, thank you for this exercise. I worked with the copy from your github, and found out that the ratings were not being captured. Then I checked the page and they change the ""count"" for ""star-rating""
+
+So, in the code I replaced in line 74
+
+This:
+
+    pattern = 'count-'%R% capture(DIGIT) 
+
+For this:
+
+    pattern = 'star-rating-'%R% capture(DIGIT) 
+
+And the ratings worked again.
+
+
+
+
+Thank you!!",3,18/07/2018 07:20 AM
+bradley phillips,"I think you need to change the line ""pattern = 'count-'%R% capture(DIGIT)"" on line 74 on github to pattern = 'star-rating-'%R% capture(DIGIT) as the source code appears to have changed. this grabs 2 extra elements to the start on the vector I just removed with vector <- tail(vector,-2). Perhaps you have a neater way to fix this?",1,19/07/2018 03:05 AM
+Heber Nielsen,"I am struggling with learning the basic setup for parsing the material I scrape and formatting it into a tibble. I hoped this tutorial would help in that. After entering all the functions and confirming that they work (individually) I run into an error message that I cannot debug when I try to run the full material:
+
+> scrape_write_table (My_Site, 'amazon')
+Error in stri_trim_both(string) :
+ argument ""string"" is missing, with no default
+
+In the code I typed in from the tutorial, I replaced the object ""url"" with ""My_Site"". It is the web address in the tutorial but works fine - the only difference I can see is that the last page is now 176, but that shouldn't matter. Since the statement ""stri_trim_both (string)"" doesn't appear in the written code, I assume it is within a package function that I cannot see. So what can I do to get this to run? I appreciate your help.",1,24/07/2018 02:47 AM
+pogeneral,Brilliant - many thanks,1,22/08/2018 02:40 PM
+Robert Sommer,"This looks like a great resource for when I learn more R! For now, I think I will try to scrape data with a Chrome extension.",1,22/08/2018 08:36 PM
+Jordan Simonov,"Dear  Arvid,
+
+Code is really good, but would you like to write whole code again without error? I have same error like Daniel Deidda ""Error: Columns `reviewer`, `date`, `review` must be length 1 or 20, not 0, 0, 0  "" .
+
+Thank you in advance.",1,22/08/2018 10:34 PM
+jtariku,I am new to R but was able to scrape names for my research following rvest tutorials but was unable to figure out how to scrape images. Is it possible to scrape images using R at all? Want to assemble all the licensed designers from well known manufacturers from sites like https://www.hermanmiller.com/designers/ and https://www.knoll.com/discover-knoll/designers,1,23/08/2018 09:59 AM
+R TP,"I am new to r and I keep getting 'numeric(0)' when I execute the following:
+
+
+
+
+url <- 'http://www.trustpilot.com/review/www.amazon.com'
+
+
+
+
+get_last_page <- function(html){
+
+  
+
+  pages_data <- html %>%
+
+    
+
+    html_nodes('pagination-page') %>%
+
+    html_text()
+
+  
+
+  pages_data[(length(pages_data)-1)] %>%
+
+    
+
+    unname() %>%
+
+    
+
+    as.numeric()
+
+}
+
+
+
+
+first_page <- read_html(url)
+
+(latest_page_number <- get_last_page(first_page))
+
+
+
+
+------ Any ideas?",1,14/09/2018 02:29 AM
+Matthew Kaplan,"Arvid,
+
+
+
+
+Great Article. Web scraping is a new passion of mine. I love that youtube has closed captioning on most videos now and you can do some pretty interesting stuff with youtube text analysis. My question is what would be some tips for a website that requires you to login? I've been having a hard time finding good resources for that.
+
+
+
+
+Thanks,
+
+Matt ",0,14/09/2018 10:42 PM
+R TP,"Hi All, I keep getting this error message hen triggering the function:
+
+Error in get_data_table(., html, company_name) : 
+
+  unused argument (company_name)
+
+
+",1,16/09/2018 03:27 AM
+Louis Leventer,"Thank you very much Arvid Kingl for such a splendid tutorial.
+
+
+",1,27/09/2018 05:14 PM
+Ngonidzashe Fungura,Hi Arvid Kingl. Thank you for the tutorial. May you kindly help me on this one. I would like to do web scraping on the link https://www.proudlysa.co.za/members.php and I would like to extract all the companies listed there and all their respective information and put it into an excel file. Which code can I use in R,1,19/10/2018 12:57 AM
+Priyanshu sangal,"Hi Arvid,  Thank you for the Tutorial.
+
+I am a fresher in IT industry and want to pursue my career in data science. 
+
+After reading this article a thought came to my mind that for my next interview  i can make a report of some insights from the data collected 
+
+through company's website with the help of web scrapping.
+
+To show my analytics skills to interviewer.
+
+But the problem is that i am not able to find out any idea on which i could perform analysis.
+
+For example, 
+
+I was thinking of collecting reviews.
+
+But what possible outcome can i make of reviews.
+
+Can you help me out with what else can i look for on a website to perform analysis?
+
+
+",1,31/10/2018 07:49 PM
+Joan Farre," Hi Arvid, 
+
+incredible work and tutorial!
+
+For one of my university subjects I would like to do web scraping on the link (www.booking.com) and I would like to extract all the prices listed there, as well as, location and ratings and put it into a csv file for futher analysis.
+
+I'm trying to readapt your code, obviating about company name but I've got nothing. Could be related with something about page's source code? I've used selector gadget in order to get what's need to put in R code.
+
+Thanks in advance",1,12/11/2018 02:09 AM
+Tanmayee Waghmare,"Hi Arvid, thanks for the brilliant tutorial! I tried to reproduce the code from your github and ran into the following error.
+
+ """"Error in UseMethod(""xml_find_all"") : 
+
+  no applicable method for 'xml_find_all' applied to an object of class ""function"" """"
+
+Could you lease guide me on this?",1,18/11/2018 11:34 PM
+Bilikisu Aderinto,"This code:   first_page <- read_html(url)     (latest_page_number <- get_last_page(first_page)) , only returned 5. This happens because there are only  6 button with pagination-page class on the landing page. Is there a way to get the total number of review pages?",2,24/11/2018 07:10 PM
+Edgar John,"In step 1 after you wrote the first function of code, you didn't say how to RUN THE CODE and as.numeric() didn't work at first. I added an arg, pages_data and at least the error was gone but I still haven't been ale to get past this. Is this tutorial not designed for beginner/intermediate r users?",1,25/11/2018 09:24 PM
+Rahma Ben Romdhane,"Hello, 
+
+I have tried to use the code you provided to scrap another website. All the data I'm scrapping are string so I have only used one function. It works for one column but I get this error for the 3 other. 
+
+ Error: Columns `artist`, `category`, `price` must be length 1 or 289, not 120, 120, 126",1,01/01/2019 08:00 PM
+Mohammad Mohammad,"hi, thanks for this article.
+
+i want read pages , but i use under code , my output it is only 5 pages ‌, while i have 211 pages.
+
+where is my problems?",1,18/01/2019 12:46 AM
+ramya yanamadala,"Hi all,
+
+I want to scrap a particular section of webpage Ex(there is a section called social wall in a home page of a website where all the post are listed there ).If I want to scrap that particular part of data,Can any one guide me how to do that?/
+
+Thanks in Advance",1,10/02/2019 01:31 PM
+Richard Deus," Error in write_delim(x, path, delim = ""\t"", na = na, append = append,  : 
+
+  is.data.frame(x) is not TRUE 
+
+5. stop(simpleError(msg, call = sys.call(-1))) 
+
+4. stopifnot(is.data.frame(x)) 
+
+3. write_delim(x, path, delim = ""\t"", na = na, append = append, 
+
+    col_names = col_names, quote_escape = quote_escape) 
+
+2. write_tsv(str_c(company_name, "".tsv"")) 
+
+1. scrape_write_table(url, ""amazon"") ",1,11/02/2019 04:58 PM
+David Brami,"Hey, 
+
+
+
+
+Thanks for your very useful tutorial. I get Column `status` must be a 1d atomic vector or a list Call `rlang::last_error()` to see a backtrace  when i execute the  get review dates function.
+
+Do you know why? 
+
+
+
+
+Thanks a lot",1,15/02/2019 03:58 PM
+Emilie Da Silva,"I tried applying this tutorial to another web page but I was not successful. After the command (latest_page_number <- get_last_page(first_page)) I get ""Warning message: In function_list[[k]](value) : NAs introduced by coercion"". What does it mean? What should I do?",1,14/05/2019 06:07 PM
+Yasmin Al-mandawi,"Hi Arvid,
+
+I'm trying to scrap a forum, that have many topics , each topic have  sub-topics and each subtopic will have few comments  etc,  your code is really good but I can not apply it as the url structure is different , they are using the topic number in the middle of the url,
+
+ http://www.essentialbaby.com.au/forums/index.php?/forum/232-sleeping/ 
+
+ http://www.essentialbaby.com.au/forums/index.php?/topic/1203750-8yo-and-sleep-anxiety/ 
+
+ http://www.essentialbaby.com.au/forums/index.php?/topic/1189771-13mo-crazy-sleep-issues/ 
+
+
+
+
+any thoughts on how to scrap all topics  urls?
+
+
+
+
+
+
+
+
+",1,27/05/2019 05:36 PM
+Arvid Kingl,"In the last couple of months the format of the Trustpilot website has changed significantly. 
+
+I had to rewrite the scraper in Python. If anyone still has use for it, it can be found here
+
+https://github.com/HCelion/scrape_write_function",1,20/06/2019 01:30 AM

@@ -1,0 +1,6 @@
+﻿commentedBy,commentMessage,upvotes,commentDate
+Dudi Lerech,Thanks it was very helpful ,3,05/04/2018 06:08 PM
+Muhammad Taqi Hassan,"MultiIndex(levels=[['2017-01-01', '2017-01-02', '2017-01-03'], ['python', 'r']],           labels=[[0, 1, 2, 0, 1, 2], [0, 0, 0, 1, 1, 1]],           names=['date', 'language'])",3,28/08/2018 09:54 PM
+Soraya Raquel Ruiz Espinoza," Excuse me, Is there a way to use .loc in a multindex but only with one parameter not tuple? For example  df.loc[('2017-01-02',)]  but get the result for 'r' and 'python' ?",6,17/10/2018 02:26 PM
+"Pushkar .,",pd.reset_index was very helpful with group by operations.....thx for the article,1,19/01/2019 01:10 PM
+praveen Talluri,I tried  df.resert_index() on multi index of dataframe..but it didnt work.Its not changing the multi index columns,1,09/06/2019 01:24 PM

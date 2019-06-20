@@ -1,0 +1,8 @@
+﻿commentedBy,commentMessage,upvotes,commentDate
+Milton Hoyos,"Hello,
+
+Thanks for this excellent post.
+
+my question is if I have some categorical characteristics in the dataset, what should I do, convert the categorical variables into fictitious variables and then apply PCA, or is there some other treatment for the categorical variables for the dimensional reduction?
+
+Thanks for your reply and excuse for my poor English.",1,11/06/2019 10:19 PM

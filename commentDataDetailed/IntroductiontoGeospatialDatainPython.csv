@@ -1,0 +1,26 @@
+﻿commentedBy,commentMessage,upvotes,commentDate
+Sheraz Salahuddin,Great Read!,3,25/10/2018 05:55 PM
+Xuezhou Liu,so great,4,26/10/2018 04:53 PM
+Bart Baeyens,"When I open the downloaded file gz_2010_us_040_00_5m.json, I get errors: 
+
+....
+
+ValueError: Null geometry supports no operations
+
+So I can't even start the tutorial that I would have liked to complete.
+
+Bat",3,30/10/2018 09:39 PM
+Murilo FRETTA JOSE,The label at the final plot is not the same as shown at the script,1,31/10/2018 01:52 AM
+John Rogers,"Great article, thanks. I look forward to working through it.",2,31/10/2018 07:29 AM
+Jano Nuñez Zapata," Nice tutorial!
+
+I found not useful missigno package, but the rest is great. In the final plot I cannot visualizing the legend, maybe Wind class must be divided in 5 classes before, mustn't it?",6,05/11/2018 05:50 PM
+Rishi Yoga,"Hi, Very useful so far. Can you tell me which library you're using for converting into GeoPoint?",1,06/01/2019 12:01 PM
+PATRICK CORBETT,"Nice, but the label does not work as shown as others have pointed out. It simply displays the ""Wind as MPH..."" but the actual MPH values underneath it are absent. ",1,11/01/2019 02:11 AM
+Farzaneh Firoozyar,"Hi ,
+
+I can't open this file (https://s3.amazonaws.com/assets.datacamp.com/blog_assets/Introduction+to+Geospatial+Data+in+Python/gz_2010_us_040_00_5m.json) with :
+
+country = geopandas.read_file(""https://raw.githubusercontent.com/meiqimichelle/eiti_superbeta_old/master/gz_2010_us_040_00_5m.json"")
+
+Can u please help me with that?",2,10/02/2019 11:39 PM

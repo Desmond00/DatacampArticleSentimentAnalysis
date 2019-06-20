@@ -1,0 +1,27 @@
+﻿commentedBy,commentMessage,upvotes,commentDate
+RAHUL RAJ,"How can I divide a dataframe into multiple dataframes with 30 min interval based on timestamp?
+
+
+",18,11/03/2018 01:29 AM
+pascalngocphutu,"Hi, how do you create these lovely (images of) tables which show the operations by highlighting the affected cells?",6,14/05/2018 12:02 PM
+erickades2,"Toward the beginning of the page, in the graphic of the table X and the following text, I think you have the margin arguments reversed: 1 is for computations across rows, 2 is for computations down columns.
+
+
+",5,08/06/2018 02:33 AM
+CN SP,"is it normal that I am getting an error that says ""missing argument to function call"" when I am using lapply with the call separator, ""["" instead of putting an actual function in the FUN? 
+
+I basically have a list of matrices that I want to collapse into one matrix and I've used this code: 
+
+for (j in 1:5) {
+
+  gamete_pool[[j]] <- matrix(unlist(lapply(gamete, ""["", j,)), ncol = 5, byrow = T)
+
+
+
+
+Thank you in advance. 
+
+}
+
+My list contains 5 different matrices and instead of using the unlist function, I wrote my own lapply. ",4,03/08/2018 10:33 PM
+josephwachira768, &Driving ,1,14/02/2019 05:51 PM

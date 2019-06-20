@@ -1,0 +1,70 @@
+﻿commentedBy,commentMessage,upvotes,commentDate
+Tushar Joshi,Very nice explanation sir. Thank you.,2,01/08/2018 01:31 PM
+Shirlei Alexandrino,Nice explanation. Thank you,2,10/08/2018 03:51 AM
+Matt Larson,"I'm seeing very different values from the data then I see in your results. Even when I paste your code in, summary(lmHeight) returns: 
+
+Coefficients:
+
+            Estimate      Std. Error      t value      Pr(>|t|)
+
+(Intercept)  64.8445    43.3815   1.495    0.166
+
+age           0.3835     1.8264   0.210    0.838
+
+Any suggestions?",1,11/08/2018 09:43 PM
+Shirlei Alexandrino,"I downloaded the data and in the file has only 12 observations and 3 variables. My results was totaly different .
+
+
+
+
+Call:
+
+lm(formula = height ~ age, data = ageandheight)
+
+
+
+
+Residuals:
+
+    Min      1Q  Median      3Q     Max 
+
+-66.059   5.193   5.810   6.617   7.533 
+
+
+
+
+Coefficients:
+
+            Estimate Std. Error t value Pr(>|t|)
+
+(Intercept)  64.8445    43.3815   1.495    0.166
+
+age           0.3835     1.8264   0.210    0.838
+
+
+
+
+Residual standard error: 21.84 on 10 degrees of freedom
+
+Multiple R-squared:  0.00439, Adjusted R-squared:  -0.09517 
+
+F-statistic: 0.0441 on 1 and 10 DF,  p-value: 0.8379
+
+
+
+
+
+
+
+
+",3,15/08/2018 09:29 PM
+Raman Bangalore Venkatakrishnan,"Nicely explained, good place to get started to know about linear models.",1,23/11/2018 12:36 PM
+Bartosz Kapusta,"It seems, that raw data has bug at [7,2] - 7,99 instead 79,9.",1,03/02/2019 12:48 AM
+Vikas Vikas,"Sorry to say but the output of  yours does not match with mine. may be you are working with diffierent data sets and not which you provided on google drive. For example my answer for first block
+
+of code is : 
+
+Call: lm(formula = height ~ age, data = ageandheight)  Residuals:     Min      1Q  Median      3Q     Max  -66.059   5.193   5.810   6.617   7.533   Coefficients:             Estimate Std. Error t value Pr(>|t|) (Intercept)  64.8445    43.3815   1.495    0.166 age           0.3835     1.8264   0.210    0.838  Residual standard error: 21.84 on 10 degrees of freedom Multiple R-squared:  0.00439, Adjusted R-squared:  -0.09517  F-statistic: 0.0441 on 1 and 10 DF,  p-value: 0.8379 ",1,28/03/2019 07:41 PM
+Shah Zaib Malik,"very good Article . but my abline() is not working properly .
+
+it didnt show the line after the  plot",1,02/04/2019 05:55 PM

@@ -1,0 +1,139 @@
+﻿commentedBy,commentMessage,upvotes,commentDate
+Charles Riebeling," Hi there! 
+
+This post was extremely helpful. I am a newbie to Python and data science in general, so thanks for writing this. 
+
+I do have one question: If I'm using Jupyter Notebooks, is the data I'm using stored on any server other than my machine or whatever server I'm loading the data from? I often work with student data, so I want to make sure all the .csv files I'm using or connections I'm creating are secure and that that data is not being loaded to any cloud server for Jupyter Notebooks to be able to work with them.
+
+Thanks, 
+
+Charlie",5,20/02/2018 08:25 PM
+Ahmed Abdulhamid,It was really helpful ,2,05/03/2018 10:10 PM
+Michael Galarnyk,Excellent job! ,3,08/03/2018 12:32 PM
+Phil Nash,"extremely helpful post - thank you
+
+But given this is the top result on google for ""jupyter tutorial"" you  might want to correct the grammar -  the multiple mistakes really take away from the flow of the whole article ",3,04/05/2018 07:23 PM
+Savana Albayati,"Thank you 
+
+
+",1,12/05/2018 06:30 PM
+Barbara DiLucchio,"I have a question.  I need to get a csv file into the home directory of python or get the python home directory to be the same as where the .csv file is -- either  way they have to have the same home directories but I don't know  how to accomplish this.  If someone can help me with this, please email me at bdilucchio@gmail.com. Thanks very much Barbara Dilucchio",0,28/05/2018 12:22 PM
+issoftdevp,"Hey! thanks a lot for this post, however, I am yet to understand the holistic use of jupyter notebook, please i will be very glad if some one can help me with this and as well of better material to study on this via issoftdevp@gmail.com. thanks in advance.",1,29/05/2018 09:46 PM
+David Emmith,"The tip concerning Latex is confusing. First, it is referred to in three different styles with regards to capitalization ...
+
+LaTex
+LaTeX
+Latex
+
+Which is it?
+
+Using your Latex tip resulted in this error ...
+
+    
+c=
+a
+2
++
+b
+2
+−
+−
+−
+−
+−
+−
+√
+c=a2+b2
+
+    File ""<ipython-input-19-9622fe7da255>"", line 1
+
+    
+c=
+a
+2
++
+b
+2
+−
+−
+−
+−
+−
+−
+√
+c=a2+b2
+
+    ^
+
+    SyntaxError: invalid syntax
+
+Adding this line ... from IPython.display import display, Math, Latex ... made no difference.",1,09/06/2018 01:24 AM
+Ishaan Tiwari,"I could not follow anything from the ""inserting LaTex"" portion. Where am I supposed to type the commands in dark blue rectangles? Most of them throw an error when written in a cell.",2,14/06/2018 06:20 AM
+Jon Brown,This was great.  Although I had a look at Jupyter dashboards as mentioned but it doesn't seem to be actively developed and the existing version doesn't seem to support packaging - have you managed to use this package to share a dashboard?  The only thing I could manage to do with the package was to use the dashboard previewer.,1,17/06/2018 03:16 AM
+Siddhartha Sharma,"thanks for  this information.
+
+
+",2,19/06/2018 08:02 PM
+Raghav Kosal Raman,"Hi !
+
+I would like to use jupyter notebook for doing both my Python and R  projects. But the kernel dies immediately when I open a R notebook. Why is it so? Any fixes available for this issue ?
+
+Thanks
+
+Raghav",3,04/07/2018 10:15 PM
+marton mar suri,"hi willems
+
+ please can you help me  some error on  jupyter notebook",1,30/07/2018 02:24 PM
+René Lohmann,"Docker cannot be installed on Win7, 32 bit. 
+
+Also, I think it is really annoying to call this ""Jupyter"" tutorial when you have to install a bunch of other software as well. You could have mentioned it in the very beginning, couldn't you? Now, how to uninstall Jupyter again?",1,04/08/2018 08:46 PM
+Divyesh Ardeshana,Thank you sharing.  Can we open .py files in Jupyter?,2,08/09/2018 12:26 PM
+Maks Bah,"Sorry, is there a mistake (typo) in the sentence ""Note that if you want to start a single-line expression to run with the magics command, you can do this by using % . For multi-line expressions, use && . The following example illustrates the difference between the two:""
+
+maybe even two: 1 - magics -> magic; 2 - && -> %%
+
+Thank you",1,13/09/2018 05:51 PM
+Benjamin B,For a better workflow I always recommend the nbextensions. Especially the Table of content is useful for a better overview and the possibility to jump between the chapters. Also the Variable explorer is useful!,1,18/10/2018 05:16 PM
+Phillip Wong,"I find this article to be unhelpful. I just want to know how to run my print(""Hello World"")
+
+All this article give me after reading the whole thing is that, I can 't even get one line of code run. To me, this is terrible. ",1,20/10/2018 11:42 AM
+Admin was," Admin wep.twitter.twipy. ANY AND ALL CLAIMS UNDER THIS AGREEMENT WILL NOT EXCEED uoth tweipy ap HE FOREGOING LIMITATIONS, EXCLUSIONS AND DISCLAIMERS SHALL APPLY REGARDLESS OF WHETHER SUCH LIABILITY ARISES FROM ANY CLAIM BASED UPON CONTRACT, WARRANTY, TORT (INCLUDING NEGLIGENCE), STRICT LIABILITY OR OTHERWISE, AND WHETHER OR NOT THE PARTY HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH LOSS OR DAMAGE. INSOFAR AS APPLICABLE LAW PROHIBITS ANY LIMITATION ON LIABILITY HEREIN, THE PARTIES AGREE THAT SUCH LIMITATION WILL BE AUTOMATICALLY MODIFIED, BUT ONLY TO THE EXTENT SO AS TO MAKE THE LIMITATION COMPLIANT WITH APPLICABLE LAW. THE PARTIES AGREE THAT THE LIMITATIONS ON LIABILITIES SET FORTH HEREIN ARE AGREED ALLOCATIONS OF RISK ",1,24/10/2018 04:59 AM
+Scott Sides,"For the section that says:
+
+""If you want to start on your notebook, go back to the main menu and click the ""Python 3"" option in the ""Notebook"" category.""
+
+I don't know where the ""Notebook"" category is. ",1,29/10/2018 11:36 PM
+Edgar Dihardja,Thank you!,1,07/11/2018 08:59 AM
+Abdula Malik,That waswas ,1,22/11/2018 06:31 AM
+Marcus Birkenkrahe,"The link http://blog.jupyter.org/2016/07/14/jupyter-lab-alpha/ in ""The History of..."" is broken . Otherwise, fascinating!",2,21/12/2018 12:53 AM
+Pawan Chichghare,"Hello...
+
+I was using Jupyter notebook from over a year, but not able to know how to add information about any cell which i was executing, But after reading your article i understood how to do it.. Thanks for your informative article on Jupyter Notebook",3,11/01/2019 03:31 PM
+Viraj B,Hi! Just a suggestion: If you guys could remove the black background+grey font code boxes. Really difficult to read.,1,18/01/2019 12:25 PM
+Wesley Shen,"Hi there, thanks so much for this tutorial. I've been wanting to practice using Docker to make sure my projects are reproducible. This tutorial was helpful in showing me how to start a Jupyter Notebook using Docker. But how do I then make sure that I containerize all the dependencies that my notebook requires to run the project? I guess just trying to figure out what is the benefit of running notebooks using Docker and what do I do once I finish the notebook? Thank you so much.
+
+Wes",1,19/01/2019 07:39 AM
+GEORGIOS KIMINOS,"I have the below error when trying to upgrade pip, I have installed python 3.7
+
+'python' is not recognized as an internal or external command,
+
+operable program or batch file.
+
+same for python3 instaed for python",1,19/02/2019 01:55 AM
+Tshepo Molope,Well structured read for a beginner. I also found the url links very informative as well.,1,19/02/2019 05:53 PM
+Siddharth Saxena hial,This is a great website to learn. I would suggest this blog to my friends and i i hope they will like it.,1,20/04/2019 12:59 PM
+Joel Berghoff,This tutorial is a mess. Really hard to follow. An editor/proofreader would really help here.,1,03/05/2019 10:26 AM
+sanku sampath,Hai mamthis is sampath  we need to docker seperatly,1,09/05/2019 11:53 PM
+iqra ch,great post ,1,11/05/2019 08:09 PM
+Walison de Souza Abreu,awesome! thanks.,1,05/06/2019 07:30 AM
+ralph corrales,For people who are completely new to Jupyter Notebook this article will be really helpful. Another sources to read: https://jupyter-notebook-beginner-guide.readthedocs.io/en/latest/what_is_jupyter.html and  https://theessayservice.org/ . There's a detailed information on using Jupyter from starting from installation steps.,1,11/06/2019 02:03 PM
+JOHN MANGANAS,Thank you Karlijn!,1,13/06/2019 02:16 PM
+Arthur Gamer," I have a question.  I need to get a csv file into the home directory of python or get the python home directory to be the same as where the .csv file is -- either  way they have to have the same home directories but I don't know  how to accomplish this.  If someone can help me with this, please email me at bdilucchio@gmail.com. Thanks very much Barbara Dilucchio 
+
+
+
+
+
+
+
+https://robloxclaim.com",1,19/06/2019 11:37 PM

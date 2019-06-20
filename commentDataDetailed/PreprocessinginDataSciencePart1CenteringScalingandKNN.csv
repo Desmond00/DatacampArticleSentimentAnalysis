@@ -1,0 +1,24 @@
+﻿commentedBy,commentMessage,upvotes,commentDate
+Sebastien Mitea,"Hello Hugo, in section ""A visual description of k-Nearest Neighbors"", the second line should end with ""blue"", not ""green"".
+
+Well, if k=3, you would classify it as red and, if k=5, as blue.",7,20/02/2018 01:26 AM
+Neeta Gupta,"Hi Hugo, I really liked the way you explain things, whether it be tutorial or datacamp courses. 
+
+I have one query, how do you select random_state value while splitting data into training and testing. What is it exactly and how can we derive the value to be used?
+
+Thanks,
+
+Neeta",0,14/08/2018 05:23 PM
+Eli Michaelsson,"Hi
+
+Should not you first split the data into training-test sets and then apply scaling only to the training set?
+
+Thank you
+
+Eli",2,29/01/2019 05:08 PM
+pham yen,"Thanks for sharing this marvelous post. I m very pleased to read this article.
+
+girls go games",1,27/05/2019 01:54 PM
+Linda Rose,"The article you have shared here very awesome
+
+swords and souls",1,28/05/2019 01:30 PM

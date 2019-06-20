@@ -1,0 +1,121 @@
+﻿commentedBy,commentMessage,upvotes,commentDate
+David Passmore,Superb explanation. Posted for my students to see.,10,14/08/2018 08:07 PM
+Wishmore Stanley,very insightful and practical was having difficulty finding an application for pca. thanks.,3,20/08/2018 08:54 PM
+Leandro Marx,Is there a way to do this with ggplot2 tool? ggbiplot isn't available for 3.5.1 :(,6,13/09/2018 02:00 AM
+RichaKr,Best ever Tutorial for PCA. Thank you for sharing your knowledge.,3,13/09/2018 02:13 PM
+Kevin Pan,Thank you. It helps me a lot.,2,18/09/2018 11:18 PM
+Uli Wellner,perfect shortcut intro. thanks !,2,30/09/2018 06:06 PM
+Dr Pankaj Kumar Medhi,Great explanation! new insights about the projection of new sample.,2,04/10/2018 09:17 PM
+Miguel Barbosa,Thanks for the great tutorial! ,1,17/10/2018 03:41 AM
+Sourav Mandal,Thanks very much for touching upon a much awaited topic! Are you planning to do a tutorial on things like  partial least square regression (PLSR) etc?,2,18/10/2018 02:15 PM
+Harshali Chaudhari,Very useful information... very well explained.. Thank you for sharing it..,2,23/10/2018 05:17 PM
+Lucas Ishikawa,"Amazing!  So rich and still simple in every single detail
+Thanks for sharing",1,10/11/2018 01:02 AM
+Dexter Pante,"Just a question, in the graph where you plotted PC1 and PC2, you said that ""hp, cyl and disp all contribute to PC1"".  Does this mean that wt and carb do not contribute to PC1? And what was the explanation for this.  I'd like also to know of all the variables you mentioned that contribute to PC1 which one has the most contribution?
+
+Thank you for taking time to read my comment.  I hope you could enlighten me on this.",5,10/11/2018 06:02 PM
+Philip Doyle,Great tutorial! Exceptionally clear writing (which I find is rare for R tutorials),1,14/11/2018 07:24 PM
+Philip Doyle,"For some reason I can't utilise ggbiplot after installing. After entering  - library(ggbiplot) - I get the response:
+
+Loading required package: ggplot2
+
+Error: package or namespace load failed for ‘ggplot2’ in loadNamespace(j <- i[[1L]], c(lib.loc, .libPaths()), versionCheck = vI[[j]]):
+
+ namespace ‘rlang’ 0.2.0 is already loaded, but >= 0.2.1 is required
+
+Error: package ‘ggplot2’ could not be loaded
+
+In addition: Warning message:
+
+package ‘ggplot2’ was built under R version 3.4.4 ",3,15/11/2018 04:42 PM
+JEREMIAH KABISSA,"Dear Luke 
+
+How are you. My name is Jeremiah Joe Kabissa a student of KU Leuven, I real want to learn different tactics of using R, for various analytical tools. However for now I real like to learn PCA in R, FA in R, PLS in R and the like in relation to the former three.
+
+Sincerely
+
+Jeremiah",1,16/11/2018 01:17 AM
+Simone Schütz,  Thanks. How to adapted the PCA if my data includes missing values?,1,20/11/2018 08:22 PM
+Tram Ly,"Dear Luke ,
+
+Thanks you so much for your lesson 
+
+I don't understand about interpreter result with  "" the  Japanese cars, on the other hand, are characterized by high mpg"" because I think low mpg is right because the   arrow of mpg  is  on negative side. 
+
+I am so appreciate if you explain 
+
+Thanks you so much     ",4,22/11/2018 12:52 AM
+Abdellatif EL MSAYRYB,"Hello, i'm trying to install the ggbiplot package but doesn't  work for me, is there a difference between the ggplot package and ggbiplot in the python 3 ?  ",1,11/12/2018 02:46 PM
+Elijah Juma,"Hi Luke,
+
+I'd like to understand the intuition behind how the grouping has been done. Would you be able to offer additional explanation?
+
+
+",2,24/12/2018 10:53 AM
+Izzy Bizzy,"Hello,
+
+I have heard that the output obtained through PCA analysis can be used as predictors in regression. For example, if you have two data sets: A contains the results of an experiment with each row representing a participant response, B contains (highly variable) social information about each participant in the study. I would like to perform a PCA analysis on data set B and use the resulting vectors as predictor variables in a mixed effects regression performed on data set A. In other words, I am trying to test how can social factors account for participant behavior. How would I go about including those principal components in my regression? I am familiar with mixed effects regression in R but if anybody can provide some sample code to achieve this, that would be great.
+
+Thanks!   
+
+
+",3,07/01/2019 12:48 AM
+David C,"Like many others, ggbiplot is not installing. I get the error. 
+
+Error in install_github(""vqv/ggbiplot"") : 
+
+  could not find function ""install_github""
+
+To all readers, this tutorial no longer has use as ggbiplot appears to no longer be available. You'll need other packages for PCA, not ggbiplot",1,13/01/2019 03:39 AM
+Sobia Ahmed,A great tutorial on PCA. Thanks for this,1,21/02/2019 12:52 PM
+alvaro barroqueiro,"> library(ggbiplot)
+
+Error in library(ggbiplot) : there is no package called ‘ggbiplot’
+
+
+
+
+does not exist a package with a name 'ggbiplot' ...
+
+
+",1,22/03/2019 01:23 AM
+Anh Pham,"how to download dataset ""mtcars""? Thank you",1,27/03/2019 09:23 AM
+Mohan Arthanari," 
+
+Warning in install.packages :
+
+  package ‘ggbiplot’ is not available (for R version 3.5.0)
+
+
+
+
+i cant install this package",1,05/04/2019 11:02 PM
+Zamzam Al-Rawahi,"How to group samples if I have 930  samples instead of 32?
+
+ This would be very complicated for 930 samples.
+
+mtcars.country <- c(rep(""Japan"", 3), rep(""US"",4), rep(""Europe"", 7),rep(""US"",3), ""Europe"", rep(""Japan"", 3), rep(""US"",4), rep(""Europe"", 3), ""US"", rep(""Europe"", 3))",3,11/04/2019 10:26 AM
+Rafik Margaryan,"Very nice, what I was searching for. ",1,23/04/2019 11:54 PM
+miriama vuiyasawa,How did you label the categories to get ellipses? I can't follow how you labelled them.,1,25/04/2019 02:13 AM
+Abdullah Al Mahmud,"Thanks for the great insight. However, I did not understand one aspect. How did you select and order the country names? I mean, they weren't in the original data. ",2,25/04/2019 10:25 PM
+Yifan Feng,"Very useful! Can you explain how to come up with the below codes? Thank you.
+
+mtcars.country <- c(rep(""Japan"", 3), rep(""US"",4), rep(""Europe"", 7),rep(""US"",3), ""Europe"", rep(""Japan"", 3), rep(""US"",4), rep(""Europe"", 3), ""US"", rep(""Europe"", 3))",1,29/04/2019 10:40 AM
+marco arena,excellent tutorial,1,08/05/2019 10:59 AM
+Pete De Jager,"Exceptional article, covering PCA in depth and clarifying all of the mysteries. All the examples work flawlessly and the explanations are lucid. Many thanks!",1,13/05/2019 11:12 PM
+Keiana Dunn,"I installed install.packages(""fs"") and them received an error: Warning in install.packages :
+ package ‘library(devtools)’ is not available (for R version 3.4.4). Also Warning in install.packages :
+ package ‘library(ggbiplot)’ is not available (for R version 3.4.4). Any suggestions on how to get past this?",1,15/05/2019 12:14 PM
+Graeme Dean,"Hi everyone, I am following the tutorial and so far am delighted with the explanation, but now I have hit a wall, the package is not available. I have tired several times to download it but always returns the same message: package ‘ggbiplot’ is not available (for R version 3.5.2)
+
+
+",1,17/05/2019 10:38 PM
+Tasos Baltadakis,"Hello there, its a very helpful tutorial considering my level. 
+
+I wanted to ask if there is  a command through ggbiplot to change the arrows from red to black. 
+
+
+Cheers 
+
+
+",0,04/06/2019 12:23 AM

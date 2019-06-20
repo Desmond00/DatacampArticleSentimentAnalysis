@@ -1,0 +1,46 @@
+﻿commentedBy,commentMessage,upvotes,commentDate
+wang Clara,"      
+
+Pb1=glm(formula=group ~ X1+X2+X3+X4+X5,   data=dataB,family=binomial)
+
+Pb1$coefficients 
+
+IntCo1<-as.numeric(Pb1$coefficients[1])
+
+X1co1 <-as.numeric(Pb1$coefficients[2])
+
+X2co1 <-as.numeric(Pb1$coefficients[3])
+
+X3co1 <-as.numeric(Pb1$coefficients[4])
+
+X4co1 <-as.numeric(Pb1$coefficients[5])
+
+X5co1 <-as.numeric(Pb1$coefficients[6])
+
+Phat1<-rep(NA, 1000)
+
+X1pred<-rep(NA, 1000)
+
+X2pred<-rep(NA, 1000)
+
+X3pred<-rep(NA, 1000)
+
+X4pred<-rep(NA, 1000)
+
+X5pred<-rep(NA, 1000)
+
+for (j in 1:1000) {
+
+X1pred[j]<-dataB$X1[j]*X1co1
+
+X2pred[j]<-dataB$X2[j]*X2co1
+
+X3pred[j]<-dataB$X3[j]*X3co1
+
+X4pred[j]<-dataB$X4[j]*X4co1
+
+X5pred[j]<-dataB$X5[j]*X5co1
+
+Phat1[j]=sum(IntCo1,X1pred[j],X2pred[j],X3pred[j],X4pred[j],X5pred[j])
+
+ } ",1,09/10/2018 11:32 PM

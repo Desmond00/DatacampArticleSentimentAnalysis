@@ -1,0 +1,11 @@
+﻿commentedBy,commentMessage,upvotes,commentDate
+Jon Burrell,"Thanks for tutorial. Data import links currently broken. Try these if stuck:
+
+beers = pd.read_csv(""https://raw.githubusercontent.com/nickhould/craft-beers-dataset/master/data/processed/beers.csv"")
+
+breweries = pd.read_csv(""https://raw.githubusercontent.com/nickhould/craft-beers-dataset/master/data/processed/breweries.csv"")
+
+
+",2,07/03/2018 07:57 PM
+Upendran Manickam,Hi! Is there a way we can connect the output of pandas_profiling to tableau??,4,25/07/2018 05:51 PM
+Vivian Santos,Doesn't len returns the length of the string?,1,09/01/2019 08:33 AM

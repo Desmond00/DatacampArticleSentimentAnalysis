@@ -1,0 +1,27 @@
+﻿commentedBy,commentMessage,upvotes,commentDate
+Ajay Manwani,Great Tutorial !!,4,21/09/2018 12:06 AM
+Connor Hansen,"I believe in: 
+
+ soup = BeautifulSoup(html, 'html') 
+
+the  parser argument should be 'html.parser',  not just 'html. In Spyder I got an error telling me it defaulted to the lxml parser since I did not specify one.
+
+I believe 'lxml' and 'html5lib' also specifies the parser argument (for their respective parsers), but for the built-in html parser, it is 'html.parser'. ",2,27/09/2018 02:52 AM
+Ankur Phukan,"At `dh = datacamp[datacamp[""publishdate""]>='2017-01-01'].sort_values(by=""publishdate"", ascending=True).set_index([""publishdate""])` setindex drops the column which is set as index .. Solution 
+
+`dh = datacamp[datacamp[""publishdate""]>='2017-01-01'].sort_values(by=""publishdate"", ascending=True).set_index([""publishdate"", drop=false])`  . And nice tutorial really learned may new things.",2,29/09/2018 08:24 PM
+Utkarsh Srivastava,"Really Helpful tutorial, the way plots were made, very informative.",1,08/10/2018 02:42 PM
+Balary Nash,"why did I get the error 'AttributeError: 'DataFrame' object has no attribute 'publishdate'' when I would input the code  "" dh[""publishdateone""] = pd.to_datetime(dh.publishdate.astype(str).str[0:7] + '-01') ""？I'm  new to python. Could you tell me how to solve that?",1,09/02/2019 12:53 PM
+Jensen Ko,"HI, i was stuck on 
+
+datacamp = pd.read_csv(""D:\\Python Beautiful Soup\\datacamp01042019.csv"", parse_dates=[""publishdate""], infer_datetime_format=True)
+
+ValueError: 'publishdate' is not in list
+
+
+
+
+Please can someone shed me a light. Thanks.",1,07/04/2019 02:52 PM
+Dileep Bollaram,"It is really informative! Thanks a ton!!
+
+Solution works very fine after incorporating the suggestion in comments sections.",1,04/06/2019 12:32 PM

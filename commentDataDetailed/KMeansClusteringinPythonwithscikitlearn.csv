@@ -1,0 +1,58 @@
+﻿commentedBy,commentMessage,upvotes,commentDate
+Deepak Kumar,"isna().sum() is not working with pandas data frame
+
+i am using isnull() instead..is there a difference??",2,13/08/2018 10:32 AM
+Deepak Kumar,"after droping survived and putting the values in x
+
+why  have you used train.info()??..
+
+and it doesnot contain 'Survived"" column .. is there a mistake ??? or am i doing something wrong ?",1,13/08/2018 11:24 AM
+RAHUL KUMAR,"Hello @Sayak Paul
+
+Can u explain me the loop in last that u are using in range(len(X)):
+
+What actually is happening in this loop after conversion of data as float ...Can u kindly explain ??
+",1,04/09/2018 01:38 PM
+RAHUL KUMAR,Done,1,11/09/2018 09:30 AM
+Mustafa Ghafouri,The best practice is to impute missing values in the test set using mean/median of the train set.,2,25/10/2018 09:02 PM
+Khushbu Rai,"for i in range(len(X)): chunk of code is throwing error for me. The error is as follow
+
+KeyError                                  Traceback (most recent call last)
+~/anaconda3/lib/python3.6/site-packages/pandas/core/indexes/base.py in get_loc(self, key, method, tolerance)
+  3062             try:
+-> 3063                 return self._engine.get_loc(key)
+  3064             except KeyError:
+pandas/_libs/index.pyx in pandas._libs.index.IndexEngine.get_loc()
+
+pandas/_libs/index.pyx in pandas._libs.index.IndexEngine.get_loc()
+
+pandas/_libs/hashtable_class_helper.pxi in pandas._libs.hashtable.PyObjectHashTable.get_item()
+
+pandas/_libs/hashtable_class_helper.pxi in pandas._libs.hashtable.PyObjectHashTable.get_item()
+
+KeyError: 0
+
+During handling of the above exception, another exception occurred:
+
+KeyError                                  Traceback (most recent call last)
+
+
+
+
+
+
+
+Please suggest I am new in this field.",1,27/11/2018 05:08 PM
+Isaac Zarzuri,"How could i graph that result, i mean the k-mean clustering in a graph?, because i only see numbers :S. Thanks!!",2,27/11/2018 11:28 PM
+test test,"Thanks for your article. 
+
+After calculate KMeans values, how can we link to obj column so that to know which obj belongs to which cluster?",3,13/12/2018 01:37 PM
+vamshi bhukya,"how can i show the result of clusters in a graph ,i mean with outliers for each cluster after prediction",1,18/01/2019 02:42 AM
+Anastasios Kyriakidis,Great article!,3,02/02/2019 05:26 PM
+Bilal Bhatti,Amazing and Easy... ,2,12/04/2019 11:01 PM
+Chirag Patel,"What if I don't have the labels and I still want to get the accuracy scores.
+
+How can I do that?",1,28/04/2019 11:17 PM
+Rishika Malik,"but how do i know which person has been classified correctly? can i export the result to excel?
+
+also,  here we know the the basis of clustering is survival or death. but in a case where we don't know the basis of the cluster, just this analysis wont solve the problem. we will then have to analyse why each case was put into a particular cluster",1,30/05/2019 03:11 PM

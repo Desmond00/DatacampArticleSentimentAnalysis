@@ -1,0 +1,14 @@
+﻿commentedBy,commentMessage,upvotes,commentDate
+Kavyashree Sirigere Prakash,"Very Helpful,",2,06/06/2018 12:49 AM
+Hari Santanam,"Anaconda Navigator UI for Mac is great, you can access Jupyter notebook, spyder (Python IDE) and other tools from there. The challenge is to install some libraries which can be tricky, as mentioned in the article.  Installing tensor flow environment was challenging as well (or perhaps my lack of knowledge was the problem!).",1,12/06/2018 09:47 PM
+Rohit Peesa,Very Helpful!,2,21/06/2018 12:03 AM
+Fern Phthak,Very useful! appreciated <3,1,07/09/2018 08:47 AM
+Kostya Malikov,great article! The only thing I've faced to is fixing python PATH:,2,02/10/2018 04:19 AM
+Felipe Echeverria,"Thank you so much,  your tutoría has been very useful. I've been trying to instala an MGTools pkg with conde comand, but it launches the following error:
+
+Traceback (most recent call last):
+File ""/Users/feli/anaconda2/bin/conda"", line 12, in <module>
+from conda.cli import main
+ImportError: No module named conda.cli",0,05/02/2019 01:27 AM
+Santoshi Diddi,Very detailed and much helpful :) ,1,21/04/2019 11:51 PM
+Olayinka Peter Oluwafemi,Thanks a lot!,1,10/05/2019 12:48 AM

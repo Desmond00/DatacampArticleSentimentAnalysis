@@ -1,0 +1,218 @@
+﻿commentedBy,commentMessage,upvotes,commentDate
+HEMANT JAIN,It was a great time to get to learn some modern tech in some fluently expressed way.,3,26/10/2018 02:38 PM
+Ranjan Debnath,"very neat and clean explanation.
+
+keep on the great work. ",1,26/10/2018 11:11 PM
+Diego Ramirez,"Thanks for this awesome tutorial, i found a little mistake in the input json example list There is a extra ' in female
+
+Bye!",1,28/10/2018 06:37 AM
+"Aaron England, PhD",Well done! Very cool tutorial.,3,29/10/2018 01:18 AM
+Ryan Boch,"This is a great tutorial. What are your thoughts on implementing the web apis into a production system? Flask documentation states that a simple flask api is not suitable for production.
+
+http://flask.pocoo.org/docs/0.12/deploying/",1,30/10/2018 09:18 PM
+Andreas Christopoulos,"Very nice tutorial!
+
+I have one problem when I run the app I don't get any url.
+
+My terminal stops at Restarting with stat",2,31/10/2018 01:31 AM
+Simaab Amir,"Hi Sayak, thank you for sharing this great article. 
+
+I followed along, but getting this error after deployment : 
+
+[http://127.0.0.1:12345/predict]
+
+Method Not Allowed
+
+The method is not allowed for the requested URL.
+
+
+
+
+
+
+
+
+
+
+in terminal : 
+
+Model loaded
+
+Model columns loaded
+
+ * Running on http://127.0.0.1:12345/ (Press CTRL+C to quit)
+
+ * Restarting with stat
+
+Model loaded
+
+Model columns loaded
+
+ * Debugger is active!
+
+ * Debugger PIN: 881-286-903
+
+127.0.0.1 - - [30/Oct/2018 16:04:20] ""GET /predict HTTP/1.1"" 405 -",1,31/10/2018 01:36 AM
+Michael Elimu,"I am having some issues running the code, more so replacing the  copies. Does anyone have a work around on  this?",1,31/10/2018 01:51 AM
+Y Y,"Hi!
+
+
+Tks for your blog. It is very nice. After running it on postman, I 've got this. 
+
+{
+
+  ""trace"": ""Traceback (most recent call last):\n  File \""api.py\"", line 17, in predict\n    query = pd.get_dummies(pd.DataFrame(json_))\n  
+
+File \""/Users/xxx/Desktop/flask/venv/lib/python3.6/site-packages/pandas/core/reshape/reshape.py\"", line 894, in get_dummies\n    result = concat(with_dummies, axis=1)\n  File \""/Users/xxx/Desktop/flask/venv/lib/python3.6/site-packages/pandas/core/reshape/concat.py\"", line 225, in concat\n    copy=copy, sort=sort)\n  
+
+File \""/Users/xxx/Desktop/flask/venv/lib/python3.6/site-packages/pandas/core/reshape/concat.py\"", line 259, in __init__\n    raise ValueError('No objects to concatenate')\nValueError: No objects to concatenate\n""}
+
+This is the code I pushed just to Git. link
+
+By the way, from my terminal, I can see ""POST /predict HTTP/1.1"" 200 -
+
+Any suggestion? Tks!",1,31/10/2018 10:46 PM
+vinord anand,nice article,2,07/11/2018 09:29 AM
+Rajaram K,Thank you Sayak for sharing this article. I tried it as you explained and got the results as expected.,2,20/11/2018 12:21 PM
+Afshin,"I wasn't able to get the API running because kept getting error from pd.Dataframe(json_). I changed the input json body as follow and that fixed the issue for me. 
+
+{""Age"": [24,85], ""Sex"": [""female"",""male""], ""Embarked"": [""C"", 5]} 
+
+So instead of getting the data as array of objects it is getting an object containing the array of parameters. 
+
+thanks for the great tutorial.",1,04/12/2018 10:57 PM
+MG Yaswanth,"Hi Sayak Paul,
+
+I have built an API with boston house pricing dataset available in sklearn package using the above sample you mention. I created API with linear regression but i am getting below mentioned error in postman
+
+
+
+
+{
+
+    ""trace"": ""Traceback (most recent call last):\n  File \""API4.py\"", line 32, in predict\n    prediction = regr.predict(query)\n  File \""C:\\Users\\DELL\\AppData\\Local\\Programs\\Python\\Python36\\lib\\site-packages\\sklearn\\linear_model\\base.py\"", line 213, in predict\n    return self._decision_function(X)\n  File \""C:\\Users\\DELL\\AppData\\Local\\Programs\\Python\\Python36\\lib\\site-packages\\sklearn\\linear_model\\base.py\"", line 196, in _decision_function\n    X = check_array(X, accept_sparse=['csr', 'csc', 'coo'])\n  File \""C:\\Users\\DELL\\AppData\\Local\\Programs\\Python\\Python36\\lib\\site-packages\\sklearn\\utils\\validation.py\"", line 582, in check_array\n    context))\nValueError: Found array with 0 sample(s) (shape=(0, 2)) while a minimum of 1 is required.\n""
+
+}
+
+
+
+
+Can you please suggest me with this issue?
+
+
+
+
+Thank you,
+
+Yaswanth MG",1,27/12/2018 09:24 PM
+Kingsly Roche,hmmm,1,19/01/2019 10:56 PM
+David Vo Tuan VU,"Thanks for your tutorial. But I have one question
+
+I build Xgboost model, I did LabelEncoder, Dummies for all categorical then Scale by StandardScaler.
+
+So is this need StandardScaler for data need predict via API?
+
+Thanks",1,21/01/2019 12:17 PM
+Hancel P V,"Hi Sayak, 
+
+Very well written and thank you for sharing this. 
+
+I agree that Prediction can be done via REST API because it's almost an instantaneous process, which returns data fairly quickly.
+
+But let's say, that I've to trigger my model training also using APIs, what're your comments on the same ?
+
+I see a potential issue, training being a time consuming process, it'll be able to return a value to the API after a long wait. 
+
+The request might get timed out by this time. 
+
+
+
+
+How do you think one should go about scheduling the training of models ?",1,26/01/2019 11:14 PM
+Segovia Lambardo,"Thanks for this nice tutorial Sayak. One question, how an end user suppose to input the three lines of JSON in the address bar of a browser? ",1,29/01/2019 01:04 AM
+Moyosoreoluwa Akala,"Hello Sayak, if your app is built with java for instance, and you have built your python api with flask due for integration. How do you move the python program out of your personal computer ? Will the localhost end point url created from your local computer be valid within the app? Where will your directory of python files and pickled model be stored? ",1,01/02/2019 04:44 PM
+Ranjan Shrestha,"I am getting url not found 404 error..
+
+
+",1,06/02/2019 07:56 PM
+Afolarin Lawal,"Thanks a lot Sayak.
+
+Your code provided me with the foundation to build my first API for a personal project by tweaking a few things here and there to suit my application. I really hope it does well in production.
+
+Great work regardless",2,10/02/2019 02:03 AM
+子 苏,"I meet the error
+""trace"": ""Traceback (most recent call last):\n File \""D:/PyCode/textCF/api.py\"", line 19, in predict\n query = pd.get_dummies(pd.DataFrame(json_))\n File \""D:\\Anaconda3_\\envs\\textCF\\lib\\site-packages\\pandas\\core\\reshape\\reshape.py\"", line 894, in get_dummies\n result = concat(with_dummies, axis=1)\n File \""D:\\Anaconda3_\\envs\\textCF\\lib\\site-packages\\pandas\\core\\reshape\\concat.py\"", line 225, in concat\n copy=copy, sort=sort)\n File \""D:\\Anaconda3_\\envs\\textCF\\lib\\site-packages\\pandas\\core\\reshape\\concat.py\"", line 259, in __init__\n raise ValueError('No objects to concatenate')\nValueError: No objects to concatenate\n""
+",2,14/02/2019 01:50 PM
+Sahana Raghu,This is an amazing tutorial. I was looking for something like this. Thanks a ton for sharing.,3,14/02/2019 04:21 PM
+Anand Muralidharamurthy,"Hi Sayank,
+
+Good explaination, some questions though,
+
+- IN your training set while you are encoding you have handled to encode only categorical values by iterating  and ensuring the get_dummies has only categorical values
+
+How are you ensuring only categorical values are getting encoded while passing the Json format input data? I see that the API code has no conditions to consider only categorical values.
+
+Doesn't this impact the model? Also how do we specify only the column names to be encoded if the input is in json? In your example if I have to encode only Sex, Embarked and Survived, how do I do it?
+
+I tried a decision tree classifier for a dataset, though I have set the random_sate =0 , I'm getting very inconsistent predictions. I feel it is because of the non categorical values also getting encoded",1,23/03/2019 08:00 AM
+Ayman El Yatim,"Hi sayak , im getting the following error :
+
+{
+
+    ""trace"": ""Traceback (most recent call last):\n  File \""C:\\Users\\dell\\dev\\modeld\\api.py\"", line 21, in predict\n    prediction = list(lr.predict(json_))\n  File \""C:\\Users\\dell\\Envs\\venv\\lib\\site-packages\\sklearn\\tree\\tree.py\"", line 416, in predict\n    X = self._validate_X_predict(X, check_input)\n  File \""C:\\Users\\dell\\Envs\\venv\\lib\\site-packages\\sklearn\\tree\\tree.py\"", line 377, in _validate_X_predict\n    X = check_array(X, dtype=DTYPE, accept_sparse=\""csr\"")\n  File \""C:\\Users\\dell\\Envs\\venv\\lib\\site-packages\\sklearn\\utils\\validation.py\"", line 527, in check_array\n    array = np.asarray(array, dtype=dtype, order=order)\n  File \""C:\\Users\\dell\\Envs\\venv\\lib\\site-packages\\numpy\\core\\numeric.py\"", line 538, in asarray\n    return array(a, dtype, copy=False, order=order)\nTypeError: float() argument must be a string or a number, not 'dict'\n""
+
+}",1,27/03/2019 04:52 PM
+Pvv Yashasvi,"Hi Sayak, Can we use the same strategy to create deep learning models ? .. for eg like image recognition ",1,02/04/2019 04:30 PM
+Deepan Sanghavi,"Hello,
+
+It is a good solution if someone can afford to put python environment to run on the server or in the application. But the application that i am working on,  I cannot create a python environment to run a flask application. Though I have java environment setup. Can I do similar thing that you showed with flask, with java as well? If yes, then I can just make a Java API where I can load the model and then I don't have to create a python environment. thanks in advance",1,04/04/2019 10:12 PM
+Nor Atiqah Zainal Abidin,"Hi Sayak, I'm having this error:  
+
+127.0.0.1 - - [09/Apr/2019 18:01:41] ""GET / HTTP/1.1"" 404 -",1,09/04/2019 03:32 PM
+Mahesh Kumar,"This blog helped me a lot. Thank You Sayak Da!
+
+
+",2,04/05/2019 09:53 PM
+Chi Pham,"If you have error: "" TypeError: Object of type 'int64' is not JSON serializable "" => you must convert type of prediction from list to string as following:   
+
+prediction = list(lr.predict(query))
+
+prediction_str = [str(i) for i in prediction] 
+
+return jsonify({'prediction': prediction_str}) ",1,16/05/2019 09:06 AM
+Chi Pham,@ Sayank : thanks a lot for your useful tutorial.,4,16/05/2019 09:08 AM
+Mohammed Jaid Rain,did you upload the source code of this because i am not able to find it ?,1,27/05/2019 06:19 PM
+Zayyed M,"Hi Sayak, I really appreciate this tutorial - very easy to follow, but I have a quick question. When I run the model,  its seems as though all of the females ""survive"" and none of the men ""survive"", regardless of the other passenger features such as Age? Even a 1 year old male returns a ""0"".  Do you know where the problem could be? I basically copied and pasted your code.",1,10/06/2019 09:54 PM
+Nitin Mahajan,"Exactly what I was looking for. Thanks!
+
+
+",2,13/06/2019 12:58 AM
+qwe dis,"On running below command --
+
+C:\Users\HP>curl -X POST -s -D - http://localhost:5000/predict -H Content-Type:application/json
+
+HTTP/1.0 200 OK
+
+Content-Type: application/json
+
+Content-Length: 1376
+
+Server: Werkzeug/0.15.4 Python/3.7.3
+
+Date: Mon, 17 Jun 2019 07:35:55 GMT
+
+
+
+
+getting this error----
+
+{
+
+  ""trace"": ""Traceback (most recent call last):\n  File \""D:\\New folder\\lib\\site-packages\\flask\\wrappers.py\"", line 74, in get_json\n    rv = json.loads(data)\n  File \""D:\\New folder\\lib\\site-packages\\flask\\json\\__init__.py\"", line 236, in loads\n    return _json.loads(s, **kwargs)\n  File \""D:\\New folder\\lib\\json\\__init__.py\"", line 361, in loads\n    return cls(**kw).decode(s)\n  File \""D:\\New folder\\lib\\json\\decoder.py\"", line 337, in decode\n    obj, end = self.raw_decode(s, idx=_w(s, 0).end())\n  File \""D:\\New folder\\lib\\json\\decoder.py\"", line 355, in raw_decode\n    raise JSONDecodeError(\""Expecting value\"", s, err.value) from None\njson.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)\n\nDuring handling of the above exception, another exception occurred:\n\nTraceback (most recent call last):\n  File \""D:\\New Folder\\API\\api.py\"", line 16, in predict\n    json_ = request.get_json()\n  File \""D:\\New folder\\lib\\site-packages\\flask\\wrappers.py\"", line 82, in get_json\n    rv = self.on_json_loading_failed(e)\n  File \""D:\\New folder\\lib\\site-packages\\flask\\wrappers.py\"", line 106, in on_json_loading_failed\n    raise BadRequest('Failed to decode JSON object: {0}'.format(e))\nwerkzeug.exceptions.BadRequest: 400 Bad Request: Failed to decode JSON object: Expecting value: line 1 column 1 (char 0)\n""
+
+}
+
+
+
+
+plz resolve",1,17/06/2019 01:11 PM

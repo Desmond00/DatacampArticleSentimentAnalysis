@@ -1,0 +1,7 @@
+﻿commentedBy,commentMessage,upvotes,commentDate
+Stark Lord,"This is a good tutorial. Meanwhile you can visit Showbox,com for the best entertainment app.",1,22/05/2019 05:57 PM
+Mark Chopping,"Interesting article.
+
+For another example of using SQL with Tableau (and being able to embed data science algorithms in Python as well), see  https://kognitio.com/blog/sentiment-analysis-amazon-reviews-pt1/  which uses Tableau as the front end for sentiment analysis at scale on 160 million Amazon Customer Review records. 
+
+The goal is to see how that perceived sentiment matches the review stars over time, across product categories, etc.",1,05/06/2019 01:33 PM

@@ -1,0 +1,45 @@
+﻿commentedBy,commentMessage,upvotes,commentDate
+Coldknight Coder,"Explanation of differences between MLE and OLS is not up to the mark. Also, some points like ' logistic regression follows Bernoulli Distribution' isn't explained thoroughly. Consider doing some editing as the grammar is also not good.  ",2,07/09/2018 10:46 PM
+Khachatur Karapetyan,"You well done!
+It's very useful and interesting tutorial.
+Thank you a lot. ",2,08/09/2018 02:36 AM
+Milad N. Rahbar,"Thanks Avinash.  nice job!
+
+
+I have a question though:
+
+Logistic Regression assumes normality, and when the features are continuous and on different scales you have to standardize them. how doesn't this algorithm require scaling? ",2,09/09/2018 11:59 PM
+May Anne Laciste,"I encountered some errors:
+
+(1) from sklearn.cross_validation import train_test_split ==> the cross_validation module is missing but I already installed sklearn. 
+
+(2) In the  model development and prediction:
+
+ValueError: could not convert string to float: DiabetesPedigreeFunction",3,27/11/2018 01:03 PM
+Pratik Gondhiya,"Very good article, please keep contributing",2,31/01/2019 08:07 PM
+Lucy Nowacki,Good fast refresher. 3 minutes and recall everything anand more :),2,14/04/2019 07:03 AM
+Anjelou Cautivo,The ROC curve is not appearing. How do I make that last chunk of codes work?,1,01/05/2019 08:52 PM
+Tracy Xing,"For some reason, I'm not able to get results for precision and recall. I'm using jupyter lab by the way.
+
+print(""Precision:"",metrics.precision_score(y_test, y_pred))
+
+print(""Recall:"",metrics.recall_score(y_test, y_pred))
+
+The error message I got is  ValueError: pos_label=1 is not a valid label: array(['0', '1'], dtype = '<u1'). Can anyone help me with this? 
+
+
+
+
+
+",1,28/05/2019 05:20 AM
+Anthony Doo,""" from sklearn.cross_validation import train_test_split ""  is wrong
+
+it should be : ""from sklearn.model_selection  import train_test_split"" ",1,04/06/2019 08:04 PM
+suwarna choudhary,"Hi, first of all thank you so much for wonderful tutorial.  Really appreciate. Secondly,   I  am using  sklearn version-0.19.2 . I also changed the model to sklearn,model-selection.  But after that as well I am getting the error: "" 
+
+ValueError: could not convert string to float: pedigree""
+
+I have used dropna () for pedigree column. There are no  null values. Could you please help?
+
+
+",1,05/06/2019 08:33 AM

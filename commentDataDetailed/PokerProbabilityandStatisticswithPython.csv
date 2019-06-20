@@ -1,0 +1,4 @@
+﻿commentedBy,commentMessage,upvotes,commentDate
+kelfun5354,The mutual exclusive formula is wrong. the Overlap is the intersection of A and B and not the union.,4,20/03/2018 12:16 AM
+Viên Nguyễn Văn," turn_non_diamonds = cards - outs - non_diamonds_drawn   This line is wrong because non_diamonds_drawn  subtracted from  cards = cards - (hole_cards + flop_community_cards) , so  it must be  turn_non_diamonds = cards - outs",1,15/06/2018 01:33 PM
+cph1258,great details,1,08/08/2018 10:09 PM

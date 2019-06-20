@@ -1,0 +1,12 @@
+﻿commentedBy,commentMessage,upvotes,commentDate
+Pavitra Chakravarty,"Fantastic tutorial, Hugo....The flow of the tutorial was so smooth and you us through all the important verbs in dplyr with such coordination and ease",3,18/04/2018 12:00 AM
+Thomas Keller,"The code, direct from the github download:
+
+passengers %>% 
+
+  filter(Sex == ""male"")
+
+gives an error: Error in filter(., Sex == ""male"") : object 'Sex' not found
+
+It seems dplyr::filter() is not being called",1,26/04/2018 03:07 AM
+Brian Chisunka,Very enriching,1,01/07/2018 10:28 AM

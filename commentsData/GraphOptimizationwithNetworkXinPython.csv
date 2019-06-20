@@ -1,0 +1,8 @@
+﻿commentedBy,commentMessage,upvotes,commentDate
+aaa,"Hi! Great tutorial. However, there is one problem with line:",4,10/03/2018 05:34 PM
+Erkan ŞİRİN,At Visualize Color section the code should be  edge_colors = [e[2]['attr_dict']['color'] for e in g.edges(data=True)]  not  edge_colors = [e[2]['color'] for e in g.edges(data=True)] ,1,28/06/2018 11:59 AM
+Muqadder Iqbal,There should be a way to bookmark articles to your personal collection on DataCamp!,2,17/10/2018 01:39 PM
+Bal Mb,"Hello There, ",1,15/04/2019 05:15 AM
+Elhan Ersoz,the edge_color definition does not work- and throws an error: ,1,22/04/2019 02:53 AM
+Muhammad Azhari,"I wanna know, how to positioning every node in rightful coordinate if I use a different map or implementing to other?",1,30/04/2019 08:47 PM
+Amelia Alby,"Actually, some users need these kinds of useful guidance so that they can easily get information in graph optimization in network settings. If they get any errors like  Canon Printer Error Code B203   that will be useful for them.",1,14/05/2019 11:34 AM

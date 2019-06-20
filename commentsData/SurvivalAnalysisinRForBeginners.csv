@@ -1,0 +1,35 @@
+﻿commentedBy,commentMessage,upvotes,commentDate
+Rizwan Malik,"Great summary, thank you",2,28/04/2018 08:00 PM
+Sam Shum,Very easy to understand.  Well done.  Thank you!,4,03/05/2018 06:38 AM
+Serdar Balci,Another cheat sheet link: https://github.com/rstudio/cheatsheets/raw/master/survminer.pdf,2,03/05/2018 09:07 PM
+David Richter,"Many thanks for your work. The best approach for the beginner is to understand that statistical methods performed on data will   not only reveal quirky data  that should be overlooked, but also data needed to construct the model.  The model can reveal further insight into the analysis  that will solve a problem and also lead to another form of model that helps the data scientist get further insight. When the predictions  become accurate a significant amount of the time, then the frequency of the data reveal in some histogram will establish a solid evaluative feedback. That feedback can be the baseline for future data analysis on similar data-frames. The sum of the parts could be greater than the whole, but the model derived from the statistics turns clusters into informative graphical charts. ",1,15/05/2018 12:02 PM
+Chunji Wang,"Are you sure `fustat` means ""censored or not""? If so, then it is the opposite of ""event"". But when you call `Surv()` you have `event = ovarian.fustat`; shouldn't it be `event = 1 - ovarian.fustat` ? (I cannot type `$` here so I replaced it with `.`)",3,17/05/2018 01:14 AM
+Matt Hanauer,Thanks for the post!! I think there might be an error in the comment starting with Examine.  I think you meant predictive instead of prdictive. ,2,22/05/2018 02:17 AM
+Md Abu Hasan,Well done!! ,1,07/06/2018 12:41 PM
+Ram Jagannathan,"Hey can you please tell me how to handle discrete time variable... I have collected data at 0, 3-m, 6-m, 12-m etc., ",2,08/06/2018 11:48 PM
+Proloy Barua,Thank you Daniel Schuette. ,3,09/06/2018 04:03 PM
+Ragha Chaitanya,Good summary on survival analysis. This has helped me in solving few problems in this area ,3,04/07/2018 10:39 PM
+Ammar Alkhaldi,Can't wait for the intermediate and advance tutorial. ,4,12/07/2018 03:45 PM
+Dileep Unnikrishnan,Excellent summary. Thank you so much...,2,20/07/2018 01:04 PM
+Eden Myers,"Excellent, thank you! Very easy to follow each step in R.  Look forward to using this. ",2,30/07/2018 07:55 AM
+Gennady Fedorow,Clear and Superb!!!,2,02/08/2018 04:17 PM
+tienxtrinh,Is there anyway you can get probability for each individual a certain time t?,3,08/08/2018 08:14 PM
+Grant O,Is anybody else getting an error when trying to load the `ovarian` package? ,2,11/08/2018 12:10 AM
+Efe Ogolo,"First, this is a very well done walk through of survival analysis. I have a question regarding prediction. Is it possible to use survival analysis methods to predict the likelihood of an event happening for new data that wasn't used to construct the original KM curve or Proportional Hazard model?",4,13/08/2018 09:40 PM
+Norberto Vera Reatiga,"Muchas gracias, excelente tutorial.",2,29/08/2018 05:41 AM
+eka ningsih,thank u so much for your help... i'm a student. ,2,29/08/2018 09:45 AM
+Michael Jarmola,Why do you dichotomize the age variable into age_group? Could continuous variables be included for Cox Proportional Hazard models?,2,13/09/2018 05:08 AM
+gilles marteau,"Hi, great stuff ! Very clear, instructive, and efficient.
+One remark though : I ve been curious about the time unit of the futime variable... and none of you guys talk about it ! Even the help('ovarian') doesn't precise what this variable is counting.
+Ooops ?
+
+I assumed it is a count of days and it may be obvious for survival pros, but pros or not, any graph or table HAS TO GIVE NUMBERS AND THEIR UNITS ;)",3,19/10/2018 01:51 PM
+Bing quiz,System running slow due to maximum RAM. If you want to disable Service host superfetch so contact our experts who provides you best services.,1,14/11/2018 10:39 PM
+Stephanie Margo Davis,"This is a wonderful intro to Survival Analysis. My only question-concern: I fail to see the ""bi-modal"" aspect of the histogram. Appears unimodal to me.",1,17/01/2019 09:51 PM
+Sarah Samaranayake,"I've updated RStudio to the most recent version (1.1.463) and reinstalled my packages, and everything works for me except for the 'ggsurvplot' function at the very end. I get the following error message, thanks in advance:",3,05/02/2019 09:51 AM
+Kemi Adebayo,Thank you for the tutorial. Please can you tell me how I can include the expression levels of genes as part of my variables for the univariate and multivariate analysis?,1,17/02/2019 01:44 AM
+Narjess Bessghaier,"Thanks, very interesting !",1,21/03/2019 04:47 PM
+LEI LEI,"Thank you very much for sharing this amazing tutorial, however, I have stuck in this step :",2,16/04/2019 10:23 AM
+Linus Zeuwts,"Hi,",1,18/04/2019 07:21 PM
+Albert Isaacs,"Thank you so much for this. You've saved me a lot! For some reason, I am unable to have my covariates separated out into groups like yours. e.g. yours nicely dichotomizes each covariate (rx into A and B, resin.ds into A and B etc.). Mine is unable to recognize the dichotomy in each covariate (although they have been assigned in the spreadsheet data I am using).  This is an example of my code if that helps:",1,05/05/2019 08:31 AM
+coroha zsero," ePayItOnline is the most convenient and secure way to pay for your health care bills. Various health care providers use this site, to manage their billing services online. ",1,05/06/2019 11:15 AM

@@ -1,0 +1,87 @@
+﻿commentedBy,commentMessage,upvotes,commentDate
+sarala mupaneni,"very detailed and easy to understand , thank you for sharing this ",1,28/04/2018 08:28 AM
+Damian Odoh,"The write up has being able to motivate and  challenge me to become a wizard in Python, It explains every step one needs as a beginner in this Programming Language, It  was well written and structured. ",1,26/05/2018 02:13 PM
+Shashikant Kumar,"I would like to just point one interesting and surprising casting example  of str data type with numerical value.
+
+>>> x = 100.0
+
+>>> print(int(x))
+
+100
+
+As expected, int() function converts floating point number to integer.
+
+Guess what the following code will do :
+
+x = '100.0'
+
+print(int(x))
+
+
+
+
+We will say (at least I said before writing this comment) it will print 100. 
+
+But, but, but...
+
+>>> x = '100.0'
+
+>>> print(int(x))
+
+Traceback (most recent call last):
+
+  File ""<stdin>"", line 1, in <module>
+
+ValueError: invalid literal for int() with base 10: '100.0'
+
+
+
+
+Lastly, consider the following code:
+
+x = '100.0'
+
+print(float(x))
+
+
+
+
+It works correctly.
+
+>>> x = '100.0'
+
+>>> print(float(x))
+
+100.0
+
+
+
+
+Why is Python designed this way? Well, I don't know. If any Python ""Guru"" wants to throw some light upon that please comment. 
+
+Note:  Be careful while casting str data having numerical value.",2,03/06/2018 01:06 AM
+Antoine Mercier,"Hey Sejal,
+
+
+
+
+when you say:
+
+""In a binary system, 10 is equal to 8 in octal. ""
+
+....I think you mean:
+
+""In an octal system, 10 is equal to 8 in decimal. ""
+
+since: oct(8) == '0o10' evaluates to True
+
+
+
+
+Thanks for the tutorial!",2,30/07/2018 02:59 AM
+Machine Happy," If you want to do the vice versa ,convert int,floating point,list,tuple and dictionary to string you can check this out:      http://candcplusplus.com/python-converting-string-to-integerlist-tuplesetdictionary-and-vice-versa/   ",1,05/09/2018 09:59 PM
+Vijay Saini,Nice explanation. thank you for the article,1,20/09/2018 01:33 AM
+Zardosht Hodaie,Thanks for the nice article. Just a small side note: Python does not have a compiler. It has an interpreter. ,1,26/10/2018 05:13 PM
+daniel maksimovic,Thanks,1,03/04/2019 08:18 PM
+Nithin Rajan,how to convert 0yrs 0mon to float in python using pandas?,1,13/04/2019 04:02 PM
+Tshepow DeeManh,"so if i want to convert to decimal, which data type should i use? because we have otc,hex and bin...",1,22/05/2019 04:36 PM

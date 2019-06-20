@@ -1,0 +1,11 @@
+﻿commentedBy,commentMessage,upvotes,commentDate
+Johan Haggle von Neubrücke,"From the article above:
+
+""An iterator is an object that implements the iterator protocol (don't panic!).""
+
+""Python has  several built-in objects, which implement the iterator protocol and you  must have seen some of these before: lists, tuples, strings,  dictionaries and even files.""
+
+This implies that a list is an iterator, but I learn from otherwhere that it is not. The article is somewhat vague and unclear and should be updated.
+
+
+",5,30/11/2018 02:31 AM

@@ -1,0 +1,4 @@
+﻿commentedBy,commentMessage,upvotes,commentDate
+Martin Hvidberg,"in TypeError, it should not be:",1,02/08/2018 09:22 PM
+Martin Hvidberg,"in your example: except (IOError,ValueError) as e: you wont get an exeption. It's perfectely legal to .readline() from a read only file. In additon your open('myfile.txt) above is should likely be open('myfile.txt, ""r""), since you are only reading from this file",1,02/08/2018 09:39 PM
+Martin Hvidberg,"Regarding finally. It usually goes in the end, like this.",1,02/08/2018 09:43 PM

@@ -1,0 +1,12 @@
+﻿commentedBy,commentMessage,upvotes,commentDate
+Devraj Gupta,Nice article.  Good way to learn about date and time object in python.,4,13/06/2018 11:14 AM
+Max Carey,"I'm working with a dataset where the format of dates is `2015-09-04T00:00:00`
+
+But I can't figure out the directives to parse it.
+
+From the research I've done: You think it would be '%Y-%m-%d%%T%X'
+
+The double percent would mean a literal 'T' character.
+
+Thanks for your help",5,11/08/2018 07:39 AM
+LENDRICK ROBINSON,"Very well written, easy to understand and thorough, didn't notice the capital Y for the 4-digit year initially  And thanks for the tip on the pd.to_datetime :-)",2,18/11/2018 09:19 AM

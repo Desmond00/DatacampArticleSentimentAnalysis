@@ -1,0 +1,39 @@
+﻿commentedBy,commentMessage,upvotes,commentDate
+ahmedalfnop,"NOTICE :
+
+there's a typing error in this example , (undefined variable sub_string ) you should  replace it with sub_string1
+
+sub_string1 = 'ice'
+
+ sub_string2 = 'glue' 
+
+string1 = 'ice cream' 
+
+if sub_string in string1:    
+
+    print(""There is "" + sub_string + "" in "" + string1) 
+
+if sub_string2 not in string1:   
+
+    print(""Phew! No "" + sub_string2 + "" in "" + string1) 
+
+
+
+
+
+",4,15/06/2018 05:15 PM
+Suresh Kumar,"Those guidelines additionally worked to become a good way to recognize that other people online have the identical fervor like mine to grasp great deal more around this condition. 
+
+python training in chennai",1,07/07/2018 11:56 AM
+Hugo Nicolau Barbosa de Gusmão,"The code is wrong: dessert = 'Cake, Cookie, Icecream' list_dessert = string1.split(',') 
+
+Correct one:  dessert = 'Cake, Cookie, Icecream' list_dessert = dessert.split(',') ",1,27/07/2018 08:02 PM
+Hugo Nicolau Barbosa de Gusmão," alter_ego = 'Peter Parker' 
+
+superhero = 'spiderman' 
+
+f'{alter_ego} is weak but wait till he transforms to {superhero}!' ",1,27/07/2018 08:36 PM
+Dillip Patnaik,"Hii, 
+
+   How to create bill & recept in python program  string",1,07/02/2019 08:31 PM
+nicol biden,More on...Python String Operations,1,03/04/2019 02:49 PM

@@ -1,0 +1,130 @@
+﻿commentedBy,commentMessage,upvotes,commentDate
+Gary Revell,"Nice article and I'm following it avidly, however.... when I do my first set of 20 epoch it's taking on average 210 secs per epoch. Do I really need to do 20 epochs as per the article?
+
+Any ideas on how to speed it up? I'm running in a Jupyter Notebook on Windows 10.
+
+Thanks",1,05/03/2018 08:22 PM
+Shrikant Pandey,"Hello @ Aditya Sharma
+
+I am following every instruction as you explained in this tutorial , but when use Dropout method my model become more worst compare to first model.
+
+1. First Model gives  the almost same results  to me as you explained 
+
+2. But when i use dropout method this model become more worst comp are  to first model
+
+Tell me what is the reason behind the worst model
+
+By the way i am run this program on cpu with 8GB ddr4 memory
+
+
+",3,19/04/2018 09:20 PM
+Amrutha Srighakolapu,"Hello,a very good article on cnn.
+
+ I dont have labels in my test data.So while evaluting on the test data, what do I have to give as the target?",1,27/04/2018 05:37 PM
+lisamathew0,"I have 4 bands in my image (RGB and NIR)
+
+how do I change the layers to work for such color images?",2,02/05/2018 11:25 AM
+majdmajjod,"when i write fit() i get error:""ValueError: Error when checking target: expected dense_2 to have shape (28,) but got array with shape (29,)""
+
+idont anderstand this can you help me pleas ?
+
+
+
+
+
+
+
+
+",1,05/05/2018 08:43 PM
+Craig Huang,"Dear,
+
+Even I did install h5py package(via issuing pip install h5py), I still got  the error message
+
+Please kindly help on it.
+
+
+
+
+Traceback (most recent call last):
+
+  File ""<stdin>"", line 1, in <module>
+
+  File ""<string>"", line 90, in <module>
+
+  File ""C:\Program Files\Anaconda3\envs\tensorflow-gpu\lib\site-packages\keras\engine\topology.py"", line 2556, in save
+
+    save_model(self, filepath, overwrite, include_optimizer)
+
+  File ""C:\Program Files\Anaconda3\envs\tensorflow-gpu\lib\site-packages\keras\models.py"", line 56, in save_model
+
+    raise ImportError('`save_model` requires h5py.')
+
+ImportError: `save_model` requires h5py.",1,17/05/2018 12:49 PM
+harshitppatel96,What is this text editor you are using?,2,23/05/2018 08:21 PM
+ハプ アベスンダラ,"Hello Mr. Sharma
+
+Thanks for the valuable article.
+
+By the way I have a problem.
+
+Currently I am on project  of churn prediction using Python and Keras.
+
+However the model training takes long time without a GPU.
+
+I want install a GPU.
+
+There are lots of varieties with large price range when check on the internet.
+
+It would be grateful If you could recommend me a suitable one within a US$ 250.
+
+Specifications of my PC is
+
+Windows 10 64 bit
+
+Intel i3
+
+16MB RAM
+
+Thank you very much.
+
+Abey",1,01/06/2018 01:01 PM
+Aamir Khan,"Hi Aditya! excellent  and very helpful article on cnn.
+
+I' am new to cnn. I have data set .png format. Do i need to convert it to gray scale ? if yes then how can i convert it to gray scale?",1,12/07/2018 01:26 PM
+Tosin Tubi,"Great Article.
+
+Followed every step keenly, except the training process is very slow. 
+
+1st Epoch took about 35 mins,  2nd epoch took 40 mins.
+
+I'm running  jupyter notebook on a Windows 10 64bit CPU 12GB Memory. 
+
+Any ideas on how to make the traing faster on CPU ??",1,18/07/2018 09:32 PM
+Owais Ahmad,"Great explanation on CNN, I am very new to deep learning and it helped me a lot. Although I am facing a problem that when I write the line 
+
+from keras.datasets import fashion_mnist
+
+It gives an error which goes like : ""Import Error:  cannot import name 'fashion_mnist'""
+
+Please guide me through it!",1,06/08/2018 07:28 PM
+Mukharbek Organokov,Thank you very much!,2,05/09/2018 11:13 PM
+Lovemore Chipindu,"This is fantastic, helpful . Keep on keeping on team Data Camp",2,26/10/2018 07:32 PM
+Lovemore Chipindu,"I need help guyz, i am failing to install my keras package in anaconda navigator . I am using a windows machine ",1,26/10/2018 07:34 PM
+David Jones,"Nice post.
+
+Can I ask a question?
+
+ How did you learn these modules, e.g., pandas, numpy, pytorch, tensorflow, keras, scipy, matplotlib, seaborn……. They are too many! I don’t know how to start my study. Could you give me any help? Thanks. ",2,03/12/2018 01:34 PM
+Ahmed Akremi,"Great post, I learned a lot, thanks.",2,27/12/2018 05:06 AM
+Ladi Sandeep Kumar,Hello Mr.Aditya.Thanks for such a wonderful tutorial.Can you please add a code which will show the images of features extracted by each layer of CNN model designed by you.This will make this tutorial helpful for beginners like me.,3,03/02/2019 07:35 AM
+Flavio Mesquita,"Hi,
+
+I'm following this tutorial step by step, but when I try to train the model it gives me an error:
+
+ValueError: Error when checking input: expected conv2d_10_input to have 4 dimensions, but got array with shape (48000, 28, 28)
+
+Why this? I'm simply copying and pasting your code to my Jupyter Notebook.",1,20/02/2019 11:30 PM
+Mudassar Zia,"Hi. 
+
+InwajtI want to know how keras uses BP  framework for time  predoction. I did prediction on test data. Than comoare predicted value with test valuvalue to calculate mse. Is that right.? ",1,30/04/2019 07:48 AM
+Noman Aasif Gudur,                      .                                                     .....    ,1,24/05/2019 08:09 PM

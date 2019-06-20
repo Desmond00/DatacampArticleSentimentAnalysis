@@ -1,0 +1,161 @@
+﻿commentedBy,commentMessage,upvotes,commentDate
+Willie Bidstrup,Debbie thank you for this - looks amazing and can't wait to try it.,4,29/03/2018 07:43 PM
+Alan Ponce,"Hi Debbie, an amazing job!!. Thank you for share it :)",4,29/03/2018 11:10 PM
+Kartickey Gaind,Wow. I will try it for sure.,3,30/03/2018 01:35 AM
+Andres Salgado,"Debbie, what a thorough analysis on Prince's song lyrics.  You touch on every academic aspect required to validate an analysis such as this one.  I will soon take an approach at sentiment analysis on memorable speeches using the shared knowledge you have shown on this post. KUDOS!!!",2,30/03/2018 04:01 AM
+Vince Fulco,You could not have chosen a cooler subject matter!!!  Kudos! ;-),2,31/03/2018 03:35 PM
+Tony Chuo,"Where can we download the ""prince_data.csv"" file?
+
+
+",4,01/04/2018 04:20 PM
+Mauricio Codesso,This was a very good analisys.,3,03/04/2018 08:57 PM
+John Ridge,"RE: my understanding is that  LDA is a form of supervised learning since  groups are known a priori .  See  graphic for ""Tools used in this study""  etc",1,03/04/2018 09:55 PM
+Sarowar Monjil Shuvo,amazing work :)  is airlines review data-set can suite for this tidy analysis  ??  is tidy is perfect or good for sentiment analysis . ,3,09/04/2018 01:29 AM
+Debbie Liske,There was a question as to where the source files are located. Here is the link. Please let me know if there are any problems.   https://s3.amazonaws.com/assets.datacamp.com/blog_assets/sentiment_analysis/princeEvents.csv ,2,17/04/2018 02:00 PM
+Timm Walz,Wow - really awesome work! Do you already know when we can expect part 2B to be released :)? I am looking forward!,3,19/04/2018 06:04 PM
+Debbie Liske,"Although I'm not sure of the publication date for Part 2B, it's hopefully targeted for the end of this month or beginning of next (dependent upon DC's release schedule as well). I will keep everyone updated in the comments here. Please check back! Thanks!",1,09/05/2018 01:46 PM
+Naveen Goud Bobburi,"Hi Debbie, Superb tutorial on Sentimental Analysis. You have shown very nicely usage of R, NLP , dplyr , Data Visualization etc",2,09/05/2018 04:00 PM
+Dieter De Mesmaeker,Very nice article!,2,05/06/2018 11:53 AM
+Jon Burrell,"Thanks Debbie, I've continued my analysis of The Smiths following your tutorials. They don't have such a big catalogue so can't be quite as in depth but a very useful learning exercise. ",2,11/06/2018 07:02 PM
+Viraj B,Interesting article. Loved the example of analysis using lyrics...,2,12/06/2018 10:13 AM
+Mallesham Yamulla,"Dear Debbie, 
+
+I have just ended up reading part-A and i'm looking forward to learning more your next tutorials, When are they going to be released?. 
+
+please do keep us updated.
+
+
+
+
+Thanks.",2,12/06/2018 02:02 PM
+ashy Grace,"Sorry, i realize my previous question was posted on the wrong page.
+
+
+
+
+I get an error that reads --> ""Error in lim(-20, 150) : could not find function ""lim"""" while trying to run the song count per year code.
+
+
+
+
+Did you write a separate function for it? My R.version is 3.5.0",1,18/06/2018 02:43 PM
+Debbie Liske,"@ashy Grace, Yes! There is a sentiment lexicon in the tidytext package called ""loughran"" that is specific to the financial domain, so replace ""bing"" or ""nrc"" with ""loughran"". See this link for more detailed information: https://bit.ly/2K4OCyM
+
+
+
+
+
+",1,21/06/2018 05:16 PM
+Debbie Liske,Here is the link to Part 2B!,3,28/06/2018 09:06 PM
+Karen Appleby,"This is a terrific tutorial -- and obviously a lot of work.  I knew I was interested in this topic, but I didn't know the full extent to which exploration was possible.  Thanks!  On to parts 2-B and 3!",2,04/07/2018 01:16 AM
+Muhammad Haad Bodla,"I am having a issue with chartJSRadar, its simply not showing up! any idea, everything else is working ditto as stated in the article
+
+Thanks",2,05/07/2018 03:40 AM
+Rahul Reddy Ayyapaneni,"Hi Debbie,
+
+In the dataset of Prince events consist only two columns ""year"",""events"". Initially you started coding with ""Prince_new.csv"" which contains additional data.
+
+Could you please guide me to find out the dataset?",2,21/07/2018 06:33 AM
+Debbie Liske,"Hi all, I will find the prince_new.csv file on DataCamp's assets and provide a link here ASAP! If anyone has already found the link please post here! Thanks!",1,23/07/2018 01:07 PM
+Debbie Liske,"Until I find a link to the data on DataCamp's site, feel free to reach out to me at rliske24@gmail.com for access to the data.",1,23/07/2018 01:43 PM
+Paul Reiners,Is anyone else having problems with the x- and y-labels not showing up with pirateplot()?  I'm using version 0.1.5 of yarrr and R version 3.5.1 (2018-07-02).,1,28/07/2018 02:15 AM
+Rahul Reddy Ayyapaneni,"Hi Debbie,
+
+
+
+
+While Running  ""NRC Lexicon Analysis"". I got the below error message, need your help.
+
+> new_sentiments %>%
+
++   group_by(lexicon, sentiment, words_in_lexicon) %>%
+
++   summarise(distinct_words = n_distinct(word)) %>%
+
++   ungroup() %>%
+
++   spread(sentiment, distinct_words) %>%
+
++   mutate(lexicon = color_tile(""lightblue"", ""lightblue"")(lexicon),
+
++          words_in_lexicon = color_bar(""lightpink"")(words_in_lexicon)) %>%
+
++   kable_styling(caption = ""Word Counts Per Lexicon"")
+
+Error in if (!kable_format %in% c(""html"", ""latex"")) { : 
+
+  argument is of length zero
+
+In addition: Warning message:
+
+In gradient(as.numeric(x), ...) : NAs introduced by coercion",1,02/08/2018 10:42 PM
+Paul Reiners,"Hi, Debbie.  Excellent article!  I once again used your techniques on the lyrics of Bob Dylan: http://rpubs.com/paul_reiners/dylan_sentiment_analysis",2,09/08/2018 02:50 AM
+Debbie Liske,"yes, Paul Reiners :-)",2,10/08/2018 03:12 PM
+Ross Ruchti,So glad I found this tutorial. It taught me so much. I have gone through a few other tutorials but this one brought it all together in a fun way.  Thanks!!,2,11/09/2018 04:39 AM
+Jennifer Spore,"Hi and thank you for this awesome tutorial! Question: I get the following message for the last code block for pairwise correlation:
+
+Selecting by correlation
+Warning message:
+Trying to compute distinct() for variables not found in the data:
+- `row_col`, `column_col`
+This is an error, but only a warning is raised for compatibility reasons.
+The operation will return the input unchanged.
+
+How can I resolve this? Code entered is:
+
+prince_tidy %>%
+group_by(word) %>%
+filter(n() >= 20) %>%
+pairwise_cor(word, song, sort = TRUE) %>%
+filter(item1 %in% c(""love"", ""peace"", ""gangster"", ""hate"")) %>%
+group_by(item1) %>%
+top_n(7) %>%
+ungroup() %>%
+mutate(item2 = reorder(item2, correlation)) %>%
+ggplot(aes(item2, correlation, fill = item1)) +
+geom_bar(stat = 'identity', show.legend = FALSE) +
+facet_wrap(~item1, scales = 'free') +
+theme_lyrics() + theme(panel.grid.major.x = element_blank()) + 
+ xlab(NULL) + ylab(NULL) +
+ggtitle(""Pairwise Correlation"") +
+coord_flip()
+
+Thank you.",2,15/09/2018 03:31 AM
+RANDI HUGHES,"This is a very helpful post and I have used it to do my own sentiment analysis of and internal survey. I am have been able to run all the graphs with my own data except the pairwise comparisons and correlations.I am able to get the graphs but the x-axis aren't making sense. For example my pairwise correlations for the word ""improve"" has all 7 words showing nearly 100% correlation. When I initially create the pwc dataset I get the following message: 
+
+Trying to compute distinct() for variables not found in the data:
+
+- `row_col`, `column_col`
+
+This is an error, but only a warning is raised for compatibility reasons.
+
+The operation will return the input unchanged.
+
+If you have any advice it's much appreciated! ",2,17/09/2018 12:26 AM
+Yohn Jairo Parra Bautista,Where is part two and three? thank you ,3,24/10/2018 02:42 AM
+Mina Fischer,"     Every   morning, I come up here and read new as a habit. I like enjoying a cup of   coffee and read your nice posts. You make my day torrent sites  ",2,03/12/2018 01:28 PM
+Debbie Liske,Part 3 published today: https://www.datacamp.com/community/tutorials/predictive-analytics-machine-learning,1,09/01/2019 08:07 PM
+bhangad singh,"This is a terrific tutorial and obviously a lot of work.  I knew I was interested in this topic, but I didn't know the full extent to which exploration was possible.  Thanks!  On to parts 2-B and 3! toptenbiz
+
+ ",2,22/01/2019 08:24 AM
+Samsun Rock,I am glad to look this tutorial.,3,30/01/2019 02:48 PM
+tyer6y fgt,"Great job!!!
+
+
+",2,09/02/2019 11:36 AM
+tyer6y fgt,"Debbie ..how u got this idea
+
+
+",2,09/02/2019 11:37 AM
+Debbie Liske,If you are unable to find any of the data files reach out to me directly at rliske24@gmail.com.,1,20/02/2019 09:29 PM
+Aktüel Sosyal," 
+
+I have just ended up reading part-A and i'm looking forward to learning more your next tutorials, When are they going to be released?. 
+
+please do keep us updated.
+
+Thanks.
+
+ ",2,29/03/2019 08:55 PM
+Osaid Bhaia,Thanks for this tutorial you share with us. CDHPL,2,11/05/2019 07:58 AM
+Dirk Pelt,"Dear Debbie, when I run the code to create the  new_sentiments object for the first time I get the error ""Error in filter_impl(.data, quo) : Evaluation error: object 'lexicon' not found."" I think something has changed in the tidytext package since your post. Do you have code that is working with the current version of tidytext?",1,19/06/2019 05:51 PM

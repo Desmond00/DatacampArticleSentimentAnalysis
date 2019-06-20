@@ -1,0 +1,24 @@
+﻿commentedBy,commentMessage,upvotes,commentDate
+Hani Mounla,Very nice !,3,08/06/2018 06:45 PM
+Thushan Ganegedara,The code for this tutorial can be found here,3,16/06/2018 03:57 PM
+Sayak Paul,That was neat and precise. Thanks Thushan. ,2,24/07/2018 02:49 PM
+Steven Lei,"Thank you, it works for me!",1,14/09/2018 01:00 PM
+Varsha Waingankar,"Very nice tutorial! Thanks Thushan!
+
+1D Linear Loss Function Plots. One simple and lightweight method to plot loss function is to choose two sets of parameters θi and θf , and plot the values of the loss function L(θ) along the line connecting these two sets. We can parameterize this line by choosing a scalar parameter α and defining the weighted average θα = (1 − α)θi + αθf , and compute the function f(θ) = L(θα). Here we choose θi as the randomly assigned initial weights and θf the final well-trained model weights in Part (1) above (global minimum, hopefully).
+
+To calculate the loss function, we fed a predetermined test or training dataset (which should be consistent for the whole process of loss function evaluation) to the model determined by θα and compute the loss function. With sufficient (α,f(α)) points, we can display the loss function in 1D space.
+
+(b). 2D Loss Contour Plots. In this approach, one first chooses a parameter set θ∗, which can be the final parameter set θf , to be used as the reference center of the 2D loss plot to be generated, and then chooses two direction vectors,δ and η (with dimensions compatible with θ). One then plots a function of the form f(α, β) = L(θ∗ + αδ + βη).
+
+in the (α,β) 2D (surface) space. α and β are real scalars. δ and η could be two randomly generated vectors (with proper normalization (see Notes below). This approach was used to explore the trajectories of different minimization methods. Again, θ∗ could be the final well-trained model weights from Part (1). Similar to Part 2(a), we can show the 2D loss landscape.
+
+
+
+
+Could you suggest any way in which this could be accomplished?
+
+
+",1,12/10/2018 09:30 PM
+kamran khan,if any one help me. i want to connect tensor board with mysql database. and i fetch data from database,1,30/04/2019 12:21 AM
+James Lin,A lot of useful information. Thanks.,1,06/06/2019 04:52 AM

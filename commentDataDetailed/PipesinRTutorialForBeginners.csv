@@ -1,0 +1,19 @@
+﻿commentedBy,commentMessage,upvotes,commentDate
+ohdonghyun77,"The nested function call example is thought to be modified as follows:
+
+1:5 %>%   paste(letters[.])",3,09/03/2018 03:06 PM
+Brendan Wakefield,"Possible typo: ""With the help of %<%, you can rewrite the above code as follows...""",7,05/04/2018 11:24 PM
+Debasish Pandit,Awesome  explanation. ,1,23/07/2018 05:06 PM
+Carlos Macedo,A wonderful and super clear explanation. Thank you.,1,31/08/2018 11:00 PM
+John Mount,"Karlijn, thanks for mentioning the dot-arrow and Bizarro pipe!  We wanted to share that the R Journal just accepted our paper on the dot arrow pipe.",1,19/09/2018 05:17 AM
+Dieter De Mesmaeker,Very nice article!,2,23/11/2018 04:33 PM
+Gaoxiang Cheng,"it is very useful.
+
+thanks a lot",1,04/12/2018 05:27 AM
+azeaze eazeaze,"interesting 
+
+
+",1,12/12/2018 03:28 PM
+Vishnu E,"I have a doubt. I tried the subset() and %>% for a dataset.
+
+Same logic was applied in both. But why the results are different? Sunset gave 14 observations as result whereas, %>% code gave 12 observations",1,13/12/2018 07:55 AM

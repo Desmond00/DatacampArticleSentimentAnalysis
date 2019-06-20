@@ -1,0 +1,9 @@
+﻿commentedBy,commentMessage,upvotes,commentDate
+Fauzan Taufik," 
+
+in which case can i convert the numeric data to ordinal?
+I think when the data is multimodal distributed, but here I found that the variable fare is not multimodal, but the normal distribution, why changed",3,27/04/2018 07:05 PM
+Diva Jain," data = pd.concat([df_train.drop(['Survived'], axis=1), df_test])
+ 
+
+Does this create a leak?",1,11/05/2019 03:36 PM

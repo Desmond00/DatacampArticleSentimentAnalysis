@@ -1,0 +1,13 @@
+﻿commentedBy,commentMessage,upvotes,commentDate
+Ozkan Serttas,"Why did I get ""Attribute Error: module seaboard has no attribute plt"" for the last chunk of code when we are adding Title to FacetGrid graph ? I have got Python 3 installed in Jupyter notebook.
+
+
+
+
+It only worked when I erased ""sns"" comes before plt.scatter in g.map()
+
+
+",5,07/04/2018 01:25 AM
+Justin McCarty,Is there a way to select the x or y axis from an index of the column rather than inputting the string column header?,3,21/10/2018 03:44 AM
+Mark Loat,"Hello I was editing an apk file for cyberflix app, however when I recompile the apk file it just doesn't work for me. Can someone please tell me how to get it working for me",1,24/04/2019 01:11 PM
+Vivek Chandel, ,1,15/06/2019 04:38 PM

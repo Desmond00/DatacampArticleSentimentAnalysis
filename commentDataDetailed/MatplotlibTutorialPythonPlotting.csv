@@ -1,0 +1,35 @@
+﻿commentedBy,commentMessage,upvotes,commentDate
+Ali Alharbi,"when we run Figures, don't show a complete figures
+
+
+
+
+Thank you for the easy explanation ",4,13/03/2018 12:54 AM
+Ozkan Serttas,Thank you for brief tutorial...,3,06/04/2018 11:14 PM
+dvoiakstepan,"In ""How To Set Plot Title And Axes Labels""    
+
+The easiest way to set these things right is by using ax.set(title=""A title"", xlabel=""x"", ylabel=""y"") or ax.set_xlim(), ax.set_ylim() or ax.set_title().
+
+May be ax.set_xlabel(), ax.set_ylabel() nor ax.set_xlim(), ax.set_ylim()",4,12/04/2018 08:46 PM
+Ambar Singh,thanks for a good intro ,1,27/05/2018 10:05 AM
+Krisan Haria,If i create many figures how do I save them to one pdf document?,3,01/06/2018 03:47 AM
+Jose Torres,"Thanks for this tutorial!
+
+
+",1,01/06/2018 04:44 AM
+sara jones,"Great Tutorial!
+
+This was the most happiness message to me that  Congrats, you have now successfully created your first plot! Now let’s take a look at the resulting plot in a little bit more detail !
+
+Pygame Side",1,17/08/2018 10:22 PM
+Yash Thaker,"Amazing tutorial, Karlijn! Eager to explore more tutorials by you.",1,06/09/2018 11:12 PM
+Juan Valera,"Thanks !  Great tutorial, clear and easy explanation.",1,12/11/2018 06:08 AM
+naveen ganpat,"Dear Karlijn,
+
+I enjoy your blogs/tutorials a lot. Recently I started working with the Datacamp Lite to insert some excercises. I was wondereing how did you manage to get two of these apps on the same page. Perhaps this is not the right place to ask this question but I am not able to see a community group to ask technical questions about the Datacamp Light. Would you  be able to point me to the right direction? Many thanks!",1,15/12/2018 03:53 PM
+durga prasad,it is great website thankyou,1,23/12/2018 05:11 PM
+Kaveh Yousefi,Thanks for your tutorial. Your simple and to-the-point instructions make our lives easier!,1,20/01/2019 06:12 PM
+Samuel Schlatter,"Terrible tutorial like all others. Where do I save these files, where do I enter the commands, what do i need installed? Frankly quite disappointed with python users never giving the full story. I know there are many options and configurations but as a complete beginner there is no support for getting started",1,25/05/2019 07:08 PM
+Randy Bonnette,"Anaconda package installer is also used to install not only Python, but also NumPy, SciPy and other libraries. And by the  way, Google Colab is a great tool for coding at once.
+
+One of the resources I used for my case study on Matplotlib for companies is Matplotlib Tutorial: Learn basics of Python’s powerful plotting library to write my paper.",2,14/06/2019 11:11 AM

@@ -1,0 +1,35 @@
+﻿commentedBy,commentMessage,upvotes,commentDate
+Rohit Jagannath,"Can you cross check the expression( Z is the squared sum of both x and y: z=x^2=y^2 ) for correction?
+
+Also, Can you try to do the same with Train, Test and Validate split?
+
+
+",3,15/10/2018 03:44 AM
+Saad Munir,How to develop a data-set yourself for the SVM classifier? Also is there any pre defined data set of word documents that can be used for Microsoft word document carving?,2,15/11/2018 01:14 PM
+Joachim Rosenberger," 
+
+K(x,xi) = exp(-gamma * sum((x – xi^2)) should be  
+K(x,xi) = exp(-gamma * sum((x – xi)^2)",2,07/12/2018 09:51 PM
+Rohit Kumar,Can you make an article of using SVM with Autoencoder. That'll be very useful on how to use svm as a classifier with autoencoder,3,16/12/2018 11:30 PM
+Guillermo Viñas,"Dear, you have an example of multivariate analysis type MIMO, to detect models and predict variables based on neural networks in python or some alternative in python that allows to solve the indicated?",1,27/12/2018 01:49 AM
+haider ali,can you show how to apply this SVM code om multi-class classification. thank you,2,31/03/2019 02:03 PM
+Paian Simarmata,"hi avinash .
+
+i have a project to predict the maturity of roasted coffee bean from its color.
+
+since the coffee bean roasting have three types of roasting ==> light, medium and dark with also produce different color maturity.
+
+i have to take the image of the roasted coffee bean realtime using webcam and sent the image to be processed and determine the color of maturity so the machine will stop roasting.
+
+my question is can i use SVM to classify the image of the coffee bean color ?
+
+i hope you can help me.
+
+thank you.
+
+
+",2,06/04/2019 06:10 PM
+Paulo Oliveira,"Thanks for the post!
+I have implemented and concluded your tutorial! Now my model is trained right? but how can i test with a new input, and see what the svm think it is?",2,03/06/2019 04:20 AM
+Bahare Samadi,"Hi, I have 27 samples that I would like to do binary classification. Each sample is a 2D- matrice. (100 x 96). I try to use the SVM, but it was not possible, since I have arrays with dim 3.  ValueError: Found array with dim 3. Estimator expected <= 2. Could you please advice ? ",1,14/06/2019 12:26 AM
+Yogi Pratama,"Bagaimana saya membuat 3 klasfifikasi dlam contoh kasus adalah, klasifikasi (Normal, Kurang Normal, dan Tidak Normal). Apakah bisa? Terimakasih sebelumnya",1,14/06/2019 11:42 AM

@@ -1,0 +1,21 @@
+﻿commentedBy,commentMessage,upvotes,commentDate
+Jae Duk Seo,Thank you for the tutorial!,6,06/04/2018 11:29 PM
+Piotr Swierczynski,"First of all, thank you for the tutorial. It is indeed a very good introduction. However, I have some questions:
+
+
+
+
+1. What is the benefit of using the autoencoder in the first example? Do we really use a fewer number of bits to represent images in the bottleneck? It seems that instead of one image of size 28x28 we have 128 images of size 7x7.
+
+2.  Are downsampling and upsampling necessary in the denoising autoencoder or are there alternative architectures without a radical decrease in the image resolution in hidden layers? What is then the gain from having a lower resolution image in the hidden layer?
+
+3. How would the denoising autoencoder generalize to the different kinds of noise, e.g. salt and pepper noise? Can both kinds of noise be easily incorporated in one network?
+
+
+
+
+Many thanks again!",16,07/04/2018 12:51 AM
+Marianna Kovalova,"Thanks for tutorial!
+I have a question: how can we get vector for example of conv3? ",2,17/10/2018 12:35 AM
+Pradip Adword,"Hi Aditya, Thanks for sharing article on autoencoders. I am trying to predict age and gender on biological data. For age, I am using regression algorithm and for gender, I am using classification algorithm. I am trying to combine both algorithm in neural network to get prediction of age and gender at same instance but not sure how to do that. But by using autoencoders it is possible to do predict both in same instance (not sure). Can you please share example or link for the mentioned problem??",2,04/02/2019 05:04 PM
+Mohamed Bakr,"I ask about CAE, if the pooling layers exchanged by MLP like ELM (Network in Network), so haw about training process as the ELM not using BP algorithm?. Could you provide me with some pseudo-code for this network?",3,06/02/2019 02:25 PM

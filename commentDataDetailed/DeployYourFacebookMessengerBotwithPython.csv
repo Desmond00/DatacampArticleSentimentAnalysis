@@ -1,0 +1,111 @@
+﻿commentedBy,commentMessage,upvotes,commentDate
+Manohar Sri,I knew this article was coming. Thanks for sharing :),8,28/02/2018 06:30 PM
+Marco Piccioli,"Hi Alan, I love this tutorial. Thank you so much. I have tried to set it all up and everything seems fine except that when I send a message, nothing reaches my local machine. Should the Facebook app be live in order to have it working? I realized that Facebook requires a privacy policy to make the app live. Is it required for the tutorial's app?  The authorization process succedeed and I can see the request in the log of both Ngrok and Flask but it seems nothing is forwarded back to the server from Facebook when I send messages. 
+
+Thanks a lot. ",6,02/03/2018 05:14 AM
+Marco Piccioli,"Hi  @prakyath, @alan,  thanks for your suggestion. I definitely believe it is a FB setup problem. I tried to open a shell on a remote machine and run something like 
+
+curl -H ""Content-Type: application/json"" -X POST ""https://xxxxxx.ngrok.io/webhook"" -d '{""object"": ""page"", ""entry"": [{""messaging"": [{""message"": ""TEST_MESSAGE"",""sender"":""1119728172817281""}]}]}'
+
+It gets to my Flask app. I can see the request both in Ngrok and Flask log. So I am confident the overall infrastructure works fine.  I will try to complete the setup and have the app approved by FB. I will update you if I get through. Thanks.
+
+
+",2,03/03/2018 03:57 AM
+Marco Piccioli,"Hello @Alan, it is working now! I have forgotten to subscribe the webhook to the page events that's why nothing was forwarded to the Flask app. Now it is working great and I will try to implement what I have learnt in your course. Thanks again for sharing. M ",2,04/03/2018 06:14 AM
+,"Hi Alan, thank you for the tutorial. I tried to search for the course that you mentioned in the tutorial,  Building Chatbots in Python DataCamp course, with no luck. Is it already running?",1,07/03/2018 03:25 PM
+Loren Price,"Hi, 
+
+In what file do we save the response function? also in server.py? Thank you-",4,08/03/2018 05:07 AM
+Hendrik Kalb,"Hi Alan, very nice and straight forward tutorial. Thank you!
+
+But your link for ""Building Chatbots in Python"" in the last paragraph leads to this post and not to the DataCamp course. The course you mean is probably this one: https://www.datacamp.com/courses/building-chatbots-in-python",1,10/03/2018 10:25 PM
+Bogdan Lev,"Hi, how to make this code works on a VPS (like Digital Ocean) with a custom domain name? ",1,13/03/2018 07:14 PM
+Jeevan Reddy Rachepalli,"Hi Alan,
+
+When I was trying to run the call back url on the setup webhooks an error like:
+
+The URL couldn't be validated. Callback verification failed with the following errors: HTTP Status Code = 404; HTTP Message = NOT FOUND
+
+is appearing on the screen. How to proceed with this?
+
+
+
+
+
+",6,16/03/2018 08:08 AM
+Alessio Fanciulli Oxilia,gonna try this on Telegram instead!,1,22/03/2018 10:34 AM
+zammel khalifa,"HI I want to connect this bot with a CRM  (php) ? any help ?
+
+
+",1,29/03/2018 03:18 PM
+guillaumelbr13,"thanks for this !This is what i have been looking for , 
+
+but i cannot find the ""Subscription Fields""
+
+"" Subscription Fields make sure messages and messaging_postbacks are ticked Click Verify and Save to perform the authentication ""
+
+
+",2,10/05/2018 04:42 PM
+Tom Coffey,"Two Questions: 
+
+(1) I change directory into the directory containing server.py and run "" FLASK_APP=server.py flask run "" but am told ""FLASK_APP is not recognized...""  Any idea why?  
+
+(2) Where do I save / what do I do with the code snippet in the  ""Send Messages Back to Users"" section?",1,19/07/2018 11:32 AM
+Juan Sandino,"Thanks Alan for this amazing article! I just finished the Data Camp course and I am really excited and looking forward to build my first bot. I wanted to ask you if there is any resource you may know in order to put the bot in a website since the project I am working on requires more of that than a Facebook bot. 
+
+Thanks and I am sure using RASA NLU for my BOTS! Keep up the amazing work!
+
+Best regards,",3,13/08/2018 09:53 PM
+Victor Guyomard,"Hi, if I add  
+
+@app.route(""/webhook"",methods=['GET','POST']
+
+I have an error : 
+
+keyError : 'messaging' 
+
+on payload['entry'][0]['messaging']
+
+Without it I have a 405 error 
+
+How to fix this ? thanks
+
+
+",1,16/09/2018 07:20 PM
+Aldushyna Anna," Hi all,I have on the last step a problem with connection it seems: 
+
+The URL couldn't be validated. Callback verification failed with the following errors: HTTP Status Code = 502; HTTP Message = Bad Gateway
+
+ Do somebody know why? ",1,23/09/2018 04:10 PM
+chan qifeng,"Hi all , 
+
+I build the chatbot using my own fb account. I am able to receive response from the chatbot by sending message using my own fb account but not from other fb account. Any idea what am I missing to make it work for other fb account as well ?",3,07/10/2018 01:48 PM
+Martin Alan,"Hi, Im getting only ""incorrect"" on ngrok page - seems to me that if in VErify Webhook was not sucessful - any tips what can I digest to found the root?
+
+EDIT: maybe it is caused by wrong webhook setting? localhost:5000/webhook was not found. Is it something that needs to be set directly in my OS? I tried to set it via  https://developers.facebook.com/docs/messenger-platform/getting-started/webhook-setup/  with some errors.
+
+EDIT2: can please somenone share a index.js for webhook?",1,10/04/2019 08:38 PM
+HUI-YING LU,"Can we deploy our bot on some public server like Heroku, pythonanywere?",1,14/04/2019 04:36 AM
+F. Xavier Sánchez Salomó,"Hello, 
+
+In the paragraph  Start your bot server, in case you get an error, I would suggest to try the following:
+
+First change the directory to the folder where you have server.py:
+
+cd Directory_where_server_py_is
+
+Then, introduce:
+
+set FLASK_APP=server.py
+
+enter this and finally, 
+
+flask run
+
+I am in a windows OS and using the anaconda prompt.
+
+This helped me to solve the error that I was getting,
+
+Regards,",1,01/05/2019 09:30 PM
+Fahim Ishrak,"Hi there, i noticed that the chatbot only works for my account or from my machine only. Is there any way to make it public so that others can interact with my chatbot aswell?",0,23/05/2019 04:08 AM
+alto tech,"when i was tryinh to run the call back url on the set up webhooks an error occurs like the url couldnot be validated ,call verification failed with the following errors ",1,07/06/2019 04:49 PM

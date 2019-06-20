@@ -1,0 +1,39 @@
+﻿commentedBy,commentMessage,upvotes,commentDate
+Deval Patel,"Hi... Can I run this code from Spyder? I have no knowledge about Dash & Plotly, but can you please help me how I can use your code in Spyder or Jupyter & create the Dashboard?
+
+I don't know where is the terminal.",4,14/12/2018 08:08 PM
+saurabh keshari,"Thank you so much for this nice explaination,
+
+It really helped. A very nice detailed description of Dash Framework.
+
+Please let me know if you have video tutorials too on Datacamp.
+
+
+
+
+Thanks again",2,16/12/2018 11:53 PM
+Srikanth Gadicherla,Excellent tutorial!,2,04/01/2019 07:53 PM
+Iryna Kulinich,"Hello, I have got an trouble with running the app. Everything runs smoothly in the terminal, but the app crashes and in the logs a get this error:
+
+ Please, could you explain what is the problem?
+
+import pandas as pd
+2019-01-24T11:49:06.962231+00:00 app[web.1]: ModuleNotFoundError: No module named 'pandas'
+2019-01-24T11:49:06.965874+00:00 app[web.1]: [2019-01-24 11:49:06 +0000] [10] [INFO] Worker exiting (pid: 10)
+2019-01-24T11:49:07.126970+00:00 app[web.1]: [2019-01-24 11:49:07 +0000] [4] [INFO] Shutting down: Master
+2019-01-24T11:49:07.127320+00:00 app[web.1]: [2019-01-24 11:49:07 +0000] [4] [INFO] Reason: Worker failed to boot.
+2019-01-24T11:49:07.282562+00:00 heroku[web.1]: State changed from up to crashed
+2019-01-24T11:49:07.254031+00:00 heroku[web.1]: Process exited with status 3
+2019-01-24T11:49:12.632904+00:00 heroku[router]: at=error code=H10 desc=""App crashed"" method=GET path=""/"" host=my-creation-ica.herokuapp.com request_id=e31f483d-ba42-4aa0-ae7d-9af03cecf503 fwd=""80.92.254.68"" dyno=web.1 connect=5000ms service= status=503 bytes= protocol=https",1,24/01/2019 05:26 PM
+Pedro Lopez IV,Great write up!,2,03/02/2019 11:32 PM
+Stephane Merigon,"This is basically the tutorial there
+
+https://dash.plot.ly/getting-started
+
+Are you a member of the dash team?
+
+
+",2,14/06/2019 03:38 PM
+Tommy Roy,"almost a copy-past of the original post from   https://dash.plot.ly/getting-started, 
+
+you should have tried to make your own tutorial, explaining component and how to make them work instead of stealing someone else's work and giving nothing more to the ppl interested in dash",1,19/06/2019 01:15 AM

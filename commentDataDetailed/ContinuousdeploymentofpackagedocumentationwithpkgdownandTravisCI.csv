@@ -1,0 +1,9 @@
+﻿commentedBy,commentMessage,upvotes,commentDate
+Brett Taylor,"Filip,
+
+This tutorial has been very helpful.  I just started working on a new R package that integrates Python through the Rstudio reticulate package and I wanted to make sure I knew how  to create better documentation and I was also just implementing TravisCI for testing.  Your method of doing an auto-build and pushing the pkgdown output to Github is extremely useful.  It is also good to see how easy it is to do automated builds with Travis CI.     I think DataCamp should add a course for building packages in R so that data science teams can interactively learn how to build packages accurately and ensure that they are well tested.  This tutorial should be a piece of a Package development course in my opinion.
+
+Thanks!",3,15/07/2018 05:05 AM
+Mark Sharp,"Filip,
+
+Thank you for the well written and clearly laid out article. I have been using Travis-ci for several months and have several isolated  pages of documentation content. Thanks to you, I now have a great way to maintain it. It took me about 5 minutes to get the first page up. Now I can concentrate  on generation and  organization of the material, leaving web management to Travis and Github.",2,17/07/2018 06:43 PM

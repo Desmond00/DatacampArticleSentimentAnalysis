@@ -1,0 +1,67 @@
+﻿commentedBy,commentMessage,upvotes,commentDate
+Massimo Franceschet,"Hi,
+
+thanks for this useful tutorial, I will propose it to my data science students. Just a couple of comments (I am using shell of MacOS Sierra):
+
+
+
+
+Command
+
+$ sed ""s/, ?,/,,/g"" adult.csv >  adult.csv
+
+zeros the output file adult.csv. I used this instead:
+
+sed ""s/, ?,/,,/g"" adult.csv >  adult2.csv
+
+mv adult2.csv adult.csv
+
+Command
+
+$ cat adult_sample.csv header.csv   > adult_sample_with_header.csv
+
+should be
+
+$ cat header.csv adult_sample.csv  > adult_sample_with_header.csv
+
+I tried to sort unique workclasses in decreasing order but does not work properly (probably because of lexicographical order)
+
+$ cut -d "","" -f 2 adult.csv | sort | uniq -c | sort -r
+
+
+
+
+2541  Self-emp-not-inc
+
+22696  Private
+
+2093  Local-gov
+
+1837
+
+1298  State-gov
+
+1116  Self-emp-inc
+
+ 960  Federal-gov
+
+  14  Without-pay
+
+   7  Never-worked
+
+   1 workclass
+
+
+
+
+
+",4,05/03/2018 02:50 PM
+jaipashwan2681,"It said the truth that processing large files is very difficult at one point. Analyzing, modifying  and many other tasks in data science.  iPhone customer support will going to use these data shell commands for its further use. ",2,21/04/2018 10:01 PM
+Ming Zhong,"Nice and helpful writing!
+
+When you use  
+
+cat adult_sample.csv header.csv > adult_sample_with_header.csv
+
+to concatenate the header and sample files, I don't quite understand why put the header below the sample.",2,26/08/2018 12:31 PM
+Alex Yecke,"you are missing a column name in between ""capital-loss"" and ""native-country"" -- ""hours-per-week"" should be added to ensure the full complement of column names are included.",1,15/01/2019 10:47 PM

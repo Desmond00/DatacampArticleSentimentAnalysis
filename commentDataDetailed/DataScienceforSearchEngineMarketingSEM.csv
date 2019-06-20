@@ -1,0 +1,34 @@
+﻿commentedBy,commentMessage,upvotes,commentDate
+Rafi MOHAMMED,"Instead of having for loop twice.
+
+I feel its better to do it once., as best practice to avoid redundancy of code.
+
+Eg: keyword = '+' + ' +'.join([instructor.replace(' ', ' +').lower(), word])
+
+         keyword1 = '+' + ' +'.join([word, instructor.replace(' ', ' +').lower()])
+
+ --------------------------------------------------------------------
+
+            keyword = instructor.lower() + ' ' + word
+
+                keyword1 = word + ' ' + instructor.lower()
+
+---------------------------------------------------------------------
+
+instructor_keywords.append(row)            
+
+            instructor_keywords1.append(row1)
+
+instructor_keywords.extend(instructor_keywords1) 
+
+
+",1,13/03/2018 03:43 PM
+Elias Dabbas,"By the way, the functions discussed here, and several others are all available in one package for online marketers. 
+
+You can check it out here: http://bit.ly/advertools",2,13/04/2018 06:33 PM
+KRISHNA CHAITANYA,How this is different from Google Keyword planner ? With Google Keyword Planner you get all the possible keywords.,2,24/08/2018 02:31 AM
+Alvina Jennifer,"Great tutorial thanks for sharing informative tips about SEM. I have also some informative information about  marketing there are different ways of marketing, digital signage also best . I know best digital signage companies and, they tell's different tips for marketing like LED digital signage , indoor & outdoor digital signage etc.. its a very good technique for any kind of marketing.  ",2,06/10/2018 04:39 PM
+Kumar Prasanna,what is the techniques/models to optimize the search keyword from the data ??????? ,2,20/11/2018 05:59 PM
+Alan Abdullah Gülle,"Hi , Thank you for the Tutorial , 
+
+I was trying to do my self but I could not get the names of the instructors, How can fix it. do you think something hs changed in css?  when I coppied the code  , urls are there but not the name of the instructors ",1,12/01/2019 04:10 AM

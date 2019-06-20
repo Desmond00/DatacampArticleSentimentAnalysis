@@ -1,0 +1,5 @@
+﻿commentedBy,commentMessage,upvotes,commentDate
+anthonyagatti,"Excellent post! I've been either printing out all slices of a medical image, or creating a variable names ""slice"" and changing this manually. This is MUCH better! ",3,22/02/2018 01:54 AM
+divinediu,This was extremely useful! Thanks a lot Juan!,1,22/02/2018 03:21 PM
+Aditya Panchal,"Nice article! If you want to take it further in Jupyter Notebook, you can use ipywidgets to create a slider to scroll through slices.",2,12/04/2018 11:58 PM
+Wihan Adi,"Hi Juan, thanks so much for your post. I have successfully implemented your solution, however in my case I need to modify it: I need a slightly transparent overlay of CT and dose image (my area is medical physics). I have done your solution with two images, the thing however is that my dose image is not iterated like my CT image (so the second imshow is somehow not changed when I press next slide). Do you mind helping me out on this one? ",1,17/06/2019 09:51 PM

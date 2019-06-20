@@ -1,0 +1,108 @@
+﻿commentedBy,commentMessage,upvotes,commentDate
+Dea Venditama,thanks for this article.. its very helpfull for me to understand the OOP concept in python,8,28/03/2018 10:29 PM
+Anas Helios,"this article is so good, it would be  great if we found this courses on datacamp library courses",22,29/03/2018 02:18 PM
+Ketan Patel,"Thanks a lot.  I have been looking  for such article on python OOP.  wish more on the same topic.
+
+thanks ",5,29/03/2018 03:31 PM
+Gabriel Koch,"It helped me, but I couldn`t quite understand the  Passing arguments to methods as much as I would like.
+
+Can anyone help me understand the buddy.buddy?",3,30/03/2018 03:47 AM
+Abhi Rajan,"Thanks for the article. I typically write functions and leave things at that. This article was really helpful. I had one question, in the MovingAverage class, when initializing stuff, why choose to init both symbol and bars (also why the variable name ""bars""?). As far as I can make out, only bars is necessary to run the method.
+
+Also I think you want to pass bars to the generate_signals method - def generate_signals(self, bars)",1,03/04/2018 09:54 PM
+Boggavarapu Rss Srinivas Gupta,"Thanks for author for writing article in simple way, which can easily understood. My opinion is this article is mainly focused on basics of classes but some advanced concepts like inheritance which has lion's share in oops concept was not discussed.",3,03/04/2018 11:25 PM
+Ajay Manwani,Thanks ! Very Nice Article !!,3,15/04/2018 06:17 PM
+Yogesh Shetty, ,1,22/04/2018 07:48 PM
+Nati Aris," 
+
+Computationally, OOP software is slower, and uses more memory since more lines of code have to be written.
+
+More lines of code was why it's slower to develop under OOP paradigm. OOP uses more memory because it needs to load stuff regardless of its relevance in context and keep state of the objects somewhere, etc.
+
+This stands in contrast to declarative programming, which focuses on what the computer program should accomplish, without specifying how.
+
+Functional languages tend to be quite specific about how to accomplish stuff. That sentence from Wikipedia is misleading.
+
+__init__ must always be present!
+
+No, it's optional. Though in most cases you need it.
+
+def setBuddy(self, buddy):
+    self.buddy = buddy
+    buddy.buddy = self
+
+
+Mutating arguments is considered a bad practice.",0,27/06/2018 06:57 PM
+Aleksei Kogai,Thanks a lot. It's really good article. ,1,23/07/2018 01:53 PM
+Matt Carmody,"Thanks for the article! It was informative and easy to follow, well done. A few minor typos stuck out to me as I read, which I pass on to you:
+
+1. In the Introduction a paragraph ends with ""but now how to do it."" when I believe it should be ""but not how to do it.""
+
+2. In instantiating objects you refer to brackets, though this may be misleading to some who consider '[]' to be brackets. Referring to them as ""round brackets"" or ""brackets (or parentheses to some)"" may clear this up for some readers.
+
+3. In Example: OOP in Python for finance, there is ""you'll see that there is first a initialisation,"" when I believe it should be ""you'll see that there is first an initialisation,"".
+
+Thanks again.",1,25/07/2018 01:55 AM
+peter prism,The information which you have given is very useful and really benificial for the beginers who want to learn OOP but when I am installing it in Mac then it is not working and automatically safari browser is opening and throwing an error called Safari can't Establish a Secure Connection,1,26/07/2018 04:15 AM
+Rajesh Arasada,Thank you very much. Very nice article,1,29/09/2018 10:14 PM
+Sage Support,"Hey, This is a great article. I was searching for the same and I found the best content here. I want learn python as industries are mostly using this language Thanks for sharing the info. keep on doing the great work. https://livetechsupport.org/sage-50-support/
+
+
+
+
+
+
+
+
+",1,05/10/2018 05:42 PM
+matthew nel,thank you guys so much i was having a hard time trying to learn this but thanks to you i got it right and learned something new and understand it ,1,10/10/2018 02:57 PM
+Akonya John,thank you.. this helped so much,1,28/10/2018 05:29 PM
+Dennis van der Pluijm,"Thank you so much Théo! A very clear explanation using a simple yet effective example.
+
+After the tutorial I immediately could see some possible improvements (and the benefits of OOP) in the finance example :-)",1,07/11/2018 02:36 PM
+Trevor Benavides,"import pandas as pd
+import numpy as np
+import pandas_datareader as pdr
+import datetime
+
+aapl = pdr.get_data_yahoo('AAPL',
+start=datetime.datetime(2018, 1, 1),
+end=datetime.datetime(2019, 1, 1))
+msft = pdr.get_data_yahoo('MSFT',
+start=datetime.datetime(2018, 1, 1),
+end=datetime.datetime(2019, 1, 1))
+class MovingAverage():
+def __init__(self, symbol, bars, short_window, long_window):
+self.symbol = symbol
+self.bars = bars
+self.short_window = short_window
+self.long_window = long_window
+
+def generate_signals(self):
+       bars = self.bars
+       signals = pd.DataFrame(index=self.bars.index)
+       signals['signal'] = 0.0
+
+       signals['short_mavg'] = bars['Close'].rolling(
+window=self.short_window, min_periods=1, center=False).mean()
+       signals['long_mavg'] = bars['Close'].rolling(
+window=self.long_window, min_periods=1, center=False).mean()
+
+       signals['signal'][self.short_window] = np.where(
+           signals['short_mavg'][self.short_window:] > signals['long_mavg'][self.short_window:], 1.0, 0.0)
+
+       signals['positions'] = signals['signal'].diff()
+
+return signals
+
+
+
+apple = MovingAverage('aapl', aapl, 40, 100)
+print(apple.generate_signals())
+microsoft = MovingAverage('msft', msft, 40, 100)
+print(microsoft.generate_signals())
+
+
+
+
+this works, you have to install pandas and pandas_datareader via pip though if you want it to work",1,01/05/2019 11:11 PM

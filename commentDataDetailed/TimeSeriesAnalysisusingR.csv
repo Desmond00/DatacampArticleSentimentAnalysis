@@ -1,0 +1,14 @@
+﻿commentedBy,commentMessage,upvotes,commentDate
+NASEER MOHAMMED,"This article has projected the Time series analysis in very complex way & it is only understandable by Data scientist who have some hands-on experience. Time-Series could have been easily explained i.e converting Non-stationary time series data set to stationary by using differencing concept, and then how ACF & PACF plot can be used for passing into ARIMA, to get relevant forecast.
+
+Too much complex information in this article. ",8,23/10/2018 07:56 PM
+Chris Dunhill,Yep - what Naseer said.,2,23/10/2018 09:16 PM
+Mikhail Sidyakov,"I believe the ACF where the formula: gamma(k)/gamma(0) is presented is the Autocorrelation function not Autocovariance function.
+
+Autocorrelation is derived from autocovariance, but there are several mistakes in that part.
+
+Autocovariance between X(t) and X(t+k) is indeed denoted by gamma(k). Since gamma(k) = cov(X(t),X(t+k).
+
+But what the author is referring to is Autocorrelation.
+
+In addition, the formula: gamma(k)=gamma(k)/gamma(0) is not equal to gamma(k) rather than ro(k) which is the Autocorrelation.",1,30/05/2019 07:23 AM

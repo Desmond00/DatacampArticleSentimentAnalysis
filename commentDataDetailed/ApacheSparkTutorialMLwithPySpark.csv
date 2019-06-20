@@ -1,0 +1,84 @@
+﻿commentedBy,commentMessage,upvotes,commentDate
+Caitlin Hudon,"Is there a chance that this data source been updated since the article was written? 
+
+When I go to http://lib.stat.cmu.edu/datasets/ and download houses.zip, I get one single file (cadata.txt) which contains a text introduction followed by some summary statistics before getting to the data. I don't see cal_housing.data or cal_housing.domain. 
+
+If I use the cadata.txt file for ""header"", for example, with collect(), I do get a return but it's nonsensical since it's the text introduction. 
+
+Is there something I should be doing differently? My hunch is that the data has changed, but want to make sure I'm not missing a step.
+
+
+
+
+
+",4,06/03/2018 03:42 AM
+George Lin," Does ""the coefficients [0.0,0.0,0.0,0.276239709215,0.0,0.0,0.0]"" in the post example indicate that the predicted target - medianHouseValue value is only associated with 4th attribute in the feature - medianIncome in the trained model? Thank you. ",3,22/03/2018 01:00 PM
+Sarkhan Badirli,"Thank you Karlijn, this was an awesome intro to Spark ML",2,29/03/2018 10:23 AM
+vanshikaaggarwal,"hi, spark mllib can only work on libsvm data, that is what i have understood till now. how can we convert csv files into libsvm data?",3,02/04/2018 08:24 AM
+katherinetk2,"Hi Karlijn Willems ,
+
+Great tutorial with huge information about Apache Spark  and how process with different technologies like Big Data , Machine Learning. Thank you so much for this wonderful informatic tutorial.",1,09/05/2018 11:06 AM
+Dukool Sharma,Very informative article on Spark. Quite detailed it was. You can refer this Spark tutorial series for more tutorials to learn Apache Spark. ,1,12/06/2018 06:07 PM
+RAMESH Undralla,"Hello Karlijn ,
+
+This is great article indeed !! . Could you please help me to get resove for below issue while launching pyScript  , getting below error:
+
+/spark-2.3.1-bin-hadoop2.7
+
+$ ./bin/pyspark
+
+Error: Could not find or load main class org.apache.spark.launcher.Main
+
+Is there anything need to perform before doing above step .?
+
+Thanks in advance !!",1,19/06/2018 02:02 PM
+Navaneeth Malingan,This is a really cool tutorial! Thank you mam :),1,23/06/2018 03:02 AM
+Lathika Honey,"It's A Great Pleasure reading your Article, learned a lot of new things, we have to keep on updating it <a href=""https://balaguntipalli.com/""> Bala Guntipalli </a> Thanks for posting.Very Thankful for the Informative Post.",1,23/06/2018 04:02 PM
+Thái Thiện,"hi, I would like a tutorial on Scala Spark with Dataframe (Apache spark said that they are going to deprecate RDD) 
+
+
+",0,12/11/2018 03:44 PM
+kits trainings,very good article thanks  we provide best online training for sap abap training,1,26/11/2018 01:47 PM
+naresh kits,"Great post. Wonderful information and really very much useful. Thanks for sharing and keep updating.
+
+         https://www.kitsonlinetrainings.com/oracle-adf-online-training.html        ",1,26/11/2018 02:44 PM
+Soujanya Bargavi," Hi Karlijn Willems ,  thanks for sharing info on Apache Spark Tutorial: ML with PySpark  SASS",1,19/12/2018 11:02 PM
+jyothi kits,"Thanks for this great share.
+
+http://www.kitsonlinetrainings.com/snaplogic-online-training.html 
+
+http://www.kitsonlinetrainings.com/spark-online-training.html    ",1,26/12/2018 02:44 PM
+naresh kits,"Great post. Wonderful information and really very much useful. Thanks for sharing and keep updating.
+
+        http://www.kitsonlinetrainings.com/sap-basis-online-training.html 
+
+  http://www.kitsonlinetrainings.com/sap-bods-online-training.html    ",1,27/12/2018 02:28 PM
+sandhya kits,"The knowledge of technology you have been sharing thorough this post is very much helpful to develop new idea. here by i also want to share this.
+
+     https://www.kitsonlinetrainings.com/ethical-hacking-online-training.html 
+
+  http://www.kitsonlinetrainings.com/etl-testing-online-training.html    ",1,28/12/2018 08:31 AM
+sandhya kits,"Good Post! Thank you so much for sharing this pretty post.
+
+     https://www.kitsonlinetrainings.com/datastage-interview-questions.html  
+
+ https://www.kitsonlinetrainings.com/oracle-data-guard-interview-questions.html    ",1,28/12/2018 08:32 AM
+123 HP Printer Setup,Excellent post. Please keep up the great work. You may check our website also 123.hp.com/envy 5531 ,1,11/02/2019 11:58 AM
+Robert Smith,"Thanks for this information. To get information on protection plans, contact geek squad protection for help.",1,21/02/2019 06:23 PM
+Justin Fallon,QuickBooks Error 15106 could appear once you try to download an update for your Payroll subscription. QuickBooks Helpline Phone Number It really is a common error that prevents you against updating all versions of QuickBooks Desktop. And also this includes the Enterprise version.,1,12/04/2019 01:35 PM
+Sameh Sharaf,Such a great tutorial! I was looking for a simple yet comprehensive tutorial on Spark MLLib and DataCamp is always there for me.,1,24/04/2019 10:24 AM
+Brayden Marco,"  
+
+For the best assignment help for Students, hire the experts of allassignmenthelp.com. Our Writers are fluent in completing Assignment work on time for all students.",1,03/06/2019 05:43 PM
+Jenni Ajderian,"Many thanks for this tutorial! I'm working through it just now and finding ti very informative.
+
+A question for you about adding columns to the dataframe: in the Feature Engineering step we define new columns for population per household etc, and in the code you define these twice, eg:
+
+populationPerHousehold = df.select(col(""population"")/col(""households""))
+
+df = df.withColumn(""populationPerHousehold"", col(""population"")/col(""households"")) etc....
+
+From what I can tell (and I'm new to Spark so bear with me here) this isn't necessary. Is this just to make it clear what we're doing or is there something I'm missing? Thanks very much!",1,04/06/2019 02:37 PM
+Freddie King,"It is really great post and i really enjoy when i am reading this article. Thank you for sharing this great post with us. I am really happy to see this.
+
+Saludpulso.com",1,11/06/2019 01:23 AM

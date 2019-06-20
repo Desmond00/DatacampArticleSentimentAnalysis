@@ -1,0 +1,46 @@
+﻿commentedBy,commentMessage,upvotes,commentDate
+Mendis Appu Prasath,Interesting!,1,21/08/2018 05:37 PM
+Daniel Salamanca,"Hello,
+
+
+
+
+Thanks for share this useful article. I have a doubt about 
+
+highchart() %>%  
+
+ hc_xAxis(categories = categories_grouped) %>%   
+
+hc_add_series(data = mpgg, type = ""bar"", hcaes(y = count, color = manufacturer),              
+
+   showInLegend = FALSE)
+
+Because my dataset says when I run from 
+
+Version:1.0 StartHTML:0000000107 EndHTML:0000001527 StartFragment:0000000127 EndFragment:0000001509  
+
+highchart() %>%
++   hc_xAxis(categories = categories_grouped) %>%
++   hc_add_series(data = mpgg, type = ""bar"", hcaes(y = count, color = manufacturer),
++                 showInLegend = FALSE)
+
+Says this
+
+Version:1.0 StartHTML:0000000107 EndHTML:0000000897 StartFragment:0000000127 EndFragment:0000000879  
+
+Error in mutate_impl(.data, dots) : 
+  Column `y` is of unsupported type quoted call",1,01/09/2018 10:49 AM
+Serdar Balci,"following code works if I use brackets around type_1 and n
+
+
+
+
+pokemon %>%
+
+  count(type_1) %>%
+
+  arrange(n) %>%
+
+  hchart(type = ""bar"", hcaes(x = ""type_1"", y = ""n""))",1,17/11/2018 11:09 PM
+Serdar Balci,"Would you please update the link for ""highmaps collection "".",1,18/11/2018 12:46 AM
+Jagadish Kulkarni,"Nishant, could you please share sample code for sunburst chart with multi levels and drill down?",1,07/06/2019 07:42 PM
