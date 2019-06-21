@@ -1,5 +1,0 @@
-﻿commentedBy,commentMessage,upvotes,commentDate
-Dillon McCloud,Great article! Very clear and the walk through steps are so helpful! Curious if this could be modified for a binary variable?  (for example test if Gender is significant  in predicting Heart Disease) ,2,19/12/2018 07:35 PM
-Kendra Frederick,"I found this tutorial very helpful -- thank you!
-
-Is there a reason you chose to  analyze the rank of the months instead of analyzing the ""raw"" average monthly volatilities (AMV)? Would we not expect there to be less variation in rank? When I repeated this analysis on AMV, October became the monthly with the greatest deviation from average, and its extremeness was significant even after accounting for multiple comparisons.",2,20/12/2018 04:14 AM

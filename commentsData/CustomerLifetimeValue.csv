@@ -1,8 +1,0 @@
-﻿commentedBy,commentMessage,upvotes,commentDate
-Jiaxiang Li,"Good intro of  LTV. I follow a code and have a question, is there any way to give different churn rate for customers. Because I think it is large different between different customers. ",2,23/12/2018 08:27 PM
-Bartosz Schneider,"Dropping the negative order quantities can in reality be not such a good idea as returned or cancelled orders can appear as negative quantities, gross values etc. in your data. In these cases, summing those values on customerID + orderID solves this problem for you without dropping data. That way you can even incorporate return rates into your CLV model, because the data is not lost.",6,07/01/2019 07:46 PM
-jmercier,"Would you have any suggestion on how to proceed if the data we have has to do with contractual purchases such as insurance policies. Also, in such a data set, each client_ID may be associated to more than one policy (e.g. car, life and home.) Say the columns are customer_ID, product_category (car, home or life), date_of_account_opening, date_account_closing, and Premium.",1,22/03/2019 06:48 AM
-chenguttuvanlakshmanan,"Hi Could please tell me in the prediction model , why you are using the total sales value instead of CLTV calculated from the previous step , i am trying for one of my project",3,01/04/2019 07:18 PM
-Ravi Mohan Lal,I Implemented CLTV in MS Excel (mainly using Pivot Table). Hope I could share that,1,06/05/2019 12:37 PM
-James Hamilton,"Just a heads up, I had trouble with "" from sklearn.cross_validation import train_test_split "".  I had to substitute cross_validation with model_selection instead; "" from sklearn.model_selection import train_test_split "".",1,08/05/2019 08:30 PM
-Thoa Nguyen,"hi, ",2,27/05/2019 02:49 PM

@@ -1,9 +1,0 @@
-﻿commentedBy,commentMessage,upvotes,commentDate
-hao don,"it's very useful,thaks a lot!",3,14/12/2018 08:04 AM
-fernando maldonado,Awesome!,3,19/12/2018 01:13 AM
-Ahmed Adam,Thank you,2,19/12/2018 07:42 AM
-Marcus Birkenkrahe,"On MacOS 10.14.2. (""Mojave""), the  MySQL connector downloaded from mysql.com according to your link (""mysql-connector-python-8.0.13-macos10.14.dmg""), will not install. The error message says that the version of the driver is not compatible with this version of the OS. Any suggestions? Txs.",1,25/12/2018 04:33 AM
-Chenghong Meng,"why I have the problem? ""Authentication plugin 'caching_sha2_password' is not supported"", as I try to connect to mysql with python",1,24/03/2019 05:34 AM
-eric chen,"It's helpful, thanks.",1,22/04/2019 02:14 PM
-Trinidad Cisneros,Great tutorial!,1,18/05/2019 09:12 PM
-,"This tutorial is well-written. However,  I feel Oracle's MySQL tutorial seems better. One thing is that these examples does not show that you need to close the cursor and disconnect the connection. Beginners usually try out examples verbatim,  so these examples would cause one to open multiple connections to the database. Also the data fetched from the database could be large, so using fetchall() before iteration over the elements in the results seems inefficient and not idiomatic at least.",1,08/06/2019 07:19 AM

@@ -1,3 +1,0 @@
-﻿commentedBy,commentMessage,upvotes,commentDate
-DONGCHAN LEE,"Hi, thanks for the post. From above, when you prepared X_train & X_test, why did u add '+(1.)' in '.reshape()'?",2,29/11/2018 05:20 PM
-Sujith Vemishetty,"First of all, kudos on the clear articulation of the concept in a no nonsense manner. It was a really good read. I would just like to point out few things, it is just nitpicking.",1,22/04/2019 12:19 PM

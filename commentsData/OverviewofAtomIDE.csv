@@ -1,4 +1,0 @@
-﻿commentedBy,commentMessage,upvotes,commentDate
-cb88855258ceed98b1a48784f139ed9f,"I completed a DataCamp course from Microsoft. We covered packages like numpy and matplotlib.  I installed Atom. My understanding is numpy & co could not be installed in Atom. Instead, I should install Anaconda that already has these data science packages pre-installed and I need to connect Atom and Anaconda on Mac. Is my understanding correct? I really want to get up and running but I was not prepared for these technical difficulties.
-Thanks! :)",1,22/11/2018 07:27 AM
-Manuel Bojato,I also suggest looking for PlatformIO Package if someone likes to compile multiple architectures and development platforms like as Arduino :) Pretty powerful.,1,10/12/2018 12:45 AM

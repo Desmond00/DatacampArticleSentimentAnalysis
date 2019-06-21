@@ -1,2 +1,0 @@
-﻿commentedBy,commentMessage,upvotes,commentDate
-Jon Burrell,"Appears to be missing a line for sigmoid plot to work since X1_ordered is undefined e.g. X1_ordered = np.sort(X1, axis=0)",2,06/03/2018 09:41 PM

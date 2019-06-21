@@ -1,6 +1,0 @@
-﻿commentedBy,commentMessage,upvotes,commentDate
-Jason Rathgeber,Great article thank you. ,6,05/12/2018 07:50 PM
-Yuri Silva,Very good tutorial! Intuitive and practical lessons!,1,27/12/2018 10:12 PM
-Yanhui Yuan,"Nice and easy introductory tutorial, very good for beginners like me.",2,17/02/2019 01:45 PM
-Dhruv Upadhyay,"Great Article! This was a really comprehensive, detailed, and helpful tutorial, especially as an introduction to machine learning. I was wondering, when choosing the k-value for optimization, why did you not use k=9? Based on my graph, k=9 seems to exhibit most accurate results, and when I run the algorithm with k=9 upon the test-set, it exhibits 100% accuracy. Is it because both test_accuracy=training_accuracy when k=3?",2,24/03/2019 06:13 AM
-mastan paruchuri,"Hi Team,",1,05/05/2019 02:12 PM

@@ -1,9 +1,0 @@
-﻿commentedBy,commentMessage,upvotes,commentDate
-Sayak Paul,"The unit of the execution time has been mistakenly given as ""ms"", it will be in ""seconds"". Apologies for the mistake. ",3,16/08/2018 08:26 AM
-Ton Amachree,"Really nice, I have just had my first introduction to machine learning and this article was a good read and helpful definitions ",1,08/11/2018 06:31 PM
-Jesus Obispo,"I have a problem, I am analyzing another dataset, I find that the output is of continuous values and the output in your dataset is discrete, how do I solve it?",1,01/12/2018 08:45 AM
-Anthony Agudelo,"Very well written and informative,  I was however wondering how do you go about choosing the range of input for the non-binary hyperparmeters is there literature  surrounding what is and isn't an appropriate range and if so where can I find this literature as I am currently in the middle of optimizing parameters for Logistic Regressionm, Random Forest,  and Neural Networks.  ",1,28/12/2018 08:59 PM
-Shibu Mathew,"Nice article. Correct me if i  am wrong but we could avoid the snippet where we reimport the dataset excluding headers and instead, directly move to the replace step using: data[['Glucose', 'BloodPressure', 'SkinThickness', 'Insulin','BMI']]=data[['Glucose', 'BloodPressure', 'SkinThickness', 'Insulin','BMI']].replace(0,np.NaN)",1,07/01/2019 07:16 PM
-piyush sharma,A very well written article ,2,14/02/2019 07:32 PM
-Aritra Roy Gosthipaty,"Coming from an absolute beginner, the article is well written. The analogies and examples have enriched the experience.",3,19/03/2019 11:39 PM
-Amartya Sen,Nice Theme btw..  how do i install your theme?,2,10/04/2019 07:09 PM

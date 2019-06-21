@@ -1,8 +1,0 @@
-﻿commentedBy,commentMessage,upvotes,commentDate
-Ajay Manwani,Great Tutorial !!,4,21/09/2018 12:06 AM
-Connor Hansen,I believe in: ,2,27/09/2018 02:52 AM
-Ankur Phukan,"At `dh = datacamp[datacamp[""publishdate""]>='2017-01-01'].sort_values(by=""publishdate"", ascending=True).set_index([""publishdate""])` setindex drops the column which is set as index .. Solution ",2,29/09/2018 08:24 PM
-Utkarsh Srivastava,"Really Helpful tutorial, the way plots were made, very informative.",1,08/10/2018 02:42 PM
-Balary Nash,"why did I get the error 'AttributeError: 'DataFrame' object has no attribute 'publishdate'' when I would input the code  "" dh[""publishdateone""] = pd.to_datetime(dh.publishdate.astype(str).str[0:7] + '-01') ""？I'm  new to python. Could you tell me how to solve that?",1,09/02/2019 12:53 PM
-Jensen Ko,"HI, i was stuck on ",1,07/04/2019 02:52 PM
-Dileep Bollaram,It is really informative! Thanks a ton!!,1,04/06/2019 12:32 PM

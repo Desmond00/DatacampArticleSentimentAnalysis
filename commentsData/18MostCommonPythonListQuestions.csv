@@ -1,7 +1,0 @@
-﻿commentedBy,commentMessage,upvotes,commentDate
-Aditya Kiran Nandiraju,The code written for the remove the duplicates looks to be wrong..,1,19/02/2018 12:40 PM
-sujata patil, ,2,12/04/2018 04:29 PM
-Hassan Shehzad,you have stated the following:,3,11/05/2018 06:17 PM
-Peter Delicano,"Thanks to the author, the article is interesting.  Here's another article about Python: https://webcase.studio/blog/why-use-python/",1,11/07/2018 09:53 PM
-Pragyan Sabhapandit,I have a question to ask. i need to call a many-to-one field from one model to another. again i need to call another many-to-one field from the same model and overwrite they previous field by this new field and put it in the later field. help me find solution and syntax of the entire program,1,29/08/2018 03:46 PM
-Chinh Phan,"On number 9 How does List comprehension works, the paragraph that explained how [x**2 for x in range(10)] works is not correct.  It state "" Now, what does this mean? You take all numbers from 0 to 10, where 10 is not included, and you multiple each and every one of those numbers by 2. Run the piece of code above to see if the result matches your expectations. "" It should be x square, not multiply x by 2",2,19/10/2018 03:37 AM

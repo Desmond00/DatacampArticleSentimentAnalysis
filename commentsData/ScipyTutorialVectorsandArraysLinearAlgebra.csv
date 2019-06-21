@@ -1,3 +1,0 @@
-﻿commentedBy,commentMessage,upvotes,commentDate
-Abdul Naaser,"i think there should be a faster and easier way to create vectors in python, no? for instance if you receive a list of numbers that you can then convert using np.array like so : new_vector= np.array(list(range(10))  but i am guessing there should be other ways to make this happen fast instead of typing each number inside square brackets one by one? ",1,16/08/2018 09:32 PM
-Vishnu E,Dear Karlijn,1,04/01/2019 10:18 AM
