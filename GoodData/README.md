@@ -5,6 +5,8 @@
 - To incorporate a bit of context in the righteous labelling, we included article names too. 
 - There can be some amount of indirect bias in the labels. For this, we will have to either take help of a linguist expert or o more experienced Data Scientist who has worked with manual labelling before.
 - There were hyperlinks included in the words in many comments. We did not separately scrapped them. 
+- Other than English languages have been considered as spam.
+- Single words in comments has been considered as spam.
 
 **Encoding**: 
 0: Not-spam
