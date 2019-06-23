@@ -1233,7 +1233,7 @@ One of the most informative tutorials I ever saw,0,Stock Market Predictions with
 
 
 ",0,Stock Market Predictions with LSTM in Python
-"Hi Thushan Ganegedara  ,thanks for this paper ,i am new in python ,what you are writing here is something about my study ,i want to learn more from you ,so can we be friends?can you add me on wechat ?my id is 18741354965",,Stock Market Predictions with LSTM in Python
+"Hi Thushan Ganegedara  ,thanks for this paper ,i am new in python ,what you are writing here is something about my study ,i want to learn more from you ,so can we be friends?can you add me on wechat ?my id is 18741354965",1,Stock Market Predictions with LSTM in Python
 "Hi,
 
 I was wondering if you could provide an explanation or interpretation of the visualizations. How would someone less familiar with these models explain what is being portrayed in the first versus second graph and what the red versus blue lines mean, particularly from a ""business"" perspective? 
@@ -1624,10 +1624,10 @@ When you have compared the results noted as predicted and actual data in the gra
 Pack your baggage and get ready for the most amazing experience with JetBlue Airlines. You do not need to worry about anything due to our JetBlue Airlines Customer Service Number. Our customer support executives are available 365 days and ready to help you in every possible way.",1,Stock Market Predictions with LSTM in Python
 "I want to ask if anyone have applied this implementation using more than just mid data like separately using close, high and low prices as features to predict close price. Kindly provide some idea at least. I am quite stuck at this point.",0,Stock Market Predictions with LSTM in Python
 If you are planning for a trip then why are you waiting for? At American Airlines Flights Reservations number you will get best offers or deals on both domestic and international flights booking. ,1,Stock Market Predictions with LSTM in Python
-Pretty cool set of tutorials!! Congratulation and thanks for sharing your knowledge,,Lyric Analysis: Predictive Analytics using Machine Learning with R
-Very comprehensive and easy to follow! You really are a source of inspiration :) Thank you for that!,,Lyric Analysis: Predictive Analytics using Machine Learning with R
-"Wonderful! Thank you very much! But, when running the code ""train <- features_func_genre(five_sources_tidy)"", I got the error ""Evaluation error: invalid multibyte string, element 1."" and don't know why. Would you get what happened?",,Lyric Analysis: Predictive Analytics using Machine Learning with R
-I would like to see if you analize chords to see if you can predict genr.,,Lyric Analysis: Predictive Analytics using Machine Learning with R
+Pretty cool set of tutorials!! Congratulation and thanks for sharing your knowledge,0,Lyric Analysis: Predictive Analytics using Machine Learning with R
+Very comprehensive and easy to follow! You really are a source of inspiration :) Thank you for that!,0,Lyric Analysis: Predictive Analytics using Machine Learning with R
+"Wonderful! Thank you very much! But, when running the code ""train <- features_func_genre(five_sources_tidy)"", I got the error ""Evaluation error: invalid multibyte string, element 1."" and don't know why. Would you get what happened?",0,Lyric Analysis: Predictive Analytics using Machine Learning with R
+I would like to see if you analize chords to see if you can predict genr.,0,Lyric Analysis: Predictive Analytics using Machine Learning with R
 "Hi Debbie, 
 
 As a musician / techie, this is definitely intriguing and looks great! 
@@ -1651,22 +1651,22 @@ Thanks! 
 
 
 
-",,Lyric Analysis: Predictive Analytics using Machine Learning with R
-"Thanks for all your posts in this series Debbie, it's been some really interesting material and tutorials to go through. I had a quick question for you going back to Part 1. I'm a Masters student in the field and due to my love of music I'm considering doing my final capstone project on the evolution of Pop music through the decades using a lot of techniques I've learned in your tutorials. However, building the dataset of songs and lyrics through web scraping and cleaning isn't something I'm familiar with. Is this any chance you'd be able to share your code and/or workflow on how you created the original dataset so I could learn from that?",,Lyric Analysis: Predictive Analytics using Machine Learning with R
-"One of the best in-depth tutorial I've followed through in a while. I've been learning about Machine Learning and R for a few months now, but articles like yours make me realize how much more there is for me to know, also builds more respect for all you data scientists. Big thanks to you Debbie. ",,Lyric Analysis: Predictive Analytics using Machine Learning with R
+",0,Lyric Analysis: Predictive Analytics using Machine Learning with R
+"Thanks for all your posts in this series Debbie, it's been some really interesting material and tutorials to go through. I had a quick question for you going back to Part 1. I'm a Masters student in the field and due to my love of music I'm considering doing my final capstone project on the evolution of Pop music through the decades using a lot of techniques I've learned in your tutorials. However, building the dataset of songs and lyrics through web scraping and cleaning isn't something I'm familiar with. Is this any chance you'd be able to share your code and/or workflow on how you created the original dataset so I could learn from that?",0,Lyric Analysis: Predictive Analytics using Machine Learning with R
+"One of the best in-depth tutorial I've followed through in a while. I've been learning about Machine Learning and R for a few months now, but articles like yours make me realize how much more there is for me to know, also builds more respect for all you data scientists. Big thanks to you Debbie. ",0,Lyric Analysis: Predictive Analytics using Machine Learning with R
 "You explain the Machine Learning  very easily , in Addition a good tutorial to understand cross validation https://www.youtube.com/watch?v=fSytzGwwBVw , congratulations Debbie 
 
 
-",,Lyric Analysis: Predictive Analytics using Machine Learning with R
-"This is about the (frequentist) statistical approach to hypothesis testing, and has very little to do with ML ",,Hypothesis Testing in Machine Learning
+",1,Lyric Analysis: Predictive Analytics using Machine Learning with R
+"This is about the (frequentist) statistical approach to hypothesis testing, and has very little to do with ML ",0,Hypothesis Testing in Machine Learning
 "Cannot open the link
 
 
-",,What Is the Best Statistical Programming Language? Infograph
-Very nice !,,TensorBoard Tutorial
-The code for this tutorial can be found here,,TensorBoard Tutorial
-That was neat and precise. Thanks Thushan. ,,TensorBoard Tutorial
-"Thank you, it works for me!",,TensorBoard Tutorial
+",0,What Is the Best Statistical Programming Language? Infograph
+Very nice !,0,TensorBoard Tutorial
+The code for this tutorial can be found here,0,TensorBoard Tutorial
+That was neat and precise. Thanks Thushan. ,0,TensorBoard Tutorial
+"Thank you, it works for me!",0,TensorBoard Tutorial
 "Very nice tutorial! Thanks Thushan!
 
 1D Linear Loss Function Plots. One simple and lightweight method to plot loss function is to choose two sets of parameters θi and θf , and plot the values of the loss function L(θ) along the line connecting these two sets. We can parameterize this line by choosing a scalar parameter α and defining the weighted average θα = (1 − α)θi + αθf , and compute the function f(θ) = L(θα). Here we choose θi as the randomly assigned initial weights and θf the final well-trained model weights in Part (1) above (global minimum, hopefully).
@@ -1683,14 +1683,14 @@ in the (α,β) 2D (surface) space. α and β are real scalars. δ and η could b
 Could you suggest any way in which this could be accomplished?
 
 
-",,TensorBoard Tutorial
-if any one help me. i want to connect tensor board with mysql database. and i fetch data from database,,TensorBoard Tutorial
-A lot of useful information. Thanks.,,TensorBoard Tutorial
-The pictures aren't loading,,Essentials of Linear Regression in Python
-      I ,,Essentials of Linear Regression in Python
-"Well, the crash course to regression analysis is good. I would like it though if the notation in the regression models was consistent with the literature of econometrics, referring to the errors etc.",,Essentials of Linear Regression in Python
-I find this tutorial very interesting. may I have it for print? Just to take notes.,,Long to Wide Data in R
-"Thank you for this tutorial, Kim, it is very useful. I have a question: how do I get my data to be like Table 33? Thanks!",,Long to Wide Data in R
+",0,TensorBoard Tutorial
+if any one help me. i want to connect tensor board with mysql database. and i fetch data from database,1,TensorBoard Tutorial
+A lot of useful information. Thanks.,0,TensorBoard Tutorial
+The pictures aren't loading,0,Essentials of Linear Regression in Python
+      I ,1,Essentials of Linear Regression in Python
+"Well, the crash course to regression analysis is good. I would like it though if the notation in the regression models was consistent with the literature of econometrics, referring to the errors etc.",0,Essentials of Linear Regression in Python
+I find this tutorial very interesting. may I have it for print? Just to take notes.,0,Long to Wide Data in R
+"Thank you for this tutorial, Kim, it is very useful. I have a question: how do I get my data to be like Table 33? Thanks!",0,Long to Wide Data in R
 " 
 
 Gal Podjarny, the following link will answer your question. https://cran.r-project.org/web/packages/data.table/vignettes/datatable-reshape.html
@@ -1698,14 +1698,14 @@ Gal Podjarny, the following link will answer your question. https://cran.r-proje
 I am afraid you need to step into data.table world! Welcome :)
 
 
-",,Long to Wide Data in R
+",0,Long to Wide Data in R
 "I find standard R function  reshape more intuitive. This has nice example :
 
-https://www.statistician-online.com/1-data-management/reshaping-data-into-wide-or-long-format-in-r/   ",,Long to Wide Data in R
+https://www.statistician-online.com/1-data-management/reshaping-data-into-wide-or-long-format-in-r/   ",0,Long to Wide Data in R
 "35.192.42.58 refused to connect.
 
-Please ",,Google Cloud for Data Science: Beginner's Guide
-"HI @alexisp, did you try to train a ML model, even a very simple one on GCP ? ",,Google Cloud for Data Science: Beginner's Guide
+Please ",0,Google Cloud for Data Science: Beginner's Guide
+"HI @alexisp, did you try to train a ML model, even a very simple one on GCP ? ",0,Google Cloud for Data Science: Beginner's Guide
 "Thank you for sharing this!
 
 
@@ -1730,23 +1730,23 @@ Do I need to install some kind of unzip tool first? Did you also had this issue?
 
 Thanks,
 
-Tomi",,Google Cloud for Data Science: Beginner's Guide
-Thanks for the great article !!,,Google Cloud for Data Science: Beginner's Guide
+Tomi",0,Google Cloud for Data Science: Beginner's Guide
+Thanks for the great article !!,0,Google Cloud for Data Science: Beginner's Guide
 "Hi Alexis, when I run the command  gcloud compute --project=my_project_name firewall-rules create jupyter-rule --direction=INGRESS --priority=1000 --network=default --action=ALLOW --rules=tcp:8888 --source-ranges=0.0.0.0/0 , I get the error below
 
  ERROR: (gcloud.compute.firewall-rules.create) Could not fetch resource: - Insufficient Permission .
 
 Can you please advise on what I'm doing wrong
 
-Thanks",,Google Cloud for Data Science: Beginner's Guide
-Great! Thanks for the work,,Google Cloud for Data Science: Beginner's Guide
-source .bahsrc should be .bashrc,,Google Cloud for Data Science: Beginner's Guide
+Thanks",0,Google Cloud for Data Science: Beginner's Guide
+Great! Thanks for the work,0,Google Cloud for Data Science: Beginner's Guide
+source .bahsrc should be .bashrc,0,Google Cloud for Data Science: Beginner's Guide
 "Hi,
 
 How do i upload my data files into Google Cloud?
 
-And how to i download my output files from Google Cloud?",,Google Cloud for Data Science: Beginner's Guide
-"Hi  @alexisp, Thank you for this tutorial, I now can run some python jobs in Compute Engine. Now I wonder if I can schedule some jobs to run regularly(like cron job) in Compute Engine? I googled, but the solution I've found so far doesn't look easy to me, do you have any suggestion? ",,Google Cloud for Data Science: Beginner's Guide
+And how to i download my output files from Google Cloud?",0,Google Cloud for Data Science: Beginner's Guide
+"Hi  @alexisp, Thank you for this tutorial, I now can run some python jobs in Compute Engine. Now I wonder if I can schedule some jobs to run regularly(like cron job) in Compute Engine? I googled, but the solution I've found so far doesn't look easy to me, do you have any suggestion? ",0,Google Cloud for Data Science: Beginner's Guide
 "Hi, 
 
 
@@ -1758,19 +1758,19 @@ Thank you for providing this tutorial. After all the setup, do you know how can 
 
 
 
-",,Google Cloud for Data Science: Beginner's Guide
-Can you contrast this process with just using Cloud Datalab to set up the instance and notebook environment?,,Google Cloud for Data Science: Beginner's Guide
-I've got my jupyter notebook ready and try to work with keras. I am wondering how to upload datasets to the vm?,,Google Cloud for Data Science: Beginner's Guide
-"Two questions.  1. How do we tag a tutorial for future reference?  ie. in our datacamp accoount is there anyway to save this particular tutorial?  2. How to add a package to a google cloud datalabvm?  I'm asking this because tensorflow has ffmpeg support if the underlying binary is installed on the vm.  I've found notes about how to use apt inside of a datalab cell and it has supposedly installed ffmpeg, but when I ssh to the instance I do not find ffmpeg in my path.",,Google Cloud for Data Science: Beginner's Guide
+",0,Google Cloud for Data Science: Beginner's Guide
+Can you contrast this process with just using Cloud Datalab to set up the instance and notebook environment?,0,Google Cloud for Data Science: Beginner's Guide
+I've got my jupyter notebook ready and try to work with keras. I am wondering how to upload datasets to the vm?,0,Google Cloud for Data Science: Beginner's Guide
+"Two questions.  1. How do we tag a tutorial for future reference?  ie. in our datacamp accoount is there anyway to save this particular tutorial?  2. How to add a package to a google cloud datalabvm?  I'm asking this because tensorflow has ffmpeg support if the underlying binary is installed on the vm.  I've found notes about how to use apt inside of a datalab cell and it has supposedly installed ffmpeg, but when I ssh to the instance I do not find ffmpeg in my path.",0,Google Cloud for Data Science: Beginner's Guide
 "Hi @alexisp Thanks for this tutorial. I am wondering is possible install python 3.6 and jupyter notebook then work with BigQuery module.
 
 I just new on GCD. I used a datalab method. but it was a bad experience when I try to plot using seaborn.
 
-Any suggests? ",,Google Cloud for Data Science: Beginner's Guide
-"Hi Alexis. This is a very useful article. Is it possible to run the Julia Language with Jupiter Notebook in GCP? If it is possible, could you please provide some overall steps. Thank you!   ",,Google Cloud for Data Science: Beginner's Guide
-This tutorial is a gem. ,,Google Cloud for Data Science: Beginner's Guide
-Awesome tutorial.  FYI c.NotebookApp.ip = '*' yielded warnings when i initiated the jupyter server; specifying the VM's internal IP address instead of * fixed the issue.,,Google Cloud for Data Science: Beginner's Guide
-Great  tutorial !,,Google Cloud for Data Science: Beginner's Guide
+Any suggests? ",0,Google Cloud for Data Science: Beginner's Guide
+"Hi Alexis. This is a very useful article. Is it possible to run the Julia Language with Jupiter Notebook in GCP? If it is possible, could you please provide some overall steps. Thank you!   ",0,Google Cloud for Data Science: Beginner's Guide
+This tutorial is a gem. ,0,Google Cloud for Data Science: Beginner's Guide
+Awesome tutorial.  FYI c.NotebookApp.ip = '*' yielded warnings when i initiated the jupyter server; specifying the VM's internal IP address instead of * fixed the issue.,0,Google Cloud for Data Science: Beginner's Guide
+Great  tutorial !,0,Google Cloud for Data Science: Beginner's Guide
 "Hi,
 
 I don't seem to get this part to work ""(to switch to edit mode in vim, just type the i character). Quit and save with the following sequence ESC:wq.""
@@ -1778,22 +1778,22 @@ I don't seem to get this part to work ""(to switch to edit mode in vim, just typ
 
 
 
-Thank you",,Google Cloud for Data Science: Beginner's Guide
-"When opening in browser, it says, this site cant be reached!",,Google Cloud for Data Science: Beginner's Guide
+Thank you",0,Google Cloud for Data Science: Beginner's Guide
+"When opening in browser, it says, this site cant be reached!",1,Google Cloud for Data Science: Beginner's Guide
 "Firstly great tutorial, many thanks,
 
 something wrong with  jupyter I think. Found this fix tho:
 https://github.com/jupyter/notebook/issues/3946
 
 
-",,Google Cloud for Data Science: Beginner's Guide
+",0,Google Cloud for Data Science: Beginner's Guide
 "refused to connect,   
 
 This site can’t be reached
 
 refused to connect.
 
-Try:",,Google Cloud for Data Science: Beginner's Guide
+Try:",1,Google Cloud for Data Science: Beginner's Guide
 "Great tutorial - thank you. 
 
 Would it be possible to execute all the steps in the tutorial  via scripts ? I mean - there is a lot of GUI steps that I would like to bypass with a smart setup involving scripts. 
@@ -1802,9 +1802,9 @@ How would that work ?  Can you recommend a blog on this topic or would it be po
 
 Thank you. 
 
-Cheers, Jesper.",,Google Cloud for Data Science: Beginner's Guide
-Jupyter notebook refuse to connect.,,Google Cloud for Data Science: Beginner's Guide
-"  Many people are facing issue with email and maximum time the email issue is happening due to the server problem such as  Gmail error 007 and to solve this issue you need to disable Email Signature from antivirus, use Disk Cleanup.",,Google Cloud for Data Science: Beginner's Guide
+Cheers, Jesper.",0,Google Cloud for Data Science: Beginner's Guide
+Jupyter notebook refuse to connect.,1,Google Cloud for Data Science: Beginner's Guide
+"  Many people are facing issue with email and maximum time the email issue is happening due to the server problem such as  Gmail error 007 and to solve this issue you need to disable Email Signature from antivirus, use Disk Cleanup.",1,Google Cloud for Data Science: Beginner's Guide
 "when I try to run  
 
 gcloud compute ssh <instance name> 
@@ -1815,10 +1815,10 @@ I get the error:
 
 (**** identify my account)
 
-Any idea why this could be happeniing? It is the same error I get everytime I try to use Datalab",,Google Cloud for Data Science: Beginner's Guide
+Any idea why this could be happeniing? It is the same error I get everytime I try to use Datalab",0,Google Cloud for Data Science: Beginner's Guide
 "Thanks for the steps.
 How do you read local files using Jupyter notebooks on GCP?
-Thanks",,Google Cloud for Data Science: Beginner's Guide
+Thanks",0,Google Cloud for Data Science: Beginner's Guide
 "Hi,
 
 when I issue command in the google cloud to launch the jupyter notebook  ( $ jupyter-notebook --no-browser --port=8888 ) , I got the error message as below
@@ -1836,13 +1836,13 @@ Detailed Error Message from the Console :
 
 
 
-  File ""/home/messagetolakshman/miniconda3/lib/python3.7/site-packages/notebook/notebookapp.py"", line 864, in _default_allow_remote    addr = ipaddress.ip_address(self.ip)  File ""/home/messagetolakshman/miniconda3/lib/python3.7/ipaddress.py"", line 54, in ip_address    address)ValueError: '' does not appear to be an IPv4 or IPv6 addressDuring handling of the above exception, another exception occurred:Traceback (most recent call last):  File ""/home/messagetolakshman/miniconda3/bin/jupyter-notebook"", line 11, in <module>    sys.exit(main())  File ""/home/messagetolakshman/miniconda3/lib/python3.7/site-packages/jupyter_core/application.py"", line 266, in launch_instance    return super(JupyterApp, cls).launch_instance(argv=argv, **kwargs)  File ""/home/messagetolakshman/miniconda3/lib/python3.7/site-packages/traitlets/config/application.py"", line 657, in launch_instance    app.initialize(argv)  File ""</home/messagetolakshman/miniconda3/lib/python3.7/site-packages/decorator.py:decorator-gen-7>"", line 2, in initialize  File ""/home/messagetolakshman/miniconda3/lib/python3.7/site-packages/traitlets/config/application.py"", line 87, in catch_config_error    return method(app, *args, **kwargs)  File ""/home/messagetolakshman/miniconda3/lib/python3.7/site-packages/notebook/notebookapp.py"", line 1630, in initialize    self.init_webapp()  File ""/home/messagetolakshman/miniconda3/lib/python3.7/site-packages/notebook/notebookapp.py"", line 1378, in init_webapp    self.jinja_environment_options,  File ""/home/messagetolakshman/miniconda3/lib/python3.7/site-packages/notebook/notebookapp.py"", line 159, in __init__    default_url, settings_overrides, jinja_env_options)  File ""/home/messagetolakshman/miniconda3/lib/python3.7/site-packages/notebook/notebookapp.py"", line 252, in init_settings    allow_remote_access=jupyter_app.allow_remote_access,  File ""/home/messagetolakshman/miniconda3/lib/python3.7/site-packages/traitlets/traitlets.py"", line 556, in __get__    return self.get(obj, cls)  File ""/home/messagetolakshman/miniconda3/lib/python3.7/site-packages/traitlets/traitlets.py"", line 535, in get    value = self._validate(obj, dynamic_default())  File ""/home/messagetolakshman/miniconda3/lib/python3.7/site-packages/notebook/notebookapp.py"", line 867, in _default_allow_remote    for info in socket.getaddrinfo(self.ip, self.port, 0, socket.SOCK_STREAM):  File ""/home/messagetolakshman/miniconda3/lib/python3.7/socket.py"", line 748, in getaddrinfo    for res in _socket.getaddrinfo(host, port, family, type, proto, flags):socket.gaierror: [Errno -2] Name or service not known ",,Google Cloud for Data Science: Beginner's Guide
-Hi aditya i really loved your explanation but i really find a problem when i want to process my own dataset if you could advice me a tutorial to follow thank you so much for this great post ,,Convolutional Neural Networks with TensorFlow
+  File ""/home/messagetolakshman/miniconda3/lib/python3.7/site-packages/notebook/notebookapp.py"", line 864, in _default_allow_remote    addr = ipaddress.ip_address(self.ip)  File ""/home/messagetolakshman/miniconda3/lib/python3.7/ipaddress.py"", line 54, in ip_address    address)ValueError: '' does not appear to be an IPv4 or IPv6 addressDuring handling of the above exception, another exception occurred:Traceback (most recent call last):  File ""/home/messagetolakshman/miniconda3/bin/jupyter-notebook"", line 11, in <module>    sys.exit(main())  File ""/home/messagetolakshman/miniconda3/lib/python3.7/site-packages/jupyter_core/application.py"", line 266, in launch_instance    return super(JupyterApp, cls).launch_instance(argv=argv, **kwargs)  File ""/home/messagetolakshman/miniconda3/lib/python3.7/site-packages/traitlets/config/application.py"", line 657, in launch_instance    app.initialize(argv)  File ""</home/messagetolakshman/miniconda3/lib/python3.7/site-packages/decorator.py:decorator-gen-7>"", line 2, in initialize  File ""/home/messagetolakshman/miniconda3/lib/python3.7/site-packages/traitlets/config/application.py"", line 87, in catch_config_error    return method(app, *args, **kwargs)  File ""/home/messagetolakshman/miniconda3/lib/python3.7/site-packages/notebook/notebookapp.py"", line 1630, in initialize    self.init_webapp()  File ""/home/messagetolakshman/miniconda3/lib/python3.7/site-packages/notebook/notebookapp.py"", line 1378, in init_webapp    self.jinja_environment_options,  File ""/home/messagetolakshman/miniconda3/lib/python3.7/site-packages/notebook/notebookapp.py"", line 159, in __init__    default_url, settings_overrides, jinja_env_options)  File ""/home/messagetolakshman/miniconda3/lib/python3.7/site-packages/notebook/notebookapp.py"", line 252, in init_settings    allow_remote_access=jupyter_app.allow_remote_access,  File ""/home/messagetolakshman/miniconda3/lib/python3.7/site-packages/traitlets/traitlets.py"", line 556, in __get__    return self.get(obj, cls)  File ""/home/messagetolakshman/miniconda3/lib/python3.7/site-packages/traitlets/traitlets.py"", line 535, in get    value = self._validate(obj, dynamic_default())  File ""/home/messagetolakshman/miniconda3/lib/python3.7/site-packages/notebook/notebookapp.py"", line 867, in _default_allow_remote    for info in socket.getaddrinfo(self.ip, self.port, 0, socket.SOCK_STREAM):  File ""/home/messagetolakshman/miniconda3/lib/python3.7/socket.py"", line 748, in getaddrinfo    for res in _socket.getaddrinfo(host, port, family, type, proto, flags):socket.gaierror: [Errno -2] Name or service not known ",0,Google Cloud for Data Science: Beginner's Guide
+Hi aditya i really loved your explanation but i really find a problem when i want to process my own dataset if you could advice me a tutorial to follow thank you so much for this great post ,0,Convolutional Neural Networks with TensorFlow
 "Sir
 
 I have  gone through your tutorial and I have learned a lot form it specially how to build the CNN in tensorflow. But i have one query that how to use own dataset which is only in the form of images such as kaggle dataset compromising of cat and dogs images.
 
-Thank you",,Convolutional Neural Networks with TensorFlow
+Thank you",0,Convolutional Neural Networks with TensorFlow
 "how can we label our own  image?
 
 Is there any way of building label for specific image?
@@ -1851,91 +1851,91 @@ Is there any way of building label for specific image?
 
 
 
-",,Convolutional Neural Networks with TensorFlow
-Excellent article. Pretty lucidly explained.,,Convolutional Neural Networks with TensorFlow
-"Hi Mate, The way you explained about the blog was fantastic, I have learnt a lot about Tensorflow . This is going help most of our friends like me. Once again thanks!!Keep  Sharing ",,Convolutional Neural Networks with TensorFlow
+",0,Convolutional Neural Networks with TensorFlow
+Excellent article. Pretty lucidly explained.,0,Convolutional Neural Networks with TensorFlow
+"Hi Mate, The way you explained about the blog was fantastic, I have learnt a lot about Tensorflow . This is going help most of our friends like me. Once again thanks!!Keep  Sharing ",0,Convolutional Neural Networks with TensorFlow
 "Very helpful.
 
 There is a typo in this part: 
 
-""If you can recall from the above figure that the first convolution layer has 32-3x3 filters, so the first key (wc1) in the weight dictionary has an argument shape that takes a tuple with 4 values: the first and the second are the filter size, while the third is the number of channels in the input image and the last represents the number of convolution filters you want in the first convolution layer. The first key in biases dictionary, bc1, will have 32 bias parameters. """,,Convolutional Neural Networks with TensorFlow
+""If you can recall from the above figure that the first convolution layer has 32-3x3 filters, so the first key (wc1) in the weight dictionary has an argument shape that takes a tuple with 4 values: the first and the second are the filter size, while the third is the number of channels in the input image and the last represents the number of convolution filters you want in the first convolution layer. The first key in biases dictionary, bc1, will have 32 bias parameters. """,0,Convolutional Neural Networks with TensorFlow
 "why do we reshape the data like below
 
  train_X = data.train.images.reshape(-1, 28, 28, 1) 
 
-test_X = data.test.images.reshape(-1,28,28,1) ",,Convolutional Neural Networks with TensorFlow
+test_X = data.test.images.reshape(-1,28,28,1) ",0,Convolutional Neural Networks with TensorFlow
 "When I tried to execute the code, it achieved 100% training accuracy and more than 97% testing accuracy on the first run:
 
  Iter 0, Loss= 0.012246, Training Accuracy= 1.00000 Optimization Finished! Testing Accuracy: 0.97510 
 
 Another strange thing is when I tried to execute this line of code "" curr_img = np.reshape(data.train.images[0], (28,28)) "", it shows a hand-written number 7 instead of a 'sneaker'.
 
-Still this is a fantastic paper and I really benefited significantly.",,Convolutional Neural Networks with TensorFlow
+Still this is a fantastic paper and I really benefited significantly.",0,Convolutional Neural Networks with TensorFlow
 "Hi, i'm new to cnn and i'm following your tutorials but i'm having some challenges. First, I've successfully loaded the fashion-mnist-dataset but i can't display the images like you have. By the way, i'm using a CPU and not a GPU. I will be very glad to be assisted. Thank you
 
 
-",,Convolutional Neural Networks with TensorFlow
+",0,Convolutional Neural Networks with TensorFlow
 "Hello,
 
-Thanks for the nicely written tutorial.  I want to request you to put up a tutorial on writing  a custom layer in tensorflow  with trainable weights. The layer takes 2D/3D tensors as input, perform some operations and gives 2D/3D tensor as output. Thanks in advance.",,Convolutional Neural Networks with TensorFlow
-.....,,Convolutional Neural Networks with TensorFlow
-Excellent article Sharma!!,,Convolutional Neural Networks with TensorFlow
-Hi.... I started running the code line by line... but when i tried to print the first vector of an image it give me an image of digit 7.... Could you tell me how can i use the mnist fashion data instead of mnist digits data... ? Thanks in advance.,,Convolutional Neural Networks with TensorFlow
-"Thank you for this tutorial, very helpful and productive to move towards using a terminal in place of pg admin.",,10 Command-line Utilities in PostgreSQL
+Thanks for the nicely written tutorial.  I want to request you to put up a tutorial on writing  a custom layer in tensorflow  with trainable weights. The layer takes 2D/3D tensors as input, perform some operations and gives 2D/3D tensor as output. Thanks in advance.",0,Convolutional Neural Networks with TensorFlow
+.....,1,Convolutional Neural Networks with TensorFlow
+Excellent article Sharma!!,0,Convolutional Neural Networks with TensorFlow
+Hi.... I started running the code line by line... but when i tried to print the first vector of an image it give me an image of digit 7.... Could you tell me how can i use the mnist fashion data instead of mnist digits data... ? Thanks in advance.,0,Convolutional Neural Networks with TensorFlow
+"Thank you for this tutorial, very helpful and productive to move towards using a terminal in place of pg admin.",0,10 Command-line Utilities in PostgreSQL
 "Hello,
 
 Thanks for this excellent post.
 
 my question is if I have some categorical characteristics in the dataset, what should I do, convert the categorical variables into fictitious variables and then apply PCA, or is there some other treatment for the categorical variables for the dimensional reduction?
 
-Thanks for your reply and excuse for my poor English.",,Principal Component Analysis (PCA) in Python
+Thanks for your reply and excuse for my poor English.",0,Principal Component Analysis (PCA) in Python
 " Very interesting article. Thank you very much. I never thought that I would have an interest in playing poker. What about  Analyzing Poker Hands with Python on site  https://rocketpayz.com/blackjack-online-paypal/  . I think it will useful for users.
 
 
-",,Analyzing Poker Hands with Python
+",0,Analyzing Poker Hands with Python
 "Well written, simple and effective. 
 
 Maybe it would be help to show a table of all metacommands (beginning with a dot) or at least to provide a link to such a table. 
 
-Same for SQL: provide a link to SQLite's syntax as special dialect of SQL.",,Beginners Guide to SQLite
-Great article! Very well writen!,,Hierarchical Clustering in R
-merci de partager cet article avec nous,,Hierarchical Clustering in R
+Same for SQL: provide a link to SQLite's syntax as special dialect of SQL.",0,Beginners Guide to SQLite
+Great article! Very well writen!,0,Hierarchical Clustering in R
+merci de partager cet article avec nous,0,Hierarchical Clustering in R
 "Thanks for sharing !
 
-How can I extract the exact height values for each sample as plotted in my dendrogram?",,Hierarchical Clustering in R
-You are good. Please can we work together on Deep Learning stuff. You introduction to deep learning is revealing and eye-opening.  Emai- ttorku01@gmail.com. Will be expecting your feedbac.,,Introduction to Deep Learning in Python
-Worth reading. Thanks for putting all the knowledge together.,,Introduction to Deep Learning in Python
+How can I extract the exact height values for each sample as plotted in my dendrogram?",0,Hierarchical Clustering in R
+You are good. Please can we work together on Deep Learning stuff. You introduction to deep learning is revealing and eye-opening.  Emai- ttorku01@gmail.com. Will be expecting your feedbac.,1,Introduction to Deep Learning in Python
+Worth reading. Thanks for putting all the knowledge together.,0,Introduction to Deep Learning in Python
 "interesting
 
 
-",,Introduction to Deep Learning in Python
-Thank you for the article. Great read and very interesting!,,Introduction to Deep Learning in Python
-sting,,Introduction to Deep Learning in Python
+",0,Introduction to Deep Learning in Python
+Thank you for the article. Great read and very interesting!,0,Introduction to Deep Learning in Python
+sting,0,Introduction to Deep Learning in Python
 "A simple to understand article. Thank you.
 
 I just have one question. How do you define weights? 
 
-For e.g In first example of loan, weights being used were 1,1,1,-1. How did we arrive on this? What happens if I use a different weight such as 1,1,1,1?",,Introduction to Deep Learning in Python
+For e.g In first example of loan, weights being used were 1,1,1,-1. How did we arrive on this? What happens if I use a different weight such as 1,1,1,1?",0,Introduction to Deep Learning in Python
 "No words ...
 
-Owsme ",,Introduction to Deep Learning in Python
+Owsme ",1,Introduction to Deep Learning in Python
 " USPS is a kind of independent agency of the United States government which is in charge of offering postal service in the United States. The part about USPS is that it has exclusive access. 
 
 postalexperience    |
 
 peryourhealth    |
 
-chainsaw helmet",,Introduction to Deep Learning in Python
-The mutual exclusive formula is wrong. the Overlap is the intersection of A and B and not the union.,,Poker Probability and Statistics with Python
-" turn_non_diamonds = cards - outs - non_diamonds_drawn   This line is wrong because non_diamonds_drawn  subtracted from  cards = cards - (hole_cards + flop_community_cards) , so  it must be  turn_non_diamonds = cards - outs",,Poker Probability and Statistics with Python
-great details,,Poker Probability and Statistics with Python
-Great article! Very clear and the walk through steps are so helpful! Curious if this could be modified for a binary variable?  (for example test if Gender is significant  in predicting Heart Disease) ,,"Stocks, Significance Testing & p-Hacking"
+chainsaw helmet",1,Introduction to Deep Learning in Python
+The mutual exclusive formula is wrong. the Overlap is the intersection of A and B and not the union.,1,Poker Probability and Statistics with Python
+" turn_non_diamonds = cards - outs - non_diamonds_drawn   This line is wrong because non_diamonds_drawn  subtracted from  cards = cards - (hole_cards + flop_community_cards) , so  it must be  turn_non_diamonds = cards - outs",1,Poker Probability and Statistics with Python
+great details,0,Poker Probability and Statistics with Python
+Great article! Very clear and the walk through steps are so helpful! Curious if this could be modified for a binary variable?  (for example test if Gender is significant  in predicting Heart Disease) ,0,"Stocks, Significance Testing & p-Hacking"
 "I found this tutorial very helpful -- thank you!
 
-Is there a reason you chose to  analyze the rank of the months instead of analyzing the ""raw"" average monthly volatilities (AMV)? Would we not expect there to be less variation in rank? When I repeated this analysis on AMV, October became the monthly with the greatest deviation from average, and its extremeness was significant even after accounting for multiple comparisons.",,"Stocks, Significance Testing & p-Hacking"
-" I've been making heaps of small little programs for fun like a dice roll/coin flip. So naturally I wanna go to the next level. I've always wanted to make games so I was wondering if there are any really good, well written Pygame tutorial.",,Pickle in Python: Object Serialization
-very well written :) ,,Pickle in Python: Object Serialization
-Good article. Kept it simple and understandable.,,Pickle in Python: Object Serialization
+Is there a reason you chose to  analyze the rank of the months instead of analyzing the ""raw"" average monthly volatilities (AMV)? Would we not expect there to be less variation in rank? When I repeated this analysis on AMV, October became the monthly with the greatest deviation from average, and its extremeness was significant even after accounting for multiple comparisons.",0,"Stocks, Significance Testing & p-Hacking"
+" I've been making heaps of small little programs for fun like a dice roll/coin flip. So naturally I wanna go to the next level. I've always wanted to make games so I was wondering if there are any really good, well written Pygame tutorial.",0,Pickle in Python: Object Serialization
+very well written :) ,0,Pickle in Python: Object Serialization
+Good article. Kept it simple and understandable.,0,Pickle in Python: Object Serialization
 "Very well explained. 
 
 One error I'm facing is while performing this step;
@@ -1948,27 +1948,27 @@ It's showing UnpicklingError: pickle data was truncated.
 
 Any solution for that?
 
-thanks.",,Pickle in Python: Object Serialization
-"Very helpful with the subtopics of when to use pickle and when not to use. Also, great Python Examples.",,Pickle in Python: Object Serialization
-I have found lots of example in your article tank trouble game . Many time this indicate lots of things which I want to use always.,,Pickle in Python: Object Serialization
-"Thank you Steph for the wonderful article! If I already have a template (.tplx file), how to let jupyter notebook use it as the default template whenever I convert a notebook into PDF using File|Download as PDF?",,Custom Templates for Jupyter Notebooks with Jinja2
-"Thanks Steph. Sometimes when I create a pdf file using nbconvert (latex), it creates very wide tables that goes that breaks into miltiple pages or goes out side of printing margin. Is there anyway that I can change the template to put the table in a box and scake it down?",,Custom Templates for Jupyter Notebooks with Jinja2
-thank you so much for this great tutorial.  I am trying to generate a template that remove the In[]/Out[] column in the html file. how can I remove this column ?,,Custom Templates for Jupyter Notebooks with Jinja2
-"If you are thinking about how to delete bing history search in device then you are required to know about this function after using this tutorial, that the fantastic way to understand in this history removing.",,Custom Templates for Jupyter Notebooks with Jinja2
-thanks for this article.. its very helpfull for me to understand the OOP concept in python,,Python Object-Oriented Programming (OOP): Tutorial
-"this article is so good, it would be  great if we found this courses on datacamp library courses",,Python Object-Oriented Programming (OOP): Tutorial
+thanks.",0,Pickle in Python: Object Serialization
+"Very helpful with the subtopics of when to use pickle and when not to use. Also, great Python Examples.",0,Pickle in Python: Object Serialization
+I have found lots of example in your article tank trouble game . Many time this indicate lots of things which I want to use always.,0,Pickle in Python: Object Serialization
+"Thank you Steph for the wonderful article! If I already have a template (.tplx file), how to let jupyter notebook use it as the default template whenever I convert a notebook into PDF using File|Download as PDF?",0,Custom Templates for Jupyter Notebooks with Jinja2
+"Thanks Steph. Sometimes when I create a pdf file using nbconvert (latex), it creates very wide tables that goes that breaks into miltiple pages or goes out side of printing margin. Is there anyway that I can change the template to put the table in a box and scake it down?",0,Custom Templates for Jupyter Notebooks with Jinja2
+thank you so much for this great tutorial.  I am trying to generate a template that remove the In[]/Out[] column in the html file. how can I remove this column ?,0,Custom Templates for Jupyter Notebooks with Jinja2
+"If you are thinking about how to delete bing history search in device then you are required to know about this function after using this tutorial, that the fantastic way to understand in this history removing.",1,Custom Templates for Jupyter Notebooks with Jinja2
+thanks for this article.. its very helpfull for me to understand the OOP concept in python,0,Python Object-Oriented Programming (OOP): Tutorial
+"this article is so good, it would be  great if we found this courses on datacamp library courses",0,Python Object-Oriented Programming (OOP): Tutorial
 "Thanks a lot.  I have been looking  for such article on python OOP.  wish more on the same topic.
 
-thanks ",,Python Object-Oriented Programming (OOP): Tutorial
+thanks ",0,Python Object-Oriented Programming (OOP): Tutorial
 "It helped me, but I couldn`t quite understand the  Passing arguments to methods as much as I would like.
 
-Can anyone help me understand the buddy.buddy?",,Python Object-Oriented Programming (OOP): Tutorial
+Can anyone help me understand the buddy.buddy?",0,Python Object-Oriented Programming (OOP): Tutorial
 "Thanks for the article. I typically write functions and leave things at that. This article was really helpful. I had one question, in the MovingAverage class, when initializing stuff, why choose to init both symbol and bars (also why the variable name ""bars""?). As far as I can make out, only bars is necessary to run the method.
 
-Also I think you want to pass bars to the generate_signals method - def generate_signals(self, bars)",,Python Object-Oriented Programming (OOP): Tutorial
-"Thanks for author for writing article in simple way, which can easily understood. My opinion is this article is mainly focused on basics of classes but some advanced concepts like inheritance which has lion's share in oops concept was not discussed.",,Python Object-Oriented Programming (OOP): Tutorial
-Thanks ! Very Nice Article !!,,Python Object-Oriented Programming (OOP): Tutorial
- ,,Machine Learning in R for beginners
+Also I think you want to pass bars to the generate_signals method - def generate_signals(self, bars)",0,Python Object-Oriented Programming (OOP): Tutorial
+"Thanks for author for writing article in simple way, which can easily understood. My opinion is this article is mainly focused on basics of classes but some advanced concepts like inheritance which has lion's share in oops concept was not discussed.",0,Python Object-Oriented Programming (OOP): Tutorial
+Thanks ! Very Nice Article !!,0,Python Object-Oriented Programming (OOP): Tutorial
+ ,1,Machine Learning in R for beginners
 " 
 
 Computationally, OOP software is slower, and uses more memory since more lines of code have to be written.
@@ -1988,8 +1988,8 @@ def setBuddy(self, buddy):
     buddy.buddy = self
 
 
-Mutating arguments is considered a bad practice.",,Python Object-Oriented Programming (OOP): Tutorial
-Thanks a lot. It's really good article. ,,Python Object-Oriented Programming (OOP): Tutorial
+Mutating arguments is considered a bad practice.",0,Python Object-Oriented Programming (OOP): Tutorial
+Thanks a lot. It's really good article. ,0,Python Object-Oriented Programming (OOP): Tutorial
 "Thanks for the article! It was informative and easy to follow, well done. A few minor typos stuck out to me as I read, which I pass on to you:
 
 1. In the Introduction a paragraph ends with ""but now how to do it."" when I believe it should be ""but not how to do it.""
@@ -1998,9 +1998,9 @@ Thanks a lot. It's really good article. ,,Python Object-Oriented Programming (O
 
 3. In Example: OOP in Python for finance, there is ""you'll see that there is first a initialisation,"" when I believe it should be ""you'll see that there is first an initialisation,"".
 
-Thanks again.",,Python Object-Oriented Programming (OOP): Tutorial
-The information which you have given is very useful and really benificial for the beginers who want to learn OOP but when I am installing it in Mac then it is not working and automatically safari browser is opening and throwing an error called Safari can't Establish a Secure Connection,,Python Object-Oriented Programming (OOP): Tutorial
-Thank you very much. Very nice article,,Python Object-Oriented Programming (OOP): Tutorial
+Thanks again.",0,Python Object-Oriented Programming (OOP): Tutorial
+The information which you have given is very useful and really benificial for the beginers who want to learn OOP but when I am installing it in Mac then it is not working and automatically safari browser is opening and throwing an error called Safari can't Establish a Secure Connection,1,Python Object-Oriented Programming (OOP): Tutorial
+Thank you very much. Very nice article,0,Python Object-Oriented Programming (OOP): Tutorial
 "Hey, This is a great article. I was searching for the same and I found the best content here. I want learn python as industries are mostly using this language Thanks for sharing the info. keep on doing the great work. https://livetechsupport.org/sage-50-support/
 
 
@@ -2010,12 +2010,12 @@ Thank you very much. Very nice article,,Python Object-Oriented Programming (OOP)
 
 
 
-",,Python Object-Oriented Programming (OOP): Tutorial
-thank you guys so much i was having a hard time trying to learn this but thanks to you i got it right and learned something new and understand it ,,Python Object-Oriented Programming (OOP): Tutorial
-thank you.. this helped so much,,Python Object-Oriented Programming (OOP): Tutorial
+",1,Python Object-Oriented Programming (OOP): Tutorial
+thank you guys so much i was having a hard time trying to learn this but thanks to you i got it right and learned something new and understand it ,0,Python Object-Oriented Programming (OOP): Tutorial
+thank you.. this helped so much,0,Python Object-Oriented Programming (OOP): Tutorial
 "Thank you so much Théo! A very clear explanation using a simple yet effective example.
 
-After the tutorial I immediately could see some possible improvements (and the benefits of OOP) in the finance example :-)",,Python Object-Oriented Programming (OOP): Tutorial
+After the tutorial I immediately could see some possible improvements (and the benefits of OOP) in the finance example :-)",0,Python Object-Oriented Programming (OOP): Tutorial
 "import pandas as pd
 import numpy as np
 import pandas_datareader as pdr
@@ -2061,16 +2061,16 @@ print(microsoft.generate_signals())
 
 
 
-this works, you have to install pandas and pandas_datareader via pip though if you want it to work",,Python Object-Oriented Programming (OOP): Tutorial
+this works, you have to install pandas and pandas_datareader via pip though if you want it to work",0,Python Object-Oriented Programming (OOP): Tutorial
 "hi team,well explained and i have the doubt... as our theme is to identify "" The classification goal is to predict if the client will subscribe a term deposit or not "" 
 
-so after knowing the which parameter makes imp and non imp ...how to predict for each customer to predict will customer subscribe or not? please share that one too,it makes more helpful for the Article.",,Feature Selection in R with the Boruta R Package
-can you show the code to get the last scatterplot ?,,DBSCAN: A Macroscopic Investigation in Python
+so after knowing the which parameter makes imp and non imp ...how to predict for each customer to predict will customer subscribe or not? please share that one too,it makes more helpful for the Article.",0,Feature Selection in R with the Boruta R Package
+can you show the code to get the last scatterplot ?,0,DBSCAN: A Macroscopic Investigation in Python
 " core_samples = np.zeros_like(labels, dtype = bool) 
 
 core_samples[dbsc.core_sample_indices_] = True 
 
-What do these lines do?",,DBSCAN: A Macroscopic Investigation in Python
+What do these lines do?",0,DBSCAN: A Macroscopic Investigation in Python
 "Hallo, this is Mario from Germany.
 
 I thank you for the great content and I wanted to ask:
@@ -2079,9 +2079,9 @@ Which Editor/Developer Environment are you using? It looks great with the backgr
 
 Would be happy to get to know about that.
 
-Mario",,Python time.sleep() Function
-Superb ,,Python time.sleep() Function
-Can u guide me please i am stuck in one project please guide me ,,Python time.sleep() Function
+Mario",0,Python time.sleep() Function
+Superb ,0,Python time.sleep() Function
+Can u guide me please i am stuck in one project please guide me ,1,Python time.sleep() Function
 "A Simple Example: 
 
 import time
@@ -2116,22 +2116,22 @@ Waiting for 1 seconds
 
 Waiting for 2 seconds
 
-If you have any doubt then I am ready to help you by Python Course in Noida",,Python time.sleep() Function
+If you have any doubt then I am ready to help you by Python Course in Noida",0,Python time.sleep() Function
 "Any suggestions on how to read in a csv file  that has 30 columns and 3000 rows of numbers? 
 
 Input: FILENAME<-read.table(file.choose(),header=TRUE,nrows=3000)
 
-1924 line excluded.",,Importing Data Into R - Part Two
-What a great post! Incredibly helpful especially because of its inclusion of large datasets.,,Importing Data Into R - Part Two
+1924 line excluded.",0,Importing Data Into R - Part Two
+What a great post! Incredibly helpful especially because of its inclusion of large datasets.,0,Importing Data Into R - Part Two
 "Well, I have some longtime i search lots of reading and interesting blog for increasing my knowledge for online course. When i am searching on google and more social platform for these blogs so I saw your site on top of 10 sites I must appreciate your work blog I really like this.I bookmarked yours for more information. Keep updating Us for Joseph Morgans | Samish Leather likes blog.
 
 Thanks for this blog. ",,Importing Data Into R - Part Two
 "It is a nice game to play for the enjoyment free xbox money codes and every one will be entertained from the core of their heart play and enjoy it.
 
 
-",,Importing Data Into R - Part Two
-Data campaign is followed for the dial paths for the humans. The change of the society and check that it is produced for the humans. The suggestion is followed for the minute items for the humans.,,Spreadsheets with Tableau
-"great article, thank you!",,Python Loops Tutorial
+",1,Importing Data Into R - Part Two
+Data campaign is followed for the dial paths for the humans. The change of the society and check that it is produced for the humans. The suggestion is followed for the minute items for the humans.,1,Spreadsheets with Tableau
+"great article, thank you!",0,Python Loops Tutorial
 "Loops in Python have always been a complicated issue for me. Thank you for clearing this for me a little bit.
 
 
@@ -2139,19 +2139,19 @@ Data campaign is followed for the dial paths for the humans. The change of the s
 
 Regards,
 
- achieve essays ",,Python Loops Tutorial
-"Thanks,         beginner ",,Python Loops Tutorial
-"Having problems with the ""timeit."" function on the For and While loops. Is this only valid when running Python 2.x? Seems to run indefinitely--even when running only 10 or 100 times instead of 10,000.",,Python Loops Tutorial
-can you solve the mysterious jumble solver online.,,Python Loops Tutorial
-I have agreed this website is very nice and i found a interesting game  imvu hack i play this game is very funny and full enjoy with  your  friends.,,Python Loops Tutorial
+ achieve essays ",0,Python Loops Tutorial
+"Thanks,         beginner ",1,Python Loops Tutorial
+"Having problems with the ""timeit."" function on the For and While loops. Is this only valid when running Python 2.x? Seems to run indefinitely--even when running only 10 or 100 times instead of 10,000.",1,Python Loops Tutorial
+can you solve the mysterious jumble solver online.,1,Python Loops Tutorial
+I have agreed this website is very nice and i found a interesting game  imvu hack i play this game is very funny and full enjoy with  your  friends.,1,Python Loops Tutorial
 "I have a problem .I do not understand loop whenever I'm  solving loop related query with myself totally confused .So can you please tell me the way to understand loop  related difficulty .
 
  https://www.i2tutorials.com/python-tutorial/
 
 
-",,Python Loops Tutorial
-Great article! Wish DataCamp can have e a text analysis python course!,,Latent Semantic Analysis using Python
-"I am new to python and using Spyder. I am unable to install and import 'gensim' and I am getting this error  ""No module named 'gensim' whenever I try to run the command ""from gensim import corpora"". Kindly help me with this. Thanks and Regards.",,Latent Semantic Analysis using Python
+",1,Python Loops Tutorial
+Great article! Wish DataCamp can have e a text analysis python course!,0,Latent Semantic Analysis using Python
+"I am new to python and using Spyder. I am unable to install and import 'gensim' and I am getting this error  ""No module named 'gensim' whenever I try to run the command ""from gensim import corpora"". Kindly help me with this. Thanks and Regards.",0,Latent Semantic Analysis using Python
 "Isn't it 
 
  number_of_topics instead of 
@@ -2160,7 +2160,7 @@ Great article! Wish DataCamp can have e a text analysis python course!,,Latent S
 
  def compute_coherence_values part
 
-?",,Latent Semantic Analysis using Python
+?",0,Latent Semantic Analysis using Python
 "I have a problem when I want to plot topics  and compute the coehrence  compute_coherence_values and plot 
 
 
@@ -2182,15 +2182,15 @@ Great article! Wish DataCamp can have e a text analysis python course!,,Latent S
 
     raise ValueError(""This topic model is not currently supported. Supported topic models are""
 
-ValueError: This topic model is not currently supported. Supported topic models areLdaModel, LdaVowpalWabbit and LdaMallet.",,Latent Semantic Analysis using Python
-Lets say I want to do sentiment analysis on the topics identified. How do I then identify the topics with my model in a new corpus?,,Latent Semantic Analysis using Python
-How do I compare this with vector space in terms of document similarity?,,Latent Semantic Analysis using Python
+ValueError: This topic model is not currently supported. Supported topic models areLdaModel, LdaVowpalWabbit and LdaMallet.",0,Latent Semantic Analysis using Python
+Lets say I want to do sentiment analysis on the topics identified. How do I then identify the topics with my model in a new corpus?,0,Latent Semantic Analysis using Python
+How do I compare this with vector space in terms of document similarity?,0,Latent Semantic Analysis using Python
 "Great Article on Topic Identification. While running the data load step, I encountered issues as there are unrecognized characters in the input file.  Converting the input to 'utf-8' solved the issue for me. Just wanted to let you know.
 
 with open( os.path.join(path, file_name) ,""r"", encoding='utf_8') as fin:
 
 
-",,Latent Semantic Analysis using Python
+",0,Latent Semantic Analysis using Python
 "I enjoyed reading this tutorial and learned new things. I have a question in these lines that I think was not answered. Sometimes, I use loops to do an iterative task, and I store the results in a vector. Is there a more efficient alternative?
 
 m=20
@@ -2207,8 +2207,8 @@ odd
 
 
 
-",,A Tutorial on Loops in R - Usage and Alternatives
-This was really helpful. Thanks for the article.,,A Tutorial on Loops in R - Usage and Alternatives
+",0,A Tutorial on Loops in R - Usage and Alternatives
+This was really helpful. Thanks for the article.,0,A Tutorial on Loops in R - Usage and Alternatives
 "Hello, I am trying to use a for loop in r in this form 
 
 for I=n-1:-1:1
@@ -2221,15 +2221,15 @@ I want the calculation to be from i[6], i[5]........i[1] 
 
 I used seq() but that is not working for me
 
-Cheers,",,A Tutorial on Loops in R - Usage and Alternatives
+Cheers,",0,A Tutorial on Loops in R - Usage and Alternatives
 "I had to use for loops but within the for loops I included verctorization. A combination of both seems to make readability easier for many different iterative processes.
 
-Very helpful article, I've been wondering on how to improve my efficiency in R and accidentally tumbled here. Thanks!",,A Tutorial on Loops in R - Usage and Alternatives
+Very helpful article, I've been wondering on how to improve my efficiency in R and accidentally tumbled here. Thanks!",0,A Tutorial on Loops in R - Usage and Alternatives
 "Thanks for this helpful post. I'd like to know how to transform variables in logarithm and store them in new columns.
 
 For example I have three numeric variables : 'age', 'speed' and 'wealth'; and I want to create new columns named 'log_age', 'log_speed' and 'log_wealth' in the same dataframe
 
-How could I use loops or vectorization to do this?",,A Tutorial on Loops in R - Usage and Alternatives
+How could I use loops or vectorization to do this?",0,A Tutorial on Loops in R - Usage and Alternatives
 "hello sir, 
 
 i found your post really very intresting. thankyou for sharing the post. 
@@ -2241,18 +2241,18 @@ have a look at my website: https://onlinepharmacypill.com
 <a href=""https://onlinepharmacypill.com""> onlinepharmacypill.com </a>
 
 
-",,A Tutorial on Loops in R - Usage and Alternatives
+",1,A Tutorial on Loops in R - Usage and Alternatives
 "Thanks Carlo for this article.
 
- https://www.cdhpl.com ",,A Tutorial on Loops in R - Usage and Alternatives
-muito bom ,,Joining DataFrames in Pandas
-thanks man it was very informative for me. I have been working on Knime for a while now. And this tutorial really helped me a lot with R. The learning curve is there but its not super hard. I have recently started working on Machine Learning so its really exciting for me to get into all these  different softwares.. I recently worked on a Data set of Canada Skilled Worker Application and i made a mess.  But now its ok and i am doing pretty good now.,,Merging Datasets in R
+ https://www.cdhpl.com ",1,A Tutorial on Loops in R - Usage and Alternatives
+muito bom ,1,Joining DataFrames in Pandas
+thanks man it was very informative for me. I have been working on Knime for a while now. And this tutorial really helped me a lot with R. The learning curve is there but its not super hard. I have recently started working on Machine Learning so its really exciting for me to get into all these  different softwares.. I recently worked on a Data set of Canada Skilled Worker Application and i made a mess.  But now its ok and i am doing pretty good now.,1,Merging Datasets in R
 "Could someone help me understand how below line of code works?
-scales <- list(x=list(relation=""free""), y=list(relation=""free""))",,Logistic Regression in R Tutorial
-¡Awesome!,,Logistic Regression in R Tutorial
-Excellent content! Well explained for someone  new o the topic.,,Logistic Regression in R Tutorial
-" ""In a logistic regression model, increasing X by one unit changes the logit by β0.  ""  It should be β1 I think.",,Logistic Regression in R Tutorial
-The article explains well about logistic regression.,,Logistic Regression in R Tutorial
+scales <- list(x=list(relation=""free""), y=list(relation=""free""))",0,Logistic Regression in R Tutorial
+¡Awesome!,0,Logistic Regression in R Tutorial
+Excellent content! Well explained for someone  new o the topic.,0,Logistic Regression in R Tutorial
+" ""In a logistic regression model, increasing X by one unit changes the logit by β0.  ""  It should be β1 I think.",1,Logistic Regression in R Tutorial
+The article explains well about logistic regression.,0,Logistic Regression in R Tutorial
 "Hi,
 
 I am confused with the decision of saying that its ""Up"" if probability is > 0.5, else ""Down"".
@@ -2266,12 +2266,12 @@ Can someone explain me why is it that we consider .positive result /  label for
 
 
 
-",,Logistic Regression in R Tutorial
-"  In a logistic regression model, increasing X by one unit changes the logit by( β0 =====>it is  β1), is not it?",,Logistic Regression in R Tutorial
-"I have a question about the  featurePlot. How may I know which line belongs to what gourp_ In my case, I have 3 groups and would like to know which line belongs to which group.",,Logistic Regression in R Tutorial
-How should consider a likert 5 independent variable is continous or categorical or ordinal when doing logistic regression ,,Logistic Regression in R Tutorial
-"hello, why is the year being handled as a numeric variable yet i expect to be categorical/factor. kindly clarify",,Logistic Regression in R Tutorial
-Shouldn't the logistic function be 1/(1 + eB0+B1X) rather than (eB0+B1X)/(1 + eB0+B1X)  ? ,,Logistic Regression in R Tutorial
+",0,Logistic Regression in R Tutorial
+"  In a logistic regression model, increasing X by one unit changes the logit by( β0 =====>it is  β1), is not it?",0,Logistic Regression in R Tutorial
+"I have a question about the  featurePlot. How may I know which line belongs to what gourp_ In my case, I have 3 groups and would like to know which line belongs to which group.",0,Logistic Regression in R Tutorial
+How should consider a likert 5 independent variable is continous or categorical or ordinal when doing logistic regression ,0,Logistic Regression in R Tutorial
+"hello, why is the year being handled as a numeric variable yet i expect to be categorical/factor. kindly clarify",0,Logistic Regression in R Tutorial
+Shouldn't the logistic function be 1/(1 + eB0+B1X) rather than (eB0+B1X)/(1 + eB0+B1X)  ? ,0,Logistic Regression in R Tutorial
 "Hi, 
 
 I have to change this part of the code
@@ -2297,9 +2297,9 @@ B           15     23   ...   22
  type.fit<- glm( type~X1+X2+...X100, data = Dataset , family = binomial)
 
 
-",,Logistic Regression in R Tutorial
-To read sas files haven package is MUCH faster than sas7bdat,,This R Data Import Tutorial Is Everything You Need
-"When dealing with sas files, their seize is often an issue. It would be excellent to include some of the size limitations of these methods.  Concerning the sas files I tested both the `sas7bdat` and the `haven`  packages with better results for the haven package. However there is little documentation that I could find regarding the read_sas() function of the haven package. It works well for small files but what about 50Gb files ?  ",,This R Data Import Tutorial Is Everything You Need
+",0,Logistic Regression in R Tutorial
+To read sas files haven package is MUCH faster than sas7bdat,0,This R Data Import Tutorial Is Everything You Need
+"When dealing with sas files, their seize is often an issue. It would be excellent to include some of the size limitations of these methods.  Concerning the sas files I tested both the `sas7bdat` and the `haven`  packages with better results for the haven package. However there is little documentation that I could find regarding the read_sas() function of the haven package. It works well for small files but what about 50Gb files ?  ",0,This R Data Import Tutorial Is Everything You Need
 "result <- fromJSON(file = ""2018-2-4.json"")
 
 Error in file(con, ""r"") : cannot open the connection
@@ -2310,25 +2310,25 @@ In file(con, ""r"") :
 
   cannot open file '2018-2-4.json': No such file or directory
 
-i have this error again and again , i set  the working directory correctly,but error occur, i tried other possible solution also but that also not worked , so please reply me",,This R Data Import Tutorial Is Everything You Need
+i have this error again and again , i set  the working directory correctly,but error occur, i tried other possible solution also but that also not worked , so please reply me",0,This R Data Import Tutorial Is Everything You Need
 "PLEASE EXPLAIN R LANGUAGE
 
 
-",,This R Data Import Tutorial Is Everything You Need
-How can I import the excel data to R..?,,This R Data Import Tutorial Is Everything You Need
-I have an excel file saved on my desktop. I cannot upload it to R. Can someone please help?,,This R Data Import Tutorial Is Everything You Need
-What about importing IMAGES?  TIF//GeoTIF?!,,This R Data Import Tutorial Is Everything You Need
-ture,,This R Data Import Tutorial Is Everything You Need
-Is this going to mess up my phone? and is this a messenger app? Just like the original message  but better? Can you give me feedback please thank you,,This R Data Import Tutorial Is Everything You Need
+",1,This R Data Import Tutorial Is Everything You Need
+How can I import the excel data to R..?,0,This R Data Import Tutorial Is Everything You Need
+I have an excel file saved on my desktop. I cannot upload it to R. Can someone please help?,0,This R Data Import Tutorial Is Everything You Need
+What about importing IMAGES?  TIF//GeoTIF?!,0,This R Data Import Tutorial Is Everything You Need
+ture,1,This R Data Import Tutorial Is Everything You Need
+Is this going to mess up my phone? and is this a messenger app? Just like the original message  but better? Can you give me feedback please thank you,1,This R Data Import Tutorial Is Everything You Need
 "I agree with the core of this post: to create a repository for storing queries. It has happened -too many times- that the same task is done again in a different project, wasted time to fix or create something that has been done before. That's why I'm saving useful code and queries using Slack. I have a channel for major topics. We all can go there to search for answers or history.
 
- The curating part is interesting, might give it a try. Thank you.",,Reducing Rework as a SQL Data Analyst
+ The curating part is interesting, might give it a try. Thank you.",0,Reducing Rework as a SQL Data Analyst
 "It is quite a general problem in the personal digital sphere: where is the file I need now, where is the message I need to refer to now? and so on.
 
-GitHub has been a great discovery but today I would rather point to GitLab for this kind pf solution. rs",,Reducing Rework as a SQL Data Analyst
+GitHub has been a great discovery but today I would rather point to GitLab for this kind pf solution. rs",0,Reducing Rework as a SQL Data Analyst
 "Hi... Can I run this code from Spyder? I have no knowledge about Dash & Plotly, but can you please help me how I can use your code in Spyder or Jupyter & create the Dashboard?
 
-I don't know where is the terminal.",,Dash for Beginners
+I don't know where is the terminal.",0,Dash for Beginners
 "Thank you so much for this nice explaination,
 
 It really helped. A very nice detailed description of Dash Framework.
@@ -2338,8 +2338,8 @@ Please let me know if you have video tutorials too on Datacamp.
 
 
 
-Thanks again",,Dash for Beginners
-Excellent tutorial!,,Dash for Beginners
+Thanks again",0,Dash for Beginners
+Excellent tutorial!,0,Dash for Beginners
 "Hello, I have got an trouble with running the app. Everything runs smoothly in the terminal, but the app crashes and in the logs a get this error:
 
  Please, could you explain what is the problem?
@@ -2351,8 +2351,8 @@ import pandas as pd
 2019-01-24T11:49:07.127320+00:00 app[web.1]: [2019-01-24 11:49:07 +0000] [4] [INFO] Reason: Worker failed to boot.
 2019-01-24T11:49:07.282562+00:00 heroku[web.1]: State changed from up to crashed
 2019-01-24T11:49:07.254031+00:00 heroku[web.1]: Process exited with status 3
-2019-01-24T11:49:12.632904+00:00 heroku[router]: at=error code=H10 desc=""App crashed"" method=GET path=""/"" host=my-creation-ica.herokuapp.com request_id=e31f483d-ba42-4aa0-ae7d-9af03cecf503 fwd=""80.92.254.68"" dyno=web.1 connect=5000ms service= status=503 bytes= protocol=https",,Dash for Beginners
-Great write up!,,Dash for Beginners
+2019-01-24T11:49:12.632904+00:00 heroku[router]: at=error code=H10 desc=""App crashed"" method=GET path=""/"" host=my-creation-ica.herokuapp.com request_id=e31f483d-ba42-4aa0-ae7d-9af03cecf503 fwd=""80.92.254.68"" dyno=web.1 connect=5000ms service= status=503 bytes= protocol=https",0,Dash for Beginners
+Great write up!,0,Dash for Beginners
 "This is basically the tutorial there
 
 https://dash.plot.ly/getting-started
@@ -2360,15 +2360,15 @@ https://dash.plot.ly/getting-started
 Are you a member of the dash team?
 
 
-",,Dash for Beginners
+",0,Dash for Beginners
 "almost a copy-past of the original post from   https://dash.plot.ly/getting-started, 
 
-you should have tried to make your own tutorial, explaining component and how to make them work instead of stealing someone else's work and giving nothing more to the ppl interested in dash",,Dash for Beginners
-Codecademy is a decent place to begin in the event that you have zero knowledge in python coding functions. This is a free course and will unquestionably give you a ground-level comprehension of the nuts and bolts. Watch a few recordings in Youtube too.  do my essay  has a well-put instructional exercise for fundamental Python.,,Ensemble Learning in Python
-The python coding function where it is the latest language where it is going to provide the information which will be going to proceed it around the part and it is valuable to learn in detail so  hp australia support will guide in the best way and you can proceed it with the best way.,,Ensemble Learning in Python
- super cool ,,Ensemble Learning in Python
-Dear i can not download Cancer.csv file please provide help,,Ensemble Learning in Python
-"You mentioned Random Forest  in the ""Model Generation"" paragraph at the bottom while discussing NB. Was it a typo or you actually mean RF? Are RF and NB same thing?",,Naive Bayes Classification using Scikit-learn
+you should have tried to make your own tutorial, explaining component and how to make them work instead of stealing someone else's work and giving nothing more to the ppl interested in dash",0,Dash for Beginners
+Codecademy is a decent place to begin in the event that you have zero knowledge in python coding functions. This is a free course and will unquestionably give you a ground-level comprehension of the nuts and bolts. Watch a few recordings in Youtube too.  do my essay  has a well-put instructional exercise for fundamental Python.,1,Ensemble Learning in Python
+The python coding function where it is the latest language where it is going to provide the information which will be going to proceed it around the part and it is valuable to learn in detail so  hp australia support will guide in the best way and you can proceed it with the best way.,1,Ensemble Learning in Python
+ super cool ,0,Ensemble Learning in Python
+Dear i can not download Cancer.csv file please provide help,0,Ensemble Learning in Python
+"You mentioned Random Forest  in the ""Model Generation"" paragraph at the bottom while discussing NB. Was it a typo or you actually mean RF? Are RF and NB same thing?",0,Naive Bayes Classification using Scikit-learn
 "Thanks, interesting tutorial. The ""Zero Probability Problem"" is a good hint.
 
 I think that the example in ""Second Approach (In case of multiple features)"" is mathematically incorrect. The probability P(Play=Yes | Weather=Overcast, Temp=Mild) = 1. In equation (1) the denominator with P(Weather=Overcast, Temp=Mild) is missing. Furthermore, in equation (2), the result should be P(Weather=Overcast, Temp=Mild | Play=Yes) = P(Overcast | Yes, Mild)*P(Mild | Yes) = ... = 1/9 (just look it up in the table! => Overcast and Mild given Yes). By the way, the sum of P(Yes|O,M) + P(No|O,M) = 1 (=> he either plays or he doesn't play - there is no other option).
@@ -2376,17 +2376,17 @@ I think that the example in ""Second Approach (In case of multiple features)"" i
 I also have some questions: 
 
 Why is a LabelEncoder used? Does GaussianNB() only work with numbers?
-I'm a bit confused about the independence condition. Does the Naive Bayes Algorithm due to the independence assumption indeed use P(O,M|Yes) = P(O|Yes)*P(M|Yes) as it is written in eq. (2) of the second example?",,Naive Bayes Classification using Scikit-learn
-doesnt work for python3??,,Naive Bayes Classification using Scikit-learn
-"Thanks for the tutorial, It's very useful!  I am new here, so I was wondering if there is a way to download directly the whole python script or it is necessary to copy and paste the entire code chunk by chunk.",,Naive Bayes Classification using Scikit-learn
+I'm a bit confused about the independence condition. Does the Naive Bayes Algorithm due to the independence assumption indeed use P(O,M|Yes) = P(O|Yes)*P(M|Yes) as it is written in eq. (2) of the second example?",0,Naive Bayes Classification using Scikit-learn
+doesnt work for python3??,0,Naive Bayes Classification using Scikit-learn
+"Thanks for the tutorial, It's very useful!  I am new here, so I was wondering if there is a way to download directly the whole python script or it is necessary to copy and paste the entire code chunk by chunk.",0,Naive Bayes Classification using Scikit-learn
 "I get an  error while executing model.fit(features,label) in the weather forecast data. Please help me fix it.
 
 ValueError: Expected 2D array, got scalar array instead:
 array=<zip object at 0x1a19045f88>.
 Reshape your data either using array.reshape(-1, 1) if your data has a single feature or array.reshape(1, -1) if it contains a single sample.
-",,Naive Bayes Classification using Scikit-learn
-"Hi Avinash Ji, I have gone through many tutorials of your. All have been fantastic and very helpful. I really want to thank you . It is a great  community service you have been doing. All the tutorials are very easy to understand and immensely informative.",,Naive Bayes Classification using Scikit-learn
-sklearn  applies Laplace smoothing by default when you train a GaussianNB  ??????,,Naive Bayes Classification using Scikit-learn
+",0,Naive Bayes Classification using Scikit-learn
+"Hi Avinash Ji, I have gone through many tutorials of your. All have been fantastic and very helpful. I really want to thank you . It is a great  community service you have been doing. All the tutorials are very easy to understand and immensely informative.",0,Naive Bayes Classification using Scikit-learn
+sklearn  applies Laplace smoothing by default when you train a GaussianNB  ??????,0,Naive Bayes Classification using Scikit-learn
 "P (Yes | Overcast) = 0.44 * 0.64 / 0.29 = 0.98(Higher)
 
 If you use that
@@ -2395,61 +2395,61 @@ P(Yes∩Overcast)/P(Overcast)= (4/14)/(4/14) =1
 
 , the probability of P (Yes | Overcast) will be 1.
 
-Because P(Overcast |Yes) = 4/9 = 0.44 has some measurement error.",,Naive Bayes Classification using Scikit-learn
+Because P(Overcast |Yes) = 4/9 = 0.44 has some measurement error.",0,Naive Bayes Classification using Scikit-learn
 "Hi, in Naive Bayes with Multiple Labels, the correct model are MultinomialNB? Why did You used GaussianNB.
 
 
-",,Naive Bayes Classification using Scikit-learn
-"Good article. But in ""Probability of not playing"":  ""2. Calculate Posterior Probabilities: P(Weather=Overcast |Play=No) = 0/9 = 0"", although the result is correct, the math is 0 / 5 not 0 / 9.",,Naive Bayes Classification using Scikit-learn
+",0,Naive Bayes Classification using Scikit-learn
+"Good article. But in ""Probability of not playing"":  ""2. Calculate Posterior Probabilities: P(Weather=Overcast |Play=No) = 0/9 = 0"", although the result is correct, the math is 0 / 5 not 0 / 9.",0,Naive Bayes Classification using Scikit-learn
 "Fine tutorial, easy to learn and well understood. 
 
-just the first example when you are creating the features by features= zip(weather_encoded, temp_encoded). Make that features= list(zip(weather_encoded, temp_encoded))  else it will show an error in the line when you are training the model in python 3.5.   ",,Naive Bayes Classification using Scikit-learn
-Very good Tutorial,,Naive Bayes Classification using Scikit-learn
-"Wow, one of the most comprehensive tutorial out here!",,Data Visualisation with Tableau
-"This is great, Thank you!",,Data Visualisation with Tableau
- I managed to learn Tableau in under two hours.  Thank you! ,,Data Visualisation with Tableau
-Thnx for the tutorial,,Data Visualisation with Tableau
+just the first example when you are creating the features by features= zip(weather_encoded, temp_encoded). Make that features= list(zip(weather_encoded, temp_encoded))  else it will show an error in the line when you are training the model in python 3.5.   ",0,Naive Bayes Classification using Scikit-learn
+Very good Tutorial,0,Naive Bayes Classification using Scikit-learn
+"Wow, one of the most comprehensive tutorial out here!",0,Data Visualisation with Tableau
+"This is great, Thank you!",0,Data Visualisation with Tableau
+ I managed to learn Tableau in under two hours.  Thank you! ,0,Data Visualisation with Tableau
+Thnx for the tutorial,0,Data Visualisation with Tableau
 "Hello, Parul! Thank you for putting together this amazing tutorial!
 
 
-",,Data Visualisation with Tableau
+",0,Data Visualisation with Tableau
 "Simply amazing
 
 
-",,Data Visualisation with Tableau
+",0,Data Visualisation with Tableau
 "Thank you Parul.
 
-It was really helpful to understand the basics of tableau  and specially working with R and Tableau ",,Data Visualisation with Tableau
+It was really helpful to understand the basics of tableau  and specially working with R and Tableau ",0,Data Visualisation with Tableau
 "great tutorial. detailed covering all basics. thank you. i don't think I will require 
 
-any other online basic course on tableau.",,Data Visualisation with Tableau
-Thank you very much for share your knowledges. Is an amazing resource. ;-),,Data Visualisation with Tableau
+any other online basic course on tableau.",0,Data Visualisation with Tableau
+Thank you very much for share your knowledges. Is an amazing resource. ;-),0,Data Visualisation with Tableau
 "Thank you for this tutorial.
-For the problem with Jacksonville (North Carolina), instead of filtering City, maybe you can try filter Postal Code, since Postal Code is unique for each city.",,Data Visualisation with Tableau
-"Thanks for this tutorial. I was trying to follow along and I got stuck with Point 4. Map View. It looks under Creating Hierarchies, sub-point 3 is missing. That probably should have information about how to create inclusion sets which is used in the subsequent sub-point. If you could provide that information, it would be helpful.",,Data Visualisation with Tableau
-"The links to the file SampleSuperStore don't work. Also, Roshan is right. The hierarchies section is messy. How did you use N-Filter? Where do the Inclusions come from?",,Data Visualisation with Tableau
-" Great post i must say and thanks for the information. Education is definitely a sticky subject. However, is still among the leading topics of our time. I appreciate your post and look forward to more. Well, dwelling into deep tableau course is making a big difference in the space of IT. Aspirants & professionals are most welcome to enhance their skill set. ",,Data Visualisation with Tableau
+For the problem with Jacksonville (North Carolina), instead of filtering City, maybe you can try filter Postal Code, since Postal Code is unique for each city.",0,Data Visualisation with Tableau
+"Thanks for this tutorial. I was trying to follow along and I got stuck with Point 4. Map View. It looks under Creating Hierarchies, sub-point 3 is missing. That probably should have information about how to create inclusion sets which is used in the subsequent sub-point. If you could provide that information, it would be helpful.",0,Data Visualisation with Tableau
+"The links to the file SampleSuperStore don't work. Also, Roshan is right. The hierarchies section is messy. How did you use N-Filter? Where do the Inclusions come from?",0,Data Visualisation with Tableau
+" Great post i must say and thanks for the information. Education is definitely a sticky subject. However, is still among the leading topics of our time. I appreciate your post and look forward to more. Well, dwelling into deep tableau course is making a big difference in the space of IT. Aspirants & professionals are most welcome to enhance their skill set. ",0,Data Visualisation with Tableau
 "Dear Aditya,
 
 The explanation of tutorial is wonderful.
 
 How can I get the data, Please can you specify the particular file provided you the dataset link.
 
-Thank you",,Image Super-Resolution using Multi-Decoder Framework
+Thank you",0,Image Super-Resolution using Multi-Decoder Framework
 "Can you cross check the expression( Z is the squared sum of both x and y: z=x^2=y^2 ) for correction?
 
 Also, Can you try to do the same with Train, Test and Validate split?
 
 
-",,Support Vector Machines with Scikit-learn
-How to develop a data-set yourself for the SVM classifier? Also is there any pre defined data set of word documents that can be used for Microsoft word document carving?,,Support Vector Machines with Scikit-learn
+",0,Support Vector Machines with Scikit-learn
+How to develop a data-set yourself for the SVM classifier? Also is there any pre defined data set of word documents that can be used for Microsoft word document carving?,0,Support Vector Machines with Scikit-learn
 " 
 
 K(x,xi) = exp(-gamma * sum((x – xi^2)) should be  
-K(x,xi) = exp(-gamma * sum((x – xi)^2)",,Support Vector Machines with Scikit-learn
-Can you make an article of using SVM with Autoencoder. That'll be very useful on how to use svm as a classifier with autoencoder,,Support Vector Machines with Scikit-learn
-"Dear, you have an example of multivariate analysis type MIMO, to detect models and predict variables based on neural networks in python or some alternative in python that allows to solve the indicated?",,Support Vector Machines with Scikit-learn
-can you show how to apply this SVM code om multi-class classification. thank you,,Support Vector Machines with Scikit-learn
+K(x,xi) = exp(-gamma * sum((x – xi)^2)",0,Support Vector Machines with Scikit-learn
+Can you make an article of using SVM with Autoencoder. That'll be very useful on how to use svm as a classifier with autoencoder,0,Support Vector Machines with Scikit-learn
+"Dear, you have an example of multivariate analysis type MIMO, to detect models and predict variables based on neural networks in python or some alternative in python that allows to solve the indicated?",0,Support Vector Machines with Scikit-learn
+can you show how to apply this SVM code om multi-class classification. thank you,0,Support Vector Machines with Scikit-learn
 "hi avinash .
 
 i have a project to predict the maturity of roasted coffee bean from its color.
@@ -2465,37 +2465,37 @@ i hope you can help me.
 thank you.
 
 
-",,Support Vector Machines with Scikit-learn
+",0,Support Vector Machines with Scikit-learn
 "Thanks for the post!
-I have implemented and concluded your tutorial! Now my model is trained right? but how can i test with a new input, and see what the svm think it is?",,Support Vector Machines with Scikit-learn
-"Hi, I have 27 samples that I would like to do binary classification. Each sample is a 2D- matrice. (100 x 96). I try to use the SVM, but it was not possible, since I have arrays with dim 3.  ValueError: Found array with dim 3. Estimator expected <= 2. Could you please advice ? ",,Support Vector Machines with Scikit-learn
-"Bagaimana saya membuat 3 klasfifikasi dlam contoh kasus adalah, klasifikasi (Normal, Kurang Normal, dan Tidak Normal). Apakah bisa? Terimakasih sebelumnya",,Support Vector Machines with Scikit-learn
+I have implemented and concluded your tutorial! Now my model is trained right? but how can i test with a new input, and see what the svm think it is?",0,Support Vector Machines with Scikit-learn
+"Hi, I have 27 samples that I would like to do binary classification. Each sample is a 2D- matrice. (100 x 96). I try to use the SVM, but it was not possible, since I have arrays with dim 3.  ValueError: Found array with dim 3. Estimator expected <= 2. Could you please advice ? ",0,Support Vector Machines with Scikit-learn
+"Bagaimana saya membuat 3 klasfifikasi dlam contoh kasus adalah, klasifikasi (Normal, Kurang Normal, dan Tidak Normal). Apakah bisa? Terimakasih sebelumnya",0,Support Vector Machines with Scikit-learn
 "Filip,
 
 This tutorial has been very helpful.  I just started working on a new R package that integrates Python through the Rstudio reticulate package and I wanted to make sure I knew how  to create better documentation and I was also just implementing TravisCI for testing.  Your method of doing an auto-build and pushing the pkgdown output to Github is extremely useful.  It is also good to see how easy it is to do automated builds with Travis CI.     I think DataCamp should add a course for building packages in R so that data science teams can interactively learn how to build packages accurately and ensure that they are well tested.  This tutorial should be a piece of a Package development course in my opinion.
 
-Thanks!",,Continuous deployment of package documentation with pkgdown and Travis CI
+Thanks!",0,Continuous deployment of package documentation with pkgdown and Travis CI
 "Filip,
 
-Thank you for the well written and clearly laid out article. I have been using Travis-ci for several months and have several isolated  pages of documentation content. Thanks to you, I now have a great way to maintain it. It took me about 5 minutes to get the first page up. Now I can concentrate  on generation and  organization of the material, leaving web management to Travis and Github.",,Continuous deployment of package documentation with pkgdown and Travis CI
-"The link to the info graphic is not working, please share the link. ",,The Data Science Industry: Who Does What (Infographic)
+Thank you for the well written and clearly laid out article. I have been using Travis-ci for several months and have several isolated  pages of documentation content. Thanks to you, I now have a great way to maintain it. It took me about 5 minutes to get the first page up. Now I can concentrate  on generation and  organization of the material, leaving web management to Travis and Github.",0,Continuous deployment of package documentation with pkgdown and Travis CI
+"The link to the info graphic is not working, please share the link. ",0,The Data Science Industry: Who Does What (Infographic)
 "Hi, Karlijn! 
 
 I loved your article, it was very useful to clarify my questions about how to start exploring the field of Data Science! 
 
-I just have one question: the information about the salaries you presented in one of the images were collected from glassdoor in 2015? ",,The Data Science Industry: Who Does What (Infographic)
-"Nice article, however I have found some post jobs for Business Analyst described as Data Analyst, I guess some companies doesn't have very clear the differences.",,The Data Science Industry: Who Does What (Infographic)
-"Hi Karlijin, great article! I love these infographic role pictures.  Could you show me the link to do these graphics? Thanks a lot! ",,The Data Science Industry: Who Does What (Infographic)
-"Very useful, it should be a mandatory reading for any company that is looking for data ""magician"". it will save them time and money for them. and it will avoid frustrated data professionals",,The Data Science Industry: Who Does What (Infographic)
-"This is the best recap of very useful references around ""Data"" roles, and still very useful content considering it was written more than 3 years ago!",,The Data Science Industry: Who Does What (Infographic)
+I just have one question: the information about the salaries you presented in one of the images were collected from glassdoor in 2015? ",0,The Data Science Industry: Who Does What (Infographic)
+"Nice article, however I have found some post jobs for Business Analyst described as Data Analyst, I guess some companies doesn't have very clear the differences.",0,The Data Science Industry: Who Does What (Infographic)
+"Hi Karlijin, great article! I love these infographic role pictures.  Could you show me the link to do these graphics? Thanks a lot! ",0,The Data Science Industry: Who Does What (Infographic)
+"Very useful, it should be a mandatory reading for any company that is looking for data ""magician"". it will save them time and money for them. and it will avoid frustrated data professionals",0,The Data Science Industry: Who Does What (Infographic)
+"This is the best recap of very useful references around ""Data"" roles, and still very useful content considering it was written more than 3 years ago!",0,The Data Science Industry: Who Does What (Infographic)
 "The article you have shared here very awesome
 
-cat mario",,The Data Science Industry: Who Does What (Infographic)
+cat mario",0,The Data Science Industry: Who Does What (Infographic)
 "I think this is an interesting industry
 
- gun mayhem 2 ",,The Data Science Industry: Who Does What (Infographic)
-" I think what is bound to happen is that there will be a (relative) couple of scholarly scientists who know the field in and out, a ton of architects who take care of the more mind boggling issues that include a thorough comprehension of AI (past simply profound learning), and after that a multitude of specialists     Assignment   Help Online | AssignmentGlobe     who comprehend the nuts and bolts of AI and the distinction between a CNN and a RNN yet most likely won't build a portion SVM in their lives.  ",,The Data Science Industry: Who Does What (Infographic)
-of course like your web-site however you have to test the spelling on quite a few of your posts. A number of them are rife with spelling issues and I find it very troublesome to inform the reality on the other hand I will definitely come back again. cineblog01,,The Data Science Industry: Who Does What (Infographic)
+ gun mayhem 2 ",0,The Data Science Industry: Who Does What (Infographic)
+" I think what is bound to happen is that there will be a (relative) couple of scholarly scientists who know the field in and out, a ton of architects who take care of the more mind boggling issues that include a thorough comprehension of AI (past simply profound learning), and after that a multitude of specialists     Assignment   Help Online | AssignmentGlobe     who comprehend the nuts and bolts of AI and the distinction between a CNN and a RNN yet most likely won't build a portion SVM in their lives.  ",0,The Data Science Industry: Who Does What (Infographic)
+of course like your web-site however you have to test the spelling on quite a few of your posts. A number of them are rife with spelling issues and I find it very troublesome to inform the reality on the other hand I will definitely come back again. cineblog01,0,The Data Science Industry: Who Does What (Infographic)
 "it is useful for me
 
 
@@ -2504,22 +2504,22 @@ of course like your web-site however you have to test the spelling on quite a fe
 
 
 
-papas games",,The Data Science Industry: Who Does What (Infographic)
+papas games",0,The Data Science Industry: Who Does What (Infographic)
 "Hello, @KarlijnWillems
 
-Thank you for such a nice infographic comparison of the roles of a data science industry. This infographic will definitely help us to better understand the different job roles that are available to data passionate professionals. As we know Data Science is the hottest job these days. The data science jobs trends and salary are increasing day by day. The number of roles for Data Scientists has grown by 650% since 2012 About 11.5 million jobs will be created by 2026 according to the U.S.",,The Data Science Industry: Who Does What (Infographic)
-`WITH` statements also works in impala.,,Supercharge Your Subqueries
-"Good intro of  LTV. I follow a code and have a question, is there any way to give different churn rate for customers. Because I think it is large different between different customers. ",,Customer Lifetime Value
-"Dropping the negative order quantities can in reality be not such a good idea as returned or cancelled orders can appear as negative quantities, gross values etc. in your data. In these cases, summing those values on customerID + orderID solves this problem for you without dropping data. That way you can even incorporate return rates into your CLV model, because the data is not lost.",,Customer Lifetime Value
+Thank you for such a nice infographic comparison of the roles of a data science industry. This infographic will definitely help us to better understand the different job roles that are available to data passionate professionals. As we know Data Science is the hottest job these days. The data science jobs trends and salary are increasing day by day. The number of roles for Data Scientists has grown by 650% since 2012 About 11.5 million jobs will be created by 2026 according to the U.S.",0,The Data Science Industry: Who Does What (Infographic)
+`WITH` statements also works in impala.,0,Supercharge Your Subqueries
+"Good intro of  LTV. I follow a code and have a question, is there any way to give different churn rate for customers. Because I think it is large different between different customers. ",0,Customer Lifetime Value
+"Dropping the negative order quantities can in reality be not such a good idea as returned or cancelled orders can appear as negative quantities, gross values etc. in your data. In these cases, summing those values on customerID + orderID solves this problem for you without dropping data. That way you can even incorporate return rates into your CLV model, because the data is not lost.",0,Customer Lifetime Value
 "Would you have any suggestion on how to proceed if the data we have has to do with contractual purchases such as insurance policies. Also, in such a data set, each client_ID may be associated to more than one policy (e.g. car, life and home.) Say the columns are customer_ID, product_category (car, home or life), date_of_account_opening, date_account_closing, and Premium.
 
-How would one calculate the CLTV in that case?",,Customer Lifetime Value
+How would one calculate the CLTV in that case?",0,Customer Lifetime Value
 "Hi Could please tell me in the prediction model , why you are using the total sales value instead of CLTV calculated from the previous step , i am trying for one of my project
 
 
-",,Customer Lifetime Value
-I Implemented CLTV in MS Excel (mainly using Pivot Table). Hope I could share that,,Customer Lifetime Value
-"Just a heads up, I had trouble with "" from sklearn.cross_validation import train_test_split "".  I had to substitute cross_validation with model_selection instead; "" from sklearn.model_selection import train_test_split "".",,Customer Lifetime Value
+",0,Customer Lifetime Value
+I Implemented CLTV in MS Excel (mainly using Pivot Table). Hope I could share that,0,Customer Lifetime Value
+"Just a heads up, I had trouble with "" from sklearn.cross_validation import train_test_split "".  I had to substitute cross_validation with model_selection instead; "" from sklearn.model_selection import train_test_split "".",0,Customer Lifetime Value
 "hi, 
 
 If you calculate the CLV in uk_data_group, why you don't use it for sales.
@@ -2530,34 +2530,34 @@ I am confused, 
 
 hope you make it clear!
 
-Thank you!",,Customer Lifetime Value
-"Thank you for breaking this down... when I've tried to learn the if, elif, else statements I've always struggled.  Now that I am trying to teach my 8 year old how to code I am finding that I need to understand it so that I can speak child + code to him so he can get it. ",,"Python IF, ELIF, and ELSE Statements"
-"Good and nice presented IF,ELIF and  ELSE statements tutorial ",,"Python IF, ELIF, and ELSE Statements"
+Thank you!",0,Customer Lifetime Value
+"Thank you for breaking this down... when I've tried to learn the if, elif, else statements I've always struggled.  Now that I am trying to teach my 8 year old how to code I am finding that I need to understand it so that I can speak child + code to him so he can get it. ",0,"Python IF, ELIF, and ELSE Statements"
+"Good and nice presented IF,ELIF and  ELSE statements tutorial ",0,"Python IF, ELIF, and ELSE Statements"
 "     I   appreciate that you produced this wonderful article to help us get more   knowledge about this topic. I know, it is not an easy task to write such a   big article in one day, I've tried that and I've failed. But, here you are,   trying the big task and finishing it off and getting good comments and   ratings. That is one hell of a job done!    
 
   
 
-<a href=""https://www.besanttechnologies.com/training-courses/python training-institute-in-chennai"">python training institute in chennai</a>",,"Python IF, ELIF, and ELSE Statements"
+<a href=""https://www.besanttechnologies.com/training-courses/python training-institute-in-chennai"">python training institute in chennai</a>",1,"Python IF, ELIF, and ELSE Statements"
 "     Your   very own commitment to getting the message throughout came to be rather   powerful and have consistently enabled employees just like me to arrive at   their desired goals.      
 
-<a href=""http://www.traininginmarathahalli.in/python-training-in-bangalore/"">Python training in marathahalli</a> | <a href=""http://www.trainingpune.in/python-training-in-pune.html/"">Python training institute in pune</a> | <a href=""http://www.besanttechnologies.in/python-training-in-indira-nagar.html/"">Python training in IndiraNagar</a>",,"Python IF, ELIF, and ELSE Statements"
-This was really helpful to me. Thank you!,,"Python IF, ELIF, and ELSE Statements"
+<a href=""http://www.traininginmarathahalli.in/python-training-in-bangalore/"">Python training in marathahalli</a> | <a href=""http://www.trainingpune.in/python-training-in-pune.html/"">Python training institute in pune</a> | <a href=""http://www.besanttechnologies.in/python-training-in-indira-nagar.html/"">Python training in IndiraNagar</a>",1,"Python IF, ELIF, and ELSE Statements"
+This was really helpful to me. Thank you!,0,"Python IF, ELIF, and ELSE Statements"
 "isna().sum() is not working with pandas data frame
 
-i am using isnull() instead..is there a difference??",,K-Means Clustering in Python with scikit-learn
+i am using isnull() instead..is there a difference??",0,K-Means Clustering in Python with scikit-learn
 "after droping survived and putting the values in x
 
 why  have you used train.info()??..
 
-and it doesnot contain 'Survived"" column .. is there a mistake ??? or am i doing something wrong ?",,K-Means Clustering in Python with scikit-learn
+and it doesnot contain 'Survived"" column .. is there a mistake ??? or am i doing something wrong ?",0,K-Means Clustering in Python with scikit-learn
 "Hello @Sayak Paul
 
 Can u explain me the loop in last that u are using in range(len(X)):
 
 What actually is happening in this loop after conversion of data as float ...Can u kindly explain ??
-",,K-Means Clustering in Python with scikit-learn
-Done,,K-Means Clustering in Python with scikit-learn
-The best practice is to impute missing values in the test set using mean/median of the train set.,,K-Means Clustering in Python with scikit-learn
+",0,K-Means Clustering in Python with scikit-learn
+Done,1,K-Means Clustering in Python with scikit-learn
+The best practice is to impute missing values in the test set using mean/median of the train set.,0,K-Means Clustering in Python with scikit-learn
 "for i in range(len(X)): chunk of code is throwing error for me. The error is as follow
 
 KeyError                                  Traceback (most recent call last)
@@ -2585,31 +2585,31 @@ KeyError                                  Trace
 
 
 
-Please suggest I am new in this field.",,K-Means Clustering in Python with scikit-learn
-"How could i graph that result, i mean the k-mean clustering in a graph?, because i only see numbers :S. Thanks!!",,K-Means Clustering in Python with scikit-learn
+Please suggest I am new in this field.",0,K-Means Clustering in Python with scikit-learn
+"How could i graph that result, i mean the k-mean clustering in a graph?, because i only see numbers :S. Thanks!!",0,K-Means Clustering in Python with scikit-learn
 "Thanks for your article. 
 
-After calculate KMeans values, how can we link to obj column so that to know which obj belongs to which cluster?",,K-Means Clustering in Python with scikit-learn
-"how can i show the result of clusters in a graph ,i mean with outliers for each cluster after prediction",,K-Means Clustering in Python with scikit-learn
-Great article!,,Choosing R or Python for Data Analysis? An Infographic
-Amazing and Easy... ,,K-Means Clustering in Python with scikit-learn
+After calculate KMeans values, how can we link to obj column so that to know which obj belongs to which cluster?",0,K-Means Clustering in Python with scikit-learn
+"how can i show the result of clusters in a graph ,i mean with outliers for each cluster after prediction",0,K-Means Clustering in Python with scikit-learn
+Great article!,0,Choosing R or Python for Data Analysis? An Infographic
+Amazing and Easy... ,0,K-Means Clustering in Python with scikit-learn
 "What if I don't have the labels and I still want to get the accuracy scores.
 
-How can I do that?",,K-Means Clustering in Python with scikit-learn
+How can I do that?",0,K-Means Clustering in Python with scikit-learn
 "but how do i know which person has been classified correctly? can i export the result to excel?
 
-also,  here we know the the basis of clustering is survival or death. but in a case where we don't know the basis of the cluster, just this analysis wont solve the problem. we will then have to analyse why each case was put into a particular cluster",,K-Means Clustering in Python with scikit-learn
-I cannot see the images as described in the document.,,Simplifying Sentiment Analysis in Python
-Please hide this box in a pop-up dialog box.  This takes up valuable reading space for the articles,,Simplifying Sentiment Analysis in Python
-"Did you mean to say ""Captures"" is 7 times more likely... or am I not understanding correctly?",,Simplifying Sentiment Analysis in Python
-"Love that the intro of this story is about how in the workplace, you are forced to use Excel even though you would like to use all the fancy new data science tools. I've been using Excel for 10+ years and believe that more Excel people are moving to data science, programming, etc. since they realize that Excel and spreadsheets will eventually go away to be replaced by more modern tools like Coda (disclosure: I work there).",,Data Wrangling with VLOOKUP in Spreadsheets
+also,  here we know the the basis of clustering is survival or death. but in a case where we don't know the basis of the cluster, just this analysis wont solve the problem. we will then have to analyse why each case was put into a particular cluster",0,K-Means Clustering in Python with scikit-learn
+I cannot see the images as described in the document.,0,Simplifying Sentiment Analysis in Python
+Please hide this box in a pop-up dialog box.  This takes up valuable reading space for the articles,0,Simplifying Sentiment Analysis in Python
+"Did you mean to say ""Captures"" is 7 times more likely... or am I not understanding correctly?",0,Simplifying Sentiment Analysis in Python
+"Love that the intro of this story is about how in the workplace, you are forced to use Excel even though you would like to use all the fancy new data science tools. I've been using Excel for 10+ years and believe that more Excel people are moving to data science, programming, etc. since they realize that Excel and spreadsheets will eventually go away to be replaced by more modern tools like Coda (disclosure: I work there).",1,Data Wrangling with VLOOKUP in Spreadsheets
 "the right bottom corner have some typo:
 
     setnames() should be setcolorder().
 
     learn python should be learn R.
 
-thanks.",,The data.table R Package Cheat Sheet
+thanks.",0,The data.table R Package Cheat Sheet
 "Thanks for tutorial. Data import links currently broken. Try these if stuck:
 
 beers = pd.read_csv(""https://raw.githubusercontent.com/nickhould/craft-beers-dataset/master/data/processed/beers.csv"")
@@ -2617,64 +2617,64 @@ beers = pd.read_csv(""https://raw.githubusercontent.com/nickhould/craft-beers-da
 breweries = pd.read_csv(""https://raw.githubusercontent.com/nickhould/craft-beers-dataset/master/data/processed/breweries.csv"")
 
 
-",,Exploratory Data Analysis of Craft Beers: Data Profiling
-Hi! Is there a way we can connect the output of pandas_profiling to tableau??,,Exploratory Data Analysis of Craft Beers: Data Profiling
-Doesn't len returns the length of the string?,,Exploratory Data Analysis of Craft Beers: Data Profiling
-fantastic！！,,Demystifying Crucial Statistics in Python
-Exactly what I was looking for. Thanks ! ,,Demystifying Crucial Statistics in Python
-"Awesome! You nailed it, very good read.",,Demystifying Crucial Statistics in Python
-Excellent article and great list to get started. Many thanks!,,Demystifying Crucial Statistics in Python
-This is very helpful for someone needing a quick refresher in inferential and descriptive statistics!,,Demystifying Crucial Statistics in Python
-what does domain mean in data sampling?  Is  population and domain used interchangeably in statistics ?,,Demystifying Crucial Statistics in Python
-"Thanks, made for a good read!",,Python Tuples Tutorial
-thanx for clearing the air on tuples in a simple yet effective tutorial.,,Python Tuples Tutorial
-Thanks,,Python Data Type Conversion Tutorial
+",0,Exploratory Data Analysis of Craft Beers: Data Profiling
+Hi! Is there a way we can connect the output of pandas_profiling to tableau??,0,Exploratory Data Analysis of Craft Beers: Data Profiling
+Doesn't len returns the length of the string?,0,Exploratory Data Analysis of Craft Beers: Data Profiling
+fantastic！！,0,Demystifying Crucial Statistics in Python
+Exactly what I was looking for. Thanks ! ,0,Demystifying Crucial Statistics in Python
+"Awesome! You nailed it, very good read.",0,Demystifying Crucial Statistics in Python
+Excellent article and great list to get started. Many thanks!,0,Demystifying Crucial Statistics in Python
+This is very helpful for someone needing a quick refresher in inferential and descriptive statistics!,0,Demystifying Crucial Statistics in Python
+what does domain mean in data sampling?  Is  population and domain used interchangeably in statistics ?,0,Demystifying Crucial Statistics in Python
+"Thanks, made for a good read!",0,Python Tuples Tutorial
+thanx for clearing the air on tuples in a simple yet effective tutorial.,0,Python Tuples Tutorial
+Thanks,0,Python Data Type Conversion Tutorial
 "Hello, nice tutorial, but the definition of any for tuples is wrong.
 any will return True when at least one of the elements is Truthy.
-Therefore your example above:  a=(1,), any(a) will return True.  ",,Python Tuples Tutorial
-Thanks ,,Python Tuples Tutorial
-You should add a section on 'named' tuples as they are the most useful manifestation of tuples in real-life application in my opinion,,Python Tuples Tutorial
-Great article. Thanks!,,Python Tuples Tutorial
+Therefore your example above:  a=(1,), any(a) will return True.  ",0,Python Tuples Tutorial
+Thanks ,0,Python Tuples Tutorial
+You should add a section on 'named' tuples as they are the most useful manifestation of tuples in real-life application in my opinion,0,Python Tuples Tutorial
+Great article. Thanks!,0,Python Tuples Tutorial
 "The following example code prints ""True"" not ""False"" as shown above.
 
 a=(1,)
 
 print(any(a))
 
-Maybe the first line of code should have been a = (0,) or similar?",,Python Tuples Tutorial
-"And maybe a quick mention that the return value from the sorted function when applied over a tuple is a list, not another tuple, otherwise great  tutorial. Thanks!",,Python Tuples Tutorial
-thanks for example of list as mutable components of tuple,,Python Tuples Tutorial
-Merci pour ce tutoriel,,Python Tuples Tutorial
-You can also refer various Tuple Slicing Tricks from https://www.pythonprogramming.in/tuples.html,,Python Tuples Tutorial
-" Sir, could you explain the example about how LIME works? Because I don't understand the output at all. Thanks! ",,Understanding Model Predictions with LIME
-"I can understand your though, thank's for write this tutorial. friend you are really enjoying to play online bejeweled 3 in anywhere like school, office. bejeweled is a best game maker and this is one of the best series of this.",,Understanding Model Predictions with LIME
-"Power BI has several substance packs, formats and incorporations for many information administrations, applications and administrations that incorporate pre-set reports and perceptions and not simply Microsoft ones like Dynamics 365 and SQL Server.",,Data Visualization with Power BI
+Maybe the first line of code should have been a = (0,) or similar?",0,Python Tuples Tutorial
+"And maybe a quick mention that the return value from the sorted function when applied over a tuple is a list, not another tuple, otherwise great  tutorial. Thanks!",0,Python Tuples Tutorial
+thanks for example of list as mutable components of tuple,0,Python Tuples Tutorial
+Merci pour ce tutoriel,0,Python Tuples Tutorial
+You can also refer various Tuple Slicing Tricks from https://www.pythonprogramming.in/tuples.html,1,Python Tuples Tutorial
+" Sir, could you explain the example about how LIME works? Because I don't understand the output at all. Thanks! ",0,Understanding Model Predictions with LIME
+"I can understand your though, thank's for write this tutorial. friend you are really enjoying to play online bejeweled 3 in anywhere like school, office. bejeweled is a best game maker and this is one of the best series of this.",1,Understanding Model Predictions with LIME
+"Power BI has several substance packs, formats and incorporations for many information administrations, applications and administrations that incorporate pre-set reports and perceptions and not simply Microsoft ones like Dynamics 365 and SQL Server.",0,Data Visualization with Power BI
 "Parul, thanks, a great article.
 
-I have some doubts about how it could be used for multiple user wich each can see a slice of dataset, for example user1 for sales of department 1, user 2 for sales of department 2.",,Data Visualization with Power BI
-leanred something  new ,,Handling Categorical Data in Python
-Good!,,Handling Categorical Data in Python
+I have some doubts about how it could be used for multiple user wich each can see a slice of dataset, for example user1 for sales of department 1, user 2 for sales of department 2.",0,Data Visualization with Power BI
+leanred something  new ,0,Handling Categorical Data in Python
+Good!,0,Handling Categorical Data in Python
 "I believe there's an error in the one-hot encoding/ LabelBinarizer part:  it should be lb_results_df = pd.DataFrame(lb_results, columns=lb.classes_) , as lb_style is not defined anywhere before.
 
-Apart from that, great tutorial!",,Handling Categorical Data in Python
-Some discussion  of categorical embedding using neural networks would help round out the picture.  This was applied successfully in a third place solution to the Rossmann stores competition.  Seems like a great alternative to one-hot with the added benefit of dimensionality reduction.,,Handling Categorical Data in Python
+Apart from that, great tutorial!",0,Handling Categorical Data in Python
+Some discussion  of categorical embedding using neural networks would help round out the picture.  This was applied successfully in a third place solution to the Rossmann stores competition.  Seems like a great alternative to one-hot with the added benefit of dimensionality reduction.,0,Handling Categorical Data in Python
 "Hi 
 
-I'm getting a value error:  fill value must be in categories. When i use binary encoding. The column to be coded has no missing values.",,Handling Categorical Data in Python
+I'm getting a value error:  fill value must be in categories. When i use binary encoding. The column to be coded has no missing values.",0,Handling Categorical Data in Python
 "Could someone help me with downloading categorical_encoders??
 When I use pip install categorical_encoders -- I get this error message  ""error: Microsoft Visual C++ 14.0 is required. Get it with ""Microsoft Visual C++ Build Tools"": http://landinghub.visualstudio.com/visual-cpp-build-tools""
 
 And when I download and unzip the file, and run my code it says failed to import library ""categorical_encoders""
-Please help !!!",,Handling Categorical Data in Python
+Please help !!!",0,Handling Categorical Data in Python
 "So, once you have your categorical data encoded, what next?  What about these questions:
 
 inferential statistics can then be performed?  
 
 Can those features now be treated as continuous datatypes?  Or, do  they still get treated differently, with different statistics applied to them?
 
-Do their dtypes need to be changed (or are automatically changed) to int/float dtypes?  ",,Handling Categorical Data in Python
-Good !!! I have just one query ....Which IDE u have used ??,,Handling Categorical Data in Python
-good,,Handling Categorical Data in Python
+Do their dtypes need to be changed (or are automatically changed) to int/float dtypes?  ",0,Handling Categorical Data in Python
+Good !!! I have just one query ....Which IDE u have used ??,0,Handling Categorical Data in Python
+good,0,Handling Categorical Data in Python
 "hello, very useful article
 
 I have a got a problem with the dataset I am working on a capstone project. I got a dataframe which has the following shape  
@@ -2685,22 +2685,22 @@ Can I use a encoding machanism which don't results in many columns. For a much s
 
 Also, I want to apply ML algorithms like decision trees and logistic regression. Is it possible to encode my feature set X without specifying which columns to be encoded? What is the best way to avoid adding many new columns like (one-hot-encoding), but still keeping the advantage of not weighing the categorical features (like LabelEncoding)? 
 
-I am looking forward for guidance. ",,Handling Categorical Data in Python
-This is so great!! i was struggling so hard dealing with categorical values for my model. Thanks a ton!!,,Handling Categorical Data in Python
+I am looking forward for guidance. ",0,Handling Categorical Data in Python
+This is so great!! i was struggling so hard dealing with categorical values for my model. Thanks a ton!!,0,Handling Categorical Data in Python
 "Hi great guide for categorical data handling. I am wondering whether we can re-convert those encoded categorical data back to original format for the purpose of final result presentation after training the model. 
 
 I am a newbie and I can't find a way to have a meaningful representation. Here I have used Binary Encoding. 
 
-Looking for a great insight.",,Handling Categorical Data in Python
-"since in my dataset there are categorical fearures that is project type and the type are (A, P, C, Pr....) but in this column there is the symbol like ? so how would i know which type is this or how can i replace this using python program?",,Handling Categorical Data in Python
-good article,,Handling Categorical Data in Python
-Great !!!,,Handling Categorical Data in Python
+Looking for a great insight.",0,Handling Categorical Data in Python
+"since in my dataset there are categorical fearures that is project type and the type are (A, P, C, Pr....) but in this column there is the symbol like ? so how would i know which type is this or how can i replace this using python program?",0,Handling Categorical Data in Python
+good article,0,Handling Categorical Data in Python
+Great !!!,0,Handling Categorical Data in Python
 "Great article.
 
 
 
 
-I had a question. Why in binary encoder we have only for type of carrier ???",,Handling Categorical Data in Python
+I had a question. Why in binary encoder we have only for type of carrier ???",0,Handling Categorical Data in Python
 "A program for affiliation investigation that looks for hereditary varieties impacting a gathering of connected qualities. This methodology speaks to the reliance structure among the quantitative qualities unequivocally as a system, and use this characteristic system to encode organized regularization in a multivariate relapse show over the genotypes and attributes.  Error Code 0xc0000185 are the error that can be occurred in your laptop generally whenever your system gets and wrong instruction.",,GFLASSO: Graph-Guided Fused LASSO in R
 What do you mean by magnitude of features? Magnitude in terms of features compared to each other from other features or compared to individual data points within the feature?,,KNN Classification using Scikit-learn
 "What do you mean ""scaling of data""? How is this done?",,KNN Classification using Scikit-learn
