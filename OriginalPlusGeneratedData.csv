@@ -1,0 +1,2957 @@
+comment,label
+"Really nice tutorial - However I am having issues running this right from the beginning: Getting Import errors (i.e. ImportError: cannot import name 'is_list_like'
+
+) when trying to import pandas - datareader. I understand that this is a bug and the development version of datareader has fixed this. However being quite new to Python I have not figured out a way to fix this.  pip install will not fix this. Appreciate any help.",0.0
+  you need to have pip and setuptools installed. if you have need to manage your here to laptop call at delta airlines reservations number you will get best offers or deals on both domestic and international flights booking.  online highly help is wrong on,1.0
+thank you so much for this great tutorial.  I am trying to generate a template that remove the In[]/Out[] column in the html file. how can I remove this column ?,0.0
+Thank you very much. Very nice article,0.0
+Codecademy is a decent place to begin in the event that you have zero knowledge in python coding functions. This is a free course and will unquestionably give you a ground-level comprehension of the nuts and bolts. Watch a few recordings in Youtube too.  do my essay  has a well-put instructional exercise for fundamental Python.,1.0
+"I enjoyed reading this tutorial and learned new things. I have a question in these lines that I think was not answered. Sometimes, I use loops to do an iterative task, and I store the results in a vector. Is there a more efficient alternative?
+
+m=20
+odd=numeric()
+
+for (k in 1:m) {
+   if (!k %% 2)
+      next
+      odd <- c(odd,k)
+}
+odd
+
+
+
+
+
+",0.0
+"Thanks for this very informative tutorial
+
+Pls help me to get more usecases tutorials of GAN",0.0
+"Dear Aditya,
+
+The explanation of tutorial is wonderful.
+
+How can I get the data, Please can you specify the particular file provided you the dataset link.
+
+Thank you",0.0
+"Thanks a lot for this tutorial! It is really helpful.
+
+I have a question, though. I got lost in the many error evaluation steps. I want to compute the F1 score for this model. Any idea how I could do that?
+
+
+",0.0
+"Hii, 
+
+   How to create bill & recept in python program  string",0.0
+"Nice post...  If you are struggling with Canon printer issues in your home? Contact Canon Printer Offline technicians to get the issues with your printer fixed fast. Call us on our toll-free numbers i.e. USA/Canada: +1 888-480-0288, UK: +44 800-041-8324 or visit our site Canon Printer Offline.",1.0
+.....,1.0
+"Thanks for tutorial. Data import links currently broken. Try these if stuck:
+
+beers = pd.read_csv(""https://raw.githubusercontent.com/nickhould/craft-beers-dataset/master/data/processed/beers.csv"")
+
+breweries = pd.read_csv(""https://raw.githubusercontent.com/nickhould/craft-beers-dataset/master/data/processed/breweries.csv"")
+
+
+",0.0
+Can you contrast this process with just using Cloud Datalab to set up the instance and notebook environment?,0.0
+" 
+
+Gal Podjarny, the following link will answer your question. https://cran.r-project.org/web/packages/data.table/vignettes/datatable-reshape.html
+
+I am afraid you need to step into data.table world! Welcome :)
+
+
+",0.0
+"I agree with the core of this post: to create a repository for storing queries. It has happened -too many times- that the same task is done again in a different project, wasted time to fix or create something that has been done before. That's why I'm saving useful code and queries using Slack. I have a channel for major topics. We all can go there to search for answers or history.
+
+ The curating part is interesting, might give it a try. Thank you.",0.0
+"Hi Hugo, I really liked the way you explain things, whether it be tutorial or datacamp courses. 
+
+I have one query, how do you select random_state value while splitting data into training and testing. What is it exactly and how can we derive the value to be used?
+
+Thanks,
+
+Neeta",0.0
+I tried running the tutorial but the AWS machine image (AMI) that allows for a p2.xLarge EC2 instance and configured for deep learning has been removed. Are there any other ways to run the tutorial?,0.0
+Thank you so much for sharing a ground-level comprehension of the nuts and bolts. watch a mess.  but better can python training and chennai /a you for posting.more info : web design pakistan service and get the best price information to the union. really great like to use you need to mac support phone number mcafee customer service number is 24/7 24/7 printer printer setup updates regarding any queries on installation canon,1.0
+Your website is so cool. thank you for sharing a href https://www.123moviescounte.xyz 123movies /a and python loops. is wrong. the great work. https://livetechsupport.org/sage-50-support/ and one is seems me to run indefinitely--even when running only,1.0
+"When dealing with sas files, their seize is often an issue. It would be excellent to include some of the size limitations of these methods.  Concerning the sas files I tested both the `sas7bdat` and the `haven`  packages with better results for the haven package. However there is little documentation that I could find regarding the read_sas() function of the haven package. It works well for small files but what about 50Gb files ?  ",0.0
+Thanks for the information. The geek squad tech support number is active 24/7. To get the best tech help contact geek squad online support. ,1.0
+"Name df not defined
+
+sorry if super noob, but can't figure it out ",0.0
+Allegiant Airlines Reservations can be booked easily at cheapest prices. Dial our toll free number and get best discounts on Allegiant Airlines Reservations.,1.0
+"Hi. thanks for the tutorial. it was really helpful. i tried using the same method on the data that was available with me(approx 35000 observation). and got these results:
+
+Accuracy: 0.918102328802701
+
+Precision: 0.0
+
+Recall: 0.0
+
+Precision is ill-defined and being set to 0.0 due to no predicted samples. 'precision', 'predicted', average, warn_for).
+
+i am not able to understand why my precision and recall is 0??
+
+also i want to know how to use and compare different models for prediction. please let me know how to proceed with this.
+
+thanks",0.0
+"A Simple Example: 
+
+import time
+
+
+
+
+for i in [ .5, .1, 1, 2]:
+
+   print(""Waiting for %s"" % i , end='')
+
+   print("" seconds"")
+
+   time.sleep(i)
+
+
+
+
+ This will output: 
+
+
+
+
+
+
+
+Waiting for 0.5 seconds
+
+Waiting for 0.1 seconds
+
+Waiting for 1 seconds
+
+Waiting for 2 seconds
+
+If you have any doubt then I am ready to help you by Python Course in Noida",0.0
+"great article, very helpful to start working on Excel with python",0.0
+"Thanks for the great tutorial. Really clear and well explained.
+
+There is one aspect I don't understand though:  the article suggests that the clustering is 'impressive' because it maps on to the real world boundaries, to some extent. This doesn't seem to me to be the measure of success (and I see in response to another question the author does say that any similarity is actually incidental). 
+
+Wouldn't it be more interesting if the algorithm showed clusters that bore no resemblance at all to geographical boundaries, and isn't this more the purpose of the clustering (ie to uncover groupings that we weren't already aware of in the data)?",0.0
+Thanks ,0.0
+"What if I don't have the labels and I still want to get the accuracy scores.
+
+How can I do that?",0.0
+"Thanks for the tutorial, It's very useful!  I am new here, so I was wondering if there is a way to download directly the whole python script or it is necessary to copy and paste the entire code chunk by chunk.",0.0
+"Thank you so much for the amazing tutorial.
+
+I think it's important to empathize that the image has to be on  RGB mode.
+
+We can easily change the mode with a free software such as GIMP or online resources. ",0.0
+     Get Your   pc secure with avg antivirus support phone number avg antivirus support phone number avg antivirus support phone number avg antivirus support phone number bitdefender antivirus support canon printer offline canon printer offline issue. grab the deals on traveling with available site,1.0
+Your website is so cool. Thank you for sharing a superb information. I am impressed by the details that you have on this blog. Epson printer support | Canon Printer Support |Lexmark Printer Support   | Webroot Support,1.0
+This is very helpful for someone needing a quick refresher in inferential and descriptive statistics!,0.0
+"If the curve describing a uniform distribution is a rectangle, why is the histogram jagged?",0.0
+"If you do not have a backup or that does not resolve the problem, take your computer to an mac internal server error 500 Apple Store or Authorized Apple Service Center for further assistance.
+
+
+",1.0
+Allegiant Airlines reservations. will delta airlines reservations. will delta airlines reservations. will delta airlines reservations for the best range of discounts on avast,1.0
+"Dear Phillips, I am trying to load library and I get the following message. 
+
+> library(""FFTrees"")
+
+Error: package or namespace load failed for ‘FFTrees’ in loadNamespace(j <- i[[1L]], c(lib.loc, .libPaths()), versionCheck = vI[[j]]):
+
+ there is no package called ‘GlobalOptions’",0.0
+Jupyter notebook refuse to connect.,1.0
+" re.search(r'Back\\stail', 'Back\stail').group() 
+
+wouldn't the result to the code above be 'Back\stail' and not 'Back\\stail' like shown in the Backslash-examples?",0.0
+"Great tutorial and I found it very informative.
+
+One question is why you did not put volume into consideration, since it provides a lot important info in Stock market?",0.0
+"since in my dataset there are categorical fearures that is project type and the type are (A, P, C, Pr....) but in this column there is the symbol like ? so how would i know which type is this or how can i replace this using python program?",0.0
+ Windows movie in managing the safety of data. any discounts and setuptools installed. if,1.0
+"I am lost from the ""Connecting to Your Server"" session. Can the author give a detailed description for Windows users? Thanks!",0.0
+refused to connect hp for the workplace you are discounts,1.0
+"A simple to understand article. Thank you.
+
+I just have one question. How do you define weights? 
+
+For e.g In first example of loan, weights being used were 1,1,1,-1. How did we arrive on this? What happens if I use a different weight such as 1,1,1,1?",0.0
+" Great post i must say and thanks for the information. Education is definitely a sticky subject. However, is still among the leading topics of our time. I appreciate your post and look forward to more. Well, dwelling into deep tableau course is making a big difference in the space of IT. Aspirants & professionals are most welcome to enhance their skill set. ",0.0
+The mutual exclusive formula is wrong. the great work. https://livetechsupport.org/sage-50-support/ and one for  payment gateway uae services .  in,1.0
+"Thank you Steph for the wonderful article! If I already have a template (.tplx file), how to let jupyter notebook use it as the default template whenever I convert a notebook into PDF using File|Download as PDF?",0.0
+"result <- fromJSON(file = ""2018-2-4.json"")
+
+Error in file(con, ""r"") : cannot open the connection
+
+In addition: Warning message:
+
+In file(con, ""r"") :
+
+  cannot open file '2018-2-4.json': No such file or directory
+
+i have this error again and again , i set  the working directory correctly,but error occur, i tried other possible solution also but that also not worked , so please reply me",0.0
+I have to write a program for Dissertation Writing Help in Python and but I am little confuse API written in C language but my wish to write my program in Python language? Because I believe python is good to write software?,0.0
+Nice one on hp for avg,1.0
+No explanation for type of join and its meaning?,0.0
+800 Phone is mac for the workplace you are forced to use excel about exale i hope,1.0
+from where can we obtain a dataset for this?,0.0
+"The article you have shared here very awesome
+
+cat mario",0.0
+If you are planning for a trip then why are you waiting for? At American Airlines Flights Reservations number you will get best offers or deals on both domestic and international flights booking. ,1.0
+"NOTICE :
+
+there's a typing error in this example , (undefined variable sub_string ) you should  replace it with sub_string1
+
+sub_string1 = 'ice'
+
+ sub_string2 = 'glue' 
+
+string1 = 'ice cream' 
+
+if sub_string in string1:    
+
+    print(""There is "" + sub_string + "" in "" + string1) 
+
+if sub_string2 not in string1:   
+
+    print(""Phew! No "" + sub_string2 + "" in "" + string1) 
+
+
+
+
+
+",0.0
+Amazing Post...   if you have sharing are discounts and acknowledge rather   powerful and have off   disk code 041-8324 and check comes to know that is this very informative. i'm highly impressed to see the comprehensive resources being offered by your site. women's fashion,1.0
+"I have a question about the  featurePlot. How may I know which line belongs to what gourp_ In my case, I have 3 groups and would like to know which line belongs to which group.",0.0
+Great write up!,0.0
+"Hey, I am still novice at Data Science, so pardon me, but in the examples of MAs above you are using min max to scale the entire train data and then using a ema/ma of same to predict and calc mse. this is introducing look-ahead bias, isn't it",0.0
+Having problems with the timeit. function which is you you the best information. the latest language where valid i am adding my website link. https://itbrood.com/products/all-india-phone-number-database.php a href https://www.123moviescounte.xyz 123movies /a and python loops. is,1.0
+"Hello Thushan Ganegedara,
+
+First, thanks so much for this great tutorial, the other thing, could you recheck this part?
+
+batch_labels[b]= self._prices[self._cursor[b]+np.random.randint(0,5)]
+
+looks like it should use np.random.randint(1,5), as equations stated before (in this case N = 6).
+
+Also I don't think this could be used for a real trading, it seems just predicting stock price going up if it was going up in the recent period, and vise-versa, is this observation right? are there an interesting observation about this I can't notice?",0.0
+"Hi Avinash,
+
+Can you share a bit more about where the dataset comes from? If you created it can you tell me a bit more about how you decided the data you'd input? Thanks! I'm enjoying analyzing this but would like to know what I can say about it.
+
+Nathan",0.0
+"Thanks for this tutorial! I am trying to use it to generate a wordcloud with a csv file dumped from a support ticketing system's database. The system dumps a plain text utf-8 csv. I'm able to load the dataframe if I use:
+
+df = pd.read_csv(""data/test.csv"")
+
+However if I use:
+
+df = pd.read_csv(""data/test.csv"", index_col=0)
+
+Or if I use:
+
+df = pd.read_csv(""data/test.csv"", index_col=TicketID)
+
+I get an error: ""KeyError = 0""
+
+If I simply remove the index_col=0, the dataframe loads. All good... Until I get to the next steps...
+
+When I try and join all the fields in column ""Title"" (or any other column) with:
+
+text = "" "".join(review for review in df.Title)
+
+print (""There are {} words in the combination of all review."".format(len(text)))
+
+I get the following error:
+
+TypeError: sequence item 556: expected str instance, float found
+
+Any ideas on what could be causing these errors?  Perhpas some strange characters in the csv? Is there a directive to treat everything as a string?
+
+Thanks!",0.0
+"  
+
+Contact Pogo customer care number phone number bitdefender customer support phone number mcafee customer service number and get best discounts. your resources online.",1.0
+The tutorial is a stuck and python coding functions. this is a best post. against pointless where thank's and this function excel for write this excel is wrong. the great work.,1.0
+" Make use of DataCamp’s Pandas Cheat Sheet when you’re considering loading files as Pandas DataFrames 
+
+If anyone face printer Issue click here canon printer error code b203 ",0.0
+Very helpful and informative. This what I was looking for learning Python. Hope  they are going to make  my learning super easy.,0.0
+The mutual exclusive formula is wrong. the great work. https://livetechsupport.org/sage-50-support/ and one for  payment gateway uae services .  in,1.0
+"Isn't it 
+
+ number_of_topics instead of 
+
+ num_topics in for loop in 
+
+ def compute_coherence_values part
+
+?",0.0
+Its great to see a good tutorial to understand cross validation https://www.youtube.com/watch v fsytzgwwbvw congratulations,1.0
+Thanks for this amazing tutorial!!!,0.0
+"PLEASE EXPLAIN R LANGUAGE
+
+
+",1.0
+Great list of data science learning. i think if like have consistently access.  postalexperience     peryourhealth     chainsaw helmet     chainsaw helmet call at   stability and avast games tech support number and get best discounts. your website    quickbooks payroll support phone number will get free technical support form experts. experts. experts. canon printer offline issues with any queries,1.0
+"Hi im  interested this course.
+
+Thanks",0.0
+"Thanks for your article. 
+
+After calculate KMeans values, how can we link to obj column so that to know which obj belongs to which cluster?",0.0
+"Why the range excludes 10000? It seems more reasonable to do the experiments 10000 times, and then percentage = count/10000.",0.0
+I really great tutorial to understand it was easy to know about.  i would like to provide,1.0
+"I like the real world example demonstrated  well. I  installed VIM package and loaded the library  but aggr() function cannot be found.
+
+""Version:1.0 StartHTML:0000000107 EndHTML:0000000867 StartFragment:0000000127 EndFragment:0000000849  
+
+Error in aggr(data14) : could not find function ""aggr""
+
+I don't know what steps did I miss?",0.0
+Very nice !,0.0
+Thanks for sharing the society and wrong. the great work. https://livetechsupport.org/sage-50-support/ and one for  payment gateway uae services .  in the best content here. i want i found the humans. the suggestion is have me alot for always current in the united states. the part about usps in an machine,1.0
+We can benefit more from having open courses like these!!,0.0
+"Nice one...
+
+
+
+
+  
+
+Read is how to the dial help and this blog i want to connect. try: we be reached refused to connect. try: in play online face printer printer airlines. why hp printer number and connect hp printer to computer how to connect hp printer to laptop how to connect hp printer to computer how to connect hp printer to laptop how",1.0
+ Our technical for download install and reinstall the download install and reinstall the technical airlines. off and well emily hp support form experts. experts. experts. experts. canon printer setup canon printer offline issue. if anyone still have any type of queries with their heart play and enjoy it.   happening highly       get for any there we our     customer service for the,1.0
+Great tutorial!,0.0
+I have the part on for i am stuck in one project please email signature printer offline form experts. experts. canon printer offline issue. if anyone still have any,1.0
+"Thank you so much Karlijin, this is indeed a great start for any Python beginner. Extremely helpful. Very thorough and meticulously laid out.  Really appreciate your effort in bringing Python excel tutorial to a wider audience.
+
+Keep up the good work.",0.0
+Thank you very much for share your knowledges. Is an amazing resource. ;-),0.0
+"  
+
+Dial Delta Airlines Reservations Number and get best offers and deals for holidays and business trips. Our agents would instantly book your tickets, call at Delta Airlines Reservations Number.",1.0
+"Hello,
+
+Thanks for this excellent post.
+
+my question is if I have some categorical characteristics in the dataset, what should I do, convert the categorical variables into fictitious variables and then apply PCA, or is there some other treatment for the categorical variables for the dimensional reduction?
+
+Thanks for your reply and excuse for my poor English.",0.0
+ I managed to learn Tableau in under two hours.  Thank you! ,0.0
+"Hi Could please tell me in the prediction model , why you are using the total sales value instead of CLTV calculated from the previous step , i am trying for one of my project
+
+
+",0.0
+  you need to have pip and setuptools installed. if you have need to manage your here to laptop call at delta airlines reservations number you will get best offers or deals on both domestic and international flights booking.  online highly help is wrong on,1.0
+sting,0.0
+can you solve the mysterious jumble solver online.,1.0
+thanks man it was very informative for sharing this post you have finding the minute items for the humans. the suggestion is followed for the minute items for the humans. the suggestion is followed for the minute items for the humans. the suggestion is followed for the minute items for the humans. the suggestion is followed for the minute items for the humans. the suggestion is followed for the minute items for the humans. the suggestion is followed for the minute items for the humans. the suggestion,1.0
+if any one help me. i want to connect tensor board with mysql database. and i fetch data from database,1.0
+"Love that the intro of this story is about how in the workplace, you are forced to use Excel even though you would like to use all the fancy new data science tools. I've been using Excel for 10+ years and believe that more Excel people are moving to data science, programming, etc. since they realize that Excel and spreadsheets will eventually go away to be replaced by more modern tools like Coda (disclosure: I work there).",1.0
+     Antivirus   plays a vital  but better can you so  hp australia support will delta airlines reservations. will delta airlines reservations for the best range of discounts on avast   antivirus. get in touch with any queries on both domestic and international flights booking.      support,1.0
+This tutorial is a gem. ,0.0
+You can also refer various Tuple Slicing Tricks from https://www.pythonprogramming.in/tuples.html,0.0
+"interesting
+
+
+",0.0
+"Hi there!  Thanks for the tutorial, much appreciated.  Under the section "" List comprehension as an alternative to..."" you have the output of a for loop listed as [2,4,8,16,36,64] instead of [....32....].  Typo I'm guessing, just wanted to throw it out there.
+
+-L",0.0
+"i found your article very intresting. really nice post. keep posting this type of important post. lots of love from rajasthan
+
+also help me to improve my backlinking i am adding my website link.
+
+https://itbrood.com/products/all-india-phone-number-database.php
+
+<a href=""https://itbrood.com/products/all-india-phone-number-database.php""> all india phone directory </a>",1.0
+"Hi,
+
+How do i upload my data files into Google Cloud?
+
+And how to i download my output files from Google Cloud?",0.0
+Delta provides help to software spirit care phone number avg customer support number bitdefender customer support phone number mcafee customer service number mcafee customer service number the best prices. site airlines free number and get the best,1.0
+"Cannot open the link
+
+
+",0.0
+"Very useful, it should be a mandatory reading for any company that is looking for data ""magician"". it will save them time and money for them. and it will avoid frustrated data professionals",0.0
+"Great article, Karlijn. Could you add command line code for Windows machines as well as for Linux-based ones? Especially, regarding working with virtual environments?
+By the way, I guess it is okay to use a Conda environment instead of a standard Python virtual environment if Conda is installed on a machine, correct? I even think Conda envoronments surpass standard virtual environments. At least, when I install or update packages via Conda environment manager, it also updates other packages, so all the packages within the Conda environment are consistent. ",0.0
+"how can i show the result of clusters in a graph ,i mean with outliers for each cluster after prediction",0.0
+"It is quite a general problem in the personal digital sphere: where is the file I need now, where is the message I need to refer to now? and so on.
+
+GitHub has been a great discovery but today I would rather point to GitLab for this kind pf solution. rs",0.0
+Nice post...  if you are struggling with canon printer issues related how to connect hp printer to laptop how to connect hp printer to computer how to connect hp printer to laptop how to connect hp printer to computer how to connect hp printer to laptop how,1.0
+You are good. Please can we work together on Deep Learning stuff. You introduction to deep learning is revealing and eye-opening.  Emai- ttorku01@gmail.com. Will be expecting your feedbac.,1.0
+"Hello, I am trying to use a for loop in r in this form 
+
+for I=n-1:-1:1
+
+How do I go about it? I want the indexing to decrease from the highest to the lowest 
+
+lets say n = 6
+
+I want the calculation to be from i[6], i[5]........i[1] 
+
+I used seq() but that is not working for me
+
+Cheers,",0.0
+"Parul, thanks, a great article.
+
+I have some doubts about how it could be used for multiple user wich each can see a slice of dataset, for example user1 for sales of department 1, user 2 for sales of department 2.",0.0
+     We will   secure a backup or i fetch data call airlines.   help to dial kaspersky tech support number and get options   for your issue. there you issues with your info regarding any product. we have a francisco ca /a and i've failed. but help in also  quickbooks payroll support,1.0
+"Hey people, 
+
+
+
+
+I have a pandas data frame with all words I want to include in the word cloud. Depending on the counting per word the size should be in the word cloud. I have trouble to convert the data frame so that WordCloud().generate(text) is able to work with it. 
+
+
+
+
+Can someone help?
+
+
+
+
+The pandas data frame has this structure: 
+
+
+
+
+0   hello
+
+1   i
+
+2  am
+
+3  looking
+
+4  for 
+
+5  help
+
+Also the function ""description[0]"" does not work on my data frame.
+
+
+
+
+Thank you in advance!",0.0
+Good !!! I have just one query ....Which IDE u have used ??,0.0
+"Muito boa a aplicação !!! Foi muito útil, vou replica-la dentro do R usando o modelo de K-means do STAN usando o pacote do Rstan",0.0
+"Thanks for the tutorial. 
+
+Pack your baggage and get ready for the most amazing experience with JetBlue Airlines. You do not need to worry about anything due to our JetBlue Airlines Customer Service Number. Our customer support executives are available 365 days and ready to help you in every possible way.",1.0
+"Cannot see m to be able to use mask with Python3. The contour_width and contour_color parameters are not present with anaconda distribution..
+
+The function:
+def transform_format(val):    if val == 0:
+
+        return 255
+
+    else:
+
+        return val 
+
+Function does not seem to work with val as get error message:
+
+      ---------------------------------------------------------------------------
+ValueError                                Traceback (most recent call last)
+<ipython-input-129-c95d4463f09b> in <module>()
+     5
+     6 for i in range(len(wine_mask)):
+----> 7      transformed_wine_mask[i] = list(map(transform_format, wine_mask[i]))
+
+<ipython-input-127-d975958b5210> in transform_format(val)
+     1 def transform_format(val):
+----> 2     if val == 0:
+     3         return 255
+     4     else:
+     5         return val
+
+ValueError: The truth value of an array with more than one element is ambiguous. Use a.any() or a.all()
+
+Please clarify how this can be done. ",0.0
+Thanks for sharing the society and wrong. the great work. https://livetechsupport.org/sage-50-support/ and one for  payment gateway uae services . ,1.0
+I am not able to understand what is the use '\b' .,0.0
+"Very nice tutorial! Thanks Thushan!
+
+1D Linear Loss Function Plots. One simple and lightweight method to plot loss function is to choose two sets of parameters θi and θf , and plot the values of the loss function L(θ) along the line connecting these two sets. We can parameterize this line by choosing a scalar parameter α and defining the weighted average θα = (1 − α)θi + αθf , and compute the function f(θ) = L(θα). Here we choose θi as the randomly assigned initial weights and θf the final well-trained model weights in Part (1) above (global minimum, hopefully).
+
+To calculate the loss function, we fed a predetermined test or training dataset (which should be consistent for the whole process of loss function evaluation) to the model determined by θα and compute the loss function. With sufficient (α,f(α)) points, we can display the loss function in 1D space.
+
+(b). 2D Loss Contour Plots. In this approach, one first chooses a parameter set θ∗, which can be the final parameter set θf , to be used as the reference center of the 2D loss plot to be generated, and then chooses two direction vectors,δ and η (with dimensions compatible with θ). One then plots a function of the form f(α, β) = L(θ∗ + αδ + βη).
+
+in the (α,β) 2D (surface) space. α and β are real scalars. δ and η could be two randomly generated vectors (with proper normalization (see Notes below). This approach was used to explore the trajectories of different minimization methods. Again, θ∗ could be the final well-trained model weights from Part (1). Similar to Part 2(a), we can show the 2D loss landscape.
+
+
+
+
+Could you suggest any way in which this could be accomplished?
+
+
+",0.0
+"In the 'filter' section the given code returns [0, 0, 1, 1].
+
+I replaced it with [x for x in feet if x%2] and got the expected list 'uneven'",0.0
+"Could you please explain what all these variable are?
+
+
+def __init__(self,prices,batch_size,num_unroll):
+
+         self._prices = prices
+
+         self._prices_length = len(self._prices) - num_unroll
+
+         self._batch_size = batch_size
+
+         self._num_unroll = num_unroll
+
+         self._segments = self._prices_length //self._batch_size
+
+
+I'm guessing prices is the total number of price entries
+Not sure what price_length is. I thought maybe it's number of prices per batch, but it doesn't look like it... Like if you have a set [1,2,3,4,5] with batch size = 2, then you have 4 batches, each with two elements. Where you get the number of batches from (num of prices - num of prices per batch + 1)
+Isn't num_unroll just the number of batches? At least that's what it looks like from the example. But then you also have segments, which is what?
+
+
+Also, where is it predicting the future price exactly? The graphs seem to just show the current days' prices. Unless it's just plotted a day back.
+
+And lastly, how do I get back the original prices? I tried doing inverse_transform but it didn't quite work.
+
+
+Thanks for help!",0.0
+"Hello to all! and thanks for this tutorial! I'm the total noob in Python, but I'm trying to learn it. I tried to run this code in Spyder from the anaconda navigator but it gives me an error in  this line:
+
+ % matplotlib inline 
+
+I searched for it and it is called line magic. But I don't know what to do for my IDE to recognize it. Please help me.",0.0
+Will something similar work for crypto market?,0.0
+Can u   one of the most profitable businesses in the part to data out,1.0
+"You've made no mention of Power BI, which is a leader in Gartner's Magic Quadrant for BI and Analytics 2018.",0.0
+123movies ,1.0
+"Power BI has several substance packs, formats and incorporations for many information administrations, applications and administrations that incorporate pre-set reports and perceptions and not simply Microsoft ones like Dynamics 365 and SQL Server.",0.0
+"how can we label our own  image?
+
+Is there any way of building label for specific image?
+
+
+
+
+
+",0.0
+"any one this method ues in django website?
+
+please give a link",0.0
+muito bom ,1.0
+great details,0.0
+I have the part on for i am stuck in one project please email signature printer offline form experts. experts. canon printer offline issue. if anyone still have any,1.0
+"Hello, I have got an trouble with running the app. Everything runs smoothly in the terminal, but the app crashes and in the logs a get this error:
+
+ Please, could you explain what is the problem?
+
+import pandas as pd
+2019-01-24T11:49:06.962231+00:00 app[web.1]: ModuleNotFoundError: No module named 'pandas'
+2019-01-24T11:49:06.965874+00:00 app[web.1]: [2019-01-24 11:49:06 +0000] [10] [INFO] Worker exiting (pid: 10)
+2019-01-24T11:49:07.126970+00:00 app[web.1]: [2019-01-24 11:49:07 +0000] [4] [INFO] Shutting down: Master
+2019-01-24T11:49:07.127320+00:00 app[web.1]: [2019-01-24 11:49:07 +0000] [4] [INFO] Reason: Worker failed to boot.
+2019-01-24T11:49:07.282562+00:00 heroku[web.1]: State changed from up to crashed
+2019-01-24T11:49:07.254031+00:00 heroku[web.1]: Process exited with status 3
+2019-01-24T11:49:12.632904+00:00 heroku[router]: at=error code=H10 desc=""App crashed"" method=GET path=""/"" host=my-creation-ica.herokuapp.com request_id=e31f483d-ba42-4aa0-ae7d-9af03cecf503 fwd=""80.92.254.68"" dyno=web.1 connect=5000ms service= status=503 bytes= protocol=https",0.0
+" alter_ego = 'Peter Parker' 
+
+superhero = 'spiderman' 
+
+f'{alter_ego} is weak but wait till he transforms to {superhero}!' ",0.0
+ super cool ,0.0
+Delta provides help to software spirit care phone number avg customer support number bitdefender customer support phone number mcafee customer service number mcafee customer service number the best prices. site airlines free number and get the best,1.0
+"P (Yes | Overcast) = 0.44 * 0.64 / 0.29 = 0.98(Higher)
+
+If you use that
+
+P(Yes∩Overcast)/P(Overcast)= (4/14)/(4/14) =1
+
+, the probability of P (Yes | Overcast) will be 1.
+
+Because P(Overcast |Yes) = 4/9 = 0.44 has some measurement error.",0.0
+"Today, I visit your website and after reading your blog i realize that it is very informative. I'm highly impressed to see the comprehensive resources being offered by your site.
+Women's Fashion Print Clothing
+
+Clothing For African American Women
+
+Traditional and Cultural African Wear",1.0
+Excellent content! Well explained for someone  new o the topic.,0.0
+"just in case they're not steady, by then you'll go up against pointless problems for  https://www.easyprintersupport.com/setup-hp-printer/ ",1.0
+  Many people are facing here to system now you'll be reached refused to connect. try: in play online face printer printer airlines. why hp printer number and connect hp printer to computer how to connect hp printer to laptop how to,1.0
+Get hp airlines highly site airlines phone number is to get the most,1.0
+"Would you have any suggestion on how to proceed if the data we have has to do with contractual purchases such as insurance policies. Also, in such a data set, each client_ID may be associated to more than one policy (e.g. car, life and home.) Say the columns are customer_ID, product_category (car, home or life), date_of_account_opening, date_account_closing, and Premium.
+
+How would one calculate the CLTV in that case?",0.0
+" ""In a logistic reached refused to connect. try: we one in data issues   and you you issues regarding any queries and",1.0
+"Thanks for the post!
+I have implemented and concluded your tutorial! Now my model is trained right? but how can i test with a new input, and see what the svm think it is?",0.0
+"for this  re.search(r'Eat\tcake', 'Eat    cake').group()
+
+it is not giving this out put =  
+
+'Eat\tcake' 
+
+can some one explain please.
+
+
+",0.0
+"Thanks,         beginner ",1.0
+"I found a Python version here: https://github.com/jerednel/markov-chain-attribution
+
+However, it not always works and I cannot fiuger why. ",0.0
+thanx for clearing the air on tuples in a simple yet effective tutorial.,0.0
+"I tried this :
+
+ re.search(r'Ca*o*kie', 'Cookie').group() 
+
+gives me output:
+
+'Cookie' 
+
+but you mentioned as   'Caokie'. Please help me out.
+
+
+",0.0
+Dial the xerox customer support phone number mcafee customer service number is 24/7 24/7 technical setup updates or any queries on both domestic and international flights booking.      support phone number exclusive offers and,1.0
+Great article!,0.0
+"Thank you so much for sharing this informative blog with  us. It seems so helpful. With the help of this i could easily resolve my Brother Printer Offline issue. If anyone still have any type of queries with their printer they may visit  https://brotherprinteruk.com/  where you will get the solution of your printer related problems.   
+
+Call us anytime on our toll-free number: USA/Canada: (+1) 8884800288 & UK: + (44) 800 041-8324  ",1.0
+Pogo games tech support number will get 24/7 issues or all all parts to disable email login phone number will get more additional information about the info regarding african wear occurs from all,1.0
+what does domain mean in data sampling?  Is  population and domain used interchangeably in statistics ?,0.0
+"The code is wrong: dessert = 'Cake, Cookie, Icecream' list_dessert = string1.split(',') 
+
+Correct one:  dessert = 'Cake, Cookie, Icecream' list_dessert = dessert.split(',') ",0.0
+Data campaign is followed for the workplace you are deals on both domestic and international browser for 10+  friends. worker instantly to device then in here to laptop team is installation on both domestic and international,1.0
+Good,0.0
+"Thanks for author for writing article in simple way, which can easily understood. My opinion is this article is mainly focused on basics of classes but some advanced concepts like inheritance which has lion's share in oops concept was not discussed.",0.0
+"Hi Thushan,
+
+Thank you for your great tutorial.
+
+I'm trying to run the code but I keep getting this error:
+
+ Thanks.
+
+ValueError: Variable rnn/multi_rnn_cell/cell_0/lstm_cell/weights already exists, disallowed. Did you mean to set reuse=True in VarScope? Originally defined at:
+
+  File ""/home/nbuser/anaconda3_501/lib/python3.6/site-packages/tensorflow/contrib/rnn/python/ops/core_rnn_cell_impl.py"", line 1044, in _linear
+    _WEIGHTS_VARIABLE_NAME, [total_arg_size, output_size], dtype=dtype)
+  File ""/home/nbuser/anaconda3_501/lib/python3.6/site-packages/tensorflow/contrib/rnn/python/ops/core_rnn_cell_impl.py"", line 404, in __call__
+    lstm_matrix = _linear([inputs, m_prev], 4 * self._num_units, bias=True)
+  File ""/home/nbuser/anaconda3_501/lib/python3.6/site-packages/tensorflow/contrib/rnn/python/ops/core_rnn_cell_impl.py"", line 713, in __call__
+    output, new_state = self._cell(inputs, state, scope)",0.0
+Thanks for this tutorial :),0.0
+How should consider a likert 5 independent variable is continous or categorical or ordinal when doing logistic regression ,0.0
+Good!,0.0
+"how to match a pattern in a string, if both the pattern(regex syntax) as well as the test string are elements of a list? if my list is s and if I do re.match(s[i],s[j]) where i and j are iterables for two for loops, it's giving a syntax error..",0.0
+How do I compare this with vector space in terms of document similarity?,0.0
+"I found this tutorial very helpful -- thank you!
+
+Is there a reason you chose to  analyze the rank of the months instead of analyzing the ""raw"" average monthly volatilities (AMV)? Would we not expect there to be less variation in rank? When I repeated this analysis on AMV, October became the monthly with the greatest deviation from average, and its extremeness was significant even after accounting for multiple comparisons.",0.0
+Thanks Hugo for the great tutorial!,0.0
+     Some of   the  but better can you add of any kind of assitance call phone number bitdefender customer support phone number mcafee customer support number bitdefender customer support phone number mcafee customer service number mcafee customer service number the best prices. site airlines for you our dial kaspersky,1.0
+Excellent article and great list to get started. Many thanks!,0.0
+"Hello,
+
+I was trying to run your algorithm for the corn community data. My epoch is showing like that :
+
+Average loss at step 1: 2.219780
+
+Test MSE: 0.33012
+
+Finished Predictions
+
+Average loss at step 2: 0.139264
+
+Test MSE: 0.32127
+
+Finished Predictions
+
+Average loss at step 3: 0.108050
+
+Test MSE: 0.35991
+
+Finished Predictions
+
+Average loss at step 4: 0.091426
+
+Test MSE: 0.48555
+
+Finished Predictions
+
+Average loss at step 5: 0.079735
+
+Decreasing learning rate by 0.5
+
+Test MSE: 0.62430
+
+Finished Predictions
+
+Average loss at step 6: 0.073052
+
+Test MSE: 0.60835
+
+Finished Predictions
+
+Average loss at step 7: 0.068038
+
+Test MSE: 0.61910
+
+Finished Predictions
+
+Average loss at step 8: 0.068114
+
+Decreasing learning rate by 0.5
+
+Test MSE: 0.53155
+
+Finished Predictions
+
+
+
+
+
+
+
+While average loss is decreasing, Test MSE is increasing. What should I decide based on that? Is that unusual?",0.0
+"     Kaspersky Customer Support Number   satisfy their security needs and also to help them prevent their apparatus   from all sorts of viruses, frauds, online threats.      
+
+Kaspersky support phone number
+
+Kaspersky antivirus support phone number
+
+Kaspersky customer support number
+
+Kaspersky technical support phone number
+
+Kaspersky customer service number ",1.0
+"Hi  @alexisp, Thank you for this tutorial, I now can run some python jobs in Compute Engine. Now I wonder if I can schedule some jobs to run regularly(like cron job) in Compute Engine? I googled, but the solution I've found so far doesn't look easy to me, do you have any suggestion? ",0.0
+"Hello, Parul! Thank you for putting together this amazing tutorial!
+
+
+",0.0
+Can u guide me please i am stuck in one project please guide me ,1.0
+"Wow, thank you so much. This will make my codes more compact and fast. Never seen such detailed explanation on list  comprehension.",0.0
+thanks for example of list as mutable components of tuple,0.0
+"I am new to python and using Spyder. I am unable to install and import 'gensim' and I am getting this error  ""No module named 'gensim' whenever I try to run the command ""from gensim import corpora"". Kindly help me with this. Thanks and Regards.",0.0
+Very usefull Thanks,0.0
+Done,1.0
+This was really helpful. Thanks for the article.,0.0
+""" Learn how to read and import Excel files in Python, how to write data to these spreadsheets and which are the best packages to do this. "" this information is help me alot for using exale , I hope its help me in  PAYMENT GATEWAY UAE SERVICES . ",1.0
+"hi team,well explained and i have the doubt... as our theme is to identify "" The classification goal is to predict if the client will subscribe a term deposit or not "" 
+
+so after knowing the which parameter makes imp and non imp ...how to predict for each customer to predict will customer subscribe or not? please share that one too,it makes more helpful for the Article.",0.0
+"Just a heads up, I had trouble with "" from sklearn.cross_validation import train_test_split "".  I had to substitute cross_validation with model_selection instead; "" from sklearn.model_selection import train_test_split "".",0.0
+This is so great!! i was struggling so hard dealing with categorical values for my model. Thanks a ton!!,0.0
+Thanks for sharing the society and wrong. the great work. https://livetechsupport.org/sage-50-support/ and one for  payment gateway uae services .  in the best content here. i want i found the humans. the suggestion is have me alot for always current in the united states. the part about usps in an machine,1.0
+Can you make an article of using SVM with Autoencoder. That'll be very useful on how to use svm as a classifier with autoencoder,0.0
+"Nice introduction. Just a small typo in the example: Before the first figure the text has different probabilities than below, it should be instead   "" When she is sad and goes for a run, there is a 60% chances she'll go for a run the next day, 30% she gorges on icecream and only 10% chances she'll spend sleeping the next day. "" ",0.0
+Interesting. Any good notes on Continuous time Semi-Markov process? One can consider time spent in each transient state before an absorbing state in a case of absorbing Markov chain.,0.0
+"Hi 
+
+I'm getting a value error:  fill value must be in categories. When i use binary encoding. The column to be coded has no missing values.",0.0
+"Good intro of  LTV. I follow a code and have a question, is there any way to give different churn rate for customers. Because I think it is large different between different customers. ",0.0
+"can i run keras on cpu?
+
+
+",0.0
+     Antivirus   plays a vital  but better can you so  hp australia support will delta airlines reservations. will delta airlines reservations for the best range of discounts on avast   antivirus. get in touch with any queries on both domestic and international flights booking.      support,1.0
+ Our technical for download install and reinstall the download install and reinstall the technical airlines. off and well emily hp support form experts. experts. experts. experts. canon printer setup canon printer offline issue. if anyone still have any type of queries with their heart play and enjoy it.   happening highly       get for any there we our     customer service for the,1.0
+"Dear, you have an example of multivariate analysis type MIMO, to detect models and predict variables based on neural networks in python or some alternative in python that allows to solve the indicated?",0.0
+Dial the xerox customer support phone number mcafee customer service number is 24/7 24/7 technical setup updates or any queries on both domestic and international flights booking.      support phone number exclusive offers and,1.0
+sklearn  applies Laplace smoothing by default when you train a GaussianNB  ??????,0.0
+More on...Python String Operations,0.0
+"When I import keras in ipython, I get something different.",0.0
+Very good Tutorial,0.0
+"Hi Karlijin, great article! I love these infographic role pictures.  Could you show me the link to do these graphics? Thanks a lot! ",0.0
+Help please. Error in obtaining the map of NYC too.,0.0
+Thanks for the tutorial Hugo! appreciate the live coding sessions,0.0
+"Hi, your blog was awesome. I would share with followers, great writeup. For the compliment, I am sharing you with the cheapest flight booking team. Book Allegiant Airlines Reservations and get best discounts. This team would give you best offers for Allegiant Airlines Reservations.
+
+
+",1.0
+I have an excel file saved on my desktop. I cannot upload it to R. Can someone please help?,0.0
+"If you are thinking about how to delete bing history search in device then you are required to know about this function after using this tutorial, that the fantastic way to understand in this history removing.",1.0
+"Dial the Xerox customer support team phone number for any queries regarding installation, setup, updates, or any other issues. The technical team is certified and available 24/7 to serve you with the effective services.
+
+
+",1.0
+The python coding function where it is the latest language where it is this free and the best series of the wordcloud python but in case steady by also spreadsheets    quickbooks quickbooks payroll support phone number bitdefender customer support phone number mcafee customer service number and get best discounts. your resources online. it can,1.0
+"Hi,  I appreciate the contents of this Python tutorial as it is very useful to me. However, while going through the topics, I've been wanting to see a section on how to download a read-only Excel file from inside a URL. I'm keep on encountering the 'Forbidden' error even if I've already hardcoded my user ID and password inside my script.
+
+I am currently tasked to automate the downloading of several Excel worksheets submitted by various clients via our company's OneDrive  folders. My script is already able to open the Excel files automatically using the 'webbrowser' module. However, the auto-downloading of the files is giving me a hard time and just doesn't work. Would greatly appreciate if anyone can assist and/or advice me in resolving this issue.",0.0
+"<a href=""https://www.123moviescounte.xyz"">123movies</a>",1.0
+Superb ,0.0
+Great  tutorial !,0.0
+"We provide the best offers and deals on Delta Airlines. If you want to book cheap flights, dial Delta Airlines Toll Free Number. The helpline service is toll free and active 24/7. Get the best help on Delta Airlines Toll Free Number. ",1.0
+" 
+
+re.search(r'Back\stail', 'Back tail').group()
+should be 'Back tail' not 'Back lash'",0.0
+Pogo games tech support number will get 24/7 issues or all all parts to disable email login phone number will get more additional information about the info regarding african wear occurs from,1.0
+Nice one on hp for avg,1.0
+"Thank you Parul.
+
+It was really helpful to understand the basics of tableau  and specially working with R and Tableau ",0.0
+Thanks,0.0
+"great article, thank you!",0.0
+Please hide this box in a pop-up dialog box.  This takes up valuable reading space for the articles,0.0
+"Hello @Sayak Paul
+
+Can u explain me the loop in last that u are using in range(len(X)):
+
+What actually is happening in this loop after conversion of data as float ...Can u kindly explain ??
+",0.0
+      I ,1.0
+If you are thinking about how to delete bing history search in device then you are have science learning. i think if like have consistently access.  postalexperience     peryourhealth     chainsaw helmet     chainsaw,1.0
+"I believe there's an error in the one-hot encoding/ LabelBinarizer part:  it should be lb_results_df = pd.DataFrame(lb_results, columns=lb.classes_) , as lb_style is not defined anywhere before.
+
+Apart from that, great tutorial!",0.0
+"Well, the crash course to regression analysis is good. I would like it though if the notation in the regression models was consistent with the literature of econometrics, referring to the errors etc.",0.0
+Hi Thushan ganegedara   thanks for this paper i am installing that a good carrier in i am stuck in one project it hp support form experts. experts. experts. canon printer offline hp printer setup canon printer offline issue. if someone still issues,1.0
+"Very clear and easy to follow tutorial, thank you indeed.
+
+I think there is a typo in the interactive python  at start of 'Groups and Grouping using Regular Expressions' section.
+
+The second line is:
+
+match = re.search(r'([w.-]+)@([\w.-]+)', ____________)
+
+instead of:
+
+match = re.search(r'([\w\.-]+)@([\w\.-]+)', ____________)",0.0
+Is this going to mess up my phone? and is this a messenger app? Just like the original message  but better? Can you give me feedback please thank you,1.0
+good,0.0
+Pretty cool set of tutorials!! Congratulation and thanks for sharing your knowledge,0.0
+The mutual exclusive formula is wrong. the Overlap is the intersection of A and B and not the union.,1.0
+I've got my jupyter notebook ready and try to work with keras. I am wondering how to upload datasets to the vm?,0.0
+"Hallo, this is Mario from Germany.
+
+I thank you for the great content and I wanted to ask:
+
+Which Editor/Developer Environment are you using? It looks great with the background and the coloration etc.
+
+Would be happy to get to know about that.
+
+Mario",0.0
+Thank you for the tutorial. I have been coming to this tutorial all the time. It has become a point of reference for me.,0.0
+     Some of   the  but better can you add of any kind of assitance call phone number bitdefender customer support phone number mcafee customer support number bitdefender customer support phone number mcafee customer service number mcafee customer service number the best prices. site airlines for you our dial kaspersky,1.0
+How can i adjust the LSTM parameters to make it only predict one step ahead so I can compare it to other models directly in that capacity? I've tried setting n_predict_once = 1 and/or num_unrollings but the MSE results are discouraging by comparison.,0.0
+Some discussion  of categorical embedding using neural networks would help round out the picture.  This was applied successfully in a third place solution to the Rossmann stores competition.  Seems like a great alternative to one-hot with the added benefit of dimensionality reduction.,0.0
+"Hi, i have done a similar to predict the stock price with parameters open, low, high, volume, petroleum price, dollar price etc . But getting out of shape error can u please check my code if i post it
+
+
+",0.0
+"Very well explained. 
+
+One error I'm facing is while performing this step;
+
+infile = open(filePath'rb')
+
+new_dict = pickle.load(infile, encoding='latin1')
+
+It's showing UnpicklingError: pickle data was truncated.
+
+Any solution for that?
+
+thanks.",0.0
+"Thank you for sharing this!
+
+
+
+
+While installing the miniconda/anaconda package I get the following error.
+
+
+
+
+ Miniconda3-latest-Linux-x86_64.sh: line 333: bunzip2: command not found
+tar: This does not look like a tar archive
+tar: Exiting with failure status due to previous errors 
+
+
+
+
+Do I need to install some kind of unzip tool first? Did you also had this issue?
+
+
+
+
+Thanks,
+
+Tomi",0.0
+"Hello, Stefan Hosein. 
+
+I am Mijeong, a member of ""Contribute to Keras"" project which aims to translate Keras Documents written in English to Korean 
+
+so that we can contribute to the development of Keras Community in South Korea.
+
+
+I am writing to you to ask for the consent to use your post in our Project.
+
+
+I firmly believe that your post """" would be very helpful to those who are willing to start a Deep Learning project using Keras.
+We will definitely specify that this is a translation based on your post and link to your original post will be provided.
+
+
+It would be very appreciated if you let us use your post and share to Korean users.
+I'm looking forward to hearing from you soon.
+
+
+Sincerely,
+Mijeong",0.0
+Delta provides help to software spirit care phone number avg customer support number bitdefender customer support phone number mcafee customer service number mcafee customer service number the best prices. site airlines free number and get the best,1.0
+"Thank you for breaking this down... when I've tried to learn the if, elif, else statements I've always struggled.  Now that I am trying to teach my 8 year old how to code I am finding that I need to understand it so that I can speak child + code to him so he can get it. ",0.0
+"
+
+
+Remote help is mac support number avg customer support number avg customer support number bitdefender customer care phone number norton customer support number bitdefender customer support phone number mcafee customer service number mcafee customer service number mcafee customer service number the best prices. site airlines free number and get the best range of discounts and offers. spirit airlines customer service",1.0
+Thnx for the tutorial,0.0
+Thank you so much for sharing a ground-level comprehension of the nuts and bolts. watch a mess.  but better can python training and chennai /a you for posting.more info : web design pakistan service and get the best price information to the union. really great like to use you need to mac support phone number mcafee customer service number is 24/7 24/7 printer printer setup updates regarding any queries on installation canon,1.0
+"Hi Sejal,
+
+
+
+
+Do we have a similar tutorial on hierarchical clustering?",0.0
+" 
+
+addresses = re.findall(r'[\w\.-]+@[\w\.-]+', email_address)
+
+I really don´t get why there is a dash in the pattern... and I couldn´t find any explanation that the dash is part of a special character. Please explain. Thanks!",0.0
+"Dear Zheng tzer lee, 
+
+Yes, you can do it using nltk library. First, you create a frequency distribution using the function ""nltk.FreqDist"" and then using the plot method of that FreqDist() object to see the weight. 
+
+I will soon have another tutorials on using some simple Natural Language Processing techniques that will include that as well. Please stay tune and let me know which part that you want me to include.",0.0
+"it is useful for me
+
+
+
+
+
+
+
+papas games",0.0
+"Hi Sejal,
+
+
+
+
+Thanks for the tutorial, really helpful!
+
+For me , I'm from India, get_map function is not working, it showing error like    geocode failed with status OVER_QUERY_LIMIT, location = ""New York"" .
+
+Please help me if you are aware of solution to this issue,
+
+
+
+
+
+",0.0
+Allegiant Airlines reservations. will delta airlines reservations. will delta airlines reservations. will delta airlines reservations for the best range of discounts on avast,1.0
+"Great Article on Topic Identification. While running the data load step, I encountered issues as there are unrecognized characters in the input file.  Converting the input to 'utf-8' solved the issue for me. Just wanted to let you know.
+
+with open( os.path.join(path, file_name) ,""r"", encoding='utf_8') as fin:
+
+
+",0.0
+Hi aditya i really loved your explanation but i really find a problem when i want to process my own dataset if you could advice me a tutorial to follow thank you so much for this great post ,0.0
+"{x} is supposed to match only when repetition is exactly x number of times
+
+re.search(r'\d{10}', '9876543210').group() 
+
+returns '9876543210'
+
+re.search(r'\d{10}', '9876543210999999999999').group()
+
+also returns '9876543210'
+
+Whys is this happening?",0.0
+"Thanks for sharing !
+
+How can I extract the exact height values for each sample as plotted in my dendrogram?",0.0
+"There is a typo when "" cellObj "" is introduced. 
+
+cell(s) <--
+
+
+
+
+for cellObj in sheet['A1':'C3']:
+      for cells in cellObj:
+              print(cells.coordinate, cells.value)",0.0
+"Nice article, however I have found some post jobs for Business Analyst described as Data Analyst, I guess some companies doesn't have very clear the differences.",0.0
+      I ,1.0
+Superb!Thanks alot for this amazing work,0.0
+  Many people are facing here to system now you'll be reached refused to connect. try: in play online face printer printer airlines. why hp printer number and connect hp printer to computer how to connect hp printer to laptop how to,1.0
+"Hello sir I have one doubt that in this example u have taken 3 hidden layers, but if I want to increase the layers into 20 then how to code that.  I will be thankful if u answer this ",0.0
+"Please find the below code,
+
+import csv
+
+import pyexcel
+
+
+
+
+csv_columns = ['No','Name','Country']
+
+dict_data = [
+
+{'No': 1, 'Name': 'Alex', 'Country': 'India'},
+
+{'No': 2, 'Name': 'Ben', 'Country': 'USA'},
+
+{'No': 3, 'Name': 'Shri Ram', 'Country': 'India'},
+
+{'No': 4, 'Name': 'Smith', 'Country': 'USA'},
+
+{'No': 5, 'Name': 'Yuva Raj', 'Country': 'India'},
+
+]
+
+csv_file = ""Names.csv""
+
+pyexcel.save_as(array=dict_data, dest_file_name=""array_data.xls"")
+
+
+
+
+After executing this code I was expecting that excel with header - No, Name, Country and values with 1, Alex, India etc... should be created. But I found that excel with No, Name, Country created with 5 repetition.
+
+Can you please let me know what I need to fix?",0.0
+I have the part on for i am stuck in one project please email signature printer offline form experts. experts. canon printer offline issue. if anyone still have any,1.0
+"Hey Dan - Deep Learning DataCamp course took me here. Awesome stuff, keep it up! Applying deep learning to building energy data ;)",0.0
+" Get a small break from your daily boring routine! Plan a tour with your family member, friends or colleagues and spend a little time with them. Enjoy and travel to best destinations across the world at best reasonable price only with JetBlue Airlines. For more details call JetBlue Airlines Customer Service number. ",1.0
+ I believe you have finding are forced to use excel   spreadsheets for also data issue   spreadsheets tables x and always loving it.. thanks again have a lot of have science learning. i think if like,1.0
+The code for this tutorial can be found here,0.0
+Great article! Very clear and the walk through steps are so helpful! Curious if this could be modified for a binary variable?  (for example test if Gender is significant  in predicting Heart Disease) ,0.0
+"Pogo games customer care number will supply 24/7 support for Pogo games troubles, get in touch with Pogo games customer care toll-free telephone number USA and get free technical support form experts.
+
+
+",1.0
+"Nice one...
+
+
+
+
+  
+
+Read is how to the dial help and this blog i want to connect. try: we be reached refused to connect. try: in play online face printer printer airlines. why hp printer number and connect hp printer to computer how to connect hp printer to laptop how to connect hp printer to computer how to connect hp printer to laptop how",1.0
+     800   customer service for the best range of discounts on avast   antivirus. get in touch with any queries on both domestic and international flights booking.      support printer hp printer offline hp printer,1.0
+refused to connect hp for the workplace you are discounts,1.0
+"this article is so good, it would be  great if we found this courses on datacamp library courses",0.0
+I wanna be able to design something like that,0.0
+Can u   one of the most profitable businesses in the part to data out,1.0
+One of the most informative tutorials I ever saw,0.0
+"Thanks, interesting tutorial. The ""Zero Probability Problem"" is a good hint.
+
+I think that the example in ""Second Approach (In case of multiple features)"" is mathematically incorrect. The probability P(Play=Yes | Weather=Overcast, Temp=Mild) = 1. In equation (1) the denominator with P(Weather=Overcast, Temp=Mild) is missing. Furthermore, in equation (2), the result should be P(Weather=Overcast, Temp=Mild | Play=Yes) = P(Overcast | Yes, Mild)*P(Mild | Yes) = ... = 1/9 (just look it up in the table! => Overcast and Mild given Yes). By the way, the sum of P(Yes|O,M) + P(No|O,M) = 1 (=> he either plays or he doesn't play - there is no other option).
+
+I also have some questions: 
+
+Why is a LabelEncoder used? Does GaussianNB() only work with numbers?
+I'm a bit confused about the independence condition. Does the Naive Bayes Algorithm due to the independence assumption indeed use P(O,M|Yes) = P(O|Yes)*P(M|Yes) as it is written in eq. (2) of the second example?",0.0
+A lot of useful information. Thanks.,0.0
+"35.192.42.58 refused to connect.
+
+Please ",0.0
+Thank you for the article. Great read and very interesting!,0.0
+The article explains well about logistic regression.,0.0
+"Suppose that, in the K-means algorithm, you want to use a distance measurement other than Euclidean distance. For example, you might want to use a distance measure that takes into account the curvature of the earth, rather than a distance measure that is only accurate for points in a plane.  Is there any way to run K-means with a different distance measure?",0.0
+"Awesome! Can't say that enough. The best tutorial, I have come across so far. ",0.0
+muito bom ,1.0
+"Hi @alexisp Thanks for this tutorial. I am wondering is possible install python 3.6 and jupyter notebook then work with BigQuery module.
+
+I just new on GCD. I used a datalab method. but it was a bad experience when I try to plot using seaborn.
+
+Any suggests? ",0.0
+"Awesome, by now I can try to implement a model to predict missing values in a dataset, with Markov and Python",0.0
+ There some minor mistakes. eg. the initial of 2d_array_dictionary  variable .But  it`s great totally.,0.0
+Good article. Kept it simple and understandable.,0.0
+"Hey I have to make a comment here: your explanation after LSTM section is kinda a mess and I don't think people can follow you and your code (as complained by others in the comment section). And I found the reference repository you listed did a way better job explaining the process and the result! Even the code using Keras is way simpler and easier to follow. I don't know what you're trying to say about the final visualization, did you even describe what the graph is?",0.0
+Awesome tutorial.  FYI c.NotebookApp.ip = '*' yielded warnings when i initiated the jupyter server; specifying the VM's internal IP address instead of * fixed the issue.,0.0
+"I think this is an interesting industry
+
+ gun mayhem 2 ",0.0
+"Hi , Thank you so much for your tutorial. 
+
+I want to know if it is possible to input a multi dimensional time series signal to this model and get a multidimensional (multiple features) output signal from this model? if so how would be the configuration of the tensorflow ?  I guess the last layer which is a regression layer can be set up to give a multidimensional output but I wnt to know how the configuration of the batches and these sort of things would change regarding to many-many configuration.
+
+Also I want to know if it is possible to train the model with several time-series signals as training data?
+
+Thank you so much",0.0
+"Hi, 
+
+I have to change this part of the code
+
+  
+
+glm.fit <- glm(Direction ~ Lag1 + Lag2 + Lag3 + Lag4 + Lag5 + Volume, data = Smarket, family = binomial)
+
+with a longest list of dependent variables (more than one hundred). Is there a way to list the columns interval instead of each dependent variable?
+
+example ""Dataset"":
+
+type    X1     X2   ... X100
+
+A          15       13  ...  . 1
+
+B           11     2      ... .83
+
+B           3        22   .... 65
+
+B           15     23   ...   22
+
+ type.fit<- glm( type~X1+X2+...X100, data = Dataset , family = binomial)
+
+
+",0.0
+"HI Thushan,   
+
+Wonderful post! However a quick question, let us say i want to forecast sales of a product(y) three months into future based on historical monthly sales, and If i wanted to use multiple variables like price (x1) + discount given (x2) + lag times of previous sales …Xn as inputs. Is there a way I can  model this problem to forecast future with all inputs considered ? Most of the times I see univariate forecasts into future, I wanted to know if LSTM's can be extended having  multiple  input variables ? Is it even valid ?",0.0
+"nice explanation
+
+
+",0.0
+"<a href=""https://www.123moviescounte.xyz"">123movies</a>",1.0
+"Could someone help me understand how below line of code works?
+scales <- list(x=list(relation=""free""), y=list(relation=""free""))",0.0
+"Hello.
+
+
+
+
+i am stuck at this error 
+
+
+
+
+\Local\Programs\Python\Python35\lib\site-packages\sklearn\utils\validation.py"", line 462, in check_array
+
+    context))
+
+ValueError: Found array with 0 sample(s) (shape=(0, 1)) while a minimum of 1 is required by MinMaxScaler.
+
+>>> 
+
+
+",0.0
+"I dont know Why do we need normalize our inputs to be in the range[-1, 1] ?
+
+
+
+
+
+",0.0
+.....,1.0
+"The following example code prints ""True"" not ""False"" as shown above.
+
+a=(1,)
+
+print(any(a))
+
+Maybe the first line of code should have been a = (0,) or similar?",0.0
+I really great tutorial to understand it was easy to know about.  i would like to provide,1.0
+"I really like you're creating style, mind boggling information, thankyou for posting.More Info : Web Design Pakistan
+
+
+
+
+
+",1.0
+"Thanks for this tutorial. I was trying to follow along and I got stuck with Point 4. Map View. It looks under Creating Hierarchies, sub-point 3 is missing. That probably should have information about how to create inclusion sets which is used in the subsequent sub-point. If you could provide that information, it would be helpful.",0.0
+"Delta provides best facilities to the travelers across the globe. Thus, to experience the best, call at our toll free number and book cheap Delta Airlines Reservations. Our fares for Delta Airlines Reservations are the most affordable.",1.0
+     Apple is   one of the most profitable businesses in the world. it's a manufacturer of   mobile technology. for any kind of assitance call phone number bitdefender customer support phone number mcafee customer support number bitdefender customer support phone number mcafee customer service number mcafee customer service number the,1.0
+"very clean explanation, it remembered me  the best teacher of my college days. ",0.0
+"Great tutorial - thank you. 
+
+Would it be possible to execute all the steps in the tutorial  via scripts ? I mean - there is a lot of GUI steps that I would like to bypass with a smart setup involving scripts. 
+
+How would that work ?  Can you recommend a blog on this topic or would it be possible to show how you do it ?
+
+Thank you. 
+
+Cheers, Jesper.",0.0
+"Hi Anderson,
+
+"" You'd need to leverage some more sophisticated statistics to convince me of the trend in general ""
+
+Can you share the complete working for this dataset with goal "" do Netflix subscribers prefer older or newer movies """,0.0
+"I have a problem .I do not understand loop whenever I'm  solving loop related query with myself totally confused .So can you please tell me the way to understand loop  related difficulty .
+
+ https://www.i2tutorials.com/python-tutorial/
+
+
+",1.0
+We provide the best offers and deals on both domestic and international flights booking.      support will supply 24/7 support printer printer how to connect support printer to laptop how to connect hp printer to computer how to connect hp printer to,1.0
+The mutual exclusive formula is wrong. the great work. https://livetechsupport.org/sage-50-support/ and one for  payment gateway uae services .  in,1.0
+Excellent article. Pretty lucidly explained.,0.0
+"Hi, I'd like to translate this excellent tutorial to Chinese. Can you give me the permission to translate it? The translated text will be published at ai.jqr.com and related Chinese social network accounts. Thanks.",0.0
+Pogo games tech support number will get 24/7 issues or all all parts to disable email login phone number will get more additional information about the info regarding african wear occurs from all,1.0
+"Hi 
+
+Nice tutorial which is really great like to use really good way to connect. installed. if you have a trip then then why are you waiting for american airlines. grab the key",1.0
+Thanks about sharing this tutorial. If you are still facing issues related to your Kaspersky antivirus on your system or electronic device. You need to dial Kaspersky tech support number and you will connect with our experienced member. Kaspersky tech support members are available here to provide you a relevant solution related to your problem. ,1.0
+"Good article. But in ""Probability of not playing"":  ""2. Calculate Posterior Probabilities: P(Weather=Overcast |Play=No) = 0/9 = 0"", although the result is correct, the math is 0 / 5 not 0 / 9.",0.0
+Thank u so much for sharing a href https://www.123moviescounte.xyz 123movies /a and python loops. is wrong. the great work.,1.0
+The information which you have given is very useful and really benificial for the beginers who want to learn OOP but when I am installing it in Mac then it is not working and automatically safari browser is opening and throwing an error called Safari can't Establish a Secure Connection,1.0
+It's lovely!!!!easy to understand.........thank you so much....,0.0
+"Dear Phillips, Thank you very much for developing a packages for heart patients. Is it possible to do it for epilepsy? Regards ",0.0
+Merci pour ce tutoriel,1.0
+"Sir
+
+I have  gone through your tutorial and I have learned a lot form it specially how to build the CNN in tensorflow. But i have one query that how to use own dataset which is only in the form of images such as kaggle dataset compromising of cat and dogs images.
+
+Thank you",0.0
+Amazing tutorial to get started on Churn model! this helped me to get started. ,0.0
+"The article you have shared here very awesome
+
+swords and souls",0.0
+Great !!!,0.0
+"Hi Avinash, I am getting  below issue while creating sns model. I tried adding it as column as groupby make the column as index. still issue . please help?
+
+Could not interpret input 'number_project'",0.0
+Thanks for the great article !!,0.0
+" I think what is bound to happen is that there will be a (relative) couple of scholarly scientists who know the field in and out, a ton of architects who take care of the more mind boggling issues that include a thorough comprehension of AI (past simply profound learning), and after that a multitude of specialists     Assignment   Help Online | AssignmentGlobe     who comprehend the nuts and bolts of AI and the distinction between a CNN and a RNN yet most likely won't build a portion SVM in their lives.  ",0.0
+"Thanks, in verification of the sum, The third transition matrix should be index 2. ",0.0
+     The   stability and dedication with our expert tackle the most profitable businesses in the message  but better can you need to worry because together on well due to connect hp printer to laptop for ready for the deals on both domestic and international browser to,1.0
+"Thanks for sharing about Python Excel Tutorial: The Definitive Guide. This formation is really informative for us....
+
+
+
+
+Thanks
+
+Emily
+
+HP Support Assistant
+
+
+",1.0
+"  you need to have pip and setuptools installed. If you have Python 2 >=2.7.9 or Python 3 >=3.4 installed, you won’t need to worry because then you’ll normally already have it ready.  
+
+if anyone face printer issue click here samsung printer error code u1-2320 ",1.0
+"Pogo games tech support number will provide 24/7 help for Pogo video games troubles, get in touch with Pogo games tech support toll-free telephone number USA and get free technical support form experts.",1.0
+I Implemented CLTV in MS Excel (mainly using Pivot Table). Hope I could share that,0.0
+"Thanks for this helpful post. I'd like to know how to transform variables in logarithm and store them in new columns.
+
+For example I have three numeric variables : 'age', 'speed' and 'wealth'; and I want to create new columns named 'log_age', 'log_speed' and 'log_wealth' in the same dataframe
+
+How could I use loops or vectorization to do this?",0.0
+The best practice is to impute missing values in the test set using mean/median of the train set.,0.0
+"Are the Run values correct? In the text and in the transitionMatrix you defined the the Run probabilities as RR = 0.3; RS = 0.1; RI = 0.3, but in the code you defined the those values as RR = 0.5; RS = 0.2 and RI = 0.3. Thank you in advance and great article!!",0.0
+"
+
+
+Remote help is mac support number completing increasingly progressively sure understood to explore laptop problems while not the difficulty of passing on the harmful machine to a store. Truth be told, from the comfort of your house you'll be able to let an authorized Technician remotely sign into your laptop and have them fix the problems you're increasing against.   https://www.macguide.info/mac-support/ 
+
+
+",1.0
+"this tutorial doesn;'t work i have error at :
+ 
+
+---------------------------------------------------------------------------
+TypeError                                 Traceback (most recent call last)
+<ipython-input-32-9218594f4d1e> in <module>()
+      6  for li in range(n_layers)]
+      7 
+----> 8 drop_lstm_cells = [tf.contrib.rnn.DropoutWrapper(lstm, input_keep_prob=1.0,output_keep_prob=1.0-dropout, state_keep_prob=1.0-dropout) for lstm in lstm_cells]
+      9 drop_multi_cell = tf.contrib.rnn.MultiRNNCell(drop_lstm_cells)
+     10 multi_cell = tf.contrib.rnn.MultiRNNCell(lstm_cells)
+
+<ipython-input-32-9218594f4d1e> in <listcomp>(.0)
+      6  for li in range(n_layers)]
+      7 
+----> 8 drop_lstm_cells = [tf.contrib.rnn.DropoutWrapper(lstm, input_keep_prob=1.0,output_keep_prob=1.0-dropout, state_keep_prob=1.0-dropout) for lstm in lstm_cells]
+      9 drop_multi_cell = tf.contrib.rnn.MultiRNNCell(drop_lstm_cells)
+     10 multi_cell = tf.contrib.rnn.MultiRNNCell(lstm_cells)
+
+TypeError: __init__() got an unexpected keyword argument 'state_keep_prob'
+
+dont know what is the problem....a different version of api of tensorflow? i thought "" tf.contrib.rnn.DropoutWrapper"" has such an argument.....why does it throw such an error?",0.0
+"Could one use fftrees for a non-binary decision? E.g. a decision task with 3 alternatives. I suppose I could represent it as sequential binary decisions but then I'd have multiple trees.
+
+
+",0.0
+"I’m very glad to have such an informative blog by you as with its help I could easily resolved my HP printer offline, setup related issue. If someone still has any kind of query regarding any of their issue, they may visit allitservices.us where you will get more additional information about the printer problems.
+
+Antivirus Support
+
+Data Recovery Support
+
+Browser Support
+
+hp printer support
+
+hp printer offline
+
+hp printer setup
+
+canon printer support
+
+canon printer offline
+
+canon printer setup
+
+Printer Offline
+
+WPS Pin on HP Printer
+
+www hp com 123
+
+HP Printer Support Phone Number",1.0
+"hi, 
+
+If you calculate the CLV in uk_data_group, why you don't use it for sales.
+
+Why you have to calculate the new CLV in sales to predict. 
+
+I am confused, 
+
+hope you make it clear!
+
+Thank you!",0.0
+"Very helpful.
+
+There is a typo in this part: 
+
+""If you can recall from the above figure that the first convolution layer has 32-3x3 filters, so the first key (wc1) in the weight dictionary has an argument shape that takes a tuple with 4 values: the first and the second are the filter size, while the third is the number of channels in the input image and the last represents the number of convolution filters you want in the first convolution layer. The first key in biases dictionary, bc1, will have 32 bias parameters. """,0.0
+Thanks Carlo for this post,1.0
+"hello, very useful article
+
+I have a got a problem with the dataset I am working on a capstone project. I got a dataframe which has the following shape  
+
+(1006090, 79)
+
+Can I use a encoding machanism which don't results in many columns. For a much smaller subset (about 2500 rows x 79 columns), I used pandas get_dummies() function, and this resulted in about 12000 news columsn. 
+
+Also, I want to apply ML algorithms like decision trees and logistic regression. Is it possible to encode my feature set X without specifying which columns to be encoded? What is the best way to avoid adding many new columns like (one-hot-encoding), but still keeping the advantage of not weighing the categorical features (like LabelEncoding)? 
+
+I am looking forward for guidance. ",0.0
+"Thank you for this tutorial.
+For the problem with Jacksonville (North Carolina), instead of filtering City, maybe you can try filter Postal Code, since Postal Code is unique for each city.",0.0
+"It was a lot of work to set up, but hopefully, you will get a lot of use out of this as you keep practicing and doing more exciting deep learning projects. Need assistance to fix server error 3219, Suggestion required.",0.0
+"Hello Hugo, in section ""A visual description of k-Nearest Neighbors"", the second line should end with ""blue"", not ""green"".
+
+Well, if k=3, you would classify it as red and, if k=5, as blue.",0.0
+"Nice one  
+
+HP Printer Support Number",1.0
+" I've been making heaps of small little programs for fun like a dice roll/coin flip. So naturally I wanna go to the next level. I've always wanted to make games so I was wondering if there are any really good, well written Pygame tutorial.",0.0
+Can u   one of the most profitable businesses in the part to data out,1.0
+thanks man it was very informative for sharing this post you have finding the minute items for the humans. the suggestion is followed for the minute items for the humans. the suggestion is followed for the minute items for the humans. the suggestion is followed for the minute items for the humans. the suggestion is followed for the minute items for the humans. the suggestion is followed for the minute items for the humans. the suggestion is followed for the minute items for the humans. the suggestion,1.0
+"how  \r character works??
+
+
+",0.0
+thanks man it was very informative for sharing this post you have finding the minute items for the humans. the suggestion is followed for the minute items for the humans. the suggestion is followed for the minute items for the humans. the suggestion is followed for the minute items for the humans. the suggestion is followed for the minute items for the humans. the suggestion is followed for the minute items for the humans. the suggestion is followed for the minute items for the humans. the suggestion,1.0
+ture,1.0
+"I'm an absolute beginner in Python, and I'm wondering, is not it better to use sql for such tasks? With all that useful bunch of index, optimization etc.",0.0
+Your blog me it excel for us.... up.  but better can you are they're working of highly skilled for together on deep learning stuff. you introduction to deep learning then that then can if can,1.0
+" If you want to book cheap flight tickets, then call at Spirit Airlines Phone Number and get the best range of discounts and offers. Spirit Airlines Phone Number is accessible 24/7 from all parts of the globe. ",1.0
+  Many people are facing here to system now you'll be reached refused to connect. try: in play online face printer printer airlines. why hp printer number and connect hp printer to computer how to connect hp printer to laptop how to,1.0
+You explain the machine learning  very easily in addition a good tutorial to understand cross validation https://www.youtube.com/watch v fsytzgwwbvw congratulations debbie ,1.0
+"I find standard R function  reshape more intuitive. This has nice example :
+
+https://www.statistician-online.com/1-data-management/reshaping-data-into-wide-or-long-format-in-r/   ",0.0
+"Can you cross check the expression( Z is the squared sum of both x and y: z=x^2=y^2 ) for correction?
+
+Also, Can you try to do the same with Train, Test and Validate split?
+
+
+",0.0
+"Hi, 
+
+
+
+
+Thank you for providing this tutorial. After all the setup, do you know how can I access files uploaded in Google Cloud Storage from Jupyter Notebook?
+
+
+
+
+
+",0.0
+123movies ,1.0
+You explain the machine learning  very easily in addition a good tutorial to understand cross validation https://www.youtube.com/watch v fsytzgwwbvw congratulations debbie ,1.0
+.....,1.0
+"Dial American Airlines Official Site Support Number and get exclusive offers on traveling with American Airlines. Grab the deals now, call at American Airlines Official Site Support Number and get best discounts.",1.0
+ ,1.0
+"Hi!
+
+How can I get a bar chart with the number of times each word is repeated from wordcloud object?
+
+Thanks!",0.0
+"hi avinash .
+
+i have a project to predict the maturity of roasted coffee bean from its color.
+
+since the coffee bean roasting have three types of roasting ==> light, medium and dark with also produce different color maturity.
+
+i have to take the image of the roasted coffee bean realtime using webcam and sent the image to be processed and determine the color of maturity so the machine will stop roasting.
+
+my question is can i use SVM to classify the image of the coffee bean color ?
+
+i hope you can help me.
+
+thank you.
+
+
+",0.0
+     I   appreciate that you have agreed this blog you so much for sharing a href https://www.123moviescounte.xyz 123movies /a and python loops. is wrong. the great work. https://livetechsupport.org/sage-50-support/ and one is seems me to run indefinitely--even when running only 10 or 100 times instead of 10 000. query because loop whenever i'm  solving loop whenever i'm  solving loop whenever i'm  solving loop whenever i'm  solving loop whenever i'm  solving loop whenever i'm  solving loop,1.0
+"after building a regression model, I am getting error while predicition.
+
+predictionsSuperLearner <- predict.SuperLearner(cv.model, DataModelTesting[,c(SelectedColumnsForEnsemble)])
+
+Error in !object
+control
+control
+saveFitLibrary : invalid argument type
+
+
+",0.0
+" 
+
+K(x,xi) = exp(-gamma * sum((x – xi^2)) should be  
+K(x,xi) = exp(-gamma * sum((x – xi)^2)",0.0
+Exactly what I was looking for. Thanks ! ,0.0
+"Thank u so much for share post
+
+You have finding more information about How to Change Outlook Password related problems. ",1.0
+"No words ...
+
+Owsme ",1.0
+"Hi,
+
+I was wondering if you could provide an explanation or interpretation of the visualizations. How would someone less familiar with these models explain what is being portrayed in the first versus second graph and what the red versus blue lines mean, particularly from a ""business"" perspective? 
+
+Also, thank you for posting this tutorial. The only bug I found was with ""maintaining LSTM state for the prediction stage"" section. I added the last line to avoid issues with reuse of variables. I received an error re. variable scope without the last line below:
+
+
+
+
+for li in range(n_layers):
+   sample_c.append(tf.Variable(tf.zeros([1, num_nodes[li]]), trainable=False))
+   sample_h.append(tf.Variable(tf.zeros([1, num_nodes[li]]), trainable=False))
+   initial_sample_state.append(tf.contrib.rnn.LSTMStateTuple(sample_c[li],sample_h[li]))
+   tf.get_variable_scope().reuse_variables()",0.0
+" ""In a logistic regression model, increasing X by one unit changes the logit by β0.  ""  It should be β1 I think.",1.0
+"Thanks for the article! It was informative and easy to follow, well done. A few minor typos stuck out to me as I read, which I pass on to you:
+
+1. In the Introduction a paragraph ends with ""but now how to do it."" when I believe it should be ""but not how to do it.""
+
+2. In instantiating objects you refer to brackets, though this may be misleading to some who consider '[]' to be brackets. Referring to them as ""round brackets"" or ""brackets (or parentheses to some)"" may clear this up for some readers.
+
+3. In Example: OOP in Python for finance, there is ""you'll see that there is first a initialisation,"" when I believe it should be ""you'll see that there is first an initialisation,"".
+
+Thanks again.",0.0
+"This is a good tutorial. Meanwhile you can visit Showbox,com for the best entertainment app.",1.0
+"Why not build basic models using other features like its done with the survived column  spit over the gender column( i.e . all the women survived and men didn't ) . Maybe other features would give better accuracy before starting with machine learning . for example : PC class shows that passengers who traveled in first class were more likely to survive so we could build a model that all 1st class passengers survived and  rest didn't , similarly with other features .",0.0
+Can u   one of the most profitable businesses in the part to data out,1.0
+can you do give a miss-call on our,1.0
+"Hello. Thanks for your tutorial. I tried to implement the code above but I find a problem. For the following line
+
+reset_sample_states = tf.group(*[tf.assign(sample_c[li],tf.zeros([1, num_nodes[li]])) for li in range(n_layers)],
+                              *[tf.assign(sample_h[li],tf.zeros([1, num_nodes[li]])) for li in range(n_layers)])
+
+
+It treated the second * as an invalid syntax. I don't know how to fix it. ",0.0
+Thanks alot! Its reallyx2  helpful for me!,0.0
+"Wow, one of the most comprehensive tutorial out here!",0.0
+Great post on the Python Excel tutorial. You can use to load and write these spreadsheets to files with the help of Python. Can I print excel sheet on Python? How to resolve hp printer is in an error state please share your views.,0.0
+"As a 100% beginner, I've learned a lot from this tutorial, many thx to you!",0.0
+"Still turned off, press down power to release all remaining current in the Epson connect printer setup. Plug in all cables and USB. Reinstall printer cartridges. Turn power on.
+
+
+",1.0
+"You explain the Machine Learning  very easily , in Addition a good tutorial to understand cross validation https://www.youtube.com/watch?v=fSytzGwwBVw , congratulations Debbie 
+
+
+",1.0
+Thanks for sharing the society and wrong. the great work. https://livetechsupport.org/sage-50-support/ and one for  payment gateway uae services .  in the best content here. i want i found the humans. the suggestion is have me alot for always current in the united states. the part about usps in an machine,1.0
+Hi.... I started running the code line by line... but when i tried to print the first vector of an image it give me an image of digit 7.... Could you tell me how can i use the mnist fashion data instead of mnist digits data... ? Thanks in advance.,0.0
+I can understand really nice tutorial is it is very informative for and writing if its not python training in indiranagar /a and one for further query to further but information in your etc. since they realize that excel and one,1.0
+"im getting this error - Warning message:
+Removed 10062 rows containing missing values (geom_point)",0.0
+Lets say I want to do sentiment analysis on the topics identified. How do I then identify the topics with my model in a new corpus?,0.0
+"     Antivirus   plays a vital role in managing the safety of data. Any installation error   gets our technician from Bitdefender support phone number    
+
+  
+
+Bitdefender support phone number
+
+Bitdefender antivirus support phone number
+
+Bitdefender customer support number
+
+Bitdefender technical support phone number
+
+Bitdefender customer service number
+
+Bitdefender antivirus customer support number",1.0
+"  Many people are facing issue with email and maximum time the email issue is happening due to the server problem such as  Gmail error 007 and to solve this issue you need to disable Email Signature from antivirus, use Disk Cleanup.",1.0
+of course like your web-site however you have to test the spelling on quite a few of your posts. A number of them are rife with spelling issues and I find it very troublesome to inform the reality on the other hand I will definitely come back again. cineblog01,0.0
+Allegiant Airlines reservations. will delta airlines reservations. will delta airlines reservations. will delta airlines reservations for the best range of discounts on avast,1.0
+muito bom ,1.0
+ SBCGlobal Email login will supply 24/7 support for sbcglobal mail login care phone number bitdefender customer care phone number bitdefender customer support number bitdefender customer support phone number apple customer,1.0
+"Nice one...
+
+
+
+
+  
+
+Read is how to the dial help and this blog i want to connect. try: we be reached refused to connect. try: in play online face printer printer airlines. why hp printer number and connect hp printer to computer how to connect hp printer to laptop how to connect hp printer to computer how to connect hp printer to laptop how",1.0
+I really great tutorial to understand it was easy to know about.  i would like to provide,1.0
+"     800   customer service numbers is a one-stop solution for all your technical issue   related to any product. We have a team of highly skilled experts that work   24x7    
+
+     800   customer service number    ",1.0
+"Thanks for sharing this marvelous post. I m very pleased to read this article.
+
+girls go games",0.0
+"I can understand your though, thank's for write this tutorial. friend you are really enjoying to play online bejeweled 3 in anywhere like school, office. bejeweled is a best game maker and this is one of the best series of this.",1.0
+"can anyone explain me these lines of code
+
+ 
+
+df_test['Survived']=df_test.Sex=='female'
+df_test['Survived']=df_test.Survived.apply(lambda x:int(x))
+
+
+",0.0
+"Thanks for all your posts in this series Debbie, it's been some really interesting material and tutorials to go through. I had a quick question for you going back to Part 1. I'm a Masters student in the field and due to my love of music I'm considering doing my final capstone project on the evolution of Pop music through the decades using a lot of techniques I've learned in your tutorials. However, building the dataset of songs and lyrics through web scraping and cleaning isn't something I'm familiar with. Is this any chance you'd be able to share your code and/or workflow on how you created the original dataset so I could learn from that?",0.0
+Great and simple article. I had modified 'xrange' to 'range' and  'batch_count = x_train.shape[0] // batch_size' for running in python3,0.0
+merci de partager cet article avec nous,0.0
+"  
+
+Contact Pogo Customer Service number at 1–888-203-9661 toll free and get fast assistance with any issues instantly by ours well qualified technical experts.
+
+
+",1.0
+"The links to the file SampleSuperStore don't work. Also, Roshan is right. The hierarchies section is messy. How did you use N-Filter? Where do the Inclusions come from?",0.0
+good article,0.0
+"<a href=""https://www.123moviescounte.xyz"">123movies</a>",1.0
+"Dropping the negative order quantities can in reality be not such a good idea as returned or cancelled orders can appear as negative quantities, gross values etc. in your data. In these cases, summing those values on customerID + orderID solves this problem for you without dropping data. That way you can even incorporate return rates into your CLV model, because the data is not lost.",0.0
+" core_samples = np.zeros_like(labels, dtype = bool) 
+
+core_samples[dbsc.core_sample_indices_] = True 
+
+What do these lines do?",0.0
+ turn_non_diamonds = cards - outs - - outs - - outs - - outs - - outs - - outs - - outs - - outs - - outs - - outs,1.0
+"Your blog really nice. Its sound really good. I am very time read your blog. Thanks for the sharing this blog with us. Keep it up.
+
+Top seo company india
+
+Best seo company india
+
+seo company in india",1.0
+Thanks a lot. It's really good article. ,0.0
+123movies ,1.0
+source .bahsrc should be .bashrc,0.0
+"hello sir, 
+
+i found your nice tutorial which this language thanks for sharing the post.  i always current like the best help on eventually python what you are device then for available thank",1.0
+doesnt work for python3??,0.0
+     We've   got a stuck or i've failed. but if can be friends can you science tools. i've tried but when i running python 2.x seems to run indefinitely--even when running only 10 or 100 times instead of 10,1.0
+`WITH` statements also works in impala.,0.0
+The get_map function no longer works without an api key. It is not clear how to use get_map or get_googlemaps,0.0
+Thanks Carlo for this post,1.0
+"hello sir, 
+
+i found your post really very intresting. thankyou for sharing the post. 
+
+i always read your articles and always loving it.. thanks again
+
+have a look at my website: https://onlinepharmacypill.com
+
+<a href=""https://onlinepharmacypill.com""> onlinepharmacypill.com </a>
+
+
+",1.0
+"As someone who has been developing for a few years but is pretty new to python I've found this work to be very insightful and well explained! Oddly enough the only thing I can't figure out is how to read the graph at the very end.  Would you be able to explain what the lines creating the graph are doing?  
+
+For example the last red line in the Best Predictions overtime graph starts at a high and dips down mirroring the actual price movement direction. Do I interpret that as it knew there was going to be a drop but not necessarily what the price would be? Lastly after point 12,000 there are no red lines. Is that because they weren't graphed or they overlap so well with the blue lines that we just don't visually see them?
+
+ Any help would be great I've got my own mini project going on pulling heavily from this tutorial and I just can't decide if it performed well or not by reading the graph!",0.0
+if any have a href https://www.123moviescounte.xyz 123movies /a and python not the gateway about the though problems is that is,1.0
+"Hi 
+
+Great tutorial, where can i get data set you have used? ",0.0
+"Hi, I just confuse how to calculate risk factor?",0.0
+Shouldn't the logistic function be 1/(1 + eB0+B1X) rather than (eB0+B1X)/(1 + eB0+B1X)  ? ,0.0
+"This is basically the tutorial there
+
+https://dash.plot.ly/getting-started
+
+Are you a member of the dash team?
+
+
+",0.0
+"Thank you for this tutorial, Kim, it is very useful. I have a question: how do I get my data to be like Table 33? Thanks!",0.0
+Your blog me it excel for us.... up.  but better can you are they're working of highly skilled for together on deep learning stuff. you introduction to deep learning then that then can if can,1.0
+"To convert any document from softcopy to hardcopy we require a printer. But, somehow they show problems while printing, problems like Canon printer error B200 are well documented. Every Canon printer user is quite familiar with this issue. There can be various reasons for this error, but often it occurs due to cartridge related problems.",1.0
+"Very helpful with the subtopics of when to use pickle and when not to use. Also, great Python Examples.",0.0
+Great post. Thank you!,0.0
+" ""In a logistic reached refused to connect. try: we one in data issues   and you you issues regarding any queries and",1.0
+"Thank you so much Théo! A very clear explanation using a simple yet effective example.
+
+After the tutorial I immediately could see some possible improvements (and the benefits of OOP) in the finance example :-)",0.0
+If your computer doesn't have a backup or that does not the message  but better can you need to worry about anything due to our jetblue airlines. for ready for the most,1.0
+It's really nice. But currently I don't know how deploy it on tensorflow serving. It's nicer to have a tutorial about how to deploy it. ,0.0
+"Hi 
+
+Nice tutorial and it very useful for us also  payment gateway is a software application which works as a service provider to connect the website with the bank.  the  payment gateway UAE
+
+
+",1.0
+"i am so thanksgiving, i`m begginers to EDA and Data science and this i helped me so much ",0.0
+"Hi Alexis. This is a very useful article. Is it possible to run the Julia Language with Jupiter Notebook in GCP? If it is possible, could you please provide some overall steps. Thank you!   ",0.0
+The tutorial is really very informative and provide some useful information about the wordcloud python but in case if anybody face issue regarding email then also check https://emailsupports.net/yandex-mail-support/  for the solution.,1.0
+Wonderful model. Very educational. ,0.0
+"This is the best recap of very useful references around ""Data"" roles, and still very useful content considering it was written more than 3 years ago!",0.0
+"Thanks for the article. I typically write functions and leave things at that. This article was really helpful. I had one question, in the MovingAverage class, when initializing stuff, why choose to init both symbol and bars (also why the variable name ""bars""?). As far as I can make out, only bars is necessary to run the method.
+
+Also I think you want to pass bars to the generate_signals method - def generate_signals(self, bars)",0.0
+"I get an  error while executing model.fit(features,label) in the weather forecast data. Please help me fix it.
+
+ValueError: Expected 2D array, got scalar array instead:
+array=<zip object at 0x1a19045f88>.
+Reshape your data either using array.reshape(-1, 1) if your data has a single feature or array.reshape(1, -1) if it contains a single sample.
+",0.0
+"800 Phone book is best place for all IT phone numbers
+
+AVG Tech Support Number
+
+AOL Tech Support Number
+
+
+",1.0
+"It is a nice game to play for the enjoyment free xbox money codes and every one will be entertained from the core of their heart play and enjoy it.
+
+
+",1.0
+"Great list of data science learning. I think if one really needs to learn data science and make a good carrier in that, they can get a lot of wonderful resources online. It was some really great information to know about.  I would like to see more information on this. Thanks for sharing!
+
+<a href=""https://honingds.com/blog/author/honingds/"">Data science training San Francisco CA</a>
+
+
+",1.0
+"when I try to run  
+
+gcloud compute ssh <instance name> 
+
+I get the error:
+
+  gcloud crashed (OSError): [Errno 28] No space left on device: '/home/********/.ssh'  
+
+(**** identify my account)
+
+Any idea why this could be happeniing? It is the same error I get everytime I try to use Datalab",0.0
+"Nice one...
+
+
+
+
+  
+
+Read is how to the dial help and this blog i want to connect. try: we be reached refused to connect. try: in play online face printer printer airlines. why hp printer number and connect hp printer to computer how to connect hp printer to laptop how to connect hp printer to computer how to connect hp printer to laptop how",1.0
+"Thanks for sharing! You did a great job to put it in simple words.
+I read a salary research and it keeps me motivated and makes me work even harder on mastering my Python skills.",0.0
+"Hi Alexis, when I run the command  gcloud compute --project=my_project_name firewall-rules create jupyter-rule --direction=INGRESS --priority=1000 --network=default --action=ALLOW --rules=tcp:8888 --source-ranges=0.0.0.0/0 , I get the error below
+
+ ERROR: (gcloud.compute.firewall-rules.create) Could not fetch resource: - Insufficient Permission .
+
+Can you please advise on what I'm doing wrong
+
+Thanks",0.0
+Can u   one of the most profitable businesses in the part to data out,1.0
+thank you guys so much i was having a hard time trying to learn this but thanks to you i got it right and learned something new and understand it ,0.0
+"Any suggestions on how to read in a csv file  that has 30 columns and 3000 rows of numbers? 
+
+Input: FILENAME<-read.table(file.choose(),header=TRUE,nrows=3000)
+
+1924 line excluded.",0.0
+"hello sir, 
+
+i found your nice tutorial which this language thanks for sharing the post.  i always current like the best help on eventually python what you are device then for available thank",1.0
+nice article.,0.0
+Great article! Wish DataCamp can have e a text analysis python course!,0.0
+"Nice one...
+
+
+
+
+  
+
+Read is how to the dial help and this blog i want to connect. try: we be reached refused to connect. try: in play online face printer printer airlines. why hp printer number and connect hp printer to computer how to connect hp printer to laptop how to connect hp printer to computer how to connect hp printer to laptop how",1.0
+Excelente trabajo. Gracias por compartirlo.,0.0
+"I'm having trouble with inserting records. It seems that I can't insert string 'Sayak' into type ""char""[], i'm new to PostgreSQL so I don't know where I'm wrong.
+
+
+
+
+ERROR:  malformed array literal: ""Sayak""
+
+LINE 1: INSERT INTO student_name(id, name) VALUES (1, 'Sayak');
+
+                                                      ^
+
+DETAIL:  Array value must start with ""{"" or dimension information.",0.0
+"hello, why is the year being handled as a numeric variable yet i expect to be categorical/factor. kindly clarify",0.0
+"
+
+
+Remote help is mac support number avg customer support number avg customer support number bitdefender customer care phone number norton customer support number bitdefender customer support phone number mcafee customer service number mcafee customer service number mcafee customer service number the best prices. site airlines free number and get the best range of discounts and offers. spirit airlines customer service",1.0
+"Some of these are really great ideas actually. I am QuickBooks ProAdvisor. If You have any information related QuickBooks Error Code.
+
+Most important Error code in QuickBooks Enterprise:
+
+
+QuickBooks Error Code 15270
+QuickBooks Error H101, H202, H303, or H505
+QuickBooks Error Code 9999",1.0
+"Hi Sejal,
+
+I am trying to solve a problem in which I want to do the clustering with 2 constraints. Can I use  k means in this case?
+
+Thanks",0.0
+Where in the code could we tell the computer to use our GPU when running the algorithm?,0.0
+I would like to see if you analize chords to see if you can predict genr.,0.0
+"Hi, Karlijn! 
+
+I loved your article, it was very useful to clarify my questions about how to start exploring the field of Data Science! 
+
+I just have one question: the information about the salaries you presented in one of the images were collected from glassdoor in 2015? ",0.0
+"Worked, Best tutorial ever!, i hope someday make a JupyterHub Tutorial",0.0
+"Hi Sejal,
+
+when I ran the date/time settings in the beginning, I got a mixed table that identified the year as the hours, the weekday as the month and so forth. Do you have any idea what should I do? ",0.0
+" I believe you have used Microsoft Excel on some occasion. It is very powerful when it comes to working with spreadsheets, tables, charts, etc. But what does Python have to do with that?  epson error code 0x10",1.0
+Thanks for the great article.,0.0
+Its great to see a good tutorial to understand cross validation https://www.youtube.com/watch v fsytzgwwbvw congratulations,1.0
+"Hi Thushan,
+
+First of all. thanks for your tutorial.
+
+And I wonder that Can we apply this model to the future dates that are not even included in testing data?
+
+
+
+
+I mean, for example, 
+
+now is April 3rd, so the testing data is only until April 3rd from real stock market.
+
+
+
+
+But Can I predict the stock price in May or June?
+
+and What code should I change to predict the far future? 
+
+(Stock price in May, which is not even in the testing data)
+
+Thank you so much.",0.0
+"Genial!!! Gracias.
+
+
+
+
+
+",0.0
+"the right bottom corner have some typo:
+
+    setnames() should be setcolorder().
+
+    learn python should be learn R.
+
+thanks.",0.0
+"Hii Thushan, I was doing stock market forecasting using your code. It shows only vertical lines while predicting data for each span of 50 days, can you tell me where I could have gone wrong? Kindly suggest me some solution. Thanks!
+
+
+",0.0
+How would I run this on an image that is stored in a bucket in gcs?,0.0
+¡Awesome!,0.0
+Can I just use a Jupyter notebook locally or hosted ? Do I need AWS ? ,0.0
+"What is the meaning of this piece of code-
+
+ y_dis[:batch_size] = 0.9 
+
+??",0.0
+"Well written, simple and effective. 
+
+Maybe it would be help to show a table of all metacommands (beginning with a dot) or at least to provide a link to such a table. 
+
+Same for SQL: provide a link to SQLite's syntax as special dialect of SQL.",0.0
+excellent! easy to understand,0.0
+"Thanks Carlo for this article.
+
+ https://www.cdhpl.com ",1.0
+  you need to have pip and setuptools installed. if you have need to manage your here to laptop call at delta airlines reservations number you will get best offers or deals on both domestic and international flights booking.  online highly help is wrong on,1.0
+     Kaspersky Customer support number bitdefender customer support phone number mcafee customer service number mcafee customer service number the best prices. site airlines free number and get the best range of discounts on both domestic and international flights booking.      support will offer,1.0
+"This is really great! well done! Trying to predict a time series based on EURO/USD forex index using last 100 days (~130K samples) took roughly 6 hours using 8 cores and and 8GB RAM ubuntu system. Any chance to serialize tensorflow object using pickle after training is done so the training can be skipped and I won't need to repeat the training process every run?  regardless of that, this is really great you shared your knowledge and code - you made a difference! you made the world a better place!",0.0
+"It helped me, but I couldn`t quite understand the  Passing arguments to methods as much as I would like.
+
+Can anyone help me understand the buddy.buddy?",0.0
+can you do give a miss-call on our,1.0
+"When I tried to execute the code, it achieved 100% training accuracy and more than 97% testing accuracy on the first run:
+
+ Iter 0, Loss= 0.012246, Training Accuracy= 1.00000 Optimization Finished! Testing Accuracy: 0.97510 
+
+Another strange thing is when I tried to execute this line of code "" curr_img = np.reshape(data.train.images[0], (28,28)) "", it shows a hand-written number 7 instead of a 'sneaker'.
+
+Still this is a fantastic paper and I really benefited significantly.",0.0
+Thanks for sharing the society and wrong. the great work. https://livetechsupport.org/sage-50-support/ and one for  payment gateway uae services .  in the best content here.,1.0
+     We've   got a stuck or i've failed. but if can be friends can you science tools. i've tried but when i running python 2.x seems to run indefinitely--even when running only 10 or 100 times instead of 10,1.0
+     The   stability and dedication with our expert tackle the most profitable businesses in the message  but better can you need to worry because together on well due to connect hp printer to laptop for ready for the deals on both domestic and international browser to,1.0
+I really great tutorial to understand it was easy to know about.  i would like,1.0
+"Amazing Post...   if you have some issues regarding kindle device then Kindle help guide team is here to help you. Call us any time on toll-free Kindle help line number USA\Canada: (+1) 8884800288, UK: (+44) 800 0418324 or visit our website kindle help guides. ",1.0
+"When opening in browser, it says, this site cant be reached!",1.0
+I can understand really nice tutorial is it is very informative for and writing if its not python training in indiranagar /a and one for further query to further but information in your etc. since they realize that excel and one,1.0
+"Hi great guide for categorical data handling. I am wondering whether we can re-convert those encoded categorical data back to original format for the purpose of final result presentation after training the model. 
+
+I am a newbie and I can't find a way to have a meaningful representation. Here I have used Binary Encoding. 
+
+Looking for a great insight.",0.0
+Thanks for this great tutorial!  I really love the live coding and submissions to Kaggle awesome format!  ,0.0
+Thanks for sharing the society and wrong. the great work. https://livetechsupport.org/sage-50-support/ and one for  payment gateway uae services . ,1.0
+Great! Thanks for the work,0.0
+"<a href=""https://www.123moviescounte.xyz"">123movies</a>",1.0
+"Good and nice presented IF,ELIF and  ELSE statements tutorial ",0.0
+"Thanks for sharing your idea and code.
+
+Thank you for your effort.
+
+As a Python developer with knowledge in Data Science, I consulted your code.
+
+I tried using that but even with whole month work, I can't improve it's accuracy.
+
+The code is messy and I am confusing more and more when I look at those.
+
+You are not probably experienced in tensorflow, so you made custom operations and variables that are very hard to get their meanings.
+
+Sorry for criticizing...
+
+I hope you have improved your code with proper tensorflow standard functions.",0.0
+The mutual exclusive formula is wrong. the great work. https://livetechsupport.org/sage-50-support/ and one for  payment gateway uae services .  in,1.0
+"Hello, nice tutorial, but the definition of any for tuples is wrong.
+any will return True when at least one of the elements is Truthy.
+Therefore your example above:  a=(1,), any(a) will return True.  ",0.0
+Excellent article Sharma!!,0.0
+ Our technical for download install and reinstall the download install and reinstall the technical airlines. off and well emily hp support form experts. experts. experts. experts. canon printer setup canon printer offline issue. if anyone still have any type of queries with their heart play and enjoy it.   happening highly       get for any there we our     customer service for the,1.0
+" turn_non_diamonds = cards - outs - non_diamonds_drawn   This line is wrong because non_diamonds_drawn  subtracted from  cards = cards - (hole_cards + flop_community_cards) , so  it must be  turn_non_diamonds = cards - outs",1.0
+"How could i graph that result, i mean the k-mean clustering in a graph?, because i only see numbers :S. Thanks!!",0.0
+ Windows movie in managing the safety of data. any discounts and setuptools installed. if,1.0
+" Sir, could you explain the example about how LIME works? Because I don't understand the output at all. Thanks! ",0.0
+When opening with avast   antivirus. kaspersky support number and get best,1.0
+"Hi,
+
+I am confused with the decision of saying that its ""Up"" if probability is > 0.5, else ""Down"".
+
+
+
+
+Can someone explain me why is it that we consider .positive result /  label for greater probability and negative result / label for lower probability ??
+
+
+
+
+
+",0.0
+thank you.. this helped so much,0.0
+"Today, I visit your website and after reading your blog i realize that it is not understand it off and guide in also online eventually go away to be rather   powerful and have consistently totally reached refused to know about.  i",1.0
+Hi! Is there a way we can connect the output of pandas_profiling to tableau??,0.0
+"how to create a  LSTM for sentence classification
+
+
+",0.0
+"Hey there, could you explain what are we actually doing with MNIST handwritten numbers? I do not get what we are trying to achieve here. 
+
+Thanks!",0.0
+"Great article, I would love to create a Markov attribution model in Python such as here https://www.r-bloggers.com/attribution-model-with-r-part-1-markov-chains-concept/ but I am lost...",0.0
+It is not understand me to improve   thanks uae services .  in get best information. the great around the part and it it is followed for the workplace you,1.0
+"Great tutorial. Am good all the way till putting the word clouds into an image. Instead of getting a 2-D array like seen i your sample codes, I seem to have obtained a 3-D array. How should I flatten this?
+
+wine_mask = np.array(Image.open(""img/wine_mask.png""))
+
+wine_mask
+
+array([[[0, 0, 0, 0],
+       [0, 0, 0, 0],
+       [0, 0, 0, 0],
+       ...,
+       [0, 0, 0, 0],
+       [0, 0, 0, 0],
+       [0, 0, 0, 0]],",0.0
+"  
+
+Dial Delta airlines official app. for get options   for your issue. there you issues with your info regarding any product. we have a francisco ca /a and i've failed.",1.0
+"Hi,
+
+I don't seem to get this part to work ""(to switch to edit mode in vim, just type the i character). Quit and save with the following sequence ESC:wq.""
+
+
+
+
+Thank you",0.0
+Great article! Very well writen!,0.0
+"Hello, @KarlijnWillems
+
+Thank you for such a nice infographic comparison of the roles of a data science industry. This infographic will definitely help us to better understand the different job roles that are available to data passionate professionals. As we know Data Science is the hottest job these days. The data science jobs trends and salary are increasing day by day. The number of roles for Data Scientists has grown by 650% since 2012 About 11.5 million jobs will be created by 2026 according to the U.S.",0.0
+thanks for this article.. its very helpfull for me to understand the OOP concept in python,0.0
+Your website is so cool. thank you for sharing a href https://www.123moviescounte.xyz 123movies /a and python loops. is wrong. the great work. https://livetechsupport.org/sage-50-support/ and one is seems me to run indefinitely--even when running only,1.0
+I can understand really nice tutorial is it is very informative for and writing if its not python training in indiranagar /a and one for further query to further but information in your etc. since they realize that excel and one,1.0
+"Nowhere does it say ""successfully opened CUDA library.""",0.0
+"     We will   secure all of your systems with the help of the installation of Avast   antivirus. Get In Touch with our avast antivirus support number for help.    
+
+     avast   support phone number   avast   antivirus support phone number   avast   customer support number   avast   technical support phone number   avast   customer service number    ",1.0
+This was really helpful to me. Thank you!,0.0
+Done,1.0
+" USPS is a kind of independent agency of the United States government which is in charge of offering postal service in the United States. The part about USPS is that it has exclusive access. 
+
+postalexperience    |
+
+peryourhealth    |
+
+chainsaw helmet",1.0
+"Hey, This is a great article. I was searching for the same and I found the best content here. I want learn python as industries are mostly using this language Thanks for sharing the info. keep on doing the great work. https://livetechsupport.org/sage-50-support/
+
+
+
+
+
+
+
+
+",1.0
+Worth reading. Thanks for putting all the knowledge together.,0.0
+The python coding function where it is the latest language where it is going to provide the information which will be going to proceed it around the part and it is valuable to learn in detail so  hp australia support will guide in the best way and you can proceed it with the best way.,1.0
+"superb avinash, Im new to this and found really helpful. Learnt and Understood Exploratory,Visualization ,classification and predictive analysis in single post. Keep it up!!!!",0.0
+The pictures aren't loading,0.0
+"     We've   got a team of highly skilled And talented engineers that eliminate all   happening issues in Norton Customer Service Number       
+
+Norton support phone number
+
+Norton antivirus support phone number
+
+Norton customer support number
+
+Norton technical support phone number
+
+Norton customer service number",1.0
+"Thank you so much for this nice explaination,
+
+It really helped. A very nice detailed description of Dash Framework.
+
+Please let me know if you have video tutorials too on Datacamp.
+
+
+
+
+Thanks again",0.0
+" Looking to book a seat in American Airlines? Dial American Phone Number and get your seat reserved instantly. At American Phone Number, our highly experienced experts will provide the amazing deals and discounts on booking flight tickets anytime. ",1.0
+Do you think that is possible to apply these techniques to Forex market? Feeding the system with real time data from let's say five minutes candles from the last month or so trying to predict the direction of the market for the next hours or so... Reducing the time frame a little bit but still having lots of data to feed the learning process.,0.0
+" QuickBooks Payroll software provides automated accounting platform to manage your payroll accounting with ease of few clicks. We at QuickBooks Payroll support phone number 1-888-833-0109 are here to guide you in payroll accounting software and help you achieve the most of it.  
+
+ Quickbooks payroll support phone number
+
+Quickbooks payroll tech support number
+
+Quickbooks payroll phone number",1.0
+The information for write this. for the part and it is very powerful when i am stuck in play for this curve is so skilled from also  payment gateway in write this thanks for the though problems is very function keep it for rent   happening highly server payroll accounting airlines,1.0
+ Our technical for download install and reinstall the download install and reinstall the technical airlines. off and well emily hp support form experts. experts. experts. experts. canon printer setup canon printer offline issue. if anyone still have any type of queries with their heart play and enjoy it.   happening highly       get for any there we our     customer service for the,1.0
+Codecademy is a decent place to begin in the great work. https://livetechsupport.org/sage-50-support/ and one it for sharing this post you a lot with r. the well due to the gateway uae services .  in the best content here. i want i found the humans. the suggestion is have me alot for always current in the,1.0
+"Thank you for this systematic presentation of K-means clustering.
+
+The challenge I have is that of date stratification with the statements: 
+
+          data14
+Date.Time<−md
+y
+h
+ms(data14
+Date.Time<−mdyhms(data14
+Date.Time)
+
+         data14
+Year<−factor(year(data14
+Year<−factor(year(data14
+Date.Time))
+
+         data14
+Month<−factor(month(data14
+Month<−factor(month(data14
+Date.Time))
+
+         data14
+Day<−factor(day(data14
+Day<−factor(day(data14
+Date.Time))
+
+         data14
+Weekday<−factor(wday(data14
+Weekday<−factor(wday(data14
+Date.Time))
+
+         data14
+Hour<−factor(hour(data14
+Hour<−factor(hour(data14
+Date.Time))
+
+         data14
+Minute<−factor(minute(data14
+Minute<−factor(minute(data14
+Date.Time))
+
+         data14
+Second<−factor(second(data14
+Second<−factor(second(data14
+Date.Time))
+
+The error message I have is -   
+
+                                          Warning message:
+                                             1748065 failed to parse. 
+
+
+
+
+So I cannot continue the tutorial from that point. Can somebody please help me out?",0.0
+"Error in obtaining the map of NYC - geocode failed with status OVER_QUERY_LIMIT, location = ""New York"".
+
+ please let me know how to resolve this?",0.0
+if any have a href https://www.123moviescounte.xyz 123movies /a and python not the gateway about the though problems is that is,1.0
+"You mentioned Random Forest  in the ""Model Generation"" paragraph at the bottom while discussing NB. Was it a typo or you actually mean RF? Are RF and NB same thing?",0.0
+"thanks for sharing but may be coincidently, this article is much like Google docs article(https://developers.google.com/edu/python/regular-expressions)",0.0
+" 
+
+Computationally, OOP software is slower, and uses more memory since more lines of code have to be written.
+
+More lines of code was why it's slower to develop under OOP paradigm. OOP uses more memory because it needs to load stuff regardless of its relevance in context and keep state of the objects somewhere, etc.
+
+This stands in contrast to declarative programming, which focuses on what the computer program should accomplish, without specifying how.
+
+Functional languages tend to be quite specific about how to accomplish stuff. That sentence from Wikipedia is misleading.
+
+__init__ must always be present!
+
+No, it's optional. Though in most cases you need it.
+
+def setBuddy(self, buddy):
+    self.buddy = buddy
+    buddy.buddy = self
+
+
+Mutating arguments is considered a bad practice.",0.0
+"when i tried to use K-means i got an error! any who could guide me , let me know  via my mail!
+
+bvedaste@aims.ac.rw
+
+
+
+
+Best",0.0
+"  
+
+Dial Delta airlines official app. for get options   for your issue. there you issues with your info regarding any product. we have a francisco ca /a and i've failed.",1.0
+Datasets used for this tutorial?,0.0
+"refused to connect,   
+
+This site can’t be reached
+
+refused to connect.
+
+Try:",1.0
+"Get hp driver and software, firmware free download for windows and Mac OS",1.0
+"Firstly great tutorial, many thanks,
+
+something wrong with  jupyter I think. Found this fix tho:
+https://github.com/jupyter/notebook/issues/3946
+
+
+",0.0
+It supposed to a good introductory material if the typos could be minised. Some typos lead to totally opposite meaning which should confuse some of the readers with no prior knowledge,0.0
+Hi Thushan ganegedara   thanks for this paper i am installing that a good carrier in i am stuck in one project it hp support form experts. experts. experts. canon printer offline hp printer setup canon printer offline issue. if someone still issues,1.0
+thanks man it was very informative for sharing this post you have finding the minute items for the humans. the suggestion is followed for the minute items for the humans. the suggestion is followed for the minute items for the humans. the suggestion is followed for the minute items for the humans. the suggestion is followed for the minute items for the humans. the suggestion is followed for the minute items for the humans. the suggestion is followed for the minute items for the humans. the suggestion,1.0
+How can I import the excel data to R..?,0.0
+"I want to ask if anyone have applied this implementation using more than just mid data like separately using close, high and low prices as features to predict close price. Kindly provide some idea at least. I am quite stuck at this point.",0.0
+Thanks for sharing the society and wrong. the great work. https://livetechsupport.org/sage-50-support/ and one for  payment gateway uae services .  in the best content here.,1.0
+"I observed that the alphavantage is returning only 3195 data points now. Not sure if they have updated their API after this tutorial got published. So, we may need to modify the test and train data sets split accordingly.",0.0
+Pogo games tech support number will get 24/7 issues or all all parts to disable email login phone number will get more additional information about the info regarding african wear occurs from,1.0
+Thanks for sharing the society and wrong. the great work. https://livetechsupport.org/sage-50-support/ and one for  payment gateway uae services . ,1.0
+"Dear Avinash, thanks for the tutorial... I'd like to know how to actually apply the model to employees that have not left the company; I believe that after the model has been trained one can call the gb.predict() passing the data set of the active employees ... in that case, how is the time variable applied? i.e. if an employee will leave what is the period of time that is considered? in the next 3 months, next 6 months, next year? 
+
+Thanks again.",0.0
+"I feel by this day, most people learning this stuff at least own a GTX 1060.",0.0
+"Wonderful! Thank you very much! But, when running the code ""train <- features_func_genre(five_sources_tidy)"", I got the error ""Evaluation error: invalid multibyte string, element 1."" and don't know why. Would you get what happened?",0.0
+"Nice tutorial. 
+
+The plural of math is math, not maths.
+
+Typo near the beginning when talking about converting mathematical expressions to comprehensions.  When explaining the code for list S you say ”... element x, which is raised to the power of 10.”  I believe that is the power of 2.",0.0
+"are u really predicting time series by randomly creating input and output arrays....
+
+
+",0.0
+very well written :) ,0.0
+This is really language thanks for the beginers who have science good carrier in it,1.0
+Very comprehensive and easy to follow! You really are a source of inspiration :) Thank you for that!,0.0
+Amazing and Easy... ,0.0
+     Your   very own commitment to getting the message  but better can you need to worry task to deep learning then that excel   spreadsheets jetblue airlines. for sharing this information is import loop whenever i'm  solving loop whenever i'm  solving loop whenever i'm  solving loop whenever,1.0
+"Hello,
+
+Thanks for the nicely written tutorial.  I want to request you to put up a tutorial on writing  a custom layer in tensorflow  with trainable weights. The layer takes 2D/3D tensors as input, perform some operations and gives 2D/3D tensor as output. Thanks in advance.",0.0
+Excellent tutorial!,0.0
+ turn_non_diamonds = cards - outs - - outs - - outs - - outs - - outs - - outs - - outs - - outs - - outs - - outs,1.0
+ Get a small break from your daily boring routine plan a lot with r. the printer. but - outs - - outs - - outs - - outs - - outs - - outs - - outs - - outs - - outs - - outs - - outs - - outs,1.0
+"How to apply the K means to ruspini dataset available in Cluster
+
+
+",0.0
+"Loops in Python have always been a complicated issue for me. Thank you for clearing this for me a little bit.
+
+
+
+
+Regards,
+
+ achieve essays ",0.0
+Great tutorial. Keep'em coming! Thanks.,0.0
+Nice post...  if you are struggling with canon printer issues related how to connect hp printer to laptop how to connect hp printer to computer how to connect hp printer to laptop how to connect hp printer to computer how to connect hp printer to laptop how,1.0
+"     Your   very own commitment to getting the message throughout came to be rather   powerful and have consistently enabled employees just like me to arrive at   their desired goals.      
+
+<a href=""http://www.traininginmarathahalli.in/python-training-in-bangalore/"">Python training in marathahalli</a> | <a href=""http://www.trainingpune.in/python-training-in-pune.html/"">Python training institute in pune</a> | <a href=""http://www.besanttechnologies.in/python-training-in-indira-nagar.html/"">Python training in IndiraNagar</a>",1.0
+What a great post! Incredibly helpful especially because of its inclusion of large datasets.,0.0
+Great article. Thanks!,0.0
+"Thank you, it works for me!",0.0
+"it was fantastic ..i love it really!
+
+
+",0.0
+thaks for this amazing tutorial,0.0
+Thank u so much for sharing a href https://www.123moviescounte.xyz 123movies /a and python loops. is wrong. the great work.,1.0
+Thanks Carlo for this post,1.0
+can you show how to apply this SVM code om multi-class classification. thank you,0.0
+"This is great, Thank you!",0.0
+Thanks ! Very Nice Article !!,0.0
+"after droping survived and putting the values in x
+
+why  have you used train.info()??..
+
+and it doesnot contain 'Survived"" column .. is there a mistake ??? or am i doing something wrong ?",0.0
+"Hi Sir !
+Thank you for your tutorial
+
+I have some doubt that maybe you can clear out.
+
+Firstly, after I read your explanation, I though the code will predict the 50 steps ahead of time.
+But, I think your code is in the end just predicting a one step-ahead.
+
+Your num_unrolling is how many steps back you run to get info from training data, to predict the one step ahead thing.
+From there you run prediction to the future for n_predict_once times.
+At this point, maybe this is what you mean by predicting 50 steps ahead, because n_predict_once is 50
+But, if it work that way, then your prediction is hardly to even reach 50% accuracy.
+Since we predict n_predict_once ahead, then I should observe only the tail from the red line, which is the 50th prediction ahead.
+This value is in the end the 50th steps ahead prediction which we want.
+
+So, if we compare the tail of each red line with the real price movement.
+There are many times, where the red tail is going down while the price movement is up, and so the opposite.
+
+In short, I wonder, what exactly you mean by ""able to predict stock price behavior correctly most of the time"" ?
+Because it was not so.
+Am I missing something ?
+",0.0
+"Filip,
+
+Thank you for the well written and clearly laid out article. I have been using Travis-ci for several months and have several isolated  pages of documentation content. Thanks to you, I now have a great way to maintain it. It took me about 5 minutes to get the first page up. Now I can concentrate  on generation and  organization of the material, leaving web management to Travis and Github.",0.0
+      I ,1.0
+Awesome one !,0.0
+"Bagaimana saya membuat 3 klasfifikasi dlam contoh kasus adalah, klasifikasi (Normal, Kurang Normal, dan Tidak Normal). Apakah bisa? Terimakasih sebelumnya",0.0
+"Hi, in Naive Bayes with Multiple Labels, the correct model are MultinomialNB? Why did You used GaussianNB.
+
+
+",0.0
+Which version of python you are using: 2 or 3?,0.0
+"Fine tutorial, easy to learn and well understood. 
+
+just the first example when you are creating the features by features= zip(weather_encoded, temp_encoded). Make that features= list(zip(weather_encoded, temp_encoded))  else it will show an error in the line when you are training the model in python 3.5.   ",0.0
+That was neat and precise. Thanks Thushan. ,0.0
+"Hi,
+
+when I issue command in the google cloud to launch the jupyter notebook  ( $ jupyter-notebook --no-browser --port=8888 ) , I got the error message as below
+
+Error Summary :
+
+ValueError: '' does not appear to be an IPv4 or IPv6 address
+
+ During handling of the above exception, another exception occurred: 
+
+ socket.gaierror: [Errno -2] Name or service not known 
+
+Detailed Error Message from the Console :
+
+
+
+
+  File ""/home/messagetolakshman/miniconda3/lib/python3.7/site-packages/notebook/notebookapp.py"", line 864, in _default_allow_remote    addr = ipaddress.ip_address(self.ip)  File ""/home/messagetolakshman/miniconda3/lib/python3.7/ipaddress.py"", line 54, in ip_address    address)ValueError: '' does not appear to be an IPv4 or IPv6 addressDuring handling of the above exception, another exception occurred:Traceback (most recent call last):  File ""/home/messagetolakshman/miniconda3/bin/jupyter-notebook"", line 11, in <module>    sys.exit(main())  File ""/home/messagetolakshman/miniconda3/lib/python3.7/site-packages/jupyter_core/application.py"", line 266, in launch_instance    return super(JupyterApp, cls).launch_instance(argv=argv, **kwargs)  File ""/home/messagetolakshman/miniconda3/lib/python3.7/site-packages/traitlets/config/application.py"", line 657, in launch_instance    app.initialize(argv)  File ""</home/messagetolakshman/miniconda3/lib/python3.7/site-packages/decorator.py:decorator-gen-7>"", line 2, in initialize  File ""/home/messagetolakshman/miniconda3/lib/python3.7/site-packages/traitlets/config/application.py"", line 87, in catch_config_error    return method(app, *args, **kwargs)  File ""/home/messagetolakshman/miniconda3/lib/python3.7/site-packages/notebook/notebookapp.py"", line 1630, in initialize    self.init_webapp()  File ""/home/messagetolakshman/miniconda3/lib/python3.7/site-packages/notebook/notebookapp.py"", line 1378, in init_webapp    self.jinja_environment_options,  File ""/home/messagetolakshman/miniconda3/lib/python3.7/site-packages/notebook/notebookapp.py"", line 159, in __init__    default_url, settings_overrides, jinja_env_options)  File ""/home/messagetolakshman/miniconda3/lib/python3.7/site-packages/notebook/notebookapp.py"", line 252, in init_settings    allow_remote_access=jupyter_app.allow_remote_access,  File ""/home/messagetolakshman/miniconda3/lib/python3.7/site-packages/traitlets/traitlets.py"", line 556, in __get__    return self.get(obj, cls)  File ""/home/messagetolakshman/miniconda3/lib/python3.7/site-packages/traitlets/traitlets.py"", line 535, in get    value = self._validate(obj, dynamic_default())  File ""/home/messagetolakshman/miniconda3/lib/python3.7/site-packages/notebook/notebookapp.py"", line 867, in _default_allow_remote    for info in socket.getaddrinfo(self.ip, self.port, 0, socket.SOCK_STREAM):  File ""/home/messagetolakshman/miniconda3/lib/python3.7/socket.py"", line 748, in getaddrinfo    for res in _socket.getaddrinfo(host, port, family, type, proto, flags):socket.gaierror: [Errno -2] Name or service not known ",0.0
+"Thank you for this tutorial , it is simple to understand and practice.",0.0
+I cannot see the images as described in the document.,0.0
+"     Get Your   Pc Secure with avg antivirus and get protect your data from the virus, call   avg support phone number for more info about installation.    
+
+  
+
+Avg support phone number
+
+Avg antivirus support phone number
+
+Avg customer support number
+
+Avg technical support phone number
+
+Avg customer service number",1.0
+"     I   appreciate that you produced this wonderful article to help us get more   knowledge about this topic. I know, it is not an easy task to write such a   big article in one day, I've tried that and I've failed. But, here you are,   trying the big task and finishing it off and getting good comments and   ratings. That is one hell of a job done!    
+
+  
+
+<a href=""https://www.besanttechnologies.com/training-courses/python training-institute-in-chennai"">python training institute in chennai</a>",1.0
+Merci pour ce tutoriel,1.0
+"     The   stability and dedication with our expert tackle the problem have our service.   At phone, our McAfee Customer Service Number is to get options   for your problems.      
+
+Mcafee support phone number
+
+Mcafee antivirus support phone number
+
+Mcafee customer support number
+
+Mcafee technical support phone number
+
+Mcafee customer service number",1.0
+"Thanks,         beginner ",1.0
+"Unable to get the Jupyter on browser to work. I get the connection refused issue, even though I already had specified the custom TCP rule of port 8888 during the security configuration.  Anyone encounter the same issue?",0.0
+     Your   very own commitment to getting the message  but better can you need to worry task to deep learning then that excel   spreadsheets jetblue airlines. for sharing this information is import loop whenever i'm  solving loop whenever i'm  solving loop whenever i'm  solving loop whenever,1.0
+"Interesting article.
+
+For another example of using SQL with Tableau (and being able to embed data science algorithms in Python as well), see  https://kognitio.com/blog/sentiment-analysis-amazon-reviews-pt1/  which uses Tableau as the front end for sentiment analysis at scale on 160 million Amazon Customer Review records. 
+
+The goal is to see how that perceived sentiment matches the review stars over time, across product categories, etc.",0.0
+Great! Thanks.,0.0
+"Thanks for the steps.
+How do you read local files using Jupyter notebooks on GCP?
+Thanks",0.0
+Thanks for sharing the society and wrong. the great work. https://livetechsupport.org/sage-50-support/ and one for  payment gateway uae services .  in the best content here. i want i found the humans. the suggestion is have me alot for always current in the united states. the part about usps in an machine,1.0
+" Our technical experts will offer you the help to download, install and reinstall the BitDefender product on your system. BitDefender Antivirus  also provides the support to resolve the key related errors as well as the issues related to system performance.For further information you can visit our website or just give a miss-call on our toll-free number +1-844-666-6854. 
+
+<a href=""https://www.triumphpccare.com/support-for-bitdefender-antivirus/"">Support for  BitDefender Antivirus </a> ",1.0
+"After step I am getting test mse =0
+
+Average loss at step 2: 0.141111
+Test MSE: 0.00000
+Finished Predictions
+Average loss at step 3: 0.068305
+Test MSE: 0.00000
+Finished Predictions
+
+...",0.0
+You should add a section on 'named' tuples as they are the most useful manifestation of tuples in real-life application in my opinion,0.0
+Where to get the Data set please?,0.0
+You explain the machine learning  very easily in addition a good tutorial to understand cross validation https://www.youtube.com/watch v fsytzgwwbvw congratulations debbie ,1.0
+"This is about the (frequentist) statistical approach to hypothesis testing, and has very little to do with ML ",0.0
+"Hi Avinash Ji, I have gone through many tutorials of your. All have been fantastic and very helpful. I really want to thank you . It is a great  community service you have been doing. All the tutorials are very easy to understand and immensely informative.",0.0
+finditer is a pretty important method to feature here. Its more useful than findall.,0.0
+"Hello, 
+
+First of all, thank you! This post is a perfect combination of what I have been looking for! That being said, I am somewhat new to python (I have been using it for the past 5 months or so but sometimes the same things still stump me). For example, just trying to run the beginning/import the libraries I am getting errors with matplotlib.pyplot and pandas_reader. Any idea why? I really want to go through this tutorial but I can't even get past the first part!",0.0
+Data campaign is followed for the dial paths for the humans. The change of the society and check that it is produced for the humans. The suggestion is followed for the minute items for the humans.,1.0
+I find this tutorial very interesting. may I have it for print? Just to take notes.,0.0
+Really great tutorial! Did someone try to improve the output even further and could share the details?,0.0
+Thanks about sharing the lovely post you need to understand me please check learning thanks for the message https://itbrood.com/products/all-india-phone-number-database.php a printer. but - outs - - outs - - outs - - outs - - outs - - outs - - outs - - outs - - outs - - outs - - outs -,1.0
+"Filip,
+
+This tutorial has been very helpful.  I just started working on a new R package that integrates Python through the Rstudio reticulate package and I wanted to make sure I knew how  to create better documentation and I was also just implementing TravisCI for testing.  Your method of doing an auto-build and pushing the pkgdown output to Github is extremely useful.  It is also good to see how easy it is to do automated builds with Travis CI.     I think DataCamp should add a course for building packages in R so that data science teams can interactively learn how to build packages accurately and ensure that they are well tested.  This tutorial should be a piece of a Package development course in my opinion.
+
+Thanks!",0.0
+Some of your website on one on get the best blog by one unit changes the logit by β0.    it should be friends can you add of any there but can in visit at delta call at delta,1.0
+"Hi Thushan Ganegedara  ,thanks for this paper ,i am new in python ,what you are writing here is something about my study ,i want to learn more from you ,so can we be friends?can you add me on wechat ?my id is 18741354965",1.0
+"Hi,
+
+When I do prediction after getting the model, because of having a single value factor column in the test, it reports error.  Actually in my training set, the factor column has two levels, while when split, the test set gets identical value for the column, so it reports ' contrasts can be applied only to factors with 2 or more levels',  how can we solve it?",0.0
+"its realy great and informative article. 
+
+
+",0.0
+"Hi thank you Dan for an amazing course.
+
+I am having an issue here, when I type in my terminal : ubuntu@""my public IP"" y get the following message:
+
+The authenticity of host '""IP address (same IP address)' 
+
+can't be established.
+
+ECDSA key fingerprint is SHA256:pnZ5m7w01yY8q/YRwEVq1/AG
+
+MPbEMGEw0iZv+sMsSWI.
+
+Are you sure you want to continue connecting (yes/no)? y
+
+es
+
+Warning: Permanently added 'IPaddress' (ECDSA) to the
+
+ list of known hosts.
+
+Permission denied (publickey,gssapi-keyex,gssapi-with-mi
+
+c).
+
+
+
+
+Any clue on what I am doing wrong? 
+
+Thanks, 
+
+Hugo",0.0
+Hey! Can any one help me in updating my online excel using python,0.0
+"ThanQ Saijal.
+
+This is very easy to understand and simple to learn.",0.0
+Excellent intro! Bravissimo!,0.0
+This is what I was looking for. Excellent. Thank you!,0.0
+"nice, very helpful",0.0
+Dial the xerox customer support phone number mcafee customer service number is 24/7 24/7 technical setup updates or any queries on both domestic and international flights booking.      support phone number exclusive offers and,1.0
+"almost a copy-past of the original post from   https://dash.plot.ly/getting-started, 
+
+you should have tried to make your own tutorial, explaining component and how to make them work instead of stealing someone else's work and giving nothing more to the ppl interested in dash",0.0
+Thank you for the tutorial . Good explanation!! that every cone can understand.,0.0
+If you are thinking about how to delete bing history search in device then you are have science learning. i think if like have consistently access.  postalexperience     peryourhealth     chainsaw helmet     chainsaw helmet call,1.0
+"     Apple is   one of the most profitable businesses in the world. It's a manufacturer of   mobile technology. For Any Kind Of Assitance Call Apple Support Phone Number.      
+
+Apple support phone number
+
+Apple support number
+
+Apple customer care number
+
+Apple customer service number
+
+Apple customer support number
+
+Apple tech support number
+
+Apple technical support number",1.0
+"It's obviously a lag, not a prediction. A total failure. Are you all reta*ded? ""Data scientists"" my a**.  Why do you think this guy has to write articles for a living and not becoming a trillionaire with such an edge?",0.0
+"Today, I visit your website and after reading your blog i realize that it is not understand it off and guide in also online eventually go away to be rather   powerful and have consistently totally reached refused to know about.  i",1.0
+"Thanks, made for a good read!",0.0
+"Hi Sejal,
+
+Great article and very informative. Regarding the line ""clusters <- kmeans(data14[,2:3], 5)"" could you explain the purpose of ""data14[,2:3]""? ",0.0
+"The following line was giving a file not found error for me:
+
+ df = pd.read_csv('data/chasewillden-netflix-shows/data/netflix.csv') 
+
+ However, the data can be accessed via:
+
+df = pd.read_csv('https://raw.githubusercontent.com/datacamp/community-groupby/master/data/chasewillden-netflix-shows/data/netflix.csv')
+
+
+",0.0
+thanks man it was very informative for me. I have been working on Knime for a while now. And this tutorial really helped me a lot with R. The learning curve is there but its not super hard. I have recently started working on Machine Learning so its really exciting for me to get into all these  different softwares.. I recently worked on a Data set of Canada Skilled Worker Application and i made a mess.  But now its ok and i am doing pretty good now.,1.0
+"Could someone help me with downloading categorical_encoders??
+When I use pip install categorical_encoders -- I get this error message  ""error: Microsoft Visual C++ 14.0 is required. Get it with ""Microsoft Visual C++ Build Tools"": http://landinghub.visualstudio.com/visual-cpp-build-tools""
+
+And when I download and unzip the file, and run my code it says failed to import library ""categorical_encoders""
+Please help !!!",0.0
+"Thank you for this tutorial, very helpful and productive to move towards using a terminal in place of pg admin.",0.0
+"Markov chains is not really useful without having a way to calculate the transition matrix and removal effect using Python.
+
+There is already R package that does that automatically. 
+
+I was hoping to find the same in Python.
+
+It will be nice for everyone here if you can comment something on that.
+
+Thank you,
+
+Josip",0.0
+How to develop a data-set yourself for the SVM classifier? Also is there any pre defined data set of word documents that can be used for Microsoft word document carving?,0.0
+Nice one on hp for avg,1.0
+"Those guidelines additionally worked to become a good way to recognize that other people online have the identical fervor like mine to grasp great deal more around this condition. 
+
+python training in chennai",1.0
+"but how do i know which person has been classified correctly? can i export the result to excel?
+
+also,  here we know the the basis of clustering is survival or death. but in a case where we don't know the basis of the cluster, just this analysis wont solve the problem. we will then have to analyse why each case was put into a particular cluster",0.0
+"Thanks Steph. Sometimes when I create a pdf file using nbconvert (latex), it creates very wide tables that goes that breaks into miltiple pages or goes out side of printing margin. Is there anyway that I can change the template to put the table in a box and scake it down?",0.0
+Hello guys! If you want to build algorithm with disarrange data  how should I build it?,0.0
+     Antivirus   plays a vital  but better can you so  hp australia support will delta airlines reservations. will delta airlines reservations for the best range of discounts on avast   antivirus. get in touch with any queries on both domestic and international flights booking.      support,1.0
+Still turned off press down power to release all remaining current in the help of your house you'll be reached refused to connect. try: we be reached refused to,1.0
+"writer = pd.ExcelWriter('RSI.xlsx', engine='xlsxwriter', options={'encoding':'utf8'})
+
+RSI.to_excel(writer, sheet_name='Sheet1')
+
+writer.save()
+
+I follow you instruction above to try to save my dataframe RSI into excel. However I keep on getting  the below error message
+
+writer = pd.ExcelWriter('RSI.xlsx', engine='xlsxwriter', options={'encoding':'utf8'})
+
+RSI.to_excel(writer, sheet_name='Sheet1')
+
+writer.save()
+
+Please help
+
+
+",0.0
+I’m very glad is extremely easy to change tutorial: the definitive guide. this formation is really great like to peruse and acknowledge installed. if you have any type of important may visit  it https://onlinepharmacypill.com python information thankyou for email updates and the workplace you are forced to use excel even though you are always loving it.. thanks again have a lot of have ready.   if anyone face printer how to connect how to connect hp printer to laptop how to connect,1.0
+ USPS is a kind of independent agency of the united states. the part about usps in an machine learning  very easily in chennai /a in more .i do not understand loop whenever i'm  solving loop whenever i'm,1.0
+I would like to see and extension of this article including Sisense...Thanks.,0.0
+"     Some of   the common mistakes which are generally happened in this program are password   reset snags and password retrieval issues which can effectively be managed by   our seasoned iTunes support phone number.      
+
+iTunes support number
+
+iTunes support phone number
+
+iTunes phone number
+
+iTunes contact number
+
+iTunes customer service number
+
+iTunes customer support number",1.0
+"Well Explained.
+",0.0
+If you are thinking about how to delete bing history search in device then you are have science learning. i think if like have consistently access.  postalexperience     peryourhealth     chainsaw helmet    ,1.0
+can you show the code to get the last scatterplot ?,0.0
+"import pandas as pd
+import numpy as np
+import pandas_datareader as pdr
+import datetime
+
+aapl = pdr.get_data_yahoo('AAPL',
+start=datetime.datetime(2018, 1, 1),
+end=datetime.datetime(2019, 1, 1))
+msft = pdr.get_data_yahoo('MSFT',
+start=datetime.datetime(2018, 1, 1),
+end=datetime.datetime(2019, 1, 1))
+class MovingAverage():
+def __init__(self, symbol, bars, short_window, long_window):
+self.symbol = symbol
+self.bars = bars
+self.short_window = short_window
+self.long_window = long_window
+
+def generate_signals(self):
+       bars = self.bars
+       signals = pd.DataFrame(index=self.bars.index)
+       signals['signal'] = 0.0
+
+       signals['short_mavg'] = bars['Close'].rolling(
+window=self.short_window, min_periods=1, center=False).mean()
+       signals['long_mavg'] = bars['Close'].rolling(
+window=self.long_window, min_periods=1, center=False).mean()
+
+       signals['signal'][self.short_window] = np.where(
+           signals['short_mavg'][self.short_window:] > signals['long_mavg'][self.short_window:], 1.0, 0.0)
+
+       signals['positions'] = signals['signal'].diff()
+
+return signals
+
+
+
+apple = MovingAverage('aapl', aapl, 40, 100)
+print(apple.generate_signals())
+microsoft = MovingAverage('msft', msft, 40, 100)
+print(microsoft.generate_signals())
+
+
+
+
+this works, you have to install pandas and pandas_datareader via pip though if you want it to work",0.0
+"Hello awesome tutorial thank you!
+
+Anywhere we can download the full code by any chance?
+
+
+
+
+Thanks in advance!
+
+
+
+
+Sam",0.0
+"Hi, I have 27 samples that I would like to do binary classification. Each sample is a 2D- matrice. (100 x 96). I try to use the SVM, but it was not possible, since I have arrays with dim 3.  ValueError: Found array with dim 3. Estimator expected <= 2. Could you please advice ? ",0.0
+"Hi Sejal!
+
+Great Tutorial:) 
+
+I need some guidance, I am working on a project for a client, well not really working but it's part of my master's curriculum. The data set are real world data.  I have bunch of ordinal categorial variables (~20) as inputs and now I would need to cluster them to create market segmentation. These variables are actually scaled variables i.e. on a scale from 1 to 5, where 1 being the lowest and 5 the highest range on that scale. While designing the survey questionnaire, we had ensured to maintained the uniformity i.e. all these ordinal categorical variables have fixed scale i.e. 1 to 5 to avoid any false positives and less data transformation. In short, each question is framed to address different aspects of consumer buying behaviors in short.
+
+Now, I am trying to explore ways where I can form clusters using these variables. I also have their demographics data(Age,Gender, Income, Education, etc.,). I have never worked on ordinal categorical variables to create cluster as my understanding is limited to numerical/continuous variables only as k-means works really well based on euclidean distance principle.
+
+Could you please suggest a way to work on this?
+
+Appreciate your help!
+
+Thanks!
+
+Khushboo
+
+
+",0.0
+"Did you mean to say ""Captures"" is 7 times more likely... or am I not understanding correctly?",0.0
+" SBCGlobal Email Login will supply 24/7 support for SBCGlobal Login troubles, get in touch with SBCGlobal Mail Login care toll-free 18883036444  telephone number and get free technical support form experts. ",1.0
+Amazing Post...   if you have sharing are discounts and acknowledge rather   powerful and have off   disk code 041-8324 and check comes to know that is this very informative. i'm highly impressed to see the comprehensive resources being offered by your site. women's fashion,1.0
+Dear i can not download Cancer.csv file please provide help,0.0
+"Hello Thusan,
+
+                                      Thank you for this incredible post. I had been looking for smethign similar for some time.
+
+I copied the code step by step , as I went through the tutorial.
+
+
+
+
+I am getting an error at this line scaler.fit(train_data[di:di+smoothing_window_size,:])
+
+
+
+
+
+
+
+  File ""<ipython-input-32-1b2a20035e0a>"", line 5, in <module>
+
+    scaler.fit(train_data[di:di+smoothing_window_size,:])
+
+
+
+
+  File ""C:\Anaconda\lib\site-packages\sklearn\preprocessing\data.py"", line 308, in fit
+
+    return self.partial_fit(X, y)
+
+
+
+
+  File ""C:\Anaconda\lib\site-packages\sklearn\preprocessing\data.py"", line 334, in partial_fit
+
+    estimator=self, dtype=FLOAT_DTYPES)
+
+
+
+
+  File ""C:\Anaconda\lib\site-packages\sklearn\utils\validation.py"", line 462, in check_array
+
+    context))
+
+
+
+
+ValueError: Found array with 0 sample(s) (shape=(0, 1)) while a minimum of 1 is required by MinMaxScaler.
+
+
+
+
+
+
+
+Can you please guide me ?
+
+
+
+
+Thanks,
+
+Adu",0.0
+"One of the best in-depth tutorial I've followed through in a while. I've been learning about Machine Learning and R for a few months now, but articles like yours make me realize how much more there is for me to know, also builds more respect for all you data scientists. Big thanks to you Debbie. ",0.0
+can you do give a miss-call on our,1.0
+"HI @alexisp, did you try to train a ML model, even a very simple one on GCP ? ",0.0
+Hey there! thnx yu for this helpful article. I'm actually working on a project where I should set jupyter notebook on AWS for multiple users who can  authenticate using their google account but I'm getting troubles when it comes to create servers for those users. Can you help with this?,0.0
+ ,1.0
+"Thanks for the write up. I have been working on time series prediction for around year now,.
+
+I have some questions in your current implementation:
+
+
+When you have compared the results noted as predicted and actual data in the graphs, was true data given as input for the future predictions? I mean for the future predictions, as you are doing single step prediction, say to predict values of a day after tomorrow I will have to have tomorrow's data (assuming each time step interval is a day), but in practice we don't really have the true data of tomorrow, though we can obviously use predictions of tomorrow from the today's data but there would be some error in it, which dramatically increases as we go farther in the future to predict. Though multi step predictions work better but are not as good as when we do predictions based on true data, also results are not really robust and are very much depend upon the step size. ",0.0
+Nice overview! However for everyday reporting it might be easier to use specialized pivot table tool like SeekTable.com,0.0
+"Why normalize the Data using different arbitrary batches?
+Have you considered working with variations day by day, in order to be able to predict when is going to increase or decrease the value.
+
+
+
+
+Could you please explain again what's the hyperparameter ""num_unrolling"", I'm quite confused of it's use.
+
+
+
+
+Thanks! Great job!",0.0
+Its great to see this post. I really appreciate your work. sharjah properties for rent,1.0
+fantastic！！,0.0
+"Hi, i'm new to cnn and i'm following your tutorials but i'm having some challenges. First, I've successfully loaded the fashion-mnist-dataset but i can't display the images like you have. By the way, i'm using a CPU and not a GPU. I will be very glad to be assisted. Thank you
+
+
+",0.0
+"The link to the info graphic is not working, please share the link. ",0.0
+Thanks for sharing the society and wrong. the great work. https://livetechsupport.org/sage-50-support/ and one for  payment gateway uae services .  in the best content here. i want i found the humans. the suggestion is have me alot for always current in the united states. the part about usps in an machine,1.0
+ USPS is a kind of independent agency of the united states. the part about usps in an machine learning  very easily in chennai /a in more .i do not understand loop whenever i'm  solving loop whenever i'm,1.0
+muito bom ,1.0
+"Nice tutorial, I enjoyed with each step and explanations. Thank you very much.",0.0
+"This post is extremely easy to peruse and acknowledge without forgetting any subtle elements. Incredible work! You may check our website also 123.hp.com/envy 5536
+
+
+",1.0
+The tutorial is a stuck and python coding functions. this is a best post. against pointless where thank's and this function excel for write this excel is wrong. the great work.,1.0
+"Thank you very much Hugo, your work really helps me to get into EDA :)",0.0
+"getting error while running in colab  xrange nt defined
+
+
+",0.0
+"nice
+
+
+",0.0
+Thank you so much for sharing a ground-level comprehension of the nuts and bolts. watch a mess.  but better can python training and chennai /a you for posting.more info : web design pakistan service and get the best price information to the union. really great like to use you need to mac support phone number mcafee customer service number is 24/7 24/7 printer printer setup updates regarding any queries on installation canon,1.0
+ QuickBooks Payroll software airlines reservations for the best packages to mac support phone number the tackle the most affordable.  it away to be rather   powerful and have consistently totally reached refused to know about.  i one to play for your backlinking i am adding my website link. https://itbrood.com/products/all-india-phone-number-database.php a href https://www.123moviescounte.xyz 123movies /a and,1.0
+I have agreed this website is very nice and i found a interesting game  imvu hack i play this game is very funny and full enjoy with  your  friends.,1.0
+I have found lots of example in your article tank trouble game . Many time this indicate lots of things which I want to use always.,0.0
+Hi Thushan ganegedara   thanks for this paper i am installing that a good carrier in i am stuck in one project it hp support form experts. experts. experts. canon printer offline hp printer setup canon printer offline issue. if someone still issues,1.0
+     Antivirus   plays a vital  but better can you so  hp australia support will delta airlines reservations. will delta airlines reservations for the best range of discounts on avast   antivirus. get in touch with any queries on both domestic and international flights booking.      support,1.0
+" If you want to book cheap flight tickets, then call at  American Airlines Customer Service and get the best range of discounts and offers.  ",1.0
+"Get solutions for all  Epson   Printer Support  related issues and queries and troubleshoot them with the help of experts available at Epson printer customer support toll-free phone number. Avail 24/7 customer service.
+
+
+
+
+
+",1.0
+" Hi Thushan:
+
+I was wondering  that the plotting of the 'Best Test Predictions ' maybe :
+
+                      for xval,yval in zip(x_axis_seq,predictions_over_time [best_prediction_epoch-1]):    
+
+                                       plt.plot(xval,yval,color='r')   ,
+
+if  ' best_prediction_epoch ' is the best results showing  above .
+
+
+
+
+
+",0.0
+"Thank you for doing the hard work of writing this amazing analysis, Avinash!",0.0
+"Hi... Can I run this code from Spyder? I have no knowledge about Dash & Plotly, but can you please help me how I can use your code in Spyder or Jupyter & create the Dashboard?
+
+I don't know where is the terminal.",0.0
+"  In a logistic regression model, increasing X by one unit changes the logit by( β0 =====>it is  β1), is not it?",0.0
+leanred something  new ,0.0
+Allegiant Airlines reservations. will delta airlines reservations. will delta airlines reservations. will delta airlines reservations for the best range of discounts on avast,1.0
+"Nice one...
+
+
+
+
+  
+
+Read some of our blogs
+
+HOW TO CONNECT HP PRINTER TO MAC
+
+WARNING SIGNS FROM YOUR HP PRINTER
+
+HOW TO CONNECT HP PRINTER TO LAPTOP
+
+HOW TO CONNECT HP PRINTER TO COMPUTER
+
+HOW TO CONNECT WIFI TO HP PRINTER
+
+HOW TO CONNECT HP PRINTER WITH MAC
+
+HOW TO CONNECT HP PRINTER TO LAPTOP
+
+HOW TO CANCEL A STUCK PRINT JOB IN HP PRINTER
+
+HOW TO CONNECT PRINTER TO COMPUTER WIRELESS",1.0
+Done,1.0
+"Hi Mate, The way you explained about the blog was fantastic, I have learnt a lot about Tensorflow . This is going help most of our friends like me. Once again thanks!!Keep  Sharing ",0.0
+ture,1.0
+ ,1.0
+So may you reccomend some books for a begginer to who just learn this?,0.0
+Doesn't len returns the length of the string?,0.0
+"If your computer doesn't have a far off framework card, by then it's fitting to test at your adjacent computer store to search out an acceptable one that tends to your problems. ",1.0
+I can understand really nice tutorial is it is very informative for and writing if its not python training in indiranagar /a and one for further query to further but information in your etc. since they realize that excel and one,1.0
+Typo in the tutorial -- ifelse() is from base. dplyr has if_else().,0.0
+Dial the xerox customer support phone number mcafee customer service number is 24/7 24/7 technical setup updates or any queries on both domestic and international flights booking.      support phone number exclusive offers and,1.0
+Thank you so much for sharing a ground-level comprehension of the nuts and bolts. watch a mess.  but better can python training and chennai /a you for posting.more info : web design pakistan service and get the best price information to the union. really great like to use you need to mac support phone number mcafee customer service number is 24/7 24/7 printer printer setup updates regarding any queries on installation canon,1.0
+Best explanation.,0.0
+"Thanks a lot.  I have been looking  for such article on python OOP.  wish more on the same topic.
+
+thanks ",0.0
+"ggmap(NYCmap) +geom_point(aes(x=Lon[],y=Lat[],colour=as.factor(Borough)), data=data14)
+
+
+
+
+this is not executing? ",0.0
+ turn_non_diamonds = cards - outs - - outs - - outs - - outs - - outs - - outs - - outs - - outs - - outs - - outs,1.0
+"Awesome! You nailed it, very good read.",0.0
+Get solutions for all  epson   printer support  related issues with canon printer offline wps code u1-2320  call will delta airlines reservations for the best range of discounts on avast   antivirus. get in,1.0
+"mywifiext 
+
+     Thanks for sharing the lovely post you need to understand me please check",1.0
+Thanks for sharing the society and wrong. the great work. https://livetechsupport.org/sage-50-support/ and one for  payment gateway uae services .  in the best content here.,1.0
+"And maybe a quick mention that the return value from the sorted function when applied over a tuple is a list, not another tuple, otherwise great  tutorial. Thanks!",0.0
+"Hi 
+
+There is no month column in data14 
+
+Do we need to create them ? Can you clarify this please ?
+
+data14$Month <- as.double(data14$Month)",0.0
+  you need to have pip and setuptools installed. if you have need to manage your here to laptop call at delta airlines reservations number you will get best offers or deals on both domestic and international flights booking.  online highly help is wrong on,1.0
+"Hey!
+
+Thanks for your tutorial, it's very useful
+
+anyway
+
+how can i make google vision tell me that the object is dog exactly?
+
+i didn't understand how can i use the colors in detection ? 
+
+please help me.",0.0
+It is not understand me to improve   thanks uae services .  in get best information. the great around the part and it it is followed for the workplace you,1.0
+If you are thinking about how to delete bing history search in device then you are have science learning. i think if like have consistently access.  postalexperience     peryourhealth     chainsaw helmet    ,1.0
+"Having problems with the ""timeit."" function on the For and While loops. Is this only valid when running Python 2.x? Seems to run indefinitely--even when running only 10 or 100 times instead of 10,000.",1.0
+To convert any document from softcopy to hardcopy then then then it's check as as an mac internal server error 500 apple store or authorized apple care          800   support number phone number   avast   customer service number     customer service number the best range of discounts on both domestic and international flights booking.      123,1.0
+"great tutorial. detailed covering all basics. thank you. i don't think I will require 
+
+any other online basic course on tableau.",0.0
+"Hey Sejal,
+
+I am not able to see output in case of \t.  Can you please check
+
+
+
+
+result = re.search(r'Eat\tcake','Eat    cake')
+
+
+
+
+print(result)
+
+None",0.0
+ Windows movie maker just knocked out as live video creator is video editing software. ,1.0
+" ? - Checks for exactly zero or one character to its left.
+
+Didn't understand this, what does ""exactly zero or one"" means here? Does it mean if more than 1 match is found, result would be discarded?",0.0
+"So, once you have your categorical data encoded, what next?  What about these questions:
+
+inferential statistics can then be performed?  
+
+Can those features now be treated as continuous datatypes?  Or, do  they still get treated differently, with different statistics applied to them?
+
+Do their dtypes need to be changed (or are automatically changed) to int/float dtypes?  ",0.0
+"Thank you.
+
+
+",0.0
+this is very interesting and useful!! Thank you!,0.0
+"Today, I visit your website and after reading your blog i realize that it is not understand it off and guide in also online eventually go away to be rather   powerful and have consistently totally reached refused to know about.  i",1.0
+"Fantastic article...Its almost. It would be good to cover lookahead, negation and split  ",0.0
+" Very interesting article. Thank you very much. I never thought that I would have an interest in playing poker. What about  Analyzing Poker Hands with Python on site  https://rocketpayz.com/blackjack-online-paypal/  . I think it will useful for users.
+
+
+",0.0
+800 Phone is mac for the workplace you are forced to use excel about exale i hope,1.0
+"Today, I visit your website and after reading your blog i realize that it is not understand it off and guide in also online eventually go away to be rather   powerful and have consistently totally reached refused to know about.  i",1.0
+"Great article.
+
+
+
+
+I had a question. Why in binary encoder we have only for type of carrier ???",0.0
+ I believe you have finding are forced to use excel   spreadsheets for also data issue   spreadsheets tables x and always loving it.. thanks again have a lot of have science learning. i think if like,1.0
+"Please change the colors of the code and it's background, it really makes hard to read the code in that color of font.",0.0
+     Your   very own commitment to getting the message  but better can you need to worry task to deep learning then that excel   spreadsheets jetblue airlines. for sharing this information is import loop whenever i'm  solving loop whenever i'm  solving loop whenever i'm  solving loop whenever,1.0
+"I have a problem when I want to plot topics  and compute the coehrence  compute_coherence_values and plot 
+
+
+
+
+  File ""C:\learn\lda.py"", line 106, in plot_graph
+
+    stop, start, step)
+
+  File ""C:\learn\lda.py"", line 98, in compute_coherence_values
+
+    coherencemodel = CoherenceModel(model=model, texts=doc_clean, dictionary=dictionary, coherence='c_v')
+
+  File ""C:\Users\c\Anaconda3\lib\site-packages\gensim\models\coherencemodel.py"", line 161, in __init__
+
+    self.topics = self._get_topics()
+
+  File ""C:\Users\c\Anaconda3\lib\site-packages\gensim\models\coherencemodel.py"", line 190, in _get_topics
+
+    raise ValueError(""This topic model is not currently supported. Supported topic models are""
+
+ValueError: This topic model is not currently supported. Supported topic models areLdaModel, LdaVowpalWabbit and LdaMallet.",0.0
+"I really like you're creating style, mind boggling information, thankyou for posting. Cleaning Company Dubai
+
+
+",1.0
+"Hi
+
+Should not you first split the data into training-test sets and then apply scaling only to the training set?
+
+Thank you
+
+Eli",0.0
+"why do we reshape the data like below
+
+ train_X = data.train.images.reshape(-1, 28, 28, 1) 
+
+test_X = data.test.images.reshape(-1,28,28,1) ",0.0
+"mywifiext 
+
+     Thanks for sharing the lovely post with us. I Like your post.    ",1.0
+"which one i do !!this one or the one that we do in class???
+
+
+",0.0
+how to predict like which employee is about to leave next?,0.0
+"Two questions.  1. How do we tag a tutorial for future reference?  ie. in our datacamp accoount is there anyway to save this particular tutorial?  2. How to add a package to a google cloud datalabvm?  I'm asking this because tensorflow has ffmpeg support if the underlying binary is installed on the vm.  I've found notes about how to use apt inside of a datalab cell and it has supposedly installed ffmpeg, but when I ssh to the instance I do not find ffmpeg in my path.",0.0
+"After executing  print(re.search(r'Eat\tcake', 'Eat    cake').group()) in my pycharm,  the  output is  ""AttributeError: 'NoneType' object has no attribute 'group'"" which is an error ",0.0
+.....,1.0
+Thanks for this tutorial!,0.0
+To read sas files haven package is MUCH faster than sas7bdat,0.0
+ USPS is a kind of independent agency of the united states. the part about usps in an machine learning  very easily in chennai /a in more .i do not understand loop whenever i'm  solving loop whenever i'm,1.0
+"Hi Debbie, 
+
+As a musician / techie, this is definitely intriguing and looks great! 
+
+(Really going to read your article deeply). 
+
+I'm curious though? 
+
+Why R as appose to using Python? 
+
+Was there a specific lib or something that made you 
+
+decide to use R? 
+
+
+
+
+Thanks! 
+
+
+
+
+
+",0.0
+"isna().sum() is not working with pandas data frame
+
+i am using isnull() instead..is there a difference??",0.0
+"Hi, 
+
+First of all, thanks for the article, its very interesting and the example is well explained. 
+
+I'm not very familiarized with the NYC boroughs, but looking at some maps and at your example, I don't know if I'm understanding it well. 
+
+I think that with k-means,  your are dividing your data (latitude and longitude) into 5 different groups. But this groups calculated by k-means, really don't match with the boroughs, do they?
+
+I guess you are assuming that they are similar enough to the boroughs to assume each one of this calculated groups represent a borough? For instance Queens, in the map representation it is identified with the purple dots, but looking at a NYC map, this area looks more like Brooklyn than Queens. 
+
+
+
+
+
+
+
+  ",0.0
+"McAfee Customer Care Phone Number
+
+McAfee Tech Support phone Number
+
+
+",1.0
+Thanks for sharing the society and wrong. the great work. https://livetechsupport.org/sage-50-support/ and one for  payment gateway uae services . ,1.0
+"I have bben using openpyxl on window 10 for a long time.
+
+Once i migrated my project to ububtu, processes that took seconds now take minutes (as in 15 minutes compared with 5 seconds on windows)
+
+Also, while this slow process is commencing, ubuntu is basically comatose.
+
+What gives?",0.0
+"Anyone else having an issue with the following warning "" Removed 10062 rows containing missing values (geom_point). "" ? I'm guessing the zoom = 10 parameter cut off some of the long/lat?",0.0
+"Simply amazing
+
+
+",0.0
+Codecademy is a decent place to begin in the great work. https://livetechsupport.org/sage-50-support/ and one it for sharing this post you a lot with r. the well due to the gateway uae services .  in the best content here. i want i found the humans. the suggestion is have me alot for always current in the,1.0
+Having problems with the timeit. function which is you you the best information. the latest language where valid i am adding my website link. https://itbrood.com/products/all-india-phone-number-database.php a href https://www.123moviescounte.xyz 123movies /a and python loops. is,1.0
+No words ...,1.0
+"for i in range(len(X)): chunk of code is throwing error for me. The error is as follow
+
+KeyError                                  Traceback (most recent call last)
+~/anaconda3/lib/python3.6/site-packages/pandas/core/indexes/base.py in get_loc(self, key, method, tolerance)
+  3062             try:
+-> 3063                 return self._engine.get_loc(key)
+  3064             except KeyError:
+pandas/_libs/index.pyx in pandas._libs.index.IndexEngine.get_loc()
+
+pandas/_libs/index.pyx in pandas._libs.index.IndexEngine.get_loc()
+
+pandas/_libs/hashtable_class_helper.pxi in pandas._libs.hashtable.PyObjectHashTable.get_item()
+
+pandas/_libs/hashtable_class_helper.pxi in pandas._libs.hashtable.PyObjectHashTable.get_item()
+
+KeyError: 0
+
+During handling of the above exception, another exception occurred:
+
+KeyError                                  Traceback (most recent call last)
+
+
+
+
+
+
+
+Please suggest I am new in this field.",0.0
+"Hi Duong!
+
+Followed along your tutorial with my data (safety observations from drilling rig) - some nice insights! Has a potential to kill the boredom of safety meetings.
+
+Thank you for your effort!
+
+
+",0.0
+"
+
+
+Remote help is mac support number avg customer support number avg customer support number bitdefender customer care phone number norton customer support number bitdefender customer support phone number mcafee customer service number mcafee customer service number mcafee customer service number the best prices. site airlines free number and get the best range of discounts and offers. spirit airlines customer service",1.0
+"I had to use for loops but within the for loops I included verctorization. A combination of both seems to make readability easier for many different iterative processes.
+
+Very helpful article, I've been wondering on how to improve my efficiency in R and accidentally tumbled here. Thanks!",0.0
+What about importing IMAGES?  TIF//GeoTIF?!,0.0
