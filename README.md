@@ -6,3 +6,6 @@ This project aims to build a spam comments' classification system based on the c
 * `commentsData` contains the article comments of inital collection.
 * `articleData.csv` gives brief details about the tutorials.  
 * `commentsDataDetailed` contains the artcile comments in a more detailed manner
+* `notebooks` contains all the IPYNBs
+* `backup` contains backup of model and other Python object's pickle files
+* `web` contains all the files for the purpose of exposing the model as API

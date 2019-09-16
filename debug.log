@@ -1,0 +1,3 @@
+[0916/013941.581:ERROR:minidumpwritedump_with_crashpad_info.cc(432)] Failed to call MiniDumpWriteDump: The paging file is too small for this operation to complete. (0x800705AF)
+[0916/013941.583:ERROR:minidumpwritedump_with_crashpad_info.cc(575)] Failed to write minidump file
+[0916/013941.583:ERROR:crash_report_exception_handler.cc(122)] TryMiniDumpWriteDumpWithCrashpadInfo failed
