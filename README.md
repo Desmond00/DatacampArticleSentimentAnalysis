@@ -5,9 +5,11 @@ This project aims to build a spam comments' classification system based on the c
 This work has seen different edge cases for training a deep learning model for real-world problems.
 The edge cases are as followed:
 1. Manual Data Collection:
+    
     As the topic here is Spam Comment detection of Datacamp articles, to make it the portal specific the data has been scrapped from the Datacamp website itself. For this purpose, we have UiPath Studio(an RPA tool), due to some limitation of BeatifulSoup and other popular Python data scrapping libraries to deal with dynamic content.
 
 2. Dealing with imbalanced data distribution:
+    
     As the topic itself mentions, it is more likely that the number of spam comments received from the well-educated users of a popular website like Datacamp will be very less compared to its counterpart. 
 
     Because of that, we have seen average result while preparing our initial baseline model 0.89(f1-score).
