@@ -2,6 +2,8 @@
 
 This project aims to build a spam comments' classification system based on the comments that have already been posted on [DataCamp Community tutorials](http://datacamp.com/community/tutorials/). The comments are scraped using a tool called `UiPath Studio`. 
 
+demo video avaialable here https://www.loom.com/share/ddb224b756b74110af4b42e4c5e0640f
+
 This work has seen different edge cases for preparing a deep learning model for real-world problems.
 The edge cases are as followed:
 1. Manual Data Collection:
